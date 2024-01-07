@@ -1,1001 +1,1001 @@
-id,name,surname,address,height
-0,Silvia,Giannetti,Borgo Ennio,ALTA
-1,Antonia,Doglioni,Sesto Orazio lido,BASSA
-2,Piermaria,Borsiere,Veronica calabro,195 cm
-3,Maurizio,Tozzo,"Contrada Marconi 19, Casadei lido, Caserta",ALTA
-4,Valeria,Corcos,"Strada Dionigi 8 Appartamento 22, Riccardo veneto, Verona",162 cm
-5,Carmelo,Piacentini,Borgo Sophia terme,ALTA
-6,Gianluigi,Filippini,"Borgo Catenazzi 982 Piano 8, Strangio terme, Reggio Calabria",ALTA
-7,Ludovico,Iannotti,"Viale Finzi 9, Moschino nell'emilia, Ascoli Piceno",175 cm
-8,Elvira,Speri,"Vicolo Correr 661, San Erika, Vercelli",ALTA
-9,Corrado,Bembo,Cattaneo laziale,180 cm
-10,Giampiero,Jovinelli,"Contrada Vincenza 653, Arnulfo sardo, Venezia",MEDIA
-11,Torquato,Giannone,"Viale Ernesto 7 Piano 4, Quarto Pasquale, Potenza",163 cm
-12,Victoria,Forza,Quarto Ezio sardo,ALTA
-13,Vincenza,Vittadello,"Viale Borzomì 190, Farina del friuli, Avellino",ALTA
-14,Raffaella,Boito,"Viale Fabio 262 Appartamento 71, Borgo Maria, Catania",ALTA
-15,Maurizio,Fermi,Sesto Nino,BASSA
-16,Pier,Serao,"Vicolo Giulietta 68 Piano 0, Lucciano sardo, Vicenza",MEDIA
-17,Leone,Spanevello,Zaccardo veneto,BASSA
-18,Vito,Fogazzaro,"Piazza Maderno 00, Silvio veneto, Ancona",187 cm
-19,Adriano,Bosio,Foletti a mare,190 cm
-20,Beatrice,Riccardi,"Vicolo Baggio 046, Mirco calabro, Ancona",158 cm
-21,Raimondo,Caracciolo,"Borgo Raffaele 2 Piano 4, Borgo Daniele nell'emilia, Perugia",194 cm
-22,Edoardo,Maderna,Babati salentino,191 cm
-23,Pietro,Pausini,Gloria nell'emilia,162 cm
-24,Ilaria,Camilleri,Borgo Concetta,BASSA
-25,Maria,Pedersoli,Ravaglioli calabro,MEDIA
-26,Annalisa,Prodi,"Via Carriera 7, San Calogero, Roma",199 cm
-27,Donato,Mascagni,Borrani terme,ALTA
-28,Rodolfo,Rossini,"Canale Murialdo 541, Sesto Francesco terme, Vibo Valentia",153 cm
-29,Guido,Pininfarina,Borgo Temistocle del friuli,161 cm
-30,Matilda,Onio,"Stretto Stefani 312 Piano 9, Maurilio veneto, Verona",171 cm
-31,Federigo,Muratori,"Contrada Botticelli 857 Appartamento 39, Sesto Antonino, Arezzo",BASSA
-32,Gianfrancesco,Rosmini,"Canale Taccola 3, Marcella umbro, Trento",BASSA
-33,Piergiorgio,Finetti,"Stretto Benedetto 987, Pertile lido, Monza e della Brianza",MEDIA
-34,Fabio,Busoni,"Vicolo Mattarella 9, Borgo Graziella sardo, Chieti",177 cm
-35,Greca,Staglieno,"Incrocio Carriera 34, Morricone ligure, Enna",BASSA
-36,Flavio,Grimani,Lamberto a mare,BASSA
-37,Gianpaolo,Brenna,Giulietta ligure,154 cm
-38,Saverio,Bettoni,San Amadeo,200 cm
-39,Pier,Vattimo,"Rotonda Rastelli 951 Piano 4, Adriana sardo, Trento",ALTA
-40,Chiara,Zito,Alessio veneto,161 cm
-41,Priscilla,Norbiato,"Vicolo Luciana 79, Quarto Griselda, Forlì-Cesena",186 cm
-42,Gioachino,Lancisi,Borgo Marisa,ALTA
-43,Giuseppina,Pareto,"Stretto Toni 38 Piano 1, Sesto Hugo, Siena",155 cm
-44,Isabella,Pertini,San Francesco terme,169 cm
-45,Rita,Nitto,"Borgo Guglielmo 890, San Antonio, L'Aquila",MEDIA
-46,Vito,Filangieri,"Canale Vecoli 6 Piano 8, Proietti lido, Gorizia",184 cm
-47,Cassandra,Squarcione,Borgo Annalisa,BASSA
-48,Luisa,Salata,Settimo Piergiuseppe ligure,153 cm
-49,Olga,Galeati,"Vicolo Favata 403, San Rolando ligure, Terni",BASSA
-50,Sandro,Tomasetti,Michelotto salentino,ALTA
-51,Rosa,Giannotti,"Rotonda Spinelli 52 Appartamento 36, San Ricciotti, Teramo",182 cm
-52,Fabrizio,Forza,Eleanora a mare,171 cm
-53,Rocco,Ariosto,Borgo Germana ligure,180 cm
-54,Nedda,Olivetti,San Michelangelo,192 cm
-55,Arnaldo,Malipiero,"Rotonda Sommaruga 8, Quarto Goffredo, Ravenna",175 cm
-56,Valerio,Montanari,"Viale Giannotti 194 Piano 8, Zanzi umbro, Brescia",163 cm
-57,Mariano,Gatto,San Antonella veneto,150 cm
-58,Bruno,Tagliafierro,Borgo Massimo lido,BASSA
-59,Beatrice,Camuccini,Sesto Raffaele laziale,171 cm
-60,Adamo,Opizzi,"Viale Guinizzelli 56 Piano 5, Patrizio lido, Pordenone",200 cm
-61,Dolores,Doglioni,Zoppetti umbro,175 cm
-62,Rosaria,Giannotti,"Rotonda Palladio 00 Appartamento 73, Gilberto terme, La Spezia",BASSA
-63,Nicolò,Giolitti,Borgo Ezio,ALTA
-64,Ninetta,Guglielmi,"Viale Gregori 94 Appartamento 13, Legnante lido, Siracusa",199 cm
-65,Pasquale,Ferrazzi,Calogero ligure,183 cm
-66,Giulietta,Lerner,Pierangelo sardo,184 cm
-67,Gabriele,Monduzzi,"Via Pozzecco 41 Piano 6, Torlonia del friuli, Reggio Emilia",182 cm
-68,Raffaello,Terragni,"Contrada Druso 50 Appartamento 37, Giuliana lido, Benevento",MEDIA
-69,Melania,Galtarossa,"Piazza Caruso 02 Piano 6, Borgo Achille umbro, Rimini",167 cm
-70,Claudio,Russo,Quarto Carla laziale,152 cm
-71,Valerio,Antonucci,"Rotonda Fieramosca 304, Fuseli nell'emilia, Sondrio",MEDIA
-72,Serafina,Lupo,Settimo Giulio,183 cm
-73,Ansaldo,Pontecorvo,"Rotonda Benigni 9, Morrocco umbro, Pavia",195 cm
-74,Aldo,Cammarata,Alderano sardo,174 cm
-75,Luisa,Andreozzi,"Canale Petrocelli 476, Quarto Alina a mare, Rieti",195 cm
-76,Victoria,Bajardi,Saverio calabro,188 cm
-77,Mirko,Segrè,"Stretto Nicola 85 Piano 1, Pier calabro, Belluno",MEDIA
-78,Nina,Curci,"Canale Golino 31, Sesto Enzio, Massa-Carrara",170 cm
-79,Mattia,Pugliese,Quarto Lorenzo umbro,161 cm
-80,Torquato,Trevisan,"Viale Dario 954 Appartamento 82, San Eraldo laziale, Novara",175 cm
-81,Amico,Tartaglia,"Contrada Mirco 897, Quarto Eva, Grosseto",193 cm
-82,Severino,Orengo,"Stretto Marcacci 523, Mimun terme, Trento",197 cm
-83,Luchino,Palumbo,"Vicolo Cassandra 852, Castelli calabro, Alessandria",199 cm
-84,Dolores,Bertoli,"Incrocio Aldo 91 Appartamento 79, Sesto Emma nell'emilia, Parma",193 cm
-85,Mauro,Dossi,Quarto Bruno,MEDIA
-86,Fortunata,Pepe,"Piazza Santorio 68, Casini veneto, Piacenza",173 cm
-87,Dina,Gadda,Sesto Vincenza,MEDIA
-88,Danilo,Giorgetti,Fo umbro,MEDIA
-89,Paulina,Argan,San Antonietta,MEDIA
-90,Osvaldo,Cheda,"Rotonda Osvaldo 691, Tina veneto, Potenza",ALTA
-91,Priscilla,Inzaghi,"Incrocio Modigliani 99, Perini lido, Monza e della Brianza",197 cm
-92,Mattia,Nicolini,"Incrocio Goffredo 14 Piano 0, Quarto Pompeo nell'emilia, Massa-Carrara",ALTA
-93,Saverio,Battelli,Sesto Lauretta,152 cm
-94,Alberto,Druso,Amanda umbro,185 cm
-95,Gino,Bersani,"Contrada Paolo 539 Piano 8, Bixio umbro, Cuneo",186 cm
-96,Pasqual,Amaldi,"Vicolo Tiziana 57 Appartamento 70, Zamengo sardo, Bari",198 cm
-97,Giovanni,Maggioli,"Via Patrizio 39 Appartamento 91, San Michela veneto, Pistoia",MEDIA
-98,Girolamo,Casarin,Gianmarco a mare,195 cm
-99,Arsenio,Vento,"Strada Sobrero 1 Appartamento 17, Combi terme, Pavia",196 cm
-100,Monica,Lupo,San Lilla,157 cm
-101,Federigo,Casini,Trombetta nell'emilia,167 cm
-102,Amico,Gabbana,"Stretto Oliboni 170, Borgo Antonino, Ascoli Piceno",187 cm
-103,Marcella,Grassi,Quarto Nicoletta,169 cm
-104,Giuseppina,Borsellino,"Strada Isa 309 Appartamento 79, Sesto Bianca del friuli, Reggio Calabria",190 cm
-105,Ornella,Infantino,"Vicolo Chiappetta 742, Mattia calabro, Vercelli",MEDIA
-106,Tiziano,Agazzi,San Costanzo calabro,195 cm
-107,Vittoria,Ughi,"Contrada Saffi 269 Appartamento 66, Sesto Simone, Reggio Emilia",154 cm
-108,Vittoria,Contrafatto,Interminelli del friuli,179 cm
-109,Rocco,Morellato,Quarto Giacobbe,151 cm
-110,Luigina,Versace,"Canale Rita 9, San Germana, Salerno",188 cm
-111,Mirko,Pizziol,"Via Gemma 636, Sesto Amalia calabro, Pesaro e Urbino",157 cm
-112,Gustavo,Jovinelli,"Stretto Alfonsi 6, Gritti nell'emilia, Udine",160 cm
-113,Enzo,Callegari,"Strada Montanelli 0 Appartamento 42, San Ludovico, Oristano",170 cm
-114,Luchino,Papafava,Sesto Arturo,161 cm
-115,Caterina,Boccioni,Gustavo salentino,MEDIA
-116,Pierpaolo,Omma,Sesto Piergiorgio laziale,168 cm
-117,Ferdinando,Interminelli,Falloppio calabro,198 cm
-118,Raffaella,Marangoni,"Borgo Rosario 00 Piano 6, Mirko umbro, Verona",BASSA
-119,Annalisa,Carducci,Ruggero nell'emilia,ALTA
-120,Micheletto,Gualtieri,"Strada Lazzaro 2, Quarto Susanna, Brindisi",158 cm
-121,Baccio,Gentilini,Quarto Antonietta terme,BASSA
-122,Edoardo,Lupo,Beppe nell'emilia,ALTA
-123,Calogero,Mozart,Quarto Alessio,MEDIA
-124,Pierpaolo,Murialdo,"Stretto Ugo 8, Zacchia sardo, Roma",164 cm
-125,Elmo,Gottardi,Borgo Tonino umbro,MEDIA
-126,Galasso,Zichichi,"Rotonda Melissa 996 Appartamento 09, Sesto Lidia, Pordenone",150 cm
-127,Giorgia,Cilibrasi,"Via Serena 1, Raffaele terme, Prato",BASSA
-128,Federigo,Rosiello,Quarto Caterina,BASSA
-129,Alderano,Cabibbo,"Piazza Rosina 4 Appartamento 16, Amanda terme, Crotone",MEDIA
-130,Benito,Cavalcanti,"Strada Rosalia 826 Piano 1, Procacci salentino, Oristano",158 cm
-131,Eva,Argurio,"Vicolo Giosuè 412 Appartamento 30, Quarto Vittoria lido, Piacenza",180 cm
-132,Edoardo,Pisaroni,"Piazza Laura 03 Piano 1, Sesto Sandra, Medio Campidano",BASSA
-133,Leopoldo,Vianello,"Vicolo Alighieri 6 Appartamento 75, Borgo Adriano umbro, Como",155 cm
-134,Martina,Collina,"Contrada Fiorucci 462, Settimo Anita, Crotone",158 cm
-135,Giada,Pelli,"Vicolo Fiorino 874, Sesto Laureano a mare, Brindisi",MEDIA
-136,Fortunata,Ricci,Quarto Stefani laziale,166 cm
-137,Fredo,Antonucci,Sesto Gilberto,ALTA
-138,Orazio,Cassarà,Chindamo terme,ALTA
-139,Ottavio,Peranda,"Incrocio Margherita 4 Appartamento 44, Borgo Milo, Oristano",ALTA
-140,Ermenegildo,Ricci,"Contrada Adamo 02 Piano 9, Sesto Ennio, Forlì-Cesena",BASSA
-141,Cirillo,Taliani,"Strada Filzi 25, Borgo Venancio, Potenza",BASSA
-142,Rita,Nicolini,Giacinto terme,153 cm
-143,Lidia,Amaldi,"Piazza Ruggiero 976 Piano 4, Quarto Enzo, Treviso",MEDIA
-144,Coriolano,Navone,"Vicolo Cappelli 9 Appartamento 19, Quarto Ruggero, Barletta-Andria-Trani",194 cm
-145,Gioachino,Argenti,"Via Carolina 85, San Pierangelo veneto, Como",BASSA
-146,Paolo,Galeati,Benito lido,BASSA
-147,Guido,Puccini,Quarto Bernardo salentino,BASSA
-148,Lazzaro,Cignaroli,Piero salentino,BASSA
-149,Rossana,Pontecorvo,"Incrocio Soprano 97, Quarto Ugo, Parma",175 cm
-150,Angelica,Esposito,"Stretto Ponti 899, San Marcello, Forlì-Cesena",182 cm
-151,Sandro,Trapani,"Via Pierangelo 533 Piano 2, Sesto Camillo, Verbano-Cusio-Ossola",160 cm
-152,Tiziana,Sgarbi,"Stretto Silvia 104 Appartamento 20, Melania del friuli, La Spezia",193 cm
-153,Monica,Borroni,"Via Arsenio 9 Piano 4, Borgo Puccio a mare, Verbano-Cusio-Ossola",158 cm
-154,Mattia,Biagi,"Strada Manuel 7, Piovani nell'emilia, Reggio Emilia",150 cm
-155,Eleanora,Navarria,"Stretto Turchi 9, Borgo Mario umbro, Campobasso",BASSA
-156,Sabatino,Caccioppoli,Borgo Ninetta,MEDIA
-157,Romeo,Bragaglia,"Contrada Stefania 4, Sesto Lidia, Trieste",MEDIA
-158,Raffaele,Desio,"Stretto Zaira 6, Settimo Alberico, Ogliastra",186 cm
-159,Piero,Chinnici,"Via Bembo 600, Sesto Graziella salentino, Oristano",190 cm
-160,Etta,Caffarelli,"Piazza Savorgnan 0, Gioacchino umbro, Caltanissetta",158 cm
-161,Pellegrino,Tasso,Borgo Piero veneto,ALTA
-162,Jacopo,Tartaglia,"Contrada Traversa 069 Piano 9, Berrè nell'emilia, Reggio Calabria",BASSA
-163,Lauretta,Lucciano,"Viale Lorenzo 478 Appartamento 00, Malacarne sardo, Belluno",ALTA
-164,Vincenza,Gagliano,San Eliana,MEDIA
-165,Alfredo,Fabbri,"Strada Nadi 49 Appartamento 72, Borgo Aria veneto, Rieti",BASSA
-166,Adamo,Pellegrini,Settimo Pasqual calabro,ALTA
-167,Lucio,Telesio,"Piazza Tullio 7 Appartamento 26, Arnulfo lido, Vicenza",157 cm
-168,Bruno,Sraffa,Sesto Greca,BASSA
-169,Pellegrino,Ludovisi,Livio terme,150 cm
-170,Manuel,Treccani,Borgo Alfio,BASSA
-171,Federica,Bartoli,"Vicolo Viviani 0 Appartamento 93, Melania terme, Teramo",BASSA
-172,Luciana,Cortese,Buonauro del friuli,ALTA
-173,Iolanda,Visintini,Settimo Annalisa laziale,159 cm
-174,Valentina,Montessori,San Paulina,MEDIA
-175,Massimo,Cimarosa,Rizzo del friuli,MEDIA
-176,Roberta,Ortese,Inzaghi sardo,191 cm
-177,Virgilio,Botta,San Donna,188 cm
-178,Geronimo,Paltrinieri,"Incrocio Mancini 003, San Laura, Medio Campidano",BASSA
-179,Ugolino,Ruffini,Lettiere laziale,188 cm
-180,Dina,Barsanti,San Sebastiano,191 cm
-181,Luciana,Muratori,"Rotonda Zacchia 79 Piano 3, Gianmarco calabro, Trieste",180 cm
-182,Tiziano,Rossellini,San Aldo a mare,197 cm
-183,Nedda,Geraci,Gianni salentino,196 cm
-184,Isabella,Basso,Sesto Alfio,157 cm
-185,Giuliana,Squarcione,"Stretto Cesare 845 Piano 8, Niscoromni salentino, Bergamo",162 cm
-186,Paola,Dandolo,Adelmo sardo,BASSA
-187,Gianfranco,Filippini,Sesto Enzio,BASSA
-188,Piergiuseppe,Agostini,"Rotonda Trillini 71 Piano 9, Benedetto umbro, Ascoli Piceno",ALTA
-189,Jacopo,Stoppani,Giunti terme,ALTA
-190,Lucia,Tozzo,"Contrada Bossi 3 Piano 9, Sesto Ornella, Piacenza",MEDIA
-191,Vanessa,Bompiani,"Strada Berengario 6, Porcellato lido, Alessandria",BASSA
-192,Alessio,Alfonsi,"Vicolo Soprano 91, Alina del friuli, Rimini",170 cm
-193,Guarino,Errani,Settimo Susanna,ALTA
-194,Gabriele,Gabbana,"Contrada Elvira 99, San Isabella umbro, Cosenza",BASSA
-195,Dante,Guidotti,"Canale Pierina 07 Piano 4, Borgo Delfino sardo, Belluno",BASSA
-196,Gioachino,Malenchini,"Stretto Emilio 0, Salvi terme, Pavia",MEDIA
-197,Sebastiano,Gilardoni,"Viale Coriolano 31, Luciano laziale, Como",ALTA
-198,Calcedonio,Marcacci,San Ornella,ALTA
-199,Matteo,Lombardi,"Viale Patrizio 08, San Emilio, Carbonia-Iglesias",MEDIA
-200,Silvia,Lamborghini,"Piazza Aldo 47 Appartamento 59, Emma nell'emilia, Rimini",ALTA
-201,Rosina,Leonardi,Arnulfo nell'emilia,ALTA
-202,Giuseppe,Maggioli,"Via Leoncavallo 7, Bernardi lido, Padova",192 cm
-203,Milo,Martucci,"Incrocio Alfio 2, San Laureano salentino, Avellino",182 cm
-204,Etta,Franscini,Chiara del friuli,158 cm
-205,Stefani,Parmitano,"Vicolo Dolores 70, Settimo Antonino lido, Pesaro e Urbino",ALTA
-206,Maurilio,Salata,Borgo Ferdinando,ALTA
-207,Carlo,Gianetti,"Rotonda Sergius 610, Durante salentino, Foggia",ALTA
-208,Sandro,Zanichelli,"Piazza Boaga 688 Appartamento 56, Taccola salentino, Reggio Emilia",ALTA
-209,Romana,Tozzi,Sesto Cesare,177 cm
-210,Monica,Storladi,Quarto Aldo,188 cm
-211,Lolita,Mimun,"Incrocio Cirillo 1, Proietti a mare, Pescara",189 cm
-212,Roberto,Foconi,"Canale Rensi 5, Giacconi calabro, Grosseto",ALTA
-213,Maurilio,Romano,"Vicolo Merisi 26 Appartamento 37, Malenchini laziale, Verona",165 cm
-214,Ernesto,Antonioni,Dina terme,BASSA
-215,Veronica,Carnera,San Mario a mare,ALTA
-216,Aria,Vanvitelli,"Incrocio Benito 484, Quarto Paride lido, Crotone",ALTA
-217,Jacopo,Capecchi,Borgo Sonia,BASSA
-218,Donatella,Pace,"Contrada Antonucci 0 Piano 2, Alessandra terme, Forlì-Cesena",ALTA
-219,Rosalia,Catenazzi,"Piazza Verri 9 Piano 0, Sesto Silvia salentino, Roma",151 cm
-220,Dario,Turrini,Quarto Giosuè veneto,BASSA
-221,Giorgia,Verri,"Piazza Crespi 6 Appartamento 15, Sesto Rodolfo, Savona",160 cm
-222,Gianfranco,Miniati,Settimo Vito del friuli,200 cm
-223,Arnaldo,Casale,"Viale Filippo 49 Piano 0, Pier sardo, Trento",192 cm
-224,Luchino,Baggio,"Viale Zaira 695 Appartamento 62, Quarto Ugolino, Siracusa",162 cm
-225,Mattia,Pacetti,"Borgo Boccioni 10, Sesto Gelsomina, Catanzaro",MEDIA
-226,Rosina,Cerutti,San Temistocle calabro,BASSA
-227,Adamo,Udinesi,"Borgo Pisani 821 Appartamento 26, Flaiano calabro, Lucca",ALTA
-228,Sylvia,Foscari,"Canale Guglielmi 4 Appartamento 28, Settimo Sophia, Pisa",176 cm
-229,Mercedes,Leone,"Contrada Salieri 366, Sesto Amanda, Oristano",ALTA
-230,Gian,Trapanese,Traversa a mare,155 cm
-231,Eliana,Borgia,"Rotonda Volta 961, Domenico a mare, Crotone",165 cm
-232,Gianna,Romagnoli,San Giampaolo a mare,179 cm
-233,Piergiuseppe,Martucci,"Viale Argenti 40 Piano 6, Sesto Gabriele del friuli, Vercelli",MEDIA
-234,Mirko,Paolini,Quarto Piergiuseppe,BASSA
-235,Sophia,Seddio,"Borgo Edoardo 4 Piano 0, Borgo Giovanna, Oristano",163 cm
-236,Arsenio,Rizzoli,Cristina lido,151 cm
-237,Loredana,Samele,"Stretto Falloppio 440, Brambilla veneto, Rieti",160 cm
-238,Annetta,Bonolis,San Alphons veneto,ALTA
-239,Silvio,Galiazzo,Innocenti terme,MEDIA
-240,Virgilio,Battaglia,Borgo Griselda,MEDIA
-241,Valentina,Burcardo,"Via Barzini 26 Appartamento 74, Pier salentino, Genova",MEDIA
-242,Ottavio,Sibilia,Settimo Cirillo terme,MEDIA
-243,Fortunata,Morpurgo,Ruggero lido,ALTA
-244,Ettore,Mazzini,"Rotonda Chechi 2 Appartamento 20, Settimo Antonella a mare, Sondrio",ALTA
-245,Adelasia,Speri,"Via Broschi 9, San Pasqual umbro, Fermo",181 cm
-246,Federica,Micheletti,"Piazza Gionata 1, Borgo Ignazio veneto, Latina",ALTA
-247,Geronimo,Ammaniti,"Via Turci 3, Biagio umbro, Pesaro e Urbino",BASSA
-248,Rodolfo,Fracci,Lisa ligure,ALTA
-249,Gianni,Guidotti,"Strada Monduzzi 5 Appartamento 91, Borgo Elmo, Sassari",195 cm
-250,Paulina,Bottaro,"Via Baccio 56, Settimo Pompeo salentino, Rovigo",BASSA
-251,Adelasia,Detti,Settimo Zaira ligure,188 cm
-252,Annamaria,Caironi,Umberto lido,159 cm
-253,Rocco,Leonardi,Quarto Puccio veneto,BASSA
-254,Gianluca,Andreozzi,"Stretto Valerio 085 Piano 1, Donati veneto, Trapani",BASSA
-255,Annetta,Cainero,"Rotonda Alighieri 042 Appartamento 32, Majorana laziale, Benevento",MEDIA
-256,Gioele,Santoro,Settimo Antonella,185 cm
-257,Gianpaolo,Trotta,Alina veneto,ALTA
-258,Agnolo,Brambilla,Settimo Michelotto ligure,BASSA
-259,Paloma,Marinetti,"Incrocio Nicoletti 840 Piano 1, Quarto Gianpietro del friuli, Caltanissetta",MEDIA
-260,Anita,Moschino,Travia nell'emilia,166 cm
-261,Alessio,Spinola,Lauretta ligure,183 cm
-262,Ansaldo,Caracciolo,Berenice a mare,153 cm
-263,Flavia,Navone,"Via Angelo 091, Sesto Pierluigi sardo, Catanzaro",BASSA
-264,Amleto,Fracci,"Contrada Farnese 228, Agnesi salentino, Pistoia",164 cm
-265,Lauretta,Vergerio,"Canale Stein 125 Piano 1, Settimo Simone, Sondrio",BASSA
-266,Rosina,Sibilia,Settimo Livio,BASSA
-267,Filippo,Moresi,Randazzo laziale,BASSA
-268,Gianluca,Pizziol,"Stretto Giacobbe 68 Appartamento 41, Fausto umbro, Macerata",196 cm
-269,Barbara,Ferragamo,Antonia umbro,199 cm
-270,Telemaco,Altera,"Strada Terragni 29, Settimo Rita, Milano",MEDIA
-271,Roman,Juvara,Rocco nell'emilia,191 cm
-272,Calogero,Mercalli,Sesto Ronaldo,MEDIA
-273,Rosalia,Zarlino,"Strada Dossetti 8, Alessia veneto, Ferrara",ALTA
-274,Antonio,Rossi,"Strada Cassandra 1 Appartamento 14, Quarto Rosa salentino, Biella",MEDIA
-275,Alphons,Soffici,Sesto Osvaldo,ALTA
-276,Riccardo,Volta,Settimo Achille,160 cm
-277,Roman,Amaldi,"Via Luigina 70, Lina salentino, Taranto",180 cm
-278,Sebastiano,Bellocchio,"Incrocio Ivo 5 Appartamento 65, Cremonesi veneto, Napoli",ALTA
-279,Gianmarco,Vigorelli,Almagià lido,ALTA
-280,Toni,Castiglione,Vidoni sardo,BASSA
-281,Telemaco,Bataglia,"Stretto Ammaniti 0 Piano 5, Ferrari del friuli, Trento",163 cm
-282,Marcello,Trombetta,"Incrocio Alessandro 3 Appartamento 10, Salieri a mare, Foggia",ALTA
-283,Adele,Falcone,Finotto del friuli,187 cm
-284,Antonietta,Bocca,Quarto Pellegrino,199 cm
-285,Oreste,Marzorati,San Natalia,173 cm
-286,Luciano,Berlusconi,"Rotonda Victoria 078 Piano 3, Borgo Evangelista salentino, Catania",162 cm
-287,Ramona,Petralli,"Via Pierpaolo 955, Bajardi calabro, Macerata",MEDIA
-288,Baldassare,Pisaroni,Lidia a mare,160 cm
-289,Leonardo,Cilibrasi,"Canale Boitani 54 Piano 0, Liana salentino, Novara",184 cm
-290,Antonina,Bianchini,Sesto Gelsomina,160 cm
-291,Ornella,Zanichelli,"Borgo Vespa 37, Impastato a mare, Reggio Calabria",180 cm
-292,Gioachino,Zaguri,"Vicolo Ruggieri 1 Appartamento 52, Durante umbro, Barletta-Andria-Trani",MEDIA
-293,Fernanda,Grossi,Serao ligure,194 cm
-294,Nicola,Vergerio,San Dino,ALTA
-295,Fabrizio,Finotto,Eliana ligure,ALTA
-296,Massimo,Agostini,"Rotonda Liana 3, Renzo salentino, Caltanissetta",194 cm
-297,Paride,Cerquiglini,Falloppio umbro,153 cm
-298,Temistocle,Pontecorvo,"Viale Filippa 019, Tarantini umbro, Sassari",154 cm
-299,Hugo,Andreozzi,San Antonia del friuli,ALTA
-300,Gianna,Paruta,"Incrocio Angelo 86 Appartamento 42, Geraci umbro, Cuneo",164 cm
-301,Donato,Anichini,Romina a mare,ALTA
-302,Sonia,Taliani,Martucci calabro,163 cm
-303,Piersanti,Salvemini,Dino sardo,MEDIA
-304,Ernesto,Frescobaldi,Quarto Pasquale,194 cm
-305,Fedele,Bartoli,"Via Mario 12, Settimo Giulio, Lodi",MEDIA
-306,Vincenza,Nonis,"Incrocio Paoletta 62, San Berenice salentino, Avellino",ALTA
-307,Marta,Galiazzo,Vincenza del friuli,194 cm
-308,Serafina,Monti,Quarto Claudia umbro,BASSA
-309,Giuseppina,Antonacci,"Borgo Berenice 464, San Armando, Torino",182 cm
-310,Elena,Nicolucci,Alessandra veneto,MEDIA
-311,Zaira,Cantimori,"Stretto Adriano 97 Appartamento 34, Piccinni ligure, Lucca",163 cm
-312,Patrizia,Antonucci,"Vicolo Mario 459, Settimo Nedda ligure, Vibo Valentia",153 cm
-313,Mario,Barcella,"Canale Loredan 23, Quarto Rosalia veneto, Savona",MEDIA
-314,Santino,Antonucci,Druso calabro,174 cm
-315,Annamaria,Amaldi,San Temistocle,174 cm
-316,Gelsomina,Alfonsi,Mariano laziale,ALTA
-317,Ludovico,Pastine,Borgo Stefano veneto,185 cm
-318,Annetta,Comolli,"Strada Bruno 795, Antonello umbro, Pordenone",172 cm
-319,Camillo,Sandi,"Rotonda Tullio 12 Piano 2, Vanvitelli lido, Cosenza",MEDIA
-320,Susanna,Albertini,"Borgo Ubaldo 63 Piano 6, Quarto Michela, Bergamo",MEDIA
-321,Durante,Petruzzi,Isabella laziale,186 cm
-322,Serena,Pucci,Spadafora ligure,BASSA
-323,Tiziana,Cannizzaro,Quarto Gianna,ALTA
-324,Cecilia,Martinelli,"Rotonda Pasqual 159, Settimo Temistocle, Oristano",ALTA
-325,Sergius,Borzomì,"Contrada Raffaello 95, Rubbia calabro, Ragusa",MEDIA
-326,Ramona,Rienzo,Settimo Ruggero salentino,191 cm
-327,Filippo,Contrafatto,Vitturi nell'emilia,BASSA
-328,Francesca,Petruzzi,"Contrada Dina 3 Appartamento 83, Beppe salentino, Nuoro",BASSA
-329,Tina,Jovinelli,"Borgo Raffaele 839 Piano 1, San Ettore, Prato",MEDIA
-330,Romeo,Cuomo,Sesto Ermes,BASSA
-331,Ida,Priuli,Costanzo sardo,BASSA
-332,Annalisa,Paolini,San Livio lido,BASSA
-333,Ricciotti,Pertini,Sesto Francesco sardo,ALTA
-334,Adelmo,Trezzini,Quarto Simonetta,153 cm
-335,Ugolino,Pirandello,"Strada Paolini 92, Settimo Mattia, Catania",MEDIA
-336,Daniele,Brambilla,"Viale Pacetti 9 Piano 5, Sole salentino, L'Aquila",ALTA
-337,Nicola,Malpighi,Sesto Mario,194 cm
-338,Cecilia,Soffici,Stella salentino,195 cm
-339,Lazzaro,Peranda,"Borgo Trebbi 6 Appartamento 45, Borgo Tullio, Enna",179 cm
-340,Virginia,Carullo,Borgo Raffaele,BASSA
-341,Ciro,Callegaro,Quarto Griselda lido,190 cm
-342,Ivo,Pelli,San Coluccio del friuli,BASSA
-343,Vanessa,Deledda,Borgo Ivo sardo,153 cm
-344,Tatiana,Sagnelli,Viridiana veneto,BASSA
-345,Simone,Dulbecco,Romina a mare,MEDIA
-346,Ornella,Carullo,"Via Umberto 3, San Gianmarco salentino, Verbano-Cusio-Ossola",150 cm
-347,Ennio,Vercelloni,"Via Turati 638, Quarto Stefano nell'emilia, Vicenza",ALTA
-348,Danilo,Fanucci,Borgo Ugolino,ALTA
-349,Concetta,Marangoni,"Borgo Cuzzocrea 02 Piano 3, Romagnoli calabro, Enna",154 cm
-350,Ludovica,Mozart,"Contrada Cesarotti 56, Borgo Mauro, Bolzano",BASSA
-351,Agostino,Impastato,"Borgo Patrizio 91, San Nanni, Palermo",ALTA
-352,Corrado,Mattarella,"Viale Lamberto 42, Sansoni veneto, Reggio Calabria",MEDIA
-353,Giampiero,Berrè,"Via Dallapé 5, Borgo Letizia, Rimini",160 cm
-354,Dino,Luria,Travia salentino,ALTA
-355,Isabella,Federici,Settimo Benedetto sardo,MEDIA
-356,Loretta,Manacorda,Cendron umbro,MEDIA
-357,Nino,Gianinazzi,"Piazza Pacomio 1 Piano 9, San Tonino del friuli, Pistoia",197 cm
-358,Federigo,Druso,Cipriano del friuli,ALTA
-359,Baccio,Ceravolo,"Via Lauretta 716, Settimo Lilla a mare, Olbia-Tempio",184 cm
-360,Bruno,Guglielmi,"Incrocio Muratori 6 Appartamento 51, Borgo Luchino del friuli, Modena",MEDIA
-361,Durante,Lippomano,Soderini lido,176 cm
-362,Giampaolo,Procacci,"Contrada Berenice 59, San Paride, Medio Campidano",153 cm
-363,Bianca,Abate,Grassi laziale,MEDIA
-364,Coluccio,Canil,"Viale Mocenigo 70 Appartamento 85, Staglieno sardo, Milano",ALTA
-365,Ippazio,Trapanese,Lamberto umbro,177 cm
-366,Serena,Rossellini,"Incrocio Bazzi 0 Piano 2, Longhena laziale, Salerno",MEDIA
-367,Panfilo,Monteverdi,Panfilo a mare,178 cm
-368,Biagio,Rizzo,Fuseli terme,ALTA
-369,Viridiana,Rossellini,"Vicolo Orsini 8, San Giuseppe calabro, Teramo",184 cm
-370,Giovanna,Simeoni,Volta sardo,ALTA
-371,Laureano,Marenzio,San Roberto,166 cm
-372,Amanda,Montanari,"Incrocio Geronimo 02 Piano 7, San Amalia, Biella",ALTA
-373,Gloria,Barberini,"Via Luisa 5, Calbo lido, Trento",MEDIA
-374,Giovanna,Baresi,Lucrezia sardo,186 cm
-375,Nico,Montanariello,"Strada Giulio 7, San Arnulfo del friuli, Messina",BASSA
-376,Alessia,Fantozzi,"Strada Carnera 806, Settimo Rosa nell'emilia, Prato",BASSA
-377,Bettina,Cadorna,"Rotonda Gelsomina 5 Piano 1, Sesto Bianca terme, Genova",152 cm
-378,Lolita,Finetti,Settimo Licia nell'emilia,189 cm
-379,Antonina,Pareto,Maria veneto,181 cm
-380,Romolo,Prada,"Piazza Forza 157, Cassandra terme, Trieste",BASSA
-381,Adriana,Andreotti,"Via Carnera 17, Arsenio ligure, Sassari",199 cm
-382,Saverio,Bova,Marcantonio sardo,166 cm
-383,Giuliano,Argurio,"Rotonda Berenice 746, Tatiana calabro, Vicenza",172 cm
-384,Marcella,Verri,Settimo Puccio nell'emilia,BASSA
-385,Luciana,Squarcione,Sesto Coriolano a mare,BASSA
-386,Pomponio,Chiesa,Sesto Barbara,180 cm
-387,Lara,Sabatini,"Incrocio Guidotti 340, Sesto Federigo sardo, Aosta",200 cm
-388,Guarino,Carocci,"Vicolo Fernanda 1, Borgo Achille, Ferrara",MEDIA
-389,Agostino,Taccola,San Giorgia,MEDIA
-390,Gianna,Natta,"Via Melania 0 Piano 0, Bataglia laziale, Roma",ALTA
-391,Elvira,Scaramucci,Settimo Alfredo sardo,MEDIA
-392,Bianca,Brunelleschi,Quarto Ida sardo,ALTA
-393,Umberto,Pizziol,Settimo Nadia,MEDIA
-394,Camilla,Stucchi,Sole del friuli,ALTA
-395,Michelangelo,Travia,"Strada Laureano 2, Settimo Irma, Agrigento",ALTA
-396,Irma,Veltroni,Quarto Graziano,ALTA
-397,Temistocle,Merisi,Cutrufo del friuli,173 cm
-398,Angelo,Malaparte,Sesto Bartolomeo ligure,150 cm
-399,Pietro,Loredan,Oreste calabro,BASSA
-400,Melania,Giolitti,Alberto sardo,163 cm
-401,Raffaele,Scaduto,Quarto Nadia,176 cm
-402,Sonia,Bellini,Quarto Aldo,ALTA
-403,Bruno,Cignaroli,Sesto Luciana salentino,ALTA
-404,Mauro,Argenti,Franco a mare,171 cm
-405,Gianpaolo,Morellato,"Rotonda Roman 1 Appartamento 67, Settimo Carla umbro, Genova",MEDIA
-406,Ubaldo,Maffei,"Piazza Carosone 312 Appartamento 38, Simonetta a mare, Modena",ALTA
-407,Stefani,Trevisan,"Strada Benedetti 6, Francesco veneto, Rieti",186 cm
-408,Ugo,Tanzini,Vito nell'emilia,ALTA
-409,Giacobbe,Pisani,"Rotonda Blasi 100, Borgo Fiorino, Salerno",MEDIA
-410,Camilla,Iadanza,Marcantonio lido,182 cm
-411,Maria,Legnante,"Piazza Benvenuto 64, Sgalambro a mare, Messina",177 cm
-412,Lolita,Speri,Calogero del friuli,167 cm
-413,Giada,Antelami,"Stretto Livia 3, San Ugolino, Verona",BASSA
-414,Adriano,Traversa,"Canale Basso 22, Borgo Ermanno salentino, Verona",MEDIA
-415,Ramona,Rienzo,Borgo Serafina,BASSA
-416,Paride,Cagnin,Mirko veneto,176 cm
-417,Licia,Iadanza,"Rotonda Bonatti 29 Piano 7, Quarto Ippazio veneto, Potenza",ALTA
-418,Mariano,Villarosa,"Piazza Ossani 443 Appartamento 11, Borgo Annalisa laziale, Biella",171 cm
-419,Stella,Castelli,"Rotonda Beppe 6 Piano 6, San Beatrice umbro, Matera",160 cm
-420,Giacomo,Petrucelli,"Stretto Piane 75, Umberto del friuli, Livorno",153 cm
-421,Amedeo,Antonini,"Incrocio Legnante 152 Appartamento 68, Antonini del friuli, Grosseto",BASSA
-422,Fredo,Cristoforetti,Borgo Gustavo calabro,MEDIA
-423,Luciana,Cremonesi,San Federigo calabro,196 cm
-424,Ranieri,Contarini,"Stretto Maria 9, Liana calabro, Rieti",BASSA
-425,Lando,Zichichi,Quarto Fiorenzo,182 cm
-426,Cristina,Esposito,Diana calabro,MEDIA
-427,Benedetto,Villadicani,Silvia lido,ALTA
-428,Niccolò,Berlusconi,"Incrocio Nicolucci 400 Appartamento 28, Necci laziale, Nuoro",171 cm
-429,Tatiana,Offredi,Settimo Rolando,161 cm
-430,Gemma,Caccianemico,"Canale Bergoglio 42, Quarto Tiziano sardo, Firenze",160 cm
-431,Salvi,Tirabassi,Settimo Ricciotti,BASSA
-432,Oreste,Gozzi,Settimo Arnaldo nell'emilia,MEDIA
-433,Nicolò,Ricci,"Canale Saverio 35 Appartamento 99, Giannetti a mare, Reggio Emilia",MEDIA
-434,Geronimo,Draghi,"Viale Raffaella 5 Appartamento 62, Guarino sardo, Rimini",185 cm
-435,Luigi,Ligorio,Borgo Agostino,BASSA
-436,Ilaria,Borromeo,"Stretto Licia 0, San Liliana, Oristano",152 cm
-437,Ermes,Serao,"Vicolo Bianca 475 Piano 0, Rosa terme, Siena",BASSA
-438,Antonio,Samele,Mercedes laziale,MEDIA
-439,Romolo,Trapanese,Santino salentino,BASSA
-440,Antonio,Casaleggio,"Contrada Giannetti 18 Appartamento 01, San Luciana laziale, Taranto",ALTA
-441,Orazio,Morrocco,Borgo Girolamo,199 cm
-442,Michele,Longhena,Borgo Simonetta,MEDIA
-443,Lucio,Rosiello,Natalia laziale,ALTA
-444,Vincentio,Ferrazzi,Dino a mare,ALTA
-445,Rolando,Verdone,Tommaseo lido,BASSA
-446,Ninetta,Romano,Tirabassi calabro,MEDIA
-447,Livio,Sauro,"Borgo Pietro 73, Quarto Anita veneto, Taranto",MEDIA
-448,Graziella,Ossola,"Vicolo Vercelloni 48 Appartamento 01, Aurora del friuli, Teramo",173 cm
-449,Loretta,Cutuli,Settimo Romolo nell'emilia,MEDIA
-450,Gilberto,Tozzo,Persico salentino,150 cm
-451,Fabrizia,Vecellio,Gianpietro umbro,ALTA
-452,Marta,Brunelleschi,Turchetta del friuli,151 cm
-453,Raffaella,Ariosto,Alessio ligure,179 cm
-454,Baldassare,Pagnotto,"Canale Ubaldo 02, Claudia lido, Lecco",168 cm
-455,Fiorino,Mantegazza,Quarto Gianna terme,BASSA
-456,Clelia,Paganini,"Vicolo Baldassare 8, Angelo del friuli, Torino",ALTA
-457,Gilberto,Cuomo,Sesto Toni calabro,BASSA
-458,Liliana,Zamengo,Trapani ligure,196 cm
-459,Martino,Flaiano,Settimo Beppe veneto,ALTA
-460,Baccio,Odescalchi,"Vicolo Vincenza 9, Amalia sardo, Avellino",166 cm
-461,Gastone,Fantoni,Pizziol ligure,176 cm
-462,Fiorenzo,Gelli,"Viale Raffaele 473 Piano 1, Sesto Maria, Trento",169 cm
-463,Simone,Serao,Quarto Maurilio veneto,161 cm
-464,Vito,Sgarbi,Licia terme,ALTA
-465,Flavia,Savorgnan,Settimo Eliana nell'emilia,165 cm
-466,Pierina,Farnese,"Rotonda Battisti 46 Appartamento 21, Quarto Dina, Palermo",161 cm
-467,Etta,Turati,"Piazza Brugnaro 681, Gabbana terme, Teramo",BASSA
-468,Amedeo,Montanari,"Piazza Maura 050 Appartamento 80, Quarto Gianmarco, Mantova",BASSA
-469,Raffaella,Lombardo,San Sandro,ALTA
-470,Marcello,Stein,Russo lido,150 cm
-471,Isa,Savorgnan,San Sole,194 cm
-472,Antonina,Marazzi,"Borgo Totino 2 Piano 1, Procacci lido, Venezia",BASSA
-473,Guido,Anichini,"Via Ricciotti 0, Ruggiero salentino, Catanzaro",MEDIA
-474,Umberto,Mantegna,Raffaellino calabro,172 cm
-475,Bianca,Zarlino,Martina laziale,ALTA
-476,Elladio,Duodo,"Piazza Patrizio 873 Appartamento 21, Sesto Adriano nell'emilia, Roma",ALTA
-477,Sergius,Chiesa,Gelsomina sardo,BASSA
-478,Saverio,Siffredi,Pavanello sardo,164 cm
-479,Flavio,Abba,Ornella salentino,169 cm
-480,Paola,Milanesi,"Borgo Rienzo 723, Sonia nell'emilia, Caltanissetta",BASSA
-481,Gabriella,Lucchesi,"Borgo Garibaldi 17, Settimo Umberto ligure, Medio Campidano",160 cm
-482,Ennio,Modiano,Scandone ligure,162 cm
-483,Dante,Tasso,"Contrada Ermes 04 Appartamento 02, Quarto Ennio a mare, Salerno",193 cm
-484,Tiziana,Fusani,Sesto Massimo,BASSA
-485,Vanessa,Carnera,San Dina,187 cm
-486,Umberto,Padovano,"Rotonda Carpaccio 0, Venancio umbro, Sondrio",MEDIA
-487,Delfino,Mazzocchi,"Borgo Annetta 32 Appartamento 70, Settimo Giada, Cosenza",ALTA
-488,Cecilia,Babati,Stefania lido,151 cm
-489,Santino,Paoletti,Ostinelli laziale,152 cm
-490,Leonardo,Berrè,"Rotonda Rossana 468, San Corrado nell'emilia, Pisa",BASSA
-491,Rolando,Rossi,"Contrada Basadonna 551 Appartamento 72, Liguori calabro, Lecco",197 cm
-492,Ezio,Mazzeo,"Incrocio Gianinazzi 430 Appartamento 46, Daria calabro, Barletta-Andria-Trani",189 cm
-493,Maria,Santorio,Osvaldo terme,200 cm
-494,Geronimo,Chiappetta,Giuseppe terme,ALTA
-495,Federico,Argurio,"Contrada Mascagni 87 Piano 9, Settimo Giorgia lido, Firenze",MEDIA
-496,Berenice,Cesarotti,Settimo Giacinto,ALTA
-497,Melissa,Zaccagnini,"Stretto Fiorino 22, Borgo Ricciotti, Agrigento",175 cm
-498,Benito,Bergoglio,"Viale Pierangelo 09 Appartamento 35, Monduzzi veneto, Caltanissetta",MEDIA
-499,Bernardo,Dovara,Boccioni del friuli,BASSA
-500,Vincenzo,Buscetta,Alina laziale,153 cm
-501,Raffaella,Micca,Azeglio lido,ALTA
-502,Clelia,Renault,"Incrocio Tognazzi 089, Borgo Nedda nell'emilia, Treviso",184 cm
-503,Simone,Schicchi,Puglisi nell'emilia,BASSA
-504,Augusto,Amato,Quarto Alphons a mare,187 cm
-505,Angelo,Scarlatti,"Vicolo Paride 2 Appartamento 13, Settimo Maria, Massa-Carrara",MEDIA
-506,Fredo,Cortese,"Canale Carnera 64, Rossi del friuli, Pesaro e Urbino",MEDIA
-507,Matteo,Baggio,"Viale Piazzi 307, Gianna del friuli, Chieti",200 cm
-508,Simonetta,Bettin,"Canale Alfio 101, Quarto Girolamo, Lecce",169 cm
-509,Alphons,Donà,Veneziano umbro,172 cm
-510,Antonietta,Blasi,Piersanti ligure,ALTA
-511,Gloria,Ludovisi,"Viale Rocco 8, Laura nell'emilia, Verona",BASSA
-512,Diana,Tamburi,Mariano umbro,177 cm
-513,Eliana,Donarelli,"Canale Sylvia 206 Appartamento 81, San Torquato terme, Campobasso",BASSA
-514,Paloma,Juvara,Borgo Geronimo,173 cm
-515,Fredo,Virgilio,"Piazza Flora 78 Appartamento 77, Borgo Vincenzo, Roma",166 cm
-516,Gioachino,Beccaria,Sesto Virginia,BASSA
-517,Sylvia,Scarpa,"Canale Gianluigi 9 Piano 5, Zaguri umbro, Belluno",171 cm
-518,Letizia,Folliero,Quarto Claudio calabro,190 cm
-519,Mario,Merisi,Leopoldo del friuli,BASSA
-520,Pier,Pedroni,"Vicolo Bartoli 539 Piano 6, Settimo Melissa terme, Benevento",BASSA
-521,Piergiuseppe,Battaglia,"Piazza Donna 6, Pausini veneto, Olbia-Tempio",196 cm
-522,Emilio,Mercadante,Galvani laziale,199 cm
-523,Aldo,Trobbiani,"Via Ilaria 891, Pier calabro, Medio Campidano",ALTA
-524,Danilo,Travaglio,Marconi salentino,152 cm
-525,Ferdinando,Bruscantini,Borgo Aurora,BASSA
-526,Gilberto,Littizzetto,Borgo Teresa,159 cm
-527,Fiamma,Casale,"Borgo Bettina 2 Appartamento 87, Eliana ligure, Varese",BASSA
-528,Antonino,Cammarata,San Fiorenzo,ALTA
-529,Stefania,Gangemi,"Borgo Ottone 172, Settimo Federico nell'emilia, Venezia",171 cm
-530,Gemma,Nibali,Quarto Leonardo ligure,193 cm
-531,Rosario,Abba,"Incrocio Cagnotto 278 Piano 6, Praga salentino, Frosinone",ALTA
-532,Maria,Fantini,"Contrada Alberico 031 Piano 8, Chittolini veneto, Oristano",182 cm
-533,Enrico,Vecellio,Borgo Marissa,BASSA
-534,Giulia,Filippelli,Grisoni del friuli,ALTA
-535,Angelica,Morricone,Rosiello calabro,185 cm
-536,Tullio,Leblanc,Elladio veneto,MEDIA
-537,Eugenia,Muti,"Contrada Ugo 707 Appartamento 47, Raffaele calabro, Ascoli Piceno",172 cm
-538,Alderano,Ajello,"Incrocio Baglioni 41 Piano 1, Gastone ligure, Reggio Calabria",BASSA
-539,Rosario,Nicolini,"Via Moresi 9 Appartamento 78, San Luchino lido, Lodi",178 cm
-540,Chiara,Fanucci,"Rotonda Piergiuseppe 33 Piano 7, Borgo Adelasia, Carbonia-Iglesias",MEDIA
-541,Enzo,Pontecorvo,Manzoni salentino,182 cm
-542,Daniele,Malpighi,Settimo Flavio umbro,BASSA
-543,Graziano,Rubbia,Settimo Bettina a mare,170 cm
-544,Romana,Vigorelli,Borgo Enrico,150 cm
-545,Lucio,Travia,"Vicolo Gianetti 47, Settimo Nicola salentino, Chieti",200 cm
-546,Baccio,Modiano,"Stretto Fulvio 726, Imelda ligure, Belluno",156 cm
-547,Daniele,Beccheria,Borgo Adelmo,183 cm
-548,Emma,Traetta,Sesto Sophia terme,189 cm
-549,Melissa,Boiardo,"Canale Visconti 75 Appartamento 92, Quarto Nanni, Brindisi",BASSA
-550,Amleto,Samele,Sesto Gian,BASSA
-551,Ricciotti,Innocenti,"Vicolo Silvestro 20 Appartamento 87, Greco calabro, Como",ALTA
-552,Vincentio,Columbo,San Cristina,194 cm
-553,Danilo,Gargallo,"Rotonda Marta 57 Piano 3, Lanfranchi nell'emilia, Pesaro e Urbino",MEDIA
-554,Ruggiero,Valier,Calogero terme,ALTA
-555,Alessandra,Tiepolo,"Stretto Leoncavallo 44 Piano 5, Quarto Salvatore calabro, Udine",168 cm
-556,Jacopo,Balotelli,"Via Fuseli 6 Appartamento 84, Borgo Sergius terme, Agrigento",190 cm
-557,Rossana,Caccioppoli,Cuomo laziale,BASSA
-558,Gelsomina,Toscanini,"Canale Nadi 7, Paola nell'emilia, Cuneo",156 cm
-559,Piermaria,Catalano,Sesto Coriolano,MEDIA
-560,Alderano,Babbo,"Vicolo Bartolomeo 138 Piano 9, Settimo Fabia, Caserta",188 cm
-561,Serena,Dallapé,"Stretto Rienzo 543, Borgo Pompeo a mare, Modena",MEDIA
-562,Federigo,Serao,Sesto Alfredo,199 cm
-563,Gelsomina,Parini,Settimo Goffredo,BASSA
-564,Michelangelo,Dossi,Settimo Lazzaro,166 cm
-565,Simone,Muratori,Settimo Livio,BASSA
-566,Martino,Babbo,"Vicolo Nugnes 07 Piano 8, Quarto Rita, Fermo",MEDIA
-567,Ludovico,Sgarbi,Quarto Marisa,MEDIA
-568,Giuseppe,Germano,Quarto Marina,189 cm
-569,Raffaello,Mengolo,"Borgo Zeffirelli 7, Erika veneto, Catania",163 cm
-570,Giampaolo,Comboni,Pellegrino sardo,ALTA
-571,Marcella,Cugia,"Viale Collina 2 Piano 2, Achille umbro, Cremona",BASSA
-572,Carlo,Oscuro,Settimo Virginia,ALTA
-573,Dino,Belletini,Barbara a mare,158 cm
-574,Tullio,Fagiani,"Stretto Adinolfi 07 Piano 2, Borgo Lorenzo sardo, Ogliastra",BASSA
-575,Lorenzo,Delle,Settimo Elmo,154 cm
-576,Saverio,Bonanno,Sesto Sandra ligure,BASSA
-577,Melina,Savorgnan,Alfonsi nell'emilia,MEDIA
-578,Luca,Luciani,Filippo del friuli,MEDIA
-579,Sonia,Borrani,"Via Pompeo 420, Borgo Giuliana, Vercelli",BASSA
-580,Armando,Faugno,"Viale Raffaella 90 Appartamento 49, San Giuseppina, Taranto",151 cm
-581,Bernardo,Contarini,"Viale Montecchi 1, Quarto Alessio umbro, Pordenone",162 cm
-582,Fulvio,Trevisan,"Canale Gentili 56 Piano 4, Fortunata terme, Prato",195 cm
-583,Lucia,Pizzetti,Settimo Venancio,158 cm
-584,Lisa,Ossani,"Viale Luciani 0 Appartamento 05, Sesto Raffaella laziale, Padova",165 cm
-585,Lorenzo,Sismondi,"Piazza Bodoni 103, Sesto Tullio, Parma",184 cm
-586,Caterina,Ciampi,Ennio salentino,BASSA
-587,Giancarlo,Ricciardi,"Stretto Evangelista 72 Piano 9, Delfino terme, Novara",160 cm
-588,Gianpaolo,Ferrara,"Stretto Agazzi 412 Piano 6, San Ottavio terme, Catania",MEDIA
-589,Annunziata,Righi,Toni terme,MEDIA
-590,Gianfranco,Petrucci,Borgo Gioacchino laziale,165 cm
-591,Gelsomina,Castioni,Quarto Ludovico terme,BASSA
-592,Vanessa,Greco,Antonini sardo,ALTA
-593,Rosa,Bramante,"Contrada Baggio 27 Piano 6, Paoletta terme, Pesaro e Urbino",176 cm
-594,Romeo,Villadicani,Quarto Nicola calabro,165 cm
-595,Susanna,Balbi,Settimo Sole terme,169 cm
-596,Vittoria,Durante,"Vicolo Arnulfo 54, San Stefano del friuli, Chieti",MEDIA
-597,Orazio,Ferrante,San Stefania terme,BASSA
-598,Lilla,Morpurgo,"Viale Branciforte 645, Quarto Gianfrancesco umbro, Forlì-Cesena",188 cm
-599,Nedda,Errani,Zecchini ligure,151 cm
-600,Gioffre,Callegari,"Rotonda Luca 34, Emma veneto, Pesaro e Urbino",ALTA
-601,Paulina,Malenchini,"Piazza Buonauro 2, Settimo Goffredo a mare, L'Aquila",MEDIA
-602,Jacopo,Casagrande,Caruso terme,192 cm
-603,Rosalia,Blasi,Trezzini salentino,185 cm
-604,Ivan,Bottigliero,"Incrocio Prati 51, Modugno umbro, Terni",BASSA
-605,Berenice,Turchetta,Sesto Umberto terme,BASSA
-606,Guarino,Tomaselli,Emma a mare,ALTA
-607,Uberto,Segni,Borgo Vittorio calabro,192 cm
-608,Adelmo,Piovani,"Strada Michele 0, Ughi a mare, Viterbo",ALTA
-609,Lauretta,Piazzi,"Piazza Aldobrandi 8, Finetti del friuli, Grosseto",MEDIA
-610,Leonardo,Trezzini,"Contrada Piccio 07 Piano 2, Enzio laziale, Palermo",MEDIA
-611,Gioffre,Monaco,"Viale Alessia 946 Appartamento 86, Ubaldo sardo, Biella",BASSA
-612,Elena,Gigli,Quarto Livio,167 cm
-613,Serafina,Toselli,Quarto Lolita sardo,ALTA
-614,Cecilia,Cendron,"Piazza Maggioli 9, Quarto Bartolomeo veneto, Reggio Emilia",ALTA
-615,Fulvio,Tanzini,"Viale Marenzio 002, Sesto Lina nell'emilia, Bergamo",172 cm
-616,Eva,Jilani,Settimo Antonia terme,ALTA
-617,Cristina,Murri,Orlando salentino,BASSA
-618,Fabio,Camiscione,Temistocle ligure,161 cm
-619,Maurilio,Canevascini,"Vicolo Torricelli 53 Appartamento 14, Settimo Pier, Taranto",ALTA
-620,Tiziano,Scamarcio,Roberto del friuli,184 cm
-621,Loredana,Salvemini,"Viale Dolores 6 Appartamento 28, Melania terme, Livorno",ALTA
-622,Aurora,Letta,"Contrada Eugenia 75, San Flora, Savona",180 cm
-623,Victoria,Carriera,"Vicolo Gozzi 941 Appartamento 36, Quarto Sandro, Roma",196 cm
-624,Daria,Martucci,"Strada Rodolfo 30, Liliana calabro, Massa-Carrara",BASSA
-625,Emilio,Totino,"Rotonda Mazzeo 863, San Serafina, Pesaro e Urbino",MEDIA
-626,Lando,Stein,Corradi lido,ALTA
-627,Ivan,Pizzo,San Romeo,156 cm
-628,Donna,Meucci,"Rotonda Luca 3 Piano 4, Costanzo lido, Verbano-Cusio-Ossola",ALTA
-629,Fabrizia,Prati,Sagredo terme,MEDIA
-630,Gianluca,Caracciolo,"Stretto Rienzo 951 Piano 8, San Pompeo terme, Treviso",185 cm
-631,Venancio,Mondadori,"Borgo Pedroni 2 Piano 0, San Virginia ligure, Padova",163 cm
-632,Gianfrancesco,Bellò,Borgo Ronaldo,BASSA
-633,Iolanda,Bulzoni,Quarto Berenice,177 cm
-634,Gioacchino,Giovine,"Canale Buscetta 869 Appartamento 37, Ernesto a mare, Varese",BASSA
-635,Ludovico,Muratori,Cicala del friuli,ALTA
-636,Eleanora,Cappelli,Ammaniti salentino,MEDIA
-637,Mirco,Casini,Monaco calabro,MEDIA
-638,Benedetto,Mercalli,"Via Franco 41 Appartamento 37, Settimo Dionigi nell'emilia, Modena",BASSA
-639,Rossana,Nicolucci,Gioachino laziale,194 cm
-640,Pier,Argentero,Orazio a mare,152 cm
-641,Sylvia,Moneta,Casagrande laziale,163 cm
-642,Diana,Tarchetti,Leopoldo calabro,196 cm
-643,Santino,Altera,"Vicolo Cirillo 39, Ruggiero ligure, Ogliastra",181 cm
-644,Mercedes,Ubaldi,Antonello nell'emilia,BASSA
-645,Ivan,Raurica,"Borgo Lilla 762, San Ivo, Bari",ALTA
-646,Marcantonio,Blasi,"Incrocio Carli 4, San Silvestro, Treviso",MEDIA
-647,Ermanno,Redi,Lorenzo terme,ALTA
-648,Francesca,Nicolini,"Canale Babbo 345, Boldù ligure, Bolzano",152 cm
-649,Agostino,Errani,"Borgo Gaggini 49, Settimo Maria, Catanzaro",182 cm
-650,Irma,Ammaniti,"Strada Prada 37, San Beppe, Piacenza",MEDIA
-651,Gian,Adinolfi,"Canale Gioffre 878 Appartamento 41, Sesto Antonietta, Perugia",MEDIA
-652,Donna,Goldoni,"Contrada Marini 399 Appartamento 67, San Fabia, Brescia",187 cm
-653,Giancarlo,Broschi,"Contrada Bova 865 Appartamento 15, Gioffre laziale, Trento",179 cm
-654,Pellegrino,Tiepolo,"Viale Magnani 49, Borgo Giosuè laziale, Salerno",152 cm
-655,Ilaria,Cilibrasi,"Stretto Renier 0 Appartamento 56, Bonanno sardo, Treviso",ALTA
-656,Giacinto,Flaiano,"Via Angelica 688 Piano 5, Anguissola ligure, Fermo",BASSA
-657,Marta,Martucci,"Canale Camanni 5, Ricolfi salentino, Avellino",BASSA
-658,Federico,Germano,"Strada Imelda 35 Piano 5, Silvio ligure, Cuneo",ALTA
-659,Fausto,Berengario,Nico nell'emilia,157 cm
-660,Piero,Storladi,San Micheletto,ALTA
-661,Sandra,Pizzetti,Rocco del friuli,BASSA
-662,Mercedes,Faugno,Foletti ligure,BASSA
-663,Annetta,Beccaria,Borgo Corrado sardo,194 cm
-664,Rolando,Soffici,"Incrocio Mirco 376, Settimo Gionata del friuli, Perugia",BASSA
-665,Gioachino,Cammarata,Moretti ligure,185 cm
-666,Vito,Tamburi,San Pietro,ALTA
-667,Rodolfo,Baracca,"Borgo Lara 757, Settimo Emilio, Isernia",ALTA
-668,Calcedonio,Pederiva,Silvia laziale,MEDIA
-669,Vincenza,Scaduto,Settimo Luca laziale,169 cm
-670,Rolando,Vitturi,Barbarigo sardo,193 cm
-671,Durante,Trebbi,"Stretto Camuccini 2, Storladi lido, Milano",168 cm
-672,Adamo,Coardi,"Canale Calbo 98, Michela umbro, Fermo",BASSA
-673,Stefano,Errani,Borgo Agostino terme,MEDIA
-674,Marcella,Bevilacqua,"Contrada Cociarelli 13, Cristina veneto, Lucca",168 cm
-675,Daniele,Tartaglia,"Rotonda Bajamonti 077, San Melissa sardo, Piacenza",188 cm
-676,Dolores,Serraglio,"Via Gianfrancesco 4, Quarto Marina, Brescia",MEDIA
-677,Piergiuseppe,Toscani,San Milena salentino,BASSA
-678,Stefani,Serao,"Contrada Benigni 396 Piano 3, Fabio veneto, Verbano-Cusio-Ossola",MEDIA
-679,Lazzaro,Vigorelli,Quarto Concetta lido,195 cm
-680,Cristina,Gagliardi,"Piazza Zoppetti 9, Borgo Flora lido, Catanzaro",MEDIA
-681,Agnolo,Grassi,San Silvia calabro,BASSA
-682,Adelmo,Maglio,"Piazza Finotto 065 Piano 7, Sesto Tullio, Avellino",ALTA
-683,Lolita,Turci,"Vicolo Pirelli 409 Piano 5, Sesto Bettina, Enna",BASSA
-684,Tiziana,Lanfranchi,"Viale Tremonti 9 Appartamento 67, Roman calabro, Firenze",BASSA
-685,Carolina,Guglielmi,"Strada Sandro 561 Piano 7, Tasso lido, Cagliari",167 cm
-686,Bruno,Rosselli,Settimo Vincenza,182 cm
-687,Mirco,Leblanc,"Contrada Pezzali 8 Appartamento 46, Marisa terme, Enna",166 cm
-688,Simonetta,Serraglio,"Strada Gianna 004, Barcella terme, Sondrio",182 cm
-689,Morena,Sraffa,San Angelica,191 cm
-690,Amleto,Battelli,"Strada Marissa 2, Settimo Rita, Varese",BASSA
-691,Vittoria,Scalera,"Viale Vito 81 Appartamento 98, Tomasetti sardo, Perugia",188 cm
-692,Carmelo,Mocenigo,Giada ligure,167 cm
-693,Ernesto,Napolitano,Quarto Fabia umbro,194 cm
-694,Nina,Benedetti,Borgo Dino,150 cm
-695,Tiziano,Balla,"Stretto Adamo 92, Biagiotti umbro, Sassari",168 cm
-696,Ronaldo,Gori,"Viale Mattia 4, Ugo calabro, Trapani",153 cm
-697,Bernardo,Piazzi,"Piazza Fantini 51, Girolamo ligure, Trapani",MEDIA
-698,Annunziata,Milanesi,"Incrocio Guglielmo 75, San Silvestro, Isernia",184 cm
-699,Nicoletta,Tommaseo,Settimo Baccio,ALTA
-700,Aria,Nicoletti,Settimo Nina,166 cm
-701,Antonella,Parri,"Canale Francesca 56, Quarto Dolores a mare, Sondrio",158 cm
-702,Donna,Valmarana,Vezzali ligure,187 cm
-703,Ugolino,Falloppio,Antonello calabro,197 cm
-704,Aria,Gangemi,"Viale Ludovico 41 Piano 9, Mazzi terme, Trento",167 cm
-705,Carmelo,Paoletti,"Incrocio Ciro 18, Contarini a mare, Viterbo",MEDIA
-706,Lorenzo,Volterra,Caffarelli a mare,ALTA
-707,Fausto,Bianchini,"Piazza Semitecolo 566 Piano 3, Piergiuseppe lido, Lucca",ALTA
-708,Lisa,Depero,Mascheroni terme,ALTA
-709,Arturo,Mondaini,"Stretto Busoni 5, Toni terme, Aosta",153 cm
-710,Allegra,Borsiere,Petruzzi del friuli,195 cm
-711,Lisa,Iacobucci,Malpighi salentino,ALTA
-712,Rosina,Ricolfi,"Incrocio Zaccardo 30 Appartamento 72, Sesto Mirco nell'emilia, Campobasso",MEDIA
-713,Piergiuseppe,Pavanello,"Vicolo Canevascini 224, Coluccio ligure, L'Aquila",177 cm
-714,Lucio,Vecellio,Settimo Pellegrino lido,161 cm
-715,Luciana,Iacovelli,Arnulfo nell'emilia,166 cm
-716,Tatiana,Conti,"Strada Canil 1, Sesto Mirco, Udine",156 cm
-717,Renzo,Franceschi,"Via Simonetta 09 Piano 1, Antonia nell'emilia, Barletta-Andria-Trani",188 cm
-718,Massimo,Branciforte,"Rotonda Cibin 023 Appartamento 73, Galvani laziale, Ancona",BASSA
-719,Enrico,Baresi,Giacobbe laziale,200 cm
-720,Calogero,Tosto,Piovani calabro,MEDIA
-721,Arnulfo,Bandello,Togliatti salentino,ALTA
-722,Pierluigi,Borrani,"Via Zamengo 7 Appartamento 98, Quarto Veronica laziale, Udine",182 cm
-723,Gioffre,Soranzo,Verri calabro,BASSA
-724,Marcella,Tasca,"Strada Giulietti 859, Settimo Patrizio a mare, Catania",199 cm
-725,Aria,Alboni,"Canale Graziano 84 Appartamento 72, Sesto Guarino, Ascoli Piceno",174 cm
-726,Gianfrancesco,Ferrazzi,"Viale Venier 90 Piano 7, Cutuli umbro, Genova",166 cm
-727,Rita,Mercati,"Borgo Emilio 8, Tencalla nell'emilia, Grosseto",198 cm
-728,Achille,Mancini,Sesto Ivan,184 cm
-729,Cesare,Campise,Orazio del friuli,ALTA
-730,Licia,Verga,Alessio veneto,ALTA
-731,Fiamma,Odescalchi,Paulina laziale,BASSA
-732,Alberico,Ricciardi,"Contrada Emilio 214 Appartamento 46, Baroffio del friuli, Roma",153 cm
-733,Mario,Bianchini,"Incrocio Ammaniti 10 Appartamento 77, Fulvio veneto, Siena",MEDIA
-734,Ettore,Cammarata,Enzio a mare,ALTA
-735,Stella,Cavalcanti,"Canale Cainero 84 Piano 6, Depero sardo, Terni",171 cm
-736,Beppe,Toso,"Contrada Danilo 21, Settimo Fabio, Brescia",MEDIA
-737,Benito,Scalera,"Strada Milanesi 6 Appartamento 23, Borgo Laura del friuli, Varese",181 cm
-738,Baldassare,Ovadia,Ottavio laziale,MEDIA
-739,Morena,Brambilla,"Incrocio Bonomo 5, Elvira veneto, Aosta",BASSA
-740,Maurilio,Segni,Pigafetta ligure,152 cm
-741,Milena,Respighi,"Canale Severino 6, Settimo Ninetta lido, Alessandria",162 cm
-742,Isa,Grimani,"Piazza Isabella 307 Piano 2, Settimo Roman terme, Sassari",ALTA
-743,Virginia,Gentilini,Vercelloni lido,181 cm
-744,Lorenzo,Palazzo,Sesto Fernanda,184 cm
-745,Amedeo,Barozzi,Margherita terme,ALTA
-746,Patrizio,Pizzamano,"Contrada Pugliese 1 Appartamento 56, Stella nell'emilia, Pordenone",BASSA
-747,Veronica,Ferragni,Chiara veneto,161 cm
-748,Martina,Trincavelli,Tuzzolino calabro,171 cm
-749,Sophia,Pietrangeli,"Piazza Metella 832, Borgo Renata a mare, Torino",BASSA
-750,Federica,Anichini,Sesto Ermenegildo,179 cm
-751,Vincentio,Collodi,"Canale Fittipaldi 75, Borgo Massimiliano, Ferrara",178 cm
-752,Costanzo,Vespa,"Rotonda Flora 12 Appartamento 24, San Alfio, Oristano",MEDIA
-753,Delfino,Baresi,Giuseppina umbro,153 cm
-754,Giovanni,Argan,"Viale Travaglio 12, Sesto Marcella terme, Barletta-Andria-Trani",199 cm
-755,Rosa,Soderini,"Stretto Padovano 61, Settimo Azeglio calabro, Cagliari",150 cm
-756,Piermaria,Giannelli,Sesto Olga ligure,164 cm
-757,Leone,Rossellini,San Temistocle,160 cm
-758,Flavia,Renier,Settimo Luigi ligure,ALTA
-759,Fiorenzo,Totino,Rembrandt lido,158 cm
-760,Ippazio,Brichese,Sesto Ubaldo ligure,ALTA
-761,Annetta,Carnera,Quarto Rossana lido,167 cm
-762,Raffaello,Petrucci,"Stretto Gangemi 223 Piano 5, Roman salentino, Olbia-Tempio",BASSA
-763,Ottone,Doria,"Borgo Viridiana 231 Piano 0, Sesto Rembrandt, Nuoro",MEDIA
-764,Rita,Marini,Benigni ligure,MEDIA
-765,Massimiliano,Pometta,"Strada Merisi 67, Quarto Greca lido, Venezia",161 cm
-766,Riccardo,Granatelli,"Incrocio Claudia 663 Piano 9, Faranda umbro, Verona",BASSA
-767,Valerio,Barberini,Lidia del friuli,BASSA
-768,Luciano,Guidone,"Borgo Galuppi 39, San Oreste del friuli, Pescara",BASSA
-769,Milo,Goldoni,Savorgnan salentino,ALTA
-770,Vanessa,Lopresti,"Vicolo Morandini 350, Borgo Francesco umbro, Brindisi",MEDIA
-771,Ettore,Mancini,"Via Ninetta 203 Appartamento 52, Sesto Raimondo, Bari",150 cm
-772,Stella,Micca,Concetta ligure,BASSA
-773,Maria,Pepe,Marcantonio veneto,193 cm
-774,Romeo,Mazzi,"Incrocio Pirelli 295 Piano 8, Sesto Domenico umbro, Biella",165 cm
-775,Aria,Grossi,Quarto Romina salentino,173 cm
-776,Lauretta,Liguori,"Piazza Olga 4 Appartamento 26, Borgo Antonina terme, Lecce",200 cm
-777,Calcedonio,Pagnotto,Settimo Alessandra calabro,150 cm
-778,Barbara,Dellucci,"Contrada Aulenti 5 Piano 9, Zacco lido, Cuneo",152 cm
-779,Berenice,Marconi,"Viale Flavia 39, Dossetti lido, La Spezia",ALTA
-780,Flavio,Vergerio,Quarto Antonello,MEDIA
-781,Serena,Druso,Quarto Gianpaolo,BASSA
-782,Augusto,Trincavelli,Borgo Bruno salentino,156 cm
-783,Costantino,Canetta,"Contrada Tarantini 16, Settimo Lucia veneto, Torino",180 cm
-784,Ettore,Piacentini,"Vicolo Turci 522, Quarto Dante salentino, Sassari",BASSA
-785,Ippazio,Vespa,Agostino sardo,ALTA
-786,Zaira,Mantegazza,"Borgo Piero 625, Jolanda terme, Ascoli Piceno",MEDIA
-787,Sandro,Pasolini,Settimo Tatiana,MEDIA
-788,Coriolano,Turchi,Settimo Ornella,188 cm
-789,Baccio,Regge,"Canale Redi 642, Scalera sardo, Rieti",196 cm
-790,Bettina,Sanguineti,"Strada Draghi 351 Appartamento 44, Sesto Gemma, Verbano-Cusio-Ossola",184 cm
-791,Marcella,Tuzzolino,"Canale Ruggiero 55, Comboni laziale, Catania",178 cm
-792,Aria,Nosiglia,"Borgo Vito 626 Appartamento 58, Jolanda lido, Carbonia-Iglesias",BASSA
-793,Temistocle,Ubaldi,Sesto Bettina terme,BASSA
-794,Toni,Cuda,"Vicolo Druso 108 Appartamento 05, Dellucci calabro, Crotone",195 cm
-795,Alessia,Sabatini,"Contrada Moschino 7 Piano 8, Settimo Antonino, Sassari",187 cm
-796,Marina,Anguissola,Borgo Flora,155 cm
-797,Damiano,Scarfoglio,Settimo Annunziata,BASSA
-798,Francesco,Calarco,"Borgo Antonucci 809 Appartamento 06, San Benedetto salentino, Macerata",182 cm
-799,Carlo,Marinetti,"Incrocio Pomponio 21, Quarto Gustavo, Torino",ALTA
-800,Agostino,Accardo,Sesto Ottavio,ALTA
-801,Romina,Canetta,Settimo Ivo laziale,ALTA
-802,Vanessa,Morpurgo,Battelli ligure,157 cm
-803,Raimondo,Turchi,"Stretto Napolitano 96, Trombetta umbro, Mantova",182 cm
-804,Patrizio,Asmundo,"Viale Tarantini 884 Appartamento 95, Giannetti laziale, Matera",184 cm
-805,Greco,Cimini,"Vicolo Fantini 3 Appartamento 45, Quarto Camillo, Benevento",171 cm
-806,Diana,Parmitano,Borgo Calogero,MEDIA
-807,Pasqual,Traversa,"Vicolo Capone 3 Piano 2, Ludovica salentino, Palermo",MEDIA
-808,Dolores,Gibilisco,"Piazza Paolini 13 Appartamento 11, San Galasso, Aosta",BASSA
-809,Aldo,Gibilisco,Gabrieli del friuli,ALTA
-810,Leone,Bettin,"Borgo Anguillara 1 Appartamento 05, Sesto Nanni, Avellino",166 cm
-811,Ansaldo,Navone,"Rotonda Tresoldi 60 Appartamento 49, San Nadia salentino, Nuoro",ALTA
-812,Osvaldo,Cutuli,"Contrada Giorgio 93 Piano 5, Sesto Federigo, Pisa",BASSA
-813,Lidia,Busoni,Borgo Bernardo veneto,BASSA
-814,Vincenza,Dallara,Settimo Leone,ALTA
-815,Virgilio,Trebbi,Borgo Martino ligure,MEDIA
-816,Lamberto,Berlusconi,"Via Loredana 324, Quarto Claudia, Lodi",ALTA
-817,Amanda,Toselli,Garrone del friuli,168 cm
-818,Lauretta,Donatoni,"Rotonda Gaiatto 778 Appartamento 74, Corbo umbro, Siracusa",MEDIA
-819,Fabia,Gregorio,Sesto Lisa terme,MEDIA
-820,Massimiliano,Gozzi,Valentina a mare,160 cm
-821,Amadeo,Malenchini,"Borgo Calarco 852, Emma ligure, Palermo",173 cm
-822,Telemaco,Giannini,"Borgo Virgilio 41 Appartamento 09, Settimo Coluccio veneto, Mantova",BASSA
-823,Niccolò,Volterra,"Canale Giulio 57 Piano 8, Arsenio ligure, Messina",184 cm
-824,Roberta,Castiglione,Settimo Bianca,BASSA
-825,Erika,Molesini,Doglioni terme,184 cm
-826,Nadia,Trentini,"Incrocio Filogamo 941, Aria veneto, Pesaro e Urbino",200 cm
-827,Patrizia,Olivetti,"Via Lippomano 677 Piano 3, Giulio veneto, Bari",MEDIA
-828,Valerio,Parmitano,Fornaciari ligure,ALTA
-829,Edoardo,Bellini,"Borgo Antelami 563, Sesto Rita, Pesaro e Urbino",ALTA
-830,Guido,Infantino,Amanda lido,185 cm
-831,Giampaolo,Buonauro,"Incrocio Flavio 288 Appartamento 45, Broggini terme, Ravenna",BASSA
-832,Paoletta,Bosio,Mogherini sardo,175 cm
-833,Antonello,Chiaramonte,"Incrocio Biagiotti 48, Settimo Olga ligure, Rimini",174 cm
-834,Ramona,Borromini,Argurio lido,MEDIA
-835,Laureano,Pisaroni,"Contrada Amalia 80 Appartamento 89, Sesto Pierpaolo, Carbonia-Iglesias",199 cm
-836,Isabella,Verdone,Tiepolo sardo,BASSA
-837,Ubaldo,Iacovelli,Borgo Licia lido,MEDIA
-838,Marissa,Scaramucci,Borgo Carolina veneto,194 cm
-839,Fiorino,Nicoletti,"Canale Modiano 291 Appartamento 16, Settimo Sole laziale, Massa-Carrara",ALTA
-840,Flavia,Schicchi,Settimo Ennio del friuli,MEDIA
-841,Sabatino,Morellato,Toscanini lido,182 cm
-842,Alfio,Carullo,San Livio,182 cm
-843,Mattia,Mazzanti,"Vicolo Pozzecco 8 Piano 7, Alboni umbro, Piacenza",195 cm
-844,Victoria,Amato,Angelo del friuli,ALTA
-845,Tiziana,Trevisani,"Contrada Ossani 1 Piano 9, Borgo Gianfrancesco, Lecco",164 cm
-846,Angelica,Rensi,"Canale Leone 15, Quarto Matilda terme, Pescara",MEDIA
-847,Ninetta,Baresi,"Borgo Ramona 60, Quarto Simonetta, Monza e della Brianza",162 cm
-848,Bartolomeo,Monte,"Vicolo Caracciolo 20 Appartamento 35, Borgo Antonia ligure, Campobasso",ALTA
-849,Vito,Proietti,Sesto Calcedonio,BASSA
-850,Gioacchino,Pastine,Errani terme,ALTA
-851,Arturo,Tedesco,Dionigi terme,ALTA
-852,Ruggiero,Padovano,Borgo Nanni,ALTA
-853,Elvira,Boitani,"Via Saffi 3 Piano 0, Mercalli umbro, Vercelli",MEDIA
-854,Federico,Vento,"Contrada Udinese 4, Rosa terme, La Spezia",184 cm
-855,Telemaco,Grifeo,"Via Agostini 606, Borgo Giorgio nell'emilia, Imperia",MEDIA
-856,Michele,Caboto,"Contrada Greca 7, Sesto Milena, Caltanissetta",156 cm
-857,Alberico,Argento,"Stretto Satriani 09 Appartamento 77, Sesto Giorgio, Trieste",180 cm
-858,Emma,Boezio,"Via Danilo 033, Sesto Patrizia nell'emilia, Catanzaro",MEDIA
-859,Nico,Gabbana,"Contrada Botta 563 Appartamento 27, Quarto Nico a mare, Caltanissetta",191 cm
-860,Caterina,Taliani,"Vicolo Jilani 63 Piano 1, Ceci ligure, Forlì-Cesena",BASSA
-861,Adriana,Giunti,Sesto Torquato a mare,175 cm
-862,Gioele,Ceci,"Piazza Rosalia 37 Appartamento 24, Guarato terme, Lucca",ALTA
-863,Coriolano,Badoglio,Gatto laziale,MEDIA
-864,Lazzaro,Praga,Monduzzi salentino,174 cm
-865,Renata,Surian,Quarto Antonello del friuli,ALTA
-866,Pellegrino,Malpighi,"Strada Natalia 13 Piano 9, Folliero sardo, Gorizia",BASSA
-867,Anita,Campise,Settimo Stella nell'emilia,155 cm
-868,Flora,Caruso,Jacopo nell'emilia,183 cm
-869,Liana,Borromeo,San Lidia laziale,160 cm
-870,Agostino,Zeffirelli,"Stretto Baracca 4, San Pina salentino, Verona",ALTA
-871,Rosina,Niggli,"Canale Geronimo 380, Bova sardo, Parma",BASSA
-872,Loretta,Costanzi,"Borgo Barbara 084 Piano 6, Borgo Gianmarco nell'emilia, Bergamo",174 cm
-873,Santino,Ricolfi,San Franco,169 cm
-874,Fabrizia,Valguarnera,"Viale Emanuelli 56, Tatiana salentino, Lodi",193 cm
-875,Filippo,Ficino,Quarto Leone,178 cm
-876,Elmo,Costalonga,Sesto Anita,174 cm
-877,Alessandro,Stoppani,"Via Giuliana 7, Gian terme, Isernia",ALTA
-878,Tonino,Vecellio,"Incrocio Majorana 25, Tosi veneto, Milano",184 cm
-879,Antonella,Garobbio,Quarto Antonio terme,ALTA
-880,Priscilla,Anguissola,"Stretto Ranieri 78, Settimo Annalisa umbro, Rieti",MEDIA
-881,Rocco,Garibaldi,Gianfranco umbro,161 cm
-882,Aria,Sabbatini,"Via Elladio 0 Appartamento 04, Settimo Nicoletta terme, Verbano-Cusio-Ossola",175 cm
-883,Annalisa,Lussu,"Via Marina 43, Pomponio salentino, Trento",ALTA
-884,Erika,Balbi,Settimo Fernanda terme,BASSA
-885,Saverio,Carullo,"Stretto Ronaldo 2 Piano 3, Filangieri terme, Sondrio",MEDIA
-886,Angelica,Parpinel,Camillo del friuli,180 cm
-887,Antonello,Bernardi,"Rotonda Pier 1 Piano 5, Settimo Vincentio salentino, Torino",162 cm
-888,Amedeo,Sonnino,"Stretto Quasimodo 478 Appartamento 46, Settimo Toni, Ancona",168 cm
-889,Dina,Ferrazzi,"Stretto Finetti 73 Appartamento 92, Edoardo umbro, Ragusa",BASSA
-890,Diana,Salgari,"Incrocio Sinisi 0 Piano 2, San Orlando terme, Catanzaro",ALTA
-891,Aurora,Mengolo,Sesto Carla veneto,191 cm
-892,Daria,Rinaldi,"Viale Marisa 54 Piano 8, Giampaolo umbro, Taranto",200 cm
-893,Alessia,Onio,"Strada Cortese 84, Agostino lido, Latina",186 cm
-894,Giacomo,Petrassi,San Vanessa,162 cm
-895,Annibale,Palmisano,"Piazza Venier 118, Melina a mare, Reggio Emilia",MEDIA
-896,Benvenuto,Fanucci,Quarto Ansaldo,ALTA
-897,Delfino,Tutino,"Stretto Flavia 93 Piano 9, Settimo Lisa, Oristano",167 cm
-898,Sylvia,Paoletti,"Contrada Siffredi 70, Borgo Antonio, Sassari",177 cm
-899,Romeo,Paltrinieri,"Piazza Angelina 36 Appartamento 44, San Adriano, Torino",171 cm
-900,Luciano,Maglio,"Piazza Temistocle 9, Sesto Melania, Palermo",MEDIA
-901,Loredana,Marinetti,Grossi veneto,174 cm
-902,Monica,Vitturi,Travaglia veneto,161 cm
-903,Lauretta,Boccioni,"Viale Rizzoli 49, Martino nell'emilia, Lecce",181 cm
-904,Ezio,Zacco,"Viale Angelina 71, Fabrizia umbro, Caserta",160 cm
-905,Lorenzo,Gibilisco,Ferragni terme,185 cm
-906,Torquato,Morellato,Borgo Griselda,ALTA
-907,Paride,Rastelli,Filippa veneto,198 cm
-908,Franco,Faranda,"Vicolo Verdi 7 Appartamento 74, Alessia lido, Arezzo",198 cm
-909,Ignazio,Quasimodo,"Strada Marina 7, Settimo Torquato, Pordenone",177 cm
-910,Giada,Sgalambro,"Canale Peruzzi 2, Flavia terme, Matera",173 cm
-911,Cipriano,Musatti,Niccolò lido,152 cm
-912,Orlando,Casadei,"Rotonda Fortunata 96, Quarto Costantino, Ogliastra",176 cm
-913,Lando,Pavone,Beatrice laziale,MEDIA
-914,Antonietta,Prodi,Sesto Adriano,199 cm
-915,Matilda,Cicilia,Gianmarco laziale,MEDIA
-916,Loretta,Faugno,Lara lido,183 cm
-917,Pellegrino,Lerner,San Calogero terme,ALTA
-918,Gianni,Visconti,"Piazza Rodolfo 757 Appartamento 68, Soffici terme, Vicenza",BASSA
-919,Gino,Taccola,"Rotonda Garobbio 74, Aldobrandi terme, Parma",166 cm
-920,Daria,Gianetti,San Giuliana veneto,176 cm
-921,Guarino,Trapani,"Vicolo Pizzetti 54 Appartamento 45, Quarto Romina a mare, Vicenza",150 cm
-922,Evangelista,Pacomio,San Matilda,163 cm
-923,Enzio,Troisi,"Contrada Letta 8, Tonia lido, Viterbo",MEDIA
-924,Uberto,Mancini,Bocca laziale,MEDIA
-925,Severino,Nievo,"Incrocio Tutino 47, Settimo Vincentio, Asti",156 cm
-926,Severino,Sonnino,"Vicolo Ammaniti 8 Appartamento 93, Borgo Luchino, Bologna",195 cm
-927,Dina,Tosi,"Contrada Benvenuto 1, Gioacchino del friuli, Ancona",183 cm
-928,Giacomo,Pacelli,"Vicolo Liberto 6, Matilda a mare, Massa-Carrara",176 cm
-929,Claudio,Vattimo,"Incrocio Gastone 45 Piano 7, Sesto Dina laziale, Firenze",BASSA
-930,Michelotto,Zanichelli,Quarto Valeria,BASSA
-931,Bernardo,Mogherini,Silvia ligure,157 cm
-932,Olga,Pisano,"Via Gaspare 605 Piano 1, Quarto Raimondo terme, Pordenone",183 cm
-933,Simonetta,Falier,"Canale Calogero 82 Appartamento 64, Praga lido, Isernia",MEDIA
-934,Loretta,Raimondi,Raffaello salentino,175 cm
-935,Fiamma,Camuccini,Virginia ligure,181 cm
-936,Fiorenzo,Ciani,Filippo ligure,BASSA
-937,Rocco,Cagnin,Piovani del friuli,196 cm
-938,Dolores,Prati,Mondadori sardo,181 cm
-939,Bettina,Ubaldi,Borgo Claudio,BASSA
-940,Umberto,Asprucci,Settimo Federica,155 cm
-941,Simonetta,Basadonna,Settimo Adriana,154 cm
-942,Calcedonio,Saffi,"Rotonda Vattimo 33, Settimo Giancarlo del friuli, Caltanissetta",189 cm
-943,Annetta,Carfagna,"Rotonda Flaiano 702, Settimo Griselda, Cremona",ALTA
-944,Gelsomina,Bongiorno,Sesto Gilberto,188 cm
-945,Ludovico,Traversa,Settimo Gianni,151 cm
-946,Adele,Argento,Sesto Nadia umbro,MEDIA
-947,Coluccio,Guarana,Sesto Mario,178 cm
-948,Maria,Dallapé,"Piazza Ugo 18 Piano 8, Borgo Natalia laziale, Mantova",ALTA
-949,Gioffre,Trapani,"Rotonda Rossana 6, Angelica a mare, Mantova",188 cm
-950,Gianmarco,Mercati,Settimo Stella,159 cm
-951,Giuliana,Pertini,"Borgo Florio 471 Appartamento 50, Sesto Ubaldo, Lecco",BASSA
-952,Melania,Mazzeo,"Rotonda Mariano 9, Bianca terme, Olbia-Tempio",MEDIA
-953,Daria,Casale,"Incrocio Tonia 7, Camillo sardo, Lodi",182 cm
-954,Cristina,Pisani,Trussardi ligure,MEDIA
-955,Ricciotti,Nonis,Aporti laziale,162 cm
-956,Antonello,Navarria,"Borgo Adriano 4, Rosina salentino, Latina",165 cm
-957,Gioacchino,Vento,"Borgo Galasso 1, Piergiorgio a mare, Napoli",168 cm
-958,Antonella,Tamborini,Sesto Romolo ligure,197 cm
-959,Silvia,Giacconi,Luigi terme,154 cm
-960,Elmo,Pozzecco,Puccini lido,ALTA
-961,Giuliano,Scotti,"Contrada Fabrizio 2 Appartamento 50, Argan salentino, Lecco",164 cm
-962,Achille,Nonis,Enzio del friuli,ALTA
-963,Michela,Morgagni,"Via Mariana 621, Sesto Fedele ligure, Prato",183 cm
-964,Emma,Aldobrandi,Settimo Amleto,ALTA
-965,Giulio,Foconi,"Incrocio Lando 9, San Giuseppina, Grosseto",ALTA
-966,Galasso,Luciani,Beppe salentino,BASSA
-967,Domenico,Cuzzocrea,"Strada Ennio 8, Lorenzo salentino, Latina",ALTA
-968,Ugo,Lopresti,"Viale Casagrande 858, Quarto Leonardo, Bergamo",MEDIA
-969,Marcantonio,Paoletti,"Rotonda Santoro 96, Settimo Galasso laziale, Treviso",196 cm
-970,Nanni,Franceschi,Sesto Alfredo sardo,ALTA
-971,Giancarlo,Fallaci,"Strada Praga 388, Alphons terme, Monza e della Brianza",MEDIA
-972,Atenulf,Carriera,"Strada Dino 37 Appartamento 29, Quarto Arnulfo nell'emilia, Macerata",199 cm
-973,Giuliano,Giorgetti,Ortolani a mare,MEDIA
-974,Lisa,Majorana,"Contrada Dino 54 Appartamento 47, Borgo Emilio calabro, Nuoro",MEDIA
-975,Mirco,Pugliese,Belletini ligure,ALTA
-976,Giorgia,Beffa,Tomasini a mare,154 cm
-977,Nicoletta,Antonucci,San Giorgio,BASSA
-978,Luchino,Chiappetta,"Borgo Mirko 96, Carriera ligure, Piacenza",ALTA
-979,Ezio,Donarelli,"Via Mastroianni 7, Salata nell'emilia, Firenze",182 cm
-980,Massimo,Caffarelli,Sesto Milo,188 cm
-981,Domenico,Tedesco,"Contrada Stefani 656, Borgo Carmelo veneto, Bologna",BASSA
-982,Giuseppe,Fantoni,"Strada Lauretta 012, Fedele lido, Milano",171 cm
-983,Pier,Balbi,"Stretto Nitto 81 Appartamento 05, Camicione a mare, Asti",ALTA
-984,Antonino,Sagnelli,"Stretto Caccioppoli 0 Piano 5, Settimo Viridiana del friuli, Parma",MEDIA
-985,Raffaella,Lippomano,Bresciani terme,192 cm
-986,Eva,Iacovelli,Sesto Lucio,BASSA
-987,Lolita,Tognazzi,San Biagio calabro,153 cm
-988,Bartolomeo,Piacentini,"Vicolo Ermenegildo 218 Piano 7, Quarto Agnolo salentino, Varese",151 cm
-989,Sandra,Gianinazzi,"Borgo Enzio 2 Piano 2, Crispi del friuli, L'Aquila",183 cm
-990,Orlando,Papetti,Morricone ligure,MEDIA
-991,Ermenegildo,Grifeo,Castellitto sardo,MEDIA
-992,Flavia,Bartoli,Sesto Sandro laziale,161 cm
-993,Jolanda,Bernetti,San Manuel nell'emilia,ALTA
-994,Angelica,Cicilia,Alberico umbro,195 cm
-995,Greco,Murialdo,"Incrocio Ungaretti 45 Piano 7, Sesto Rosaria, Gorizia",BASSA
-996,Amadeo,Fioravanti,"Borgo Cafarchia 11, Catenazzi ligure, Venezia",189 cm
-997,Luigi,Galtarossa,"Borgo Eraldo 0, Sesto Valentina calabro, Rovigo",185 cm
-998,Fabrizia,Trupiano,Cicala umbro,191 cm
-999,Donatella,Einaudi,"Via Ziani 1 Piano 6, Sesto Baccio laziale, Ancona",190 cm
+id  ,name          ,surname       ,address                                                                         ,height
+  0 ,Silvia        ,Giannetti     ,Borgo Ennio                                                                     ,ALTA
+  1 ,Antonia       ,Doglioni      ,Sesto Orazio lido                                                               ,BASSA
+  2 ,Piermaria     ,Borsiere      ,Veronica calabro                                                                ,195 cm
+  3 ,Maurizio      ,Tozzo         ,"Contrada Marconi 19, Casadei lido, Caserta"                                    ,ALTA
+  4 ,Valeria       ,Corcos        ,"Strada Dionigi 8 Appartamento 22, Riccardo veneto, Verona"                     ,162 cm
+  5 ,Carmelo       ,Piacentini    ,Borgo Sophia terme                                                              ,ALTA
+  6 ,Gianluigi     ,Filippini     ,"Borgo Catenazzi 982 Piano 8, Strangio terme, Reggio Calabria"                  ,ALTA
+  7 ,Ludovico      ,Iannotti      ,"Viale Finzi 9, Moschino nell'emilia, Ascoli Piceno"                            ,175 cm
+  8 ,Elvira        ,Speri         ,"Vicolo Correr 661, San Erika, Vercelli"                                        ,ALTA
+  9 ,Corrado       ,Bembo         ,Cattaneo laziale                                                                ,180 cm
+ 10 ,Giampiero     ,Jovinelli     ,"Contrada Vincenza 653, Arnulfo sardo, Venezia"                                 ,MEDIA
+ 11 ,Torquato      ,Giannone      ,"Viale Ernesto 7 Piano 4, Quarto Pasquale, Potenza"                             ,163 cm
+ 12 ,Victoria      ,Forza         ,Quarto Ezio sardo                                                               ,ALTA
+ 13 ,Vincenza      ,Vittadello    ,"Viale Borzomì 190, Farina del friuli, Avellino"                                ,ALTA
+ 14 ,Raffaella     ,Boito         ,"Viale Fabio 262 Appartamento 71, Borgo Maria, Catania"                         ,ALTA
+ 15 ,Maurizio      ,Fermi         ,Sesto Nino                                                                      ,BASSA
+ 16 ,Pier          ,Serao         ,"Vicolo Giulietta 68 Piano 0, Lucciano sardo, Vicenza"                          ,MEDIA
+ 17 ,Leone         ,Spanevello    ,Zaccardo veneto                                                                 ,BASSA
+ 18 ,Vito          ,Fogazzaro     ,"Piazza Maderno 00, Silvio veneto, Ancona"                                      ,187 cm
+ 19 ,Adriano       ,Bosio         ,Foletti a mare                                                                  ,190 cm
+ 20 ,Beatrice      ,Riccardi      ,"Vicolo Baggio 046, Mirco calabro, Ancona"                                      ,158 cm
+ 21 ,Raimondo      ,Caracciolo    ,"Borgo Raffaele 2 Piano 4, Borgo Daniele nell'emilia, Perugia"                  ,194 cm
+ 22 ,Edoardo       ,Maderna       ,Babati salentino                                                                ,191 cm
+ 23 ,Pietro        ,Pausini       ,Gloria nell'emilia                                                              ,162 cm
+ 24 ,Ilaria        ,Camilleri     ,Borgo Concetta                                                                  ,BASSA
+ 25 ,Maria         ,Pedersoli     ,Ravaglioli calabro                                                              ,MEDIA
+ 26 ,Annalisa      ,Prodi         ,"Via Carriera 7, San Calogero, Roma"                                            ,199 cm
+ 27 ,Donato        ,Mascagni      ,Borrani terme                                                                   ,ALTA
+ 28 ,Rodolfo       ,Rossini       ,"Canale Murialdo 541, Sesto Francesco terme, Vibo Valentia"                     ,153 cm
+ 29 ,Guido         ,Pininfarina   ,Borgo Temistocle del friuli                                                     ,161 cm
+ 30 ,Matilda       ,Onio          ,"Stretto Stefani 312 Piano 9, Maurilio veneto, Verona"                          ,171 cm
+ 31 ,Federigo      ,Muratori      ,"Contrada Botticelli 857 Appartamento 39, Sesto Antonino, Arezzo"               ,BASSA
+ 32 ,Gianfrancesco ,Rosmini       ,"Canale Taccola 3, Marcella umbro, Trento"                                      ,BASSA
+ 33 ,Piergiorgio   ,Finetti       ,"Stretto Benedetto 987, Pertile lido, Monza e della Brianza"                    ,MEDIA
+ 34 ,Fabio         ,Busoni        ,"Vicolo Mattarella 9, Borgo Graziella sardo, Chieti"                            ,177 cm
+ 35 ,Greca         ,Staglieno     ,"Incrocio Carriera 34, Morricone ligure, Enna"                                  ,BASSA
+ 36 ,Flavio        ,Grimani       ,Lamberto a mare                                                                 ,BASSA
+ 37 ,Gianpaolo     ,Brenna        ,Giulietta ligure                                                                ,154 cm
+ 38 ,Saverio       ,Bettoni       ,San Amadeo                                                                      ,200 cm
+ 39 ,Pier          ,Vattimo       ,"Rotonda Rastelli 951 Piano 4, Adriana sardo, Trento"                           ,ALTA
+ 40 ,Chiara        ,Zito          ,Alessio veneto                                                                  ,161 cm
+ 41 ,Priscilla     ,Norbiato      ,"Vicolo Luciana 79, Quarto Griselda, Forlì-Cesena"                              ,186 cm
+ 42 ,Gioachino     ,Lancisi       ,Borgo Marisa                                                                    ,ALTA
+ 43 ,Giuseppina    ,Pareto        ,"Stretto Toni 38 Piano 1, Sesto Hugo, Siena"                                    ,155 cm
+ 44 ,Isabella      ,Pertini       ,San Francesco terme                                                             ,169 cm
+ 45 ,Rita          ,Nitto         ,"Borgo Guglielmo 890, San Antonio, L'Aquila"                                    ,MEDIA
+ 46 ,Vito          ,Filangieri    ,"Canale Vecoli 6 Piano 8, Proietti lido, Gorizia"                               ,184 cm
+ 47 ,Cassandra     ,Squarcione    ,Borgo Annalisa                                                                  ,BASSA
+ 48 ,Luisa         ,Salata        ,Settimo Piergiuseppe ligure                                                     ,153 cm
+ 49 ,Olga          ,Galeati       ,"Vicolo Favata 403, San Rolando ligure, Terni"                                  ,BASSA
+ 50 ,Sandro        ,Tomasetti     ,Michelotto salentino                                                            ,ALTA
+ 51 ,Rosa          ,Giannotti     ,"Rotonda Spinelli 52 Appartamento 36, San Ricciotti, Teramo"                    ,182 cm
+ 52 ,Fabrizio      ,Forza         ,Eleanora a mare                                                                 ,171 cm
+ 53 ,Rocco         ,Ariosto       ,Borgo Germana ligure                                                            ,180 cm
+ 54 ,Nedda         ,Olivetti      ,San Michelangelo                                                                ,192 cm
+ 55 ,Arnaldo       ,Malipiero     ,"Rotonda Sommaruga 8, Quarto Goffredo, Ravenna"                                 ,175 cm
+ 56 ,Valerio       ,Montanari     ,"Viale Giannotti 194 Piano 8, Zanzi umbro, Brescia"                             ,163 cm
+ 57 ,Mariano       ,Gatto         ,San Antonella veneto                                                            ,150 cm
+ 58 ,Bruno         ,Tagliafierro  ,Borgo Massimo lido                                                              ,BASSA
+ 59 ,Beatrice      ,Camuccini     ,Sesto Raffaele laziale                                                          ,171 cm
+ 60 ,Adamo         ,Opizzi        ,"Viale Guinizzelli 56 Piano 5, Patrizio lido, Pordenone"                        ,200 cm
+ 61 ,Dolores       ,Doglioni      ,Zoppetti umbro                                                                  ,175 cm
+ 62 ,Rosaria       ,Giannotti     ,"Rotonda Palladio 00 Appartamento 73, Gilberto terme, La Spezia"                ,BASSA
+ 63 ,Nicolò        ,Giolitti      ,Borgo Ezio                                                                      ,ALTA
+ 64 ,Ninetta       ,Guglielmi     ,"Viale Gregori 94 Appartamento 13, Legnante lido, Siracusa"                     ,199 cm
+ 65 ,Pasquale      ,Ferrazzi      ,Calogero ligure                                                                 ,183 cm
+ 66 ,Giulietta     ,Lerner        ,Pierangelo sardo                                                                ,184 cm
+ 67 ,Gabriele      ,Monduzzi      ,"Via Pozzecco 41 Piano 6, Torlonia del friuli, Reggio Emilia"                   ,182 cm
+ 68 ,Raffaello     ,Terragni      ,"Contrada Druso 50 Appartamento 37, Giuliana lido, Benevento"                   ,MEDIA
+ 69 ,Melania       ,Galtarossa    ,"Piazza Caruso 02 Piano 6, Borgo Achille umbro, Rimini"                         ,167 cm
+ 70 ,Claudio       ,Russo         ,Quarto Carla laziale                                                            ,152 cm
+ 71 ,Valerio       ,Antonucci     ,"Rotonda Fieramosca 304, Fuseli nell'emilia, Sondrio"                           ,MEDIA
+ 72 ,Serafina      ,Lupo          ,Settimo Giulio                                                                  ,183 cm
+ 73 ,Ansaldo       ,Pontecorvo    ,"Rotonda Benigni 9, Morrocco umbro, Pavia"                                      ,195 cm
+ 74 ,Aldo          ,Cammarata     ,Alderano sardo                                                                  ,174 cm
+ 75 ,Luisa         ,Andreozzi     ,"Canale Petrocelli 476, Quarto Alina a mare, Rieti"                             ,195 cm
+ 76 ,Victoria      ,Bajardi       ,Saverio calabro                                                                 ,188 cm
+ 77 ,Mirko         ,Segrè         ,"Stretto Nicola 85 Piano 1, Pier calabro, Belluno"                              ,MEDIA
+ 78 ,Nina          ,Curci         ,"Canale Golino 31, Sesto Enzio, Massa-Carrara"                                  ,170 cm
+ 79 ,Mattia        ,Pugliese      ,Quarto Lorenzo umbro                                                            ,161 cm
+ 80 ,Torquato      ,Trevisan      ,"Viale Dario 954 Appartamento 82, San Eraldo laziale, Novara"                   ,175 cm
+ 81 ,Amico         ,Tartaglia     ,"Contrada Mirco 897, Quarto Eva, Grosseto"                                      ,193 cm
+ 82 ,Severino      ,Orengo        ,"Stretto Marcacci 523, Mimun terme, Trento"                                     ,197 cm
+ 83 ,Luchino       ,Palumbo       ,"Vicolo Cassandra 852, Castelli calabro, Alessandria"                           ,199 cm
+ 84 ,Dolores       ,Bertoli       ,"Incrocio Aldo 91 Appartamento 79, Sesto Emma nell'emilia, Parma"               ,193 cm
+ 85 ,Mauro         ,Dossi         ,Quarto Bruno                                                                    ,MEDIA
+ 86 ,Fortunata     ,Pepe          ,"Piazza Santorio 68, Casini veneto, Piacenza"                                   ,173 cm
+ 87 ,Dina          ,Gadda         ,Sesto Vincenza                                                                  ,MEDIA
+ 88 ,Danilo        ,Giorgetti     ,Fo umbro                                                                        ,MEDIA
+ 89 ,Paulina       ,Argan         ,San Antonietta                                                                  ,MEDIA
+ 90 ,Osvaldo       ,Cheda         ,"Rotonda Osvaldo 691, Tina veneto, Potenza"                                     ,ALTA
+ 91 ,Priscilla     ,Inzaghi       ,"Incrocio Modigliani 99, Perini lido, Monza e della Brianza"                    ,197 cm
+ 92 ,Mattia        ,Nicolini      ,"Incrocio Goffredo 14 Piano 0, Quarto Pompeo nell'emilia, Massa-Carrara"        ,ALTA
+ 93 ,Saverio       ,Battelli      ,Sesto Lauretta                                                                  ,152 cm
+ 94 ,Alberto       ,Druso         ,Amanda umbro                                                                    ,185 cm
+ 95 ,Gino          ,Bersani       ,"Contrada Paolo 539 Piano 8, Bixio umbro, Cuneo"                                ,186 cm
+ 96 ,Pasqual       ,Amaldi        ,"Vicolo Tiziana 57 Appartamento 70, Zamengo sardo, Bari"                        ,198 cm
+ 97 ,Giovanni      ,Maggioli      ,"Via Patrizio 39 Appartamento 91, San Michela veneto, Pistoia"                  ,MEDIA
+ 98 ,Girolamo      ,Casarin       ,Gianmarco a mare                                                                ,195 cm
+ 99 ,Arsenio       ,Vento         ,"Strada Sobrero 1 Appartamento 17, Combi terme, Pavia"                          ,196 cm
+100 ,Monica        ,Lupo          ,San Lilla                                                                       ,157 cm
+101 ,Federigo      ,Casini        ,Trombetta nell'emilia                                                           ,167 cm
+102 ,Amico         ,Gabbana       ,"Stretto Oliboni 170, Borgo Antonino, Ascoli Piceno"                            ,187 cm
+103 ,Marcella      ,Grassi        ,Quarto Nicoletta                                                                ,169 cm
+104 ,Giuseppina    ,Borsellino    ,"Strada Isa 309 Appartamento 79, Sesto Bianca del friuli, Reggio Calabria"      ,190 cm
+105 ,Ornella       ,Infantino     ,"Vicolo Chiappetta 742, Mattia calabro, Vercelli"                               ,MEDIA
+106 ,Tiziano       ,Agazzi        ,San Costanzo calabro                                                            ,195 cm
+107 ,Vittoria      ,Ughi          ,"Contrada Saffi 269 Appartamento 66, Sesto Simone, Reggio Emilia"               ,154 cm
+108 ,Vittoria      ,Contrafatto   ,Interminelli del friuli                                                         ,179 cm
+109 ,Rocco         ,Morellato     ,Quarto Giacobbe                                                                 ,151 cm
+110 ,Luigina       ,Versace       ,"Canale Rita 9, San Germana, Salerno"                                           ,188 cm
+111 ,Mirko         ,Pizziol       ,"Via Gemma 636, Sesto Amalia calabro, Pesaro e Urbino"                          ,157 cm
+112 ,Gustavo       ,Jovinelli     ,"Stretto Alfonsi 6, Gritti nell'emilia, Udine"                                  ,160 cm
+113 ,Enzo          ,Callegari     ,"Strada Montanelli 0 Appartamento 42, San Ludovico, Oristano"                   ,170 cm
+114 ,Luchino       ,Papafava      ,Sesto Arturo                                                                    ,161 cm
+115 ,Caterina      ,Boccioni      ,Gustavo salentino                                                               ,MEDIA
+116 ,Pierpaolo     ,Omma          ,Sesto Piergiorgio laziale                                                       ,168 cm
+117 ,Ferdinando    ,Interminelli  ,Falloppio calabro                                                               ,198 cm
+118 ,Raffaella     ,Marangoni     ,"Borgo Rosario 00 Piano 6, Mirko umbro, Verona"                                 ,BASSA
+119 ,Annalisa      ,Carducci      ,Ruggero nell'emilia                                                             ,ALTA
+120 ,Micheletto    ,Gualtieri     ,"Strada Lazzaro 2, Quarto Susanna, Brindisi"                                    ,158 cm
+121 ,Baccio        ,Gentilini     ,Quarto Antonietta terme                                                         ,BASSA
+122 ,Edoardo       ,Lupo          ,Beppe nell'emilia                                                               ,ALTA
+123 ,Calogero      ,Mozart        ,Quarto Alessio                                                                  ,MEDIA
+124 ,Pierpaolo     ,Murialdo      ,"Stretto Ugo 8, Zacchia sardo, Roma"                                            ,164 cm
+125 ,Elmo          ,Gottardi      ,Borgo Tonino umbro                                                              ,MEDIA
+126 ,Galasso       ,Zichichi      ,"Rotonda Melissa 996 Appartamento 09, Sesto Lidia, Pordenone"                   ,150 cm
+127 ,Giorgia       ,Cilibrasi     ,"Via Serena 1, Raffaele terme, Prato"                                           ,BASSA
+128 ,Federigo      ,Rosiello      ,Quarto Caterina                                                                 ,BASSA
+129 ,Alderano      ,Cabibbo       ,"Piazza Rosina 4 Appartamento 16, Amanda terme, Crotone"                        ,MEDIA
+130 ,Benito        ,Cavalcanti    ,"Strada Rosalia 826 Piano 1, Procacci salentino, Oristano"                      ,158 cm
+131 ,Eva           ,Argurio       ,"Vicolo Giosuè 412 Appartamento 30, Quarto Vittoria lido, Piacenza"             ,180 cm
+132 ,Edoardo       ,Pisaroni      ,"Piazza Laura 03 Piano 1, Sesto Sandra, Medio Campidano"                        ,BASSA
+133 ,Leopoldo      ,Vianello      ,"Vicolo Alighieri 6 Appartamento 75, Borgo Adriano umbro, Como"                 ,155 cm
+134 ,Martina       ,Collina       ,"Contrada Fiorucci 462, Settimo Anita, Crotone"                                 ,158 cm
+135 ,Giada         ,Pelli         ,"Vicolo Fiorino 874, Sesto Laureano a mare, Brindisi"                           ,MEDIA
+136 ,Fortunata     ,Ricci         ,Quarto Stefani laziale                                                          ,166 cm
+137 ,Fredo         ,Antonucci     ,Sesto Gilberto                                                                  ,ALTA
+138 ,Orazio        ,Cassarà       ,Chindamo terme                                                                  ,ALTA
+139 ,Ottavio       ,Peranda       ,"Incrocio Margherita 4 Appartamento 44, Borgo Milo, Oristano"                   ,ALTA
+140 ,Ermenegildo   ,Ricci         ,"Contrada Adamo 02 Piano 9, Sesto Ennio, Forlì-Cesena"                          ,BASSA
+141 ,Cirillo       ,Taliani       ,"Strada Filzi 25, Borgo Venancio, Potenza"                                      ,BASSA
+142 ,Rita          ,Nicolini      ,Giacinto terme                                                                  ,153 cm
+143 ,Lidia         ,Amaldi        ,"Piazza Ruggiero 976 Piano 4, Quarto Enzo, Treviso"                             ,MEDIA
+144 ,Coriolano     ,Navone        ,"Vicolo Cappelli 9 Appartamento 19, Quarto Ruggero, Barletta-Andria-Trani"      ,194 cm
+145 ,Gioachino     ,Argenti       ,"Via Carolina 85, San Pierangelo veneto, Como"                                  ,BASSA
+146 ,Paolo         ,Galeati       ,Benito lido                                                                     ,BASSA
+147 ,Guido         ,Puccini       ,Quarto Bernardo salentino                                                       ,BASSA
+148 ,Lazzaro       ,Cignaroli     ,Piero salentino                                                                 ,BASSA
+149 ,Rossana       ,Pontecorvo    ,"Incrocio Soprano 97, Quarto Ugo, Parma"                                        ,175 cm
+150 ,Angelica      ,Esposito      ,"Stretto Ponti 899, San Marcello, Forlì-Cesena"                                 ,182 cm
+151 ,Sandro        ,Trapani       ,"Via Pierangelo 533 Piano 2, Sesto Camillo, Verbano-Cusio-Ossola"               ,160 cm
+152 ,Tiziana       ,Sgarbi        ,"Stretto Silvia 104 Appartamento 20, Melania del friuli, La Spezia"             ,193 cm
+153 ,Monica        ,Borroni       ,"Via Arsenio 9 Piano 4, Borgo Puccio a mare, Verbano-Cusio-Ossola"              ,158 cm
+154 ,Mattia        ,Biagi         ,"Strada Manuel 7, Piovani nell'emilia, Reggio Emilia"                           ,150 cm
+155 ,Eleanora      ,Navarria      ,"Stretto Turchi 9, Borgo Mario umbro, Campobasso"                               ,BASSA
+156 ,Sabatino      ,Caccioppoli   ,Borgo Ninetta                                                                   ,MEDIA
+157 ,Romeo         ,Bragaglia     ,"Contrada Stefania 4, Sesto Lidia, Trieste"                                     ,MEDIA
+158 ,Raffaele      ,Desio         ,"Stretto Zaira 6, Settimo Alberico, Ogliastra"                                  ,186 cm
+159 ,Piero         ,Chinnici      ,"Via Bembo 600, Sesto Graziella salentino, Oristano"                            ,190 cm
+160 ,Etta          ,Caffarelli    ,"Piazza Savorgnan 0, Gioacchino umbro, Caltanissetta"                           ,158 cm
+161 ,Pellegrino    ,Tasso         ,Borgo Piero veneto                                                              ,ALTA
+162 ,Jacopo        ,Tartaglia     ,"Contrada Traversa 069 Piano 9, Berrè nell'emilia, Reggio Calabria"             ,BASSA
+163 ,Lauretta      ,Lucciano      ,"Viale Lorenzo 478 Appartamento 00, Malacarne sardo, Belluno"                   ,ALTA
+164 ,Vincenza      ,Gagliano      ,San Eliana                                                                      ,MEDIA
+165 ,Alfredo       ,Fabbri        ,"Strada Nadi 49 Appartamento 72, Borgo Aria veneto, Rieti"                      ,BASSA
+166 ,Adamo         ,Pellegrini    ,Settimo Pasqual calabro                                                         ,ALTA
+167 ,Lucio         ,Telesio       ,"Piazza Tullio 7 Appartamento 26, Arnulfo lido, Vicenza"                        ,157 cm
+168 ,Bruno         ,Sraffa        ,Sesto Greca                                                                     ,BASSA
+169 ,Pellegrino    ,Ludovisi      ,Livio terme                                                                     ,150 cm
+170 ,Manuel        ,Treccani      ,Borgo Alfio                                                                     ,BASSA
+171 ,Federica      ,Bartoli       ,"Vicolo Viviani 0 Appartamento 93, Melania terme, Teramo"                       ,BASSA
+172 ,Luciana       ,Cortese       ,Buonauro del friuli                                                             ,ALTA
+173 ,Iolanda       ,Visintini     ,Settimo Annalisa laziale                                                        ,159 cm
+174 ,Valentina     ,Montessori    ,San Paulina                                                                     ,MEDIA
+175 ,Massimo       ,Cimarosa      ,Rizzo del friuli                                                                ,MEDIA
+176 ,Roberta       ,Ortese        ,Inzaghi sardo                                                                   ,191 cm
+177 ,Virgilio      ,Botta         ,San Donna                                                                       ,188 cm
+178 ,Geronimo      ,Paltrinieri   ,"Incrocio Mancini 003, San Laura, Medio Campidano"                              ,BASSA
+179 ,Ugolino       ,Ruffini       ,Lettiere laziale                                                                ,188 cm
+180 ,Dina          ,Barsanti      ,San Sebastiano                                                                  ,191 cm
+181 ,Luciana       ,Muratori      ,"Rotonda Zacchia 79 Piano 3, Gianmarco calabro, Trieste"                        ,180 cm
+182 ,Tiziano       ,Rossellini    ,San Aldo a mare                                                                 ,197 cm
+183 ,Nedda         ,Geraci        ,Gianni salentino                                                                ,196 cm
+184 ,Isabella      ,Basso         ,Sesto Alfio                                                                     ,157 cm
+185 ,Giuliana      ,Squarcione    ,"Stretto Cesare 845 Piano 8, Niscoromni salentino, Bergamo"                     ,162 cm
+186 ,Paola         ,Dandolo       ,Adelmo sardo                                                                    ,BASSA
+187 ,Gianfranco    ,Filippini     ,Sesto Enzio                                                                     ,BASSA
+188 ,Piergiuseppe  ,Agostini      ,"Rotonda Trillini 71 Piano 9, Benedetto umbro, Ascoli Piceno"                   ,ALTA
+189 ,Jacopo        ,Stoppani      ,Giunti terme                                                                    ,ALTA
+190 ,Lucia         ,Tozzo         ,"Contrada Bossi 3 Piano 9, Sesto Ornella, Piacenza"                             ,MEDIA
+191 ,Vanessa       ,Bompiani      ,"Strada Berengario 6, Porcellato lido, Alessandria"                             ,BASSA
+192 ,Alessio       ,Alfonsi       ,"Vicolo Soprano 91, Alina del friuli, Rimini"                                   ,170 cm
+193 ,Guarino       ,Errani        ,Settimo Susanna                                                                 ,ALTA
+194 ,Gabriele      ,Gabbana       ,"Contrada Elvira 99, San Isabella umbro, Cosenza"                               ,BASSA
+195 ,Dante         ,Guidotti      ,"Canale Pierina 07 Piano 4, Borgo Delfino sardo, Belluno"                       ,BASSA
+196 ,Gioachino     ,Malenchini    ,"Stretto Emilio 0, Salvi terme, Pavia"                                          ,MEDIA
+197 ,Sebastiano    ,Gilardoni     ,"Viale Coriolano 31, Luciano laziale, Como"                                     ,ALTA
+198 ,Calcedonio    ,Marcacci      ,San Ornella                                                                     ,ALTA
+199 ,Matteo        ,Lombardi      ,"Viale Patrizio 08, San Emilio, Carbonia-Iglesias"                              ,MEDIA
+200 ,Silvia        ,Lamborghini   ,"Piazza Aldo 47 Appartamento 59, Emma nell'emilia, Rimini"                      ,ALTA
+201 ,Rosina        ,Leonardi      ,Arnulfo nell'emilia                                                             ,ALTA
+202 ,Giuseppe      ,Maggioli      ,"Via Leoncavallo 7, Bernardi lido, Padova"                                      ,192 cm
+203 ,Milo          ,Martucci      ,"Incrocio Alfio 2, San Laureano salentino, Avellino"                            ,182 cm
+204 ,Etta          ,Franscini     ,Chiara del friuli                                                               ,158 cm
+205 ,Stefani       ,Parmitano     ,"Vicolo Dolores 70, Settimo Antonino lido, Pesaro e Urbino"                     ,ALTA
+206 ,Maurilio      ,Salata        ,Borgo Ferdinando                                                                ,ALTA
+207 ,Carlo         ,Gianetti      ,"Rotonda Sergius 610, Durante salentino, Foggia"                                ,ALTA
+208 ,Sandro        ,Zanichelli    ,"Piazza Boaga 688 Appartamento 56, Taccola salentino, Reggio Emilia"            ,ALTA
+209 ,Romana        ,Tozzi         ,Sesto Cesare                                                                    ,177 cm
+210 ,Monica        ,Storladi      ,Quarto Aldo                                                                     ,188 cm
+211 ,Lolita        ,Mimun         ,"Incrocio Cirillo 1, Proietti a mare, Pescara"                                  ,189 cm
+212 ,Roberto       ,Foconi        ,"Canale Rensi 5, Giacconi calabro, Grosseto"                                    ,ALTA
+213 ,Maurilio      ,Romano        ,"Vicolo Merisi 26 Appartamento 37, Malenchini laziale, Verona"                  ,165 cm
+214 ,Ernesto       ,Antonioni     ,Dina terme                                                                      ,BASSA
+215 ,Veronica      ,Carnera       ,San Mario a mare                                                                ,ALTA
+216 ,Aria          ,Vanvitelli    ,"Incrocio Benito 484, Quarto Paride lido, Crotone"                              ,ALTA
+217 ,Jacopo        ,Capecchi      ,Borgo Sonia                                                                     ,BASSA
+218 ,Donatella     ,Pace          ,"Contrada Antonucci 0 Piano 2, Alessandra terme, Forlì-Cesena"                  ,ALTA
+219 ,Rosalia       ,Catenazzi     ,"Piazza Verri 9 Piano 0, Sesto Silvia salentino, Roma"                          ,151 cm
+220 ,Dario         ,Turrini       ,Quarto Giosuè veneto                                                            ,BASSA
+221 ,Giorgia       ,Verri         ,"Piazza Crespi 6 Appartamento 15, Sesto Rodolfo, Savona"                        ,160 cm
+222 ,Gianfranco    ,Miniati       ,Settimo Vito del friuli                                                         ,200 cm
+223 ,Arnaldo       ,Casale        ,"Viale Filippo 49 Piano 0, Pier sardo, Trento"                                  ,192 cm
+224 ,Luchino       ,Baggio        ,"Viale Zaira 695 Appartamento 62, Quarto Ugolino, Siracusa"                     ,162 cm
+225 ,Mattia        ,Pacetti       ,"Borgo Boccioni 10, Sesto Gelsomina, Catanzaro"                                 ,MEDIA
+226 ,Rosina        ,Cerutti       ,San Temistocle calabro                                                          ,BASSA
+227 ,Adamo         ,Udinesi       ,"Borgo Pisani 821 Appartamento 26, Flaiano calabro, Lucca"                      ,ALTA
+228 ,Sylvia        ,Foscari       ,"Canale Guglielmi 4 Appartamento 28, Settimo Sophia, Pisa"                      ,176 cm
+229 ,Mercedes      ,Leone         ,"Contrada Salieri 366, Sesto Amanda, Oristano"                                  ,ALTA
+230 ,Gian          ,Trapanese     ,Traversa a mare                                                                 ,155 cm
+231 ,Eliana        ,Borgia        ,"Rotonda Volta 961, Domenico a mare, Crotone"                                   ,165 cm
+232 ,Gianna        ,Romagnoli     ,San Giampaolo a mare                                                            ,179 cm
+233 ,Piergiuseppe  ,Martucci      ,"Viale Argenti 40 Piano 6, Sesto Gabriele del friuli, Vercelli"                 ,MEDIA
+234 ,Mirko         ,Paolini       ,Quarto Piergiuseppe                                                             ,BASSA
+235 ,Sophia        ,Seddio        ,"Borgo Edoardo 4 Piano 0, Borgo Giovanna, Oristano"                             ,163 cm
+236 ,Arsenio       ,Rizzoli       ,Cristina lido                                                                   ,151 cm
+237 ,Loredana      ,Samele        ,"Stretto Falloppio 440, Brambilla veneto, Rieti"                                ,160 cm
+238 ,Annetta       ,Bonolis       ,San Alphons veneto                                                              ,ALTA
+239 ,Silvio        ,Galiazzo      ,Innocenti terme                                                                 ,MEDIA
+240 ,Virgilio      ,Battaglia     ,Borgo Griselda                                                                  ,MEDIA
+241 ,Valentina     ,Burcardo      ,"Via Barzini 26 Appartamento 74, Pier salentino, Genova"                        ,MEDIA
+242 ,Ottavio       ,Sibilia       ,Settimo Cirillo terme                                                           ,MEDIA
+243 ,Fortunata     ,Morpurgo      ,Ruggero lido                                                                    ,ALTA
+244 ,Ettore        ,Mazzini       ,"Rotonda Chechi 2 Appartamento 20, Settimo Antonella a mare, Sondrio"           ,ALTA
+245 ,Adelasia      ,Speri         ,"Via Broschi 9, San Pasqual umbro, Fermo"                                       ,181 cm
+246 ,Federica      ,Micheletti    ,"Piazza Gionata 1, Borgo Ignazio veneto, Latina"                                ,ALTA
+247 ,Geronimo      ,Ammaniti      ,"Via Turci 3, Biagio umbro, Pesaro e Urbino"                                    ,BASSA
+248 ,Rodolfo       ,Fracci        ,Lisa ligure                                                                     ,ALTA
+249 ,Gianni        ,Guidotti      ,"Strada Monduzzi 5 Appartamento 91, Borgo Elmo, Sassari"                        ,195 cm
+250 ,Paulina       ,Bottaro       ,"Via Baccio 56, Settimo Pompeo salentino, Rovigo"                               ,BASSA
+251 ,Adelasia      ,Detti         ,Settimo Zaira ligure                                                            ,188 cm
+252 ,Annamaria     ,Caironi       ,Umberto lido                                                                    ,159 cm
+253 ,Rocco         ,Leonardi      ,Quarto Puccio veneto                                                            ,BASSA
+254 ,Gianluca      ,Andreozzi     ,"Stretto Valerio 085 Piano 1, Donati veneto, Trapani"                           ,BASSA
+255 ,Annetta       ,Cainero       ,"Rotonda Alighieri 042 Appartamento 32, Majorana laziale, Benevento"            ,MEDIA
+256 ,Gioele        ,Santoro       ,Settimo Antonella                                                               ,185 cm
+257 ,Gianpaolo     ,Trotta        ,Alina veneto                                                                    ,ALTA
+258 ,Agnolo        ,Brambilla     ,Settimo Michelotto ligure                                                       ,BASSA
+259 ,Paloma        ,Marinetti     ,"Incrocio Nicoletti 840 Piano 1, Quarto Gianpietro del friuli, Caltanissetta"   ,MEDIA
+260 ,Anita         ,Moschino      ,Travia nell'emilia                                                              ,166 cm
+261 ,Alessio       ,Spinola       ,Lauretta ligure                                                                 ,183 cm
+262 ,Ansaldo       ,Caracciolo    ,Berenice a mare                                                                 ,153 cm
+263 ,Flavia        ,Navone        ,"Via Angelo 091, Sesto Pierluigi sardo, Catanzaro"                              ,BASSA
+264 ,Amleto        ,Fracci        ,"Contrada Farnese 228, Agnesi salentino, Pistoia"                               ,164 cm
+265 ,Lauretta      ,Vergerio      ,"Canale Stein 125 Piano 1, Settimo Simone, Sondrio"                             ,BASSA
+266 ,Rosina        ,Sibilia       ,Settimo Livio                                                                   ,BASSA
+267 ,Filippo       ,Moresi        ,Randazzo laziale                                                                ,BASSA
+268 ,Gianluca      ,Pizziol       ,"Stretto Giacobbe 68 Appartamento 41, Fausto umbro, Macerata"                   ,196 cm
+269 ,Barbara       ,Ferragamo     ,Antonia umbro                                                                   ,199 cm
+270 ,Telemaco      ,Altera        ,"Strada Terragni 29, Settimo Rita, Milano"                                      ,MEDIA
+271 ,Roman         ,Juvara        ,Rocco nell'emilia                                                               ,191 cm
+272 ,Calogero      ,Mercalli      ,Sesto Ronaldo                                                                   ,MEDIA
+273 ,Rosalia       ,Zarlino       ,"Strada Dossetti 8, Alessia veneto, Ferrara"                                    ,ALTA
+274 ,Antonio       ,Rossi         ,"Strada Cassandra 1 Appartamento 14, Quarto Rosa salentino, Biella"             ,MEDIA
+275 ,Alphons       ,Soffici       ,Sesto Osvaldo                                                                   ,ALTA
+276 ,Riccardo      ,Volta         ,Settimo Achille                                                                 ,160 cm
+277 ,Roman         ,Amaldi        ,"Via Luigina 70, Lina salentino, Taranto"                                       ,180 cm
+278 ,Sebastiano    ,Bellocchio    ,"Incrocio Ivo 5 Appartamento 65, Cremonesi veneto, Napoli"                      ,ALTA
+279 ,Gianmarco     ,Vigorelli     ,Almagià lido                                                                    ,ALTA
+280 ,Toni          ,Castiglione   ,Vidoni sardo                                                                    ,BASSA
+281 ,Telemaco      ,Bataglia      ,"Stretto Ammaniti 0 Piano 5, Ferrari del friuli, Trento"                        ,163 cm
+282 ,Marcello      ,Trombetta     ,"Incrocio Alessandro 3 Appartamento 10, Salieri a mare, Foggia"                 ,ALTA
+283 ,Adele         ,Falcone       ,Finotto del friuli                                                              ,187 cm
+284 ,Antonietta    ,Bocca         ,Quarto Pellegrino                                                               ,199 cm
+285 ,Oreste        ,Marzorati     ,San Natalia                                                                     ,173 cm
+286 ,Luciano       ,Berlusconi    ,"Rotonda Victoria 078 Piano 3, Borgo Evangelista salentino, Catania"            ,162 cm
+287 ,Ramona        ,Petralli      ,"Via Pierpaolo 955, Bajardi calabro, Macerata"                                  ,MEDIA
+288 ,Baldassare    ,Pisaroni      ,Lidia a mare                                                                    ,160 cm
+289 ,Leonardo      ,Cilibrasi     ,"Canale Boitani 54 Piano 0, Liana salentino, Novara"                            ,184 cm
+290 ,Antonina      ,Bianchini     ,Sesto Gelsomina                                                                 ,160 cm
+291 ,Ornella       ,Zanichelli    ,"Borgo Vespa 37, Impastato a mare, Reggio Calabria"                             ,180 cm
+292 ,Gioachino     ,Zaguri        ,"Vicolo Ruggieri 1 Appartamento 52, Durante umbro, Barletta-Andria-Trani"       ,MEDIA
+293 ,Fernanda      ,Grossi        ,Serao ligure                                                                    ,194 cm
+294 ,Nicola        ,Vergerio      ,San Dino                                                                        ,ALTA
+295 ,Fabrizio      ,Finotto       ,Eliana ligure                                                                   ,ALTA
+296 ,Massimo       ,Agostini      ,"Rotonda Liana 3, Renzo salentino, Caltanissetta"                               ,194 cm
+297 ,Paride        ,Cerquiglini   ,Falloppio umbro                                                                 ,153 cm
+298 ,Temistocle    ,Pontecorvo    ,"Viale Filippa 019, Tarantini umbro, Sassari"                                   ,154 cm
+299 ,Hugo          ,Andreozzi     ,San Antonia del friuli                                                          ,ALTA
+300 ,Gianna        ,Paruta        ,"Incrocio Angelo 86 Appartamento 42, Geraci umbro, Cuneo"                       ,164 cm
+301 ,Donato        ,Anichini      ,Romina a mare                                                                   ,ALTA
+302 ,Sonia         ,Taliani       ,Martucci calabro                                                                ,163 cm
+303 ,Piersanti     ,Salvemini     ,Dino sardo                                                                      ,MEDIA
+304 ,Ernesto       ,Frescobaldi   ,Quarto Pasquale                                                                 ,194 cm
+305 ,Fedele        ,Bartoli       ,"Via Mario 12, Settimo Giulio, Lodi"                                            ,MEDIA
+306 ,Vincenza      ,Nonis         ,"Incrocio Paoletta 62, San Berenice salentino, Avellino"                        ,ALTA
+307 ,Marta         ,Galiazzo      ,Vincenza del friuli                                                             ,194 cm
+308 ,Serafina      ,Monti         ,Quarto Claudia umbro                                                            ,BASSA
+309 ,Giuseppina    ,Antonacci     ,"Borgo Berenice 464, San Armando, Torino"                                       ,182 cm
+310 ,Elena         ,Nicolucci     ,Alessandra veneto                                                               ,MEDIA
+311 ,Zaira         ,Cantimori     ,"Stretto Adriano 97 Appartamento 34, Piccinni ligure, Lucca"                    ,163 cm
+312 ,Patrizia      ,Antonucci     ,"Vicolo Mario 459, Settimo Nedda ligure, Vibo Valentia"                         ,153 cm
+313 ,Mario         ,Barcella      ,"Canale Loredan 23, Quarto Rosalia veneto, Savona"                              ,MEDIA
+314 ,Santino       ,Antonucci     ,Druso calabro                                                                   ,174 cm
+315 ,Annamaria     ,Amaldi        ,San Temistocle                                                                  ,174 cm
+316 ,Gelsomina     ,Alfonsi       ,Mariano laziale                                                                 ,ALTA
+317 ,Ludovico      ,Pastine       ,Borgo Stefano veneto                                                            ,185 cm
+318 ,Annetta       ,Comolli       ,"Strada Bruno 795, Antonello umbro, Pordenone"                                  ,172 cm
+319 ,Camillo       ,Sandi         ,"Rotonda Tullio 12 Piano 2, Vanvitelli lido, Cosenza"                           ,MEDIA
+320 ,Susanna       ,Albertini     ,"Borgo Ubaldo 63 Piano 6, Quarto Michela, Bergamo"                              ,MEDIA
+321 ,Durante       ,Petruzzi      ,Isabella laziale                                                                ,186 cm
+322 ,Serena        ,Pucci         ,Spadafora ligure                                                                ,BASSA
+323 ,Tiziana       ,Cannizzaro    ,Quarto Gianna                                                                   ,ALTA
+324 ,Cecilia       ,Martinelli    ,"Rotonda Pasqual 159, Settimo Temistocle, Oristano"                             ,ALTA
+325 ,Sergius       ,Borzomì       ,"Contrada Raffaello 95, Rubbia calabro, Ragusa"                                 ,MEDIA
+326 ,Ramona        ,Rienzo        ,Settimo Ruggero salentino                                                       ,191 cm
+327 ,Filippo       ,Contrafatto   ,Vitturi nell'emilia                                                             ,BASSA
+328 ,Francesca     ,Petruzzi      ,"Contrada Dina 3 Appartamento 83, Beppe salentino, Nuoro"                       ,BASSA
+329 ,Tina          ,Jovinelli     ,"Borgo Raffaele 839 Piano 1, San Ettore, Prato"                                 ,MEDIA
+330 ,Romeo         ,Cuomo         ,Sesto Ermes                                                                     ,BASSA
+331 ,Ida           ,Priuli        ,Costanzo sardo                                                                  ,BASSA
+332 ,Annalisa      ,Paolini       ,San Livio lido                                                                  ,BASSA
+333 ,Ricciotti     ,Pertini       ,Sesto Francesco sardo                                                           ,ALTA
+334 ,Adelmo        ,Trezzini      ,Quarto Simonetta                                                                ,153 cm
+335 ,Ugolino       ,Pirandello    ,"Strada Paolini 92, Settimo Mattia, Catania"                                    ,MEDIA
+336 ,Daniele       ,Brambilla     ,"Viale Pacetti 9 Piano 5, Sole salentino, L'Aquila"                             ,ALTA
+337 ,Nicola        ,Malpighi      ,Sesto Mario                                                                     ,194 cm
+338 ,Cecilia       ,Soffici       ,Stella salentino                                                                ,195 cm
+339 ,Lazzaro       ,Peranda       ,"Borgo Trebbi 6 Appartamento 45, Borgo Tullio, Enna"                            ,179 cm
+340 ,Virginia      ,Carullo       ,Borgo Raffaele                                                                  ,BASSA
+341 ,Ciro          ,Callegaro     ,Quarto Griselda lido                                                            ,190 cm
+342 ,Ivo           ,Pelli         ,San Coluccio del friuli                                                         ,BASSA
+343 ,Vanessa       ,Deledda       ,Borgo Ivo sardo                                                                 ,153 cm
+344 ,Tatiana       ,Sagnelli      ,Viridiana veneto                                                                ,BASSA
+345 ,Simone        ,Dulbecco      ,Romina a mare                                                                   ,MEDIA
+346 ,Ornella       ,Carullo       ,"Via Umberto 3, San Gianmarco salentino, Verbano-Cusio-Ossola"                  ,150 cm
+347 ,Ennio         ,Vercelloni    ,"Via Turati 638, Quarto Stefano nell'emilia, Vicenza"                           ,ALTA
+348 ,Danilo        ,Fanucci       ,Borgo Ugolino                                                                   ,ALTA
+349 ,Concetta      ,Marangoni     ,"Borgo Cuzzocrea 02 Piano 3, Romagnoli calabro, Enna"                           ,154 cm
+350 ,Ludovica      ,Mozart        ,"Contrada Cesarotti 56, Borgo Mauro, Bolzano"                                   ,BASSA
+351 ,Agostino      ,Impastato     ,"Borgo Patrizio 91, San Nanni, Palermo"                                         ,ALTA
+352 ,Corrado       ,Mattarella    ,"Viale Lamberto 42, Sansoni veneto, Reggio Calabria"                            ,MEDIA
+353 ,Giampiero     ,Berrè         ,"Via Dallapé 5, Borgo Letizia, Rimini"                                          ,160 cm
+354 ,Dino          ,Luria         ,Travia salentino                                                                ,ALTA
+355 ,Isabella      ,Federici      ,Settimo Benedetto sardo                                                         ,MEDIA
+356 ,Loretta       ,Manacorda     ,Cendron umbro                                                                   ,MEDIA
+357 ,Nino          ,Gianinazzi    ,"Piazza Pacomio 1 Piano 9, San Tonino del friuli, Pistoia"                      ,197 cm
+358 ,Federigo      ,Druso         ,Cipriano del friuli                                                             ,ALTA
+359 ,Baccio        ,Ceravolo      ,"Via Lauretta 716, Settimo Lilla a mare, Olbia-Tempio"                          ,184 cm
+360 ,Bruno         ,Guglielmi     ,"Incrocio Muratori 6 Appartamento 51, Borgo Luchino del friuli, Modena"         ,MEDIA
+361 ,Durante       ,Lippomano     ,Soderini lido                                                                   ,176 cm
+362 ,Giampaolo     ,Procacci      ,"Contrada Berenice 59, San Paride, Medio Campidano"                             ,153 cm
+363 ,Bianca        ,Abate         ,Grassi laziale                                                                  ,MEDIA
+364 ,Coluccio      ,Canil         ,"Viale Mocenigo 70 Appartamento 85, Staglieno sardo, Milano"                    ,ALTA
+365 ,Ippazio       ,Trapanese     ,Lamberto umbro                                                                  ,177 cm
+366 ,Serena        ,Rossellini    ,"Incrocio Bazzi 0 Piano 2, Longhena laziale, Salerno"                           ,MEDIA
+367 ,Panfilo       ,Monteverdi    ,Panfilo a mare                                                                  ,178 cm
+368 ,Biagio        ,Rizzo         ,Fuseli terme                                                                    ,ALTA
+369 ,Viridiana     ,Rossellini    ,"Vicolo Orsini 8, San Giuseppe calabro, Teramo"                                 ,184 cm
+370 ,Giovanna      ,Simeoni       ,Volta sardo                                                                     ,ALTA
+371 ,Laureano      ,Marenzio      ,San Roberto                                                                     ,166 cm
+372 ,Amanda        ,Montanari     ,"Incrocio Geronimo 02 Piano 7, San Amalia, Biella"                              ,ALTA
+373 ,Gloria        ,Barberini     ,"Via Luisa 5, Calbo lido, Trento"                                               ,MEDIA
+374 ,Giovanna      ,Baresi        ,Lucrezia sardo                                                                  ,186 cm
+375 ,Nico          ,Montanariello ,"Strada Giulio 7, San Arnulfo del friuli, Messina"                              ,BASSA
+376 ,Alessia       ,Fantozzi      ,"Strada Carnera 806, Settimo Rosa nell'emilia, Prato"                           ,BASSA
+377 ,Bettina       ,Cadorna       ,"Rotonda Gelsomina 5 Piano 1, Sesto Bianca terme, Genova"                       ,152 cm
+378 ,Lolita        ,Finetti       ,Settimo Licia nell'emilia                                                       ,189 cm
+379 ,Antonina      ,Pareto        ,Maria veneto                                                                    ,181 cm
+380 ,Romolo        ,Prada         ,"Piazza Forza 157, Cassandra terme, Trieste"                                    ,BASSA
+381 ,Adriana       ,Andreotti     ,"Via Carnera 17, Arsenio ligure, Sassari"                                       ,199 cm
+382 ,Saverio       ,Bova          ,Marcantonio sardo                                                               ,166 cm
+383 ,Giuliano      ,Argurio       ,"Rotonda Berenice 746, Tatiana calabro, Vicenza"                                ,172 cm
+384 ,Marcella      ,Verri         ,Settimo Puccio nell'emilia                                                      ,BASSA
+385 ,Luciana       ,Squarcione    ,Sesto Coriolano a mare                                                          ,BASSA
+386 ,Pomponio      ,Chiesa        ,Sesto Barbara                                                                   ,180 cm
+387 ,Lara          ,Sabatini      ,"Incrocio Guidotti 340, Sesto Federigo sardo, Aosta"                            ,200 cm
+388 ,Guarino       ,Carocci       ,"Vicolo Fernanda 1, Borgo Achille, Ferrara"                                     ,MEDIA
+389 ,Agostino      ,Taccola       ,San Giorgia                                                                     ,MEDIA
+390 ,Gianna        ,Natta         ,"Via Melania 0 Piano 0, Bataglia laziale, Roma"                                 ,ALTA
+391 ,Elvira        ,Scaramucci    ,Settimo Alfredo sardo                                                           ,MEDIA
+392 ,Bianca        ,Brunelleschi  ,Quarto Ida sardo                                                                ,ALTA
+393 ,Umberto       ,Pizziol       ,Settimo Nadia                                                                   ,MEDIA
+394 ,Camilla       ,Stucchi       ,Sole del friuli                                                                 ,ALTA
+395 ,Michelangelo  ,Travia        ,"Strada Laureano 2, Settimo Irma, Agrigento"                                    ,ALTA
+396 ,Irma          ,Veltroni      ,Quarto Graziano                                                                 ,ALTA
+397 ,Temistocle    ,Merisi        ,Cutrufo del friuli                                                              ,173 cm
+398 ,Angelo        ,Malaparte     ,Sesto Bartolomeo ligure                                                         ,150 cm
+399 ,Pietro        ,Loredan       ,Oreste calabro                                                                  ,BASSA
+400 ,Melania       ,Giolitti      ,Alberto sardo                                                                   ,163 cm
+401 ,Raffaele      ,Scaduto       ,Quarto Nadia                                                                    ,176 cm
+402 ,Sonia         ,Bellini       ,Quarto Aldo                                                                     ,ALTA
+403 ,Bruno         ,Cignaroli     ,Sesto Luciana salentino                                                         ,ALTA
+404 ,Mauro         ,Argenti       ,Franco a mare                                                                   ,171 cm
+405 ,Gianpaolo     ,Morellato     ,"Rotonda Roman 1 Appartamento 67, Settimo Carla umbro, Genova"                  ,MEDIA
+406 ,Ubaldo        ,Maffei        ,"Piazza Carosone 312 Appartamento 38, Simonetta a mare, Modena"                 ,ALTA
+407 ,Stefani       ,Trevisan      ,"Strada Benedetti 6, Francesco veneto, Rieti"                                   ,186 cm
+408 ,Ugo           ,Tanzini       ,Vito nell'emilia                                                                ,ALTA
+409 ,Giacobbe      ,Pisani        ,"Rotonda Blasi 100, Borgo Fiorino, Salerno"                                     ,MEDIA
+410 ,Camilla       ,Iadanza       ,Marcantonio lido                                                                ,182 cm
+411 ,Maria         ,Legnante      ,"Piazza Benvenuto 64, Sgalambro a mare, Messina"                                ,177 cm
+412 ,Lolita        ,Speri         ,Calogero del friuli                                                             ,167 cm
+413 ,Giada         ,Antelami      ,"Stretto Livia 3, San Ugolino, Verona"                                          ,BASSA
+414 ,Adriano       ,Traversa      ,"Canale Basso 22, Borgo Ermanno salentino, Verona"                              ,MEDIA
+415 ,Ramona        ,Rienzo        ,Borgo Serafina                                                                  ,BASSA
+416 ,Paride        ,Cagnin        ,Mirko veneto                                                                    ,176 cm
+417 ,Licia         ,Iadanza       ,"Rotonda Bonatti 29 Piano 7, Quarto Ippazio veneto, Potenza"                    ,ALTA
+418 ,Mariano       ,Villarosa     ,"Piazza Ossani 443 Appartamento 11, Borgo Annalisa laziale, Biella"             ,171 cm
+419 ,Stella        ,Castelli      ,"Rotonda Beppe 6 Piano 6, San Beatrice umbro, Matera"                           ,160 cm
+420 ,Giacomo       ,Petrucelli    ,"Stretto Piane 75, Umberto del friuli, Livorno"                                 ,153 cm
+421 ,Amedeo        ,Antonini      ,"Incrocio Legnante 152 Appartamento 68, Antonini del friuli, Grosseto"          ,BASSA
+422 ,Fredo         ,Cristoforetti ,Borgo Gustavo calabro                                                           ,MEDIA
+423 ,Luciana       ,Cremonesi     ,San Federigo calabro                                                            ,196 cm
+424 ,Ranieri       ,Contarini     ,"Stretto Maria 9, Liana calabro, Rieti"                                         ,BASSA
+425 ,Lando         ,Zichichi      ,Quarto Fiorenzo                                                                 ,182 cm
+426 ,Cristina      ,Esposito      ,Diana calabro                                                                   ,MEDIA
+427 ,Benedetto     ,Villadicani   ,Silvia lido                                                                     ,ALTA
+428 ,Niccolò       ,Berlusconi    ,"Incrocio Nicolucci 400 Appartamento 28, Necci laziale, Nuoro"                  ,171 cm
+429 ,Tatiana       ,Offredi       ,Settimo Rolando                                                                 ,161 cm
+430 ,Gemma         ,Caccianemico  ,"Canale Bergoglio 42, Quarto Tiziano sardo, Firenze"                            ,160 cm
+431 ,Salvi         ,Tirabassi     ,Settimo Ricciotti                                                               ,BASSA
+432 ,Oreste        ,Gozzi         ,Settimo Arnaldo nell'emilia                                                     ,MEDIA
+433 ,Nicolò        ,Ricci         ,"Canale Saverio 35 Appartamento 99, Giannetti a mare, Reggio Emilia"            ,MEDIA
+434 ,Geronimo      ,Draghi        ,"Viale Raffaella 5 Appartamento 62, Guarino sardo, Rimini"                      ,185 cm
+435 ,Luigi         ,Ligorio       ,Borgo Agostino                                                                  ,BASSA
+436 ,Ilaria        ,Borromeo      ,"Stretto Licia 0, San Liliana, Oristano"                                        ,152 cm
+437 ,Ermes         ,Serao         ,"Vicolo Bianca 475 Piano 0, Rosa terme, Siena"                                  ,BASSA
+438 ,Antonio       ,Samele        ,Mercedes laziale                                                                ,MEDIA
+439 ,Romolo        ,Trapanese     ,Santino salentino                                                               ,BASSA
+440 ,Antonio       ,Casaleggio    ,"Contrada Giannetti 18 Appartamento 01, San Luciana laziale, Taranto"           ,ALTA
+441 ,Orazio        ,Morrocco      ,Borgo Girolamo                                                                  ,199 cm
+442 ,Michele       ,Longhena      ,Borgo Simonetta                                                                 ,MEDIA
+443 ,Lucio         ,Rosiello      ,Natalia laziale                                                                 ,ALTA
+444 ,Vincentio     ,Ferrazzi      ,Dino a mare                                                                     ,ALTA
+445 ,Rolando       ,Verdone       ,Tommaseo lido                                                                   ,BASSA
+446 ,Ninetta       ,Romano        ,Tirabassi calabro                                                               ,MEDIA
+447 ,Livio         ,Sauro         ,"Borgo Pietro 73, Quarto Anita veneto, Taranto"                                 ,MEDIA
+448 ,Graziella     ,Ossola        ,"Vicolo Vercelloni 48 Appartamento 01, Aurora del friuli, Teramo"               ,173 cm
+449 ,Loretta       ,Cutuli        ,Settimo Romolo nell'emilia                                                      ,MEDIA
+450 ,Gilberto      ,Tozzo         ,Persico salentino                                                               ,150 cm
+451 ,Fabrizia      ,Vecellio      ,Gianpietro umbro                                                                ,ALTA
+452 ,Marta         ,Brunelleschi  ,Turchetta del friuli                                                            ,151 cm
+453 ,Raffaella     ,Ariosto       ,Alessio ligure                                                                  ,179 cm
+454 ,Baldassare    ,Pagnotto      ,"Canale Ubaldo 02, Claudia lido, Lecco"                                         ,168 cm
+455 ,Fiorino       ,Mantegazza    ,Quarto Gianna terme                                                             ,BASSA
+456 ,Clelia        ,Paganini      ,"Vicolo Baldassare 8, Angelo del friuli, Torino"                                ,ALTA
+457 ,Gilberto      ,Cuomo         ,Sesto Toni calabro                                                              ,BASSA
+458 ,Liliana       ,Zamengo       ,Trapani ligure                                                                  ,196 cm
+459 ,Martino       ,Flaiano       ,Settimo Beppe veneto                                                            ,ALTA
+460 ,Baccio        ,Odescalchi    ,"Vicolo Vincenza 9, Amalia sardo, Avellino"                                     ,166 cm
+461 ,Gastone       ,Fantoni       ,Pizziol ligure                                                                  ,176 cm
+462 ,Fiorenzo      ,Gelli         ,"Viale Raffaele 473 Piano 1, Sesto Maria, Trento"                               ,169 cm
+463 ,Simone        ,Serao         ,Quarto Maurilio veneto                                                          ,161 cm
+464 ,Vito          ,Sgarbi        ,Licia terme                                                                     ,ALTA
+465 ,Flavia        ,Savorgnan     ,Settimo Eliana nell'emilia                                                      ,165 cm
+466 ,Pierina       ,Farnese       ,"Rotonda Battisti 46 Appartamento 21, Quarto Dina, Palermo"                     ,161 cm
+467 ,Etta          ,Turati        ,"Piazza Brugnaro 681, Gabbana terme, Teramo"                                    ,BASSA
+468 ,Amedeo        ,Montanari     ,"Piazza Maura 050 Appartamento 80, Quarto Gianmarco, Mantova"                   ,BASSA
+469 ,Raffaella     ,Lombardo      ,San Sandro                                                                      ,ALTA
+470 ,Marcello      ,Stein         ,Russo lido                                                                      ,150 cm
+471 ,Isa           ,Savorgnan     ,San Sole                                                                        ,194 cm
+472 ,Antonina      ,Marazzi       ,"Borgo Totino 2 Piano 1, Procacci lido, Venezia"                                ,BASSA
+473 ,Guido         ,Anichini      ,"Via Ricciotti 0, Ruggiero salentino, Catanzaro"                                ,MEDIA
+474 ,Umberto       ,Mantegna      ,Raffaellino calabro                                                             ,172 cm
+475 ,Bianca        ,Zarlino       ,Martina laziale                                                                 ,ALTA
+476 ,Elladio       ,Duodo         ,"Piazza Patrizio 873 Appartamento 21, Sesto Adriano nell'emilia, Roma"          ,ALTA
+477 ,Sergius       ,Chiesa        ,Gelsomina sardo                                                                 ,BASSA
+478 ,Saverio       ,Siffredi      ,Pavanello sardo                                                                 ,164 cm
+479 ,Flavio        ,Abba          ,Ornella salentino                                                               ,169 cm
+480 ,Paola         ,Milanesi      ,"Borgo Rienzo 723, Sonia nell'emilia, Caltanissetta"                            ,BASSA
+481 ,Gabriella     ,Lucchesi      ,"Borgo Garibaldi 17, Settimo Umberto ligure, Medio Campidano"                   ,160 cm
+482 ,Ennio         ,Modiano       ,Scandone ligure                                                                 ,162 cm
+483 ,Dante         ,Tasso         ,"Contrada Ermes 04 Appartamento 02, Quarto Ennio a mare, Salerno"               ,193 cm
+484 ,Tiziana       ,Fusani        ,Sesto Massimo                                                                   ,BASSA
+485 ,Vanessa       ,Carnera       ,San Dina                                                                        ,187 cm
+486 ,Umberto       ,Padovano      ,"Rotonda Carpaccio 0, Venancio umbro, Sondrio"                                  ,MEDIA
+487 ,Delfino       ,Mazzocchi     ,"Borgo Annetta 32 Appartamento 70, Settimo Giada, Cosenza"                      ,ALTA
+488 ,Cecilia       ,Babati        ,Stefania lido                                                                   ,151 cm
+489 ,Santino       ,Paoletti      ,Ostinelli laziale                                                               ,152 cm
+490 ,Leonardo      ,Berrè         ,"Rotonda Rossana 468, San Corrado nell'emilia, Pisa"                            ,BASSA
+491 ,Rolando       ,Rossi         ,"Contrada Basadonna 551 Appartamento 72, Liguori calabro, Lecco"                ,197 cm
+492 ,Ezio          ,Mazzeo        ,"Incrocio Gianinazzi 430 Appartamento 46, Daria calabro, Barletta-Andria-Trani" ,189 cm
+493 ,Maria         ,Santorio      ,Osvaldo terme                                                                   ,200 cm
+494 ,Geronimo      ,Chiappetta    ,Giuseppe terme                                                                  ,ALTA
+495 ,Federico      ,Argurio       ,"Contrada Mascagni 87 Piano 9, Settimo Giorgia lido, Firenze"                   ,MEDIA
+496 ,Berenice      ,Cesarotti     ,Settimo Giacinto                                                                ,ALTA
+497 ,Melissa       ,Zaccagnini    ,"Stretto Fiorino 22, Borgo Ricciotti, Agrigento"                                ,175 cm
+498 ,Benito        ,Bergoglio     ,"Viale Pierangelo 09 Appartamento 35, Monduzzi veneto, Caltanissetta"           ,MEDIA
+499 ,Bernardo      ,Dovara        ,Boccioni del friuli                                                             ,BASSA
+500 ,Vincenzo      ,Buscetta      ,Alina laziale                                                                   ,153 cm
+501 ,Raffaella     ,Micca         ,Azeglio lido                                                                    ,ALTA
+502 ,Clelia        ,Renault       ,"Incrocio Tognazzi 089, Borgo Nedda nell'emilia, Treviso"                       ,184 cm
+503 ,Simone        ,Schicchi      ,Puglisi nell'emilia                                                             ,BASSA
+504 ,Augusto       ,Amato         ,Quarto Alphons a mare                                                           ,187 cm
+505 ,Angelo        ,Scarlatti     ,"Vicolo Paride 2 Appartamento 13, Settimo Maria, Massa-Carrara"                 ,MEDIA
+506 ,Fredo         ,Cortese       ,"Canale Carnera 64, Rossi del friuli, Pesaro e Urbino"                          ,MEDIA
+507 ,Matteo        ,Baggio        ,"Viale Piazzi 307, Gianna del friuli, Chieti"                                   ,200 cm
+508 ,Simonetta     ,Bettin        ,"Canale Alfio 101, Quarto Girolamo, Lecce"                                      ,169 cm
+509 ,Alphons       ,Donà          ,Veneziano umbro                                                                 ,172 cm
+510 ,Antonietta    ,Blasi         ,Piersanti ligure                                                                ,ALTA
+511 ,Gloria        ,Ludovisi      ,"Viale Rocco 8, Laura nell'emilia, Verona"                                      ,BASSA
+512 ,Diana         ,Tamburi       ,Mariano umbro                                                                   ,177 cm
+513 ,Eliana        ,Donarelli     ,"Canale Sylvia 206 Appartamento 81, San Torquato terme, Campobasso"             ,BASSA
+514 ,Paloma        ,Juvara        ,Borgo Geronimo                                                                  ,173 cm
+515 ,Fredo         ,Virgilio      ,"Piazza Flora 78 Appartamento 77, Borgo Vincenzo, Roma"                         ,166 cm
+516 ,Gioachino     ,Beccaria      ,Sesto Virginia                                                                  ,BASSA
+517 ,Sylvia        ,Scarpa        ,"Canale Gianluigi 9 Piano 5, Zaguri umbro, Belluno"                             ,171 cm
+518 ,Letizia       ,Folliero      ,Quarto Claudio calabro                                                          ,190 cm
+519 ,Mario         ,Merisi        ,Leopoldo del friuli                                                             ,BASSA
+520 ,Pier          ,Pedroni       ,"Vicolo Bartoli 539 Piano 6, Settimo Melissa terme, Benevento"                  ,BASSA
+521 ,Piergiuseppe  ,Battaglia     ,"Piazza Donna 6, Pausini veneto, Olbia-Tempio"                                  ,196 cm
+522 ,Emilio        ,Mercadante    ,Galvani laziale                                                                 ,199 cm
+523 ,Aldo          ,Trobbiani     ,"Via Ilaria 891, Pier calabro, Medio Campidano"                                 ,ALTA
+524 ,Danilo        ,Travaglio     ,Marconi salentino                                                               ,152 cm
+525 ,Ferdinando    ,Bruscantini   ,Borgo Aurora                                                                    ,BASSA
+526 ,Gilberto      ,Littizzetto   ,Borgo Teresa                                                                    ,159 cm
+527 ,Fiamma        ,Casale        ,"Borgo Bettina 2 Appartamento 87, Eliana ligure, Varese"                        ,BASSA
+528 ,Antonino      ,Cammarata     ,San Fiorenzo                                                                    ,ALTA
+529 ,Stefania      ,Gangemi       ,"Borgo Ottone 172, Settimo Federico nell'emilia, Venezia"                       ,171 cm
+530 ,Gemma         ,Nibali        ,Quarto Leonardo ligure                                                          ,193 cm
+531 ,Rosario       ,Abba          ,"Incrocio Cagnotto 278 Piano 6, Praga salentino, Frosinone"                     ,ALTA
+532 ,Maria         ,Fantini       ,"Contrada Alberico 031 Piano 8, Chittolini veneto, Oristano"                    ,182 cm
+533 ,Enrico        ,Vecellio      ,Borgo Marissa                                                                   ,BASSA
+534 ,Giulia        ,Filippelli    ,Grisoni del friuli                                                              ,ALTA
+535 ,Angelica      ,Morricone     ,Rosiello calabro                                                                ,185 cm
+536 ,Tullio        ,Leblanc       ,Elladio veneto                                                                  ,MEDIA
+537 ,Eugenia       ,Muti          ,"Contrada Ugo 707 Appartamento 47, Raffaele calabro, Ascoli Piceno"             ,172 cm
+538 ,Alderano      ,Ajello        ,"Incrocio Baglioni 41 Piano 1, Gastone ligure, Reggio Calabria"                 ,BASSA
+539 ,Rosario       ,Nicolini      ,"Via Moresi 9 Appartamento 78, San Luchino lido, Lodi"                          ,178 cm
+540 ,Chiara        ,Fanucci       ,"Rotonda Piergiuseppe 33 Piano 7, Borgo Adelasia, Carbonia-Iglesias"            ,MEDIA
+541 ,Enzo          ,Pontecorvo    ,Manzoni salentino                                                               ,182 cm
+542 ,Daniele       ,Malpighi      ,Settimo Flavio umbro                                                            ,BASSA
+543 ,Graziano      ,Rubbia        ,Settimo Bettina a mare                                                          ,170 cm
+544 ,Romana        ,Vigorelli     ,Borgo Enrico                                                                    ,150 cm
+545 ,Lucio         ,Travia        ,"Vicolo Gianetti 47, Settimo Nicola salentino, Chieti"                          ,200 cm
+546 ,Baccio        ,Modiano       ,"Stretto Fulvio 726, Imelda ligure, Belluno"                                    ,156 cm
+547 ,Daniele       ,Beccheria     ,Borgo Adelmo                                                                    ,183 cm
+548 ,Emma          ,Traetta       ,Sesto Sophia terme                                                              ,189 cm
+549 ,Melissa       ,Boiardo       ,"Canale Visconti 75 Appartamento 92, Quarto Nanni, Brindisi"                    ,BASSA
+550 ,Amleto        ,Samele        ,Sesto Gian                                                                      ,BASSA
+551 ,Ricciotti     ,Innocenti     ,"Vicolo Silvestro 20 Appartamento 87, Greco calabro, Como"                      ,ALTA
+552 ,Vincentio     ,Columbo       ,San Cristina                                                                    ,194 cm
+553 ,Danilo        ,Gargallo      ,"Rotonda Marta 57 Piano 3, Lanfranchi nell'emilia, Pesaro e Urbino"             ,MEDIA
+554 ,Ruggiero      ,Valier        ,Calogero terme                                                                  ,ALTA
+555 ,Alessandra    ,Tiepolo       ,"Stretto Leoncavallo 44 Piano 5, Quarto Salvatore calabro, Udine"               ,168 cm
+556 ,Jacopo        ,Balotelli     ,"Via Fuseli 6 Appartamento 84, Borgo Sergius terme, Agrigento"                  ,190 cm
+557 ,Rossana       ,Caccioppoli   ,Cuomo laziale                                                                   ,BASSA
+558 ,Gelsomina     ,Toscanini     ,"Canale Nadi 7, Paola nell'emilia, Cuneo"                                       ,156 cm
+559 ,Piermaria     ,Catalano      ,Sesto Coriolano                                                                 ,MEDIA
+560 ,Alderano      ,Babbo         ,"Vicolo Bartolomeo 138 Piano 9, Settimo Fabia, Caserta"                         ,188 cm
+561 ,Serena        ,Dallapé       ,"Stretto Rienzo 543, Borgo Pompeo a mare, Modena"                               ,MEDIA
+562 ,Federigo      ,Serao         ,Sesto Alfredo                                                                   ,199 cm
+563 ,Gelsomina     ,Parini        ,Settimo Goffredo                                                                ,BASSA
+564 ,Michelangelo  ,Dossi         ,Settimo Lazzaro                                                                 ,166 cm
+565 ,Simone        ,Muratori      ,Settimo Livio                                                                   ,BASSA
+566 ,Martino       ,Babbo         ,"Vicolo Nugnes 07 Piano 8, Quarto Rita, Fermo"                                  ,MEDIA
+567 ,Ludovico      ,Sgarbi        ,Quarto Marisa                                                                   ,MEDIA
+568 ,Giuseppe      ,Germano       ,Quarto Marina                                                                   ,189 cm
+569 ,Raffaello     ,Mengolo       ,"Borgo Zeffirelli 7, Erika veneto, Catania"                                     ,163 cm
+570 ,Giampaolo     ,Comboni       ,Pellegrino sardo                                                                ,ALTA
+571 ,Marcella      ,Cugia         ,"Viale Collina 2 Piano 2, Achille umbro, Cremona"                               ,BASSA
+572 ,Carlo         ,Oscuro        ,Settimo Virginia                                                                ,ALTA
+573 ,Dino          ,Belletini     ,Barbara a mare                                                                  ,158 cm
+574 ,Tullio        ,Fagiani       ,"Stretto Adinolfi 07 Piano 2, Borgo Lorenzo sardo, Ogliastra"                   ,BASSA
+575 ,Lorenzo       ,Delle         ,Settimo Elmo                                                                    ,154 cm
+576 ,Saverio       ,Bonanno       ,Sesto Sandra ligure                                                             ,BASSA
+577 ,Melina        ,Savorgnan     ,Alfonsi nell'emilia                                                             ,MEDIA
+578 ,Luca          ,Luciani       ,Filippo del friuli                                                              ,MEDIA
+579 ,Sonia         ,Borrani       ,"Via Pompeo 420, Borgo Giuliana, Vercelli"                                      ,BASSA
+580 ,Armando       ,Faugno        ,"Viale Raffaella 90 Appartamento 49, San Giuseppina, Taranto"                   ,151 cm
+581 ,Bernardo      ,Contarini     ,"Viale Montecchi 1, Quarto Alessio umbro, Pordenone"                            ,162 cm
+582 ,Fulvio        ,Trevisan      ,"Canale Gentili 56 Piano 4, Fortunata terme, Prato"                             ,195 cm
+583 ,Lucia         ,Pizzetti      ,Settimo Venancio                                                                ,158 cm
+584 ,Lisa          ,Ossani        ,"Viale Luciani 0 Appartamento 05, Sesto Raffaella laziale, Padova"              ,165 cm
+585 ,Lorenzo       ,Sismondi      ,"Piazza Bodoni 103, Sesto Tullio, Parma"                                        ,184 cm
+586 ,Caterina      ,Ciampi        ,Ennio salentino                                                                 ,BASSA
+587 ,Giancarlo     ,Ricciardi     ,"Stretto Evangelista 72 Piano 9, Delfino terme, Novara"                         ,160 cm
+588 ,Gianpaolo     ,Ferrara       ,"Stretto Agazzi 412 Piano 6, San Ottavio terme, Catania"                        ,MEDIA
+589 ,Annunziata    ,Righi         ,Toni terme                                                                      ,MEDIA
+590 ,Gianfranco    ,Petrucci      ,Borgo Gioacchino laziale                                                        ,165 cm
+591 ,Gelsomina     ,Castioni      ,Quarto Ludovico terme                                                           ,BASSA
+592 ,Vanessa       ,Greco         ,Antonini sardo                                                                  ,ALTA
+593 ,Rosa          ,Bramante      ,"Contrada Baggio 27 Piano 6, Paoletta terme, Pesaro e Urbino"                   ,176 cm
+594 ,Romeo         ,Villadicani   ,Quarto Nicola calabro                                                           ,165 cm
+595 ,Susanna       ,Balbi         ,Settimo Sole terme                                                              ,169 cm
+596 ,Vittoria      ,Durante       ,"Vicolo Arnulfo 54, San Stefano del friuli, Chieti"                             ,MEDIA
+597 ,Orazio        ,Ferrante      ,San Stefania terme                                                              ,BASSA
+598 ,Lilla         ,Morpurgo      ,"Viale Branciforte 645, Quarto Gianfrancesco umbro, Forlì-Cesena"               ,188 cm
+599 ,Nedda         ,Errani        ,Zecchini ligure                                                                 ,151 cm
+600 ,Gioffre       ,Callegari     ,"Rotonda Luca 34, Emma veneto, Pesaro e Urbino"                                 ,ALTA
+601 ,Paulina       ,Malenchini    ,"Piazza Buonauro 2, Settimo Goffredo a mare, L'Aquila"                          ,MEDIA
+602 ,Jacopo        ,Casagrande    ,Caruso terme                                                                    ,192 cm
+603 ,Rosalia       ,Blasi         ,Trezzini salentino                                                              ,185 cm
+604 ,Ivan          ,Bottigliero   ,"Incrocio Prati 51, Modugno umbro, Terni"                                       ,BASSA
+605 ,Berenice      ,Turchetta     ,Sesto Umberto terme                                                             ,BASSA
+606 ,Guarino       ,Tomaselli     ,Emma a mare                                                                     ,ALTA
+607 ,Uberto        ,Segni         ,Borgo Vittorio calabro                                                          ,192 cm
+608 ,Adelmo        ,Piovani       ,"Strada Michele 0, Ughi a mare, Viterbo"                                        ,ALTA
+609 ,Lauretta      ,Piazzi        ,"Piazza Aldobrandi 8, Finetti del friuli, Grosseto"                             ,MEDIA
+610 ,Leonardo      ,Trezzini      ,"Contrada Piccio 07 Piano 2, Enzio laziale, Palermo"                            ,MEDIA
+611 ,Gioffre       ,Monaco        ,"Viale Alessia 946 Appartamento 86, Ubaldo sardo, Biella"                       ,BASSA
+612 ,Elena         ,Gigli         ,Quarto Livio                                                                    ,167 cm
+613 ,Serafina      ,Toselli       ,Quarto Lolita sardo                                                             ,ALTA
+614 ,Cecilia       ,Cendron       ,"Piazza Maggioli 9, Quarto Bartolomeo veneto, Reggio Emilia"                    ,ALTA
+615 ,Fulvio        ,Tanzini       ,"Viale Marenzio 002, Sesto Lina nell'emilia, Bergamo"                           ,172 cm
+616 ,Eva           ,Jilani        ,Settimo Antonia terme                                                           ,ALTA
+617 ,Cristina      ,Murri         ,Orlando salentino                                                               ,BASSA
+618 ,Fabio         ,Camiscione    ,Temistocle ligure                                                               ,161 cm
+619 ,Maurilio      ,Canevascini   ,"Vicolo Torricelli 53 Appartamento 14, Settimo Pier, Taranto"                   ,ALTA
+620 ,Tiziano       ,Scamarcio     ,Roberto del friuli                                                              ,184 cm
+621 ,Loredana      ,Salvemini     ,"Viale Dolores 6 Appartamento 28, Melania terme, Livorno"                       ,ALTA
+622 ,Aurora        ,Letta         ,"Contrada Eugenia 75, San Flora, Savona"                                        ,180 cm
+623 ,Victoria      ,Carriera      ,"Vicolo Gozzi 941 Appartamento 36, Quarto Sandro, Roma"                         ,196 cm
+624 ,Daria         ,Martucci      ,"Strada Rodolfo 30, Liliana calabro, Massa-Carrara"                             ,BASSA
+625 ,Emilio        ,Totino        ,"Rotonda Mazzeo 863, San Serafina, Pesaro e Urbino"                             ,MEDIA
+626 ,Lando         ,Stein         ,Corradi lido                                                                    ,ALTA
+627 ,Ivan          ,Pizzo         ,San Romeo                                                                       ,156 cm
+628 ,Donna         ,Meucci        ,"Rotonda Luca 3 Piano 4, Costanzo lido, Verbano-Cusio-Ossola"                   ,ALTA
+629 ,Fabrizia      ,Prati         ,Sagredo terme                                                                   ,MEDIA
+630 ,Gianluca      ,Caracciolo    ,"Stretto Rienzo 951 Piano 8, San Pompeo terme, Treviso"                         ,185 cm
+631 ,Venancio      ,Mondadori     ,"Borgo Pedroni 2 Piano 0, San Virginia ligure, Padova"                          ,163 cm
+632 ,Gianfrancesco ,Bellò         ,Borgo Ronaldo                                                                   ,BASSA
+633 ,Iolanda       ,Bulzoni       ,Quarto Berenice                                                                 ,177 cm
+634 ,Gioacchino    ,Giovine       ,"Canale Buscetta 869 Appartamento 37, Ernesto a mare, Varese"                   ,BASSA
+635 ,Ludovico      ,Muratori      ,Cicala del friuli                                                               ,ALTA
+636 ,Eleanora      ,Cappelli      ,Ammaniti salentino                                                              ,MEDIA
+637 ,Mirco         ,Casini        ,Monaco calabro                                                                  ,MEDIA
+638 ,Benedetto     ,Mercalli      ,"Via Franco 41 Appartamento 37, Settimo Dionigi nell'emilia, Modena"            ,BASSA
+639 ,Rossana       ,Nicolucci     ,Gioachino laziale                                                               ,194 cm
+640 ,Pier          ,Argentero     ,Orazio a mare                                                                   ,152 cm
+641 ,Sylvia        ,Moneta        ,Casagrande laziale                                                              ,163 cm
+642 ,Diana         ,Tarchetti     ,Leopoldo calabro                                                                ,196 cm
+643 ,Santino       ,Altera        ,"Vicolo Cirillo 39, Ruggiero ligure, Ogliastra"                                 ,181 cm
+644 ,Mercedes      ,Ubaldi        ,Antonello nell'emilia                                                           ,BASSA
+645 ,Ivan          ,Raurica       ,"Borgo Lilla 762, San Ivo, Bari"                                                ,ALTA
+646 ,Marcantonio   ,Blasi         ,"Incrocio Carli 4, San Silvestro, Treviso"                                      ,MEDIA
+647 ,Ermanno       ,Redi          ,Lorenzo terme                                                                   ,ALTA
+648 ,Francesca     ,Nicolini      ,"Canale Babbo 345, Boldù ligure, Bolzano"                                       ,152 cm
+649 ,Agostino      ,Errani        ,"Borgo Gaggini 49, Settimo Maria, Catanzaro"                                    ,182 cm
+650 ,Irma          ,Ammaniti      ,"Strada Prada 37, San Beppe, Piacenza"                                          ,MEDIA
+651 ,Gian          ,Adinolfi      ,"Canale Gioffre 878 Appartamento 41, Sesto Antonietta, Perugia"                 ,MEDIA
+652 ,Donna         ,Goldoni       ,"Contrada Marini 399 Appartamento 67, San Fabia, Brescia"                       ,187 cm
+653 ,Giancarlo     ,Broschi       ,"Contrada Bova 865 Appartamento 15, Gioffre laziale, Trento"                    ,179 cm
+654 ,Pellegrino    ,Tiepolo       ,"Viale Magnani 49, Borgo Giosuè laziale, Salerno"                               ,152 cm
+655 ,Ilaria        ,Cilibrasi     ,"Stretto Renier 0 Appartamento 56, Bonanno sardo, Treviso"                      ,ALTA
+656 ,Giacinto      ,Flaiano       ,"Via Angelica 688 Piano 5, Anguissola ligure, Fermo"                            ,BASSA
+657 ,Marta         ,Martucci      ,"Canale Camanni 5, Ricolfi salentino, Avellino"                                 ,BASSA
+658 ,Federico      ,Germano       ,"Strada Imelda 35 Piano 5, Silvio ligure, Cuneo"                                ,ALTA
+659 ,Fausto        ,Berengario    ,Nico nell'emilia                                                                ,157 cm
+660 ,Piero         ,Storladi      ,San Micheletto                                                                  ,ALTA
+661 ,Sandra        ,Pizzetti      ,Rocco del friuli                                                                ,BASSA
+662 ,Mercedes      ,Faugno        ,Foletti ligure                                                                  ,BASSA
+663 ,Annetta       ,Beccaria      ,Borgo Corrado sardo                                                             ,194 cm
+664 ,Rolando       ,Soffici       ,"Incrocio Mirco 376, Settimo Gionata del friuli, Perugia"                       ,BASSA
+665 ,Gioachino     ,Cammarata     ,Moretti ligure                                                                  ,185 cm
+666 ,Vito          ,Tamburi       ,San Pietro                                                                      ,ALTA
+667 ,Rodolfo       ,Baracca       ,"Borgo Lara 757, Settimo Emilio, Isernia"                                       ,ALTA
+668 ,Calcedonio    ,Pederiva      ,Silvia laziale                                                                  ,MEDIA
+669 ,Vincenza      ,Scaduto       ,Settimo Luca laziale                                                            ,169 cm
+670 ,Rolando       ,Vitturi       ,Barbarigo sardo                                                                 ,193 cm
+671 ,Durante       ,Trebbi        ,"Stretto Camuccini 2, Storladi lido, Milano"                                    ,168 cm
+672 ,Adamo         ,Coardi        ,"Canale Calbo 98, Michela umbro, Fermo"                                         ,BASSA
+673 ,Stefano       ,Errani        ,Borgo Agostino terme                                                            ,MEDIA
+674 ,Marcella      ,Bevilacqua    ,"Contrada Cociarelli 13, Cristina veneto, Lucca"                                ,168 cm
+675 ,Daniele       ,Tartaglia     ,"Rotonda Bajamonti 077, San Melissa sardo, Piacenza"                            ,188 cm
+676 ,Dolores       ,Serraglio     ,"Via Gianfrancesco 4, Quarto Marina, Brescia"                                   ,MEDIA
+677 ,Piergiuseppe  ,Toscani       ,San Milena salentino                                                            ,BASSA
+678 ,Stefani       ,Serao         ,"Contrada Benigni 396 Piano 3, Fabio veneto, Verbano-Cusio-Ossola"              ,MEDIA
+679 ,Lazzaro       ,Vigorelli     ,Quarto Concetta lido                                                            ,195 cm
+680 ,Cristina      ,Gagliardi     ,"Piazza Zoppetti 9, Borgo Flora lido, Catanzaro"                                ,MEDIA
+681 ,Agnolo        ,Grassi        ,San Silvia calabro                                                              ,BASSA
+682 ,Adelmo        ,Maglio        ,"Piazza Finotto 065 Piano 7, Sesto Tullio, Avellino"                            ,ALTA
+683 ,Lolita        ,Turci         ,"Vicolo Pirelli 409 Piano 5, Sesto Bettina, Enna"                               ,BASSA
+684 ,Tiziana       ,Lanfranchi    ,"Viale Tremonti 9 Appartamento 67, Roman calabro, Firenze"                      ,BASSA
+685 ,Carolina      ,Guglielmi     ,"Strada Sandro 561 Piano 7, Tasso lido, Cagliari"                               ,167 cm
+686 ,Bruno         ,Rosselli      ,Settimo Vincenza                                                                ,182 cm
+687 ,Mirco         ,Leblanc       ,"Contrada Pezzali 8 Appartamento 46, Marisa terme, Enna"                        ,166 cm
+688 ,Simonetta     ,Serraglio     ,"Strada Gianna 004, Barcella terme, Sondrio"                                    ,182 cm
+689 ,Morena        ,Sraffa        ,San Angelica                                                                    ,191 cm
+690 ,Amleto        ,Battelli      ,"Strada Marissa 2, Settimo Rita, Varese"                                        ,BASSA
+691 ,Vittoria      ,Scalera       ,"Viale Vito 81 Appartamento 98, Tomasetti sardo, Perugia"                       ,188 cm
+692 ,Carmelo       ,Mocenigo      ,Giada ligure                                                                    ,167 cm
+693 ,Ernesto       ,Napolitano    ,Quarto Fabia umbro                                                              ,194 cm
+694 ,Nina          ,Benedetti     ,Borgo Dino                                                                      ,150 cm
+695 ,Tiziano       ,Balla         ,"Stretto Adamo 92, Biagiotti umbro, Sassari"                                    ,168 cm
+696 ,Ronaldo       ,Gori          ,"Viale Mattia 4, Ugo calabro, Trapani"                                          ,153 cm
+697 ,Bernardo      ,Piazzi        ,"Piazza Fantini 51, Girolamo ligure, Trapani"                                   ,MEDIA
+698 ,Annunziata    ,Milanesi      ,"Incrocio Guglielmo 75, San Silvestro, Isernia"                                 ,184 cm
+699 ,Nicoletta     ,Tommaseo      ,Settimo Baccio                                                                  ,ALTA
+700 ,Aria          ,Nicoletti     ,Settimo Nina                                                                    ,166 cm
+701 ,Antonella     ,Parri         ,"Canale Francesca 56, Quarto Dolores a mare, Sondrio"                           ,158 cm
+702 ,Donna         ,Valmarana     ,Vezzali ligure                                                                  ,187 cm
+703 ,Ugolino       ,Falloppio     ,Antonello calabro                                                               ,197 cm
+704 ,Aria          ,Gangemi       ,"Viale Ludovico 41 Piano 9, Mazzi terme, Trento"                                ,167 cm
+705 ,Carmelo       ,Paoletti      ,"Incrocio Ciro 18, Contarini a mare, Viterbo"                                   ,MEDIA
+706 ,Lorenzo       ,Volterra      ,Caffarelli a mare                                                               ,ALTA
+707 ,Fausto        ,Bianchini     ,"Piazza Semitecolo 566 Piano 3, Piergiuseppe lido, Lucca"                       ,ALTA
+708 ,Lisa          ,Depero        ,Mascheroni terme                                                                ,ALTA
+709 ,Arturo        ,Mondaini      ,"Stretto Busoni 5, Toni terme, Aosta"                                           ,153 cm
+710 ,Allegra       ,Borsiere      ,Petruzzi del friuli                                                             ,195 cm
+711 ,Lisa          ,Iacobucci     ,Malpighi salentino                                                              ,ALTA
+712 ,Rosina        ,Ricolfi       ,"Incrocio Zaccardo 30 Appartamento 72, Sesto Mirco nell'emilia, Campobasso"     ,MEDIA
+713 ,Piergiuseppe  ,Pavanello     ,"Vicolo Canevascini 224, Coluccio ligure, L'Aquila"                             ,177 cm
+714 ,Lucio         ,Vecellio      ,Settimo Pellegrino lido                                                         ,161 cm
+715 ,Luciana       ,Iacovelli     ,Arnulfo nell'emilia                                                             ,166 cm
+716 ,Tatiana       ,Conti         ,"Strada Canil 1, Sesto Mirco, Udine"                                            ,156 cm
+717 ,Renzo         ,Franceschi    ,"Via Simonetta 09 Piano 1, Antonia nell'emilia, Barletta-Andria-Trani"          ,188 cm
+718 ,Massimo       ,Branciforte   ,"Rotonda Cibin 023 Appartamento 73, Galvani laziale, Ancona"                    ,BASSA
+719 ,Enrico        ,Baresi        ,Giacobbe laziale                                                                ,200 cm
+720 ,Calogero      ,Tosto         ,Piovani calabro                                                                 ,MEDIA
+721 ,Arnulfo       ,Bandello      ,Togliatti salentino                                                             ,ALTA
+722 ,Pierluigi     ,Borrani       ,"Via Zamengo 7 Appartamento 98, Quarto Veronica laziale, Udine"                 ,182 cm
+723 ,Gioffre       ,Soranzo       ,Verri calabro                                                                   ,BASSA
+724 ,Marcella      ,Tasca         ,"Strada Giulietti 859, Settimo Patrizio a mare, Catania"                        ,199 cm
+725 ,Aria          ,Alboni        ,"Canale Graziano 84 Appartamento 72, Sesto Guarino, Ascoli Piceno"              ,174 cm
+726 ,Gianfrancesco ,Ferrazzi      ,"Viale Venier 90 Piano 7, Cutuli umbro, Genova"                                 ,166 cm
+727 ,Rita          ,Mercati       ,"Borgo Emilio 8, Tencalla nell'emilia, Grosseto"                                ,198 cm
+728 ,Achille       ,Mancini       ,Sesto Ivan                                                                      ,184 cm
+729 ,Cesare        ,Campise       ,Orazio del friuli                                                               ,ALTA
+730 ,Licia         ,Verga         ,Alessio veneto                                                                  ,ALTA
+731 ,Fiamma        ,Odescalchi    ,Paulina laziale                                                                 ,BASSA
+732 ,Alberico      ,Ricciardi     ,"Contrada Emilio 214 Appartamento 46, Baroffio del friuli, Roma"                ,153 cm
+733 ,Mario         ,Bianchini     ,"Incrocio Ammaniti 10 Appartamento 77, Fulvio veneto, Siena"                    ,MEDIA
+734 ,Ettore        ,Cammarata     ,Enzio a mare                                                                    ,ALTA
+735 ,Stella        ,Cavalcanti    ,"Canale Cainero 84 Piano 6, Depero sardo, Terni"                                ,171 cm
+736 ,Beppe         ,Toso          ,"Contrada Danilo 21, Settimo Fabio, Brescia"                                    ,MEDIA
+737 ,Benito        ,Scalera       ,"Strada Milanesi 6 Appartamento 23, Borgo Laura del friuli, Varese"             ,181 cm
+738 ,Baldassare    ,Ovadia        ,Ottavio laziale                                                                 ,MEDIA
+739 ,Morena        ,Brambilla     ,"Incrocio Bonomo 5, Elvira veneto, Aosta"                                       ,BASSA
+740 ,Maurilio      ,Segni         ,Pigafetta ligure                                                                ,152 cm
+741 ,Milena        ,Respighi      ,"Canale Severino 6, Settimo Ninetta lido, Alessandria"                          ,162 cm
+742 ,Isa           ,Grimani       ,"Piazza Isabella 307 Piano 2, Settimo Roman terme, Sassari"                     ,ALTA
+743 ,Virginia      ,Gentilini     ,Vercelloni lido                                                                 ,181 cm
+744 ,Lorenzo       ,Palazzo       ,Sesto Fernanda                                                                  ,184 cm
+745 ,Amedeo        ,Barozzi       ,Margherita terme                                                                ,ALTA
+746 ,Patrizio      ,Pizzamano     ,"Contrada Pugliese 1 Appartamento 56, Stella nell'emilia, Pordenone"            ,BASSA
+747 ,Veronica      ,Ferragni      ,Chiara veneto                                                                   ,161 cm
+748 ,Martina       ,Trincavelli   ,Tuzzolino calabro                                                               ,171 cm
+749 ,Sophia        ,Pietrangeli   ,"Piazza Metella 832, Borgo Renata a mare, Torino"                               ,BASSA
+750 ,Federica      ,Anichini      ,Sesto Ermenegildo                                                               ,179 cm
+751 ,Vincentio     ,Collodi       ,"Canale Fittipaldi 75, Borgo Massimiliano, Ferrara"                             ,178 cm
+752 ,Costanzo      ,Vespa         ,"Rotonda Flora 12 Appartamento 24, San Alfio, Oristano"                         ,MEDIA
+753 ,Delfino       ,Baresi        ,Giuseppina umbro                                                                ,153 cm
+754 ,Giovanni      ,Argan         ,"Viale Travaglio 12, Sesto Marcella terme, Barletta-Andria-Trani"               ,199 cm
+755 ,Rosa          ,Soderini      ,"Stretto Padovano 61, Settimo Azeglio calabro, Cagliari"                        ,150 cm
+756 ,Piermaria     ,Giannelli     ,Sesto Olga ligure                                                               ,164 cm
+757 ,Leone         ,Rossellini    ,San Temistocle                                                                  ,160 cm
+758 ,Flavia        ,Renier        ,Settimo Luigi ligure                                                            ,ALTA
+759 ,Fiorenzo      ,Totino        ,Rembrandt lido                                                                  ,158 cm
+760 ,Ippazio       ,Brichese      ,Sesto Ubaldo ligure                                                             ,ALTA
+761 ,Annetta       ,Carnera       ,Quarto Rossana lido                                                             ,167 cm
+762 ,Raffaello     ,Petrucci      ,"Stretto Gangemi 223 Piano 5, Roman salentino, Olbia-Tempio"                    ,BASSA
+763 ,Ottone        ,Doria         ,"Borgo Viridiana 231 Piano 0, Sesto Rembrandt, Nuoro"                           ,MEDIA
+764 ,Rita          ,Marini        ,Benigni ligure                                                                  ,MEDIA
+765 ,Massimiliano  ,Pometta       ,"Strada Merisi 67, Quarto Greca lido, Venezia"                                  ,161 cm
+766 ,Riccardo      ,Granatelli    ,"Incrocio Claudia 663 Piano 9, Faranda umbro, Verona"                           ,BASSA
+767 ,Valerio       ,Barberini     ,Lidia del friuli                                                                ,BASSA
+768 ,Luciano       ,Guidone       ,"Borgo Galuppi 39, San Oreste del friuli, Pescara"                              ,BASSA
+769 ,Milo          ,Goldoni       ,Savorgnan salentino                                                             ,ALTA
+770 ,Vanessa       ,Lopresti      ,"Vicolo Morandini 350, Borgo Francesco umbro, Brindisi"                         ,MEDIA
+771 ,Ettore        ,Mancini       ,"Via Ninetta 203 Appartamento 52, Sesto Raimondo, Bari"                         ,150 cm
+772 ,Stella        ,Micca         ,Concetta ligure                                                                 ,BASSA
+773 ,Maria         ,Pepe          ,Marcantonio veneto                                                              ,193 cm
+774 ,Romeo         ,Mazzi         ,"Incrocio Pirelli 295 Piano 8, Sesto Domenico umbro, Biella"                    ,165 cm
+775 ,Aria          ,Grossi        ,Quarto Romina salentino                                                         ,173 cm
+776 ,Lauretta      ,Liguori       ,"Piazza Olga 4 Appartamento 26, Borgo Antonina terme, Lecce"                    ,200 cm
+777 ,Calcedonio    ,Pagnotto      ,Settimo Alessandra calabro                                                      ,150 cm
+778 ,Barbara       ,Dellucci      ,"Contrada Aulenti 5 Piano 9, Zacco lido, Cuneo"                                 ,152 cm
+779 ,Berenice      ,Marconi       ,"Viale Flavia 39, Dossetti lido, La Spezia"                                     ,ALTA
+780 ,Flavio        ,Vergerio      ,Quarto Antonello                                                                ,MEDIA
+781 ,Serena        ,Druso         ,Quarto Gianpaolo                                                                ,BASSA
+782 ,Augusto       ,Trincavelli   ,Borgo Bruno salentino                                                           ,156 cm
+783 ,Costantino    ,Canetta       ,"Contrada Tarantini 16, Settimo Lucia veneto, Torino"                           ,180 cm
+784 ,Ettore        ,Piacentini    ,"Vicolo Turci 522, Quarto Dante salentino, Sassari"                             ,BASSA
+785 ,Ippazio       ,Vespa         ,Agostino sardo                                                                  ,ALTA
+786 ,Zaira         ,Mantegazza    ,"Borgo Piero 625, Jolanda terme, Ascoli Piceno"                                 ,MEDIA
+787 ,Sandro        ,Pasolini      ,Settimo Tatiana                                                                 ,MEDIA
+788 ,Coriolano     ,Turchi        ,Settimo Ornella                                                                 ,188 cm
+789 ,Baccio        ,Regge         ,"Canale Redi 642, Scalera sardo, Rieti"                                         ,196 cm
+790 ,Bettina       ,Sanguineti    ,"Strada Draghi 351 Appartamento 44, Sesto Gemma, Verbano-Cusio-Ossola"          ,184 cm
+791 ,Marcella      ,Tuzzolino     ,"Canale Ruggiero 55, Comboni laziale, Catania"                                  ,178 cm
+792 ,Aria          ,Nosiglia      ,"Borgo Vito 626 Appartamento 58, Jolanda lido, Carbonia-Iglesias"               ,BASSA
+793 ,Temistocle    ,Ubaldi        ,Sesto Bettina terme                                                             ,BASSA
+794 ,Toni          ,Cuda          ,"Vicolo Druso 108 Appartamento 05, Dellucci calabro, Crotone"                   ,195 cm
+795 ,Alessia       ,Sabatini      ,"Contrada Moschino 7 Piano 8, Settimo Antonino, Sassari"                        ,187 cm
+796 ,Marina        ,Anguissola    ,Borgo Flora                                                                     ,155 cm
+797 ,Damiano       ,Scarfoglio    ,Settimo Annunziata                                                              ,BASSA
+798 ,Francesco     ,Calarco       ,"Borgo Antonucci 809 Appartamento 06, San Benedetto salentino, Macerata"        ,182 cm
+799 ,Carlo         ,Marinetti     ,"Incrocio Pomponio 21, Quarto Gustavo, Torino"                                  ,ALTA
+800 ,Agostino      ,Accardo       ,Sesto Ottavio                                                                   ,ALTA
+801 ,Romina        ,Canetta       ,Settimo Ivo laziale                                                             ,ALTA
+802 ,Vanessa       ,Morpurgo      ,Battelli ligure                                                                 ,157 cm
+803 ,Raimondo      ,Turchi        ,"Stretto Napolitano 96, Trombetta umbro, Mantova"                               ,182 cm
+804 ,Patrizio      ,Asmundo       ,"Viale Tarantini 884 Appartamento 95, Giannetti laziale, Matera"                ,184 cm
+805 ,Greco         ,Cimini        ,"Vicolo Fantini 3 Appartamento 45, Quarto Camillo, Benevento"                   ,171 cm
+806 ,Diana         ,Parmitano     ,Borgo Calogero                                                                  ,MEDIA
+807 ,Pasqual       ,Traversa      ,"Vicolo Capone 3 Piano 2, Ludovica salentino, Palermo"                          ,MEDIA
+808 ,Dolores       ,Gibilisco     ,"Piazza Paolini 13 Appartamento 11, San Galasso, Aosta"                         ,BASSA
+809 ,Aldo          ,Gibilisco     ,Gabrieli del friuli                                                             ,ALTA
+810 ,Leone         ,Bettin        ,"Borgo Anguillara 1 Appartamento 05, Sesto Nanni, Avellino"                     ,166 cm
+811 ,Ansaldo       ,Navone        ,"Rotonda Tresoldi 60 Appartamento 49, San Nadia salentino, Nuoro"               ,ALTA
+812 ,Osvaldo       ,Cutuli        ,"Contrada Giorgio 93 Piano 5, Sesto Federigo, Pisa"                             ,BASSA
+813 ,Lidia         ,Busoni        ,Borgo Bernardo veneto                                                           ,BASSA
+814 ,Vincenza      ,Dallara       ,Settimo Leone                                                                   ,ALTA
+815 ,Virgilio      ,Trebbi        ,Borgo Martino ligure                                                            ,MEDIA
+816 ,Lamberto      ,Berlusconi    ,"Via Loredana 324, Quarto Claudia, Lodi"                                        ,ALTA
+817 ,Amanda        ,Toselli       ,Garrone del friuli                                                              ,168 cm
+818 ,Lauretta      ,Donatoni      ,"Rotonda Gaiatto 778 Appartamento 74, Corbo umbro, Siracusa"                    ,MEDIA
+819 ,Fabia         ,Gregorio      ,Sesto Lisa terme                                                                ,MEDIA
+820 ,Massimiliano  ,Gozzi         ,Valentina a mare                                                                ,160 cm
+821 ,Amadeo        ,Malenchini    ,"Borgo Calarco 852, Emma ligure, Palermo"                                       ,173 cm
+822 ,Telemaco      ,Giannini      ,"Borgo Virgilio 41 Appartamento 09, Settimo Coluccio veneto, Mantova"           ,BASSA
+823 ,Niccolò       ,Volterra      ,"Canale Giulio 57 Piano 8, Arsenio ligure, Messina"                             ,184 cm
+824 ,Roberta       ,Castiglione   ,Settimo Bianca                                                                  ,BASSA
+825 ,Erika         ,Molesini      ,Doglioni terme                                                                  ,184 cm
+826 ,Nadia         ,Trentini      ,"Incrocio Filogamo 941, Aria veneto, Pesaro e Urbino"                           ,200 cm
+827 ,Patrizia      ,Olivetti      ,"Via Lippomano 677 Piano 3, Giulio veneto, Bari"                                ,MEDIA
+828 ,Valerio       ,Parmitano     ,Fornaciari ligure                                                               ,ALTA
+829 ,Edoardo       ,Bellini       ,"Borgo Antelami 563, Sesto Rita, Pesaro e Urbino"                               ,ALTA
+830 ,Guido         ,Infantino     ,Amanda lido                                                                     ,185 cm
+831 ,Giampaolo     ,Buonauro      ,"Incrocio Flavio 288 Appartamento 45, Broggini terme, Ravenna"                  ,BASSA
+832 ,Paoletta      ,Bosio         ,Mogherini sardo                                                                 ,175 cm
+833 ,Antonello     ,Chiaramonte   ,"Incrocio Biagiotti 48, Settimo Olga ligure, Rimini"                            ,174 cm
+834 ,Ramona        ,Borromini     ,Argurio lido                                                                    ,MEDIA
+835 ,Laureano      ,Pisaroni      ,"Contrada Amalia 80 Appartamento 89, Sesto Pierpaolo, Carbonia-Iglesias"        ,199 cm
+836 ,Isabella      ,Verdone       ,Tiepolo sardo                                                                   ,BASSA
+837 ,Ubaldo        ,Iacovelli     ,Borgo Licia lido                                                                ,MEDIA
+838 ,Marissa       ,Scaramucci    ,Borgo Carolina veneto                                                           ,194 cm
+839 ,Fiorino       ,Nicoletti     ,"Canale Modiano 291 Appartamento 16, Settimo Sole laziale, Massa-Carrara"       ,ALTA
+840 ,Flavia        ,Schicchi      ,Settimo Ennio del friuli                                                        ,MEDIA
+841 ,Sabatino      ,Morellato     ,Toscanini lido                                                                  ,182 cm
+842 ,Alfio         ,Carullo       ,San Livio                                                                       ,182 cm
+843 ,Mattia        ,Mazzanti      ,"Vicolo Pozzecco 8 Piano 7, Alboni umbro, Piacenza"                             ,195 cm
+844 ,Victoria      ,Amato         ,Angelo del friuli                                                               ,ALTA
+845 ,Tiziana       ,Trevisani     ,"Contrada Ossani 1 Piano 9, Borgo Gianfrancesco, Lecco"                         ,164 cm
+846 ,Angelica      ,Rensi         ,"Canale Leone 15, Quarto Matilda terme, Pescara"                                ,MEDIA
+847 ,Ninetta       ,Baresi        ,"Borgo Ramona 60, Quarto Simonetta, Monza e della Brianza"                      ,162 cm
+848 ,Bartolomeo    ,Monte         ,"Vicolo Caracciolo 20 Appartamento 35, Borgo Antonia ligure, Campobasso"        ,ALTA
+849 ,Vito          ,Proietti      ,Sesto Calcedonio                                                                ,BASSA
+850 ,Gioacchino    ,Pastine       ,Errani terme                                                                    ,ALTA
+851 ,Arturo        ,Tedesco       ,Dionigi terme                                                                   ,ALTA
+852 ,Ruggiero      ,Padovano      ,Borgo Nanni                                                                     ,ALTA
+853 ,Elvira        ,Boitani       ,"Via Saffi 3 Piano 0, Mercalli umbro, Vercelli"                                 ,MEDIA
+854 ,Federico      ,Vento         ,"Contrada Udinese 4, Rosa terme, La Spezia"                                     ,184 cm
+855 ,Telemaco      ,Grifeo        ,"Via Agostini 606, Borgo Giorgio nell'emilia, Imperia"                          ,MEDIA
+856 ,Michele       ,Caboto        ,"Contrada Greca 7, Sesto Milena, Caltanissetta"                                 ,156 cm
+857 ,Alberico      ,Argento       ,"Stretto Satriani 09 Appartamento 77, Sesto Giorgio, Trieste"                   ,180 cm
+858 ,Emma          ,Boezio        ,"Via Danilo 033, Sesto Patrizia nell'emilia, Catanzaro"                         ,MEDIA
+859 ,Nico          ,Gabbana       ,"Contrada Botta 563 Appartamento 27, Quarto Nico a mare, Caltanissetta"         ,191 cm
+860 ,Caterina      ,Taliani       ,"Vicolo Jilani 63 Piano 1, Ceci ligure, Forlì-Cesena"                           ,BASSA
+861 ,Adriana       ,Giunti        ,Sesto Torquato a mare                                                           ,175 cm
+862 ,Gioele        ,Ceci          ,"Piazza Rosalia 37 Appartamento 24, Guarato terme, Lucca"                       ,ALTA
+863 ,Coriolano     ,Badoglio      ,Gatto laziale                                                                   ,MEDIA
+864 ,Lazzaro       ,Praga         ,Monduzzi salentino                                                              ,174 cm
+865 ,Renata        ,Surian        ,Quarto Antonello del friuli                                                     ,ALTA
+866 ,Pellegrino    ,Malpighi      ,"Strada Natalia 13 Piano 9, Folliero sardo, Gorizia"                            ,BASSA
+867 ,Anita         ,Campise       ,Settimo Stella nell'emilia                                                      ,155 cm
+868 ,Flora         ,Caruso        ,Jacopo nell'emilia                                                              ,183 cm
+869 ,Liana         ,Borromeo      ,San Lidia laziale                                                               ,160 cm
+870 ,Agostino      ,Zeffirelli    ,"Stretto Baracca 4, San Pina salentino, Verona"                                 ,ALTA
+871 ,Rosina        ,Niggli        ,"Canale Geronimo 380, Bova sardo, Parma"                                        ,BASSA
+872 ,Loretta       ,Costanzi      ,"Borgo Barbara 084 Piano 6, Borgo Gianmarco nell'emilia, Bergamo"               ,174 cm
+873 ,Santino       ,Ricolfi       ,San Franco                                                                      ,169 cm
+874 ,Fabrizia      ,Valguarnera   ,"Viale Emanuelli 56, Tatiana salentino, Lodi"                                   ,193 cm
+875 ,Filippo       ,Ficino        ,Quarto Leone                                                                    ,178 cm
+876 ,Elmo          ,Costalonga    ,Sesto Anita                                                                     ,174 cm
+877 ,Alessandro    ,Stoppani      ,"Via Giuliana 7, Gian terme, Isernia"                                           ,ALTA
+878 ,Tonino        ,Vecellio      ,"Incrocio Majorana 25, Tosi veneto, Milano"                                     ,184 cm
+879 ,Antonella     ,Garobbio      ,Quarto Antonio terme                                                            ,ALTA
+880 ,Priscilla     ,Anguissola    ,"Stretto Ranieri 78, Settimo Annalisa umbro, Rieti"                             ,MEDIA
+881 ,Rocco         ,Garibaldi     ,Gianfranco umbro                                                                ,161 cm
+882 ,Aria          ,Sabbatini     ,"Via Elladio 0 Appartamento 04, Settimo Nicoletta terme, Verbano-Cusio-Ossola"  ,175 cm
+883 ,Annalisa      ,Lussu         ,"Via Marina 43, Pomponio salentino, Trento"                                     ,ALTA
+884 ,Erika         ,Balbi         ,Settimo Fernanda terme                                                          ,BASSA
+885 ,Saverio       ,Carullo       ,"Stretto Ronaldo 2 Piano 3, Filangieri terme, Sondrio"                          ,MEDIA
+886 ,Angelica      ,Parpinel      ,Camillo del friuli                                                              ,180 cm
+887 ,Antonello     ,Bernardi      ,"Rotonda Pier 1 Piano 5, Settimo Vincentio salentino, Torino"                   ,162 cm
+888 ,Amedeo        ,Sonnino       ,"Stretto Quasimodo 478 Appartamento 46, Settimo Toni, Ancona"                   ,168 cm
+889 ,Dina          ,Ferrazzi      ,"Stretto Finetti 73 Appartamento 92, Edoardo umbro, Ragusa"                     ,BASSA
+890 ,Diana         ,Salgari       ,"Incrocio Sinisi 0 Piano 2, San Orlando terme, Catanzaro"                       ,ALTA
+891 ,Aurora        ,Mengolo       ,Sesto Carla veneto                                                              ,191 cm
+892 ,Daria         ,Rinaldi       ,"Viale Marisa 54 Piano 8, Giampaolo umbro, Taranto"                             ,200 cm
+893 ,Alessia       ,Onio          ,"Strada Cortese 84, Agostino lido, Latina"                                      ,186 cm
+894 ,Giacomo       ,Petrassi      ,San Vanessa                                                                     ,162 cm
+895 ,Annibale      ,Palmisano     ,"Piazza Venier 118, Melina a mare, Reggio Emilia"                               ,MEDIA
+896 ,Benvenuto     ,Fanucci       ,Quarto Ansaldo                                                                  ,ALTA
+897 ,Delfino       ,Tutino        ,"Stretto Flavia 93 Piano 9, Settimo Lisa, Oristano"                             ,167 cm
+898 ,Sylvia        ,Paoletti      ,"Contrada Siffredi 70, Borgo Antonio, Sassari"                                  ,177 cm
+899 ,Romeo         ,Paltrinieri   ,"Piazza Angelina 36 Appartamento 44, San Adriano, Torino"                       ,171 cm
+900 ,Luciano       ,Maglio        ,"Piazza Temistocle 9, Sesto Melania, Palermo"                                   ,MEDIA
+901 ,Loredana      ,Marinetti     ,Grossi veneto                                                                   ,174 cm
+902 ,Monica        ,Vitturi       ,Travaglia veneto                                                                ,161 cm
+903 ,Lauretta      ,Boccioni      ,"Viale Rizzoli 49, Martino nell'emilia, Lecce"                                  ,181 cm
+904 ,Ezio          ,Zacco         ,"Viale Angelina 71, Fabrizia umbro, Caserta"                                    ,160 cm
+905 ,Lorenzo       ,Gibilisco     ,Ferragni terme                                                                  ,185 cm
+906 ,Torquato      ,Morellato     ,Borgo Griselda                                                                  ,ALTA
+907 ,Paride        ,Rastelli      ,Filippa veneto                                                                  ,198 cm
+908 ,Franco        ,Faranda       ,"Vicolo Verdi 7 Appartamento 74, Alessia lido, Arezzo"                          ,198 cm
+909 ,Ignazio       ,Quasimodo     ,"Strada Marina 7, Settimo Torquato, Pordenone"                                  ,177 cm
+910 ,Giada         ,Sgalambro     ,"Canale Peruzzi 2, Flavia terme, Matera"                                        ,173 cm
+911 ,Cipriano      ,Musatti       ,Niccolò lido                                                                    ,152 cm
+912 ,Orlando       ,Casadei       ,"Rotonda Fortunata 96, Quarto Costantino, Ogliastra"                            ,176 cm
+913 ,Lando         ,Pavone        ,Beatrice laziale                                                                ,MEDIA
+914 ,Antonietta    ,Prodi         ,Sesto Adriano                                                                   ,199 cm
+915 ,Matilda       ,Cicilia       ,Gianmarco laziale                                                               ,MEDIA
+916 ,Loretta       ,Faugno        ,Lara lido                                                                       ,183 cm
+917 ,Pellegrino    ,Lerner        ,San Calogero terme                                                              ,ALTA
+918 ,Gianni        ,Visconti      ,"Piazza Rodolfo 757 Appartamento 68, Soffici terme, Vicenza"                    ,BASSA
+919 ,Gino          ,Taccola       ,"Rotonda Garobbio 74, Aldobrandi terme, Parma"                                  ,166 cm
+920 ,Daria         ,Gianetti      ,San Giuliana veneto                                                             ,176 cm
+921 ,Guarino       ,Trapani       ,"Vicolo Pizzetti 54 Appartamento 45, Quarto Romina a mare, Vicenza"             ,150 cm
+922 ,Evangelista   ,Pacomio       ,San Matilda                                                                     ,163 cm
+923 ,Enzio         ,Troisi        ,"Contrada Letta 8, Tonia lido, Viterbo"                                         ,MEDIA
+924 ,Uberto        ,Mancini       ,Bocca laziale                                                                   ,MEDIA
+925 ,Severino      ,Nievo         ,"Incrocio Tutino 47, Settimo Vincentio, Asti"                                   ,156 cm
+926 ,Severino      ,Sonnino       ,"Vicolo Ammaniti 8 Appartamento 93, Borgo Luchino, Bologna"                     ,195 cm
+927 ,Dina          ,Tosi          ,"Contrada Benvenuto 1, Gioacchino del friuli, Ancona"                           ,183 cm
+928 ,Giacomo       ,Pacelli       ,"Vicolo Liberto 6, Matilda a mare, Massa-Carrara"                               ,176 cm
+929 ,Claudio       ,Vattimo       ,"Incrocio Gastone 45 Piano 7, Sesto Dina laziale, Firenze"                      ,BASSA
+930 ,Michelotto    ,Zanichelli    ,Quarto Valeria                                                                  ,BASSA
+931 ,Bernardo      ,Mogherini     ,Silvia ligure                                                                   ,157 cm
+932 ,Olga          ,Pisano        ,"Via Gaspare 605 Piano 1, Quarto Raimondo terme, Pordenone"                     ,183 cm
+933 ,Simonetta     ,Falier        ,"Canale Calogero 82 Appartamento 64, Praga lido, Isernia"                       ,MEDIA
+934 ,Loretta       ,Raimondi      ,Raffaello salentino                                                             ,175 cm
+935 ,Fiamma        ,Camuccini     ,Virginia ligure                                                                 ,181 cm
+936 ,Fiorenzo      ,Ciani         ,Filippo ligure                                                                  ,BASSA
+937 ,Rocco         ,Cagnin        ,Piovani del friuli                                                              ,196 cm
+938 ,Dolores       ,Prati         ,Mondadori sardo                                                                 ,181 cm
+939 ,Bettina       ,Ubaldi        ,Borgo Claudio                                                                   ,BASSA
+940 ,Umberto       ,Asprucci      ,Settimo Federica                                                                ,155 cm
+941 ,Simonetta     ,Basadonna     ,Settimo Adriana                                                                 ,154 cm
+942 ,Calcedonio    ,Saffi         ,"Rotonda Vattimo 33, Settimo Giancarlo del friuli, Caltanissetta"               ,189 cm
+943 ,Annetta       ,Carfagna      ,"Rotonda Flaiano 702, Settimo Griselda, Cremona"                                ,ALTA
+944 ,Gelsomina     ,Bongiorno     ,Sesto Gilberto                                                                  ,188 cm
+945 ,Ludovico      ,Traversa      ,Settimo Gianni                                                                  ,151 cm
+946 ,Adele         ,Argento       ,Sesto Nadia umbro                                                               ,MEDIA
+947 ,Coluccio      ,Guarana       ,Sesto Mario                                                                     ,178 cm
+948 ,Maria         ,Dallapé       ,"Piazza Ugo 18 Piano 8, Borgo Natalia laziale, Mantova"                         ,ALTA
+949 ,Gioffre       ,Trapani       ,"Rotonda Rossana 6, Angelica a mare, Mantova"                                   ,188 cm
+950 ,Gianmarco     ,Mercati       ,Settimo Stella                                                                  ,159 cm
+951 ,Giuliana      ,Pertini       ,"Borgo Florio 471 Appartamento 50, Sesto Ubaldo, Lecco"                         ,BASSA
+952 ,Melania       ,Mazzeo        ,"Rotonda Mariano 9, Bianca terme, Olbia-Tempio"                                 ,MEDIA
+953 ,Daria         ,Casale        ,"Incrocio Tonia 7, Camillo sardo, Lodi"                                         ,182 cm
+954 ,Cristina      ,Pisani        ,Trussardi ligure                                                                ,MEDIA
+955 ,Ricciotti     ,Nonis         ,Aporti laziale                                                                  ,162 cm
+956 ,Antonello     ,Navarria      ,"Borgo Adriano 4, Rosina salentino, Latina"                                     ,165 cm
+957 ,Gioacchino    ,Vento         ,"Borgo Galasso 1, Piergiorgio a mare, Napoli"                                   ,168 cm
+958 ,Antonella     ,Tamborini     ,Sesto Romolo ligure                                                             ,197 cm
+959 ,Silvia        ,Giacconi      ,Luigi terme                                                                     ,154 cm
+960 ,Elmo          ,Pozzecco      ,Puccini lido                                                                    ,ALTA
+961 ,Giuliano      ,Scotti        ,"Contrada Fabrizio 2 Appartamento 50, Argan salentino, Lecco"                   ,164 cm
+962 ,Achille       ,Nonis         ,Enzio del friuli                                                                ,ALTA
+963 ,Michela       ,Morgagni      ,"Via Mariana 621, Sesto Fedele ligure, Prato"                                   ,183 cm
+964 ,Emma          ,Aldobrandi    ,Settimo Amleto                                                                  ,ALTA
+965 ,Giulio        ,Foconi        ,"Incrocio Lando 9, San Giuseppina, Grosseto"                                    ,ALTA
+966 ,Galasso       ,Luciani       ,Beppe salentino                                                                 ,BASSA
+967 ,Domenico      ,Cuzzocrea     ,"Strada Ennio 8, Lorenzo salentino, Latina"                                     ,ALTA
+968 ,Ugo           ,Lopresti      ,"Viale Casagrande 858, Quarto Leonardo, Bergamo"                                ,MEDIA
+969 ,Marcantonio   ,Paoletti      ,"Rotonda Santoro 96, Settimo Galasso laziale, Treviso"                          ,196 cm
+970 ,Nanni         ,Franceschi    ,Sesto Alfredo sardo                                                             ,ALTA
+971 ,Giancarlo     ,Fallaci       ,"Strada Praga 388, Alphons terme, Monza e della Brianza"                        ,MEDIA
+972 ,Atenulf       ,Carriera      ,"Strada Dino 37 Appartamento 29, Quarto Arnulfo nell'emilia, Macerata"          ,199 cm
+973 ,Giuliano      ,Giorgetti     ,Ortolani a mare                                                                 ,MEDIA
+974 ,Lisa          ,Majorana      ,"Contrada Dino 54 Appartamento 47, Borgo Emilio calabro, Nuoro"                 ,MEDIA
+975 ,Mirco         ,Pugliese      ,Belletini ligure                                                                ,ALTA
+976 ,Giorgia       ,Beffa         ,Tomasini a mare                                                                 ,154 cm
+977 ,Nicoletta     ,Antonucci     ,San Giorgio                                                                     ,BASSA
+978 ,Luchino       ,Chiappetta    ,"Borgo Mirko 96, Carriera ligure, Piacenza"                                     ,ALTA
+979 ,Ezio          ,Donarelli     ,"Via Mastroianni 7, Salata nell'emilia, Firenze"                                ,182 cm
+980 ,Massimo       ,Caffarelli    ,Sesto Milo                                                                      ,188 cm
+981 ,Domenico      ,Tedesco       ,"Contrada Stefani 656, Borgo Carmelo veneto, Bologna"                           ,BASSA
+982 ,Giuseppe      ,Fantoni       ,"Strada Lauretta 012, Fedele lido, Milano"                                      ,171 cm
+983 ,Pier          ,Balbi         ,"Stretto Nitto 81 Appartamento 05, Camicione a mare, Asti"                      ,ALTA
+984 ,Antonino      ,Sagnelli      ,"Stretto Caccioppoli 0 Piano 5, Settimo Viridiana del friuli, Parma"            ,MEDIA
+985 ,Raffaella     ,Lippomano     ,Bresciani terme                                                                 ,192 cm
+986 ,Eva           ,Iacovelli     ,Sesto Lucio                                                                     ,BASSA
+987 ,Lolita        ,Tognazzi      ,San Biagio calabro                                                              ,153 cm
+988 ,Bartolomeo    ,Piacentini    ,"Vicolo Ermenegildo 218 Piano 7, Quarto Agnolo salentino, Varese"               ,151 cm
+989 ,Sandra        ,Gianinazzi    ,"Borgo Enzio 2 Piano 2, Crispi del friuli, L'Aquila"                            ,183 cm
+990 ,Orlando       ,Papetti       ,Morricone ligure                                                                ,MEDIA
+991 ,Ermenegildo   ,Grifeo        ,Castellitto sardo                                                               ,MEDIA
+992 ,Flavia        ,Bartoli       ,Sesto Sandro laziale                                                            ,161 cm
+993 ,Jolanda       ,Bernetti      ,San Manuel nell'emilia                                                          ,ALTA
+994 ,Angelica      ,Cicilia       ,Alberico umbro                                                                  ,195 cm
+995 ,Greco         ,Murialdo      ,"Incrocio Ungaretti 45 Piano 7, Sesto Rosaria, Gorizia"                         ,BASSA
+996 ,Amadeo        ,Fioravanti    ,"Borgo Cafarchia 11, Catenazzi ligure, Venezia"                                 ,189 cm
+997 ,Luigi         ,Galtarossa    ,"Borgo Eraldo 0, Sesto Valentina calabro, Rovigo"                               ,185 cm
+998 ,Fabrizia      ,Trupiano      ,Cicala umbro                                                                    ,191 cm
+999 ,Donatella     ,Einaudi       ,"Via Ziani 1 Piano 6, Sesto Baccio laziale, Ancona"                             ,190 cm

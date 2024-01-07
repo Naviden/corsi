@@ -1,7 +1,3 @@
-# It seems there was an error due to the 'postalcode' attribute not being available in the Faker 'it_IT' locale.
-# We will use a generic attribute for postal codes that should work across locales.
-
-# Correcting the dataset creation function and re-running the creation and validation of the dataset
 def create_dataset_for_business_rules(num_records):
     # Faker instance for Italian locale might not have 'zipcode' or 'postalcode' attribute
     # We will use a placeholder function to generate postal codes

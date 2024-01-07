@@ -1,3 +1,4 @@
+import pandas as pd
 # Let's create some simple datasets that can be used to demonstrate record matching.
 # We'll create two datasets with some overlapping records that can be matched on certain attributes.
 

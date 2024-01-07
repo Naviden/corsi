@@ -1,1051 +1,1051 @@
-id,nome,cognome,data_nascita,città_residenza
-0,Carolina,Zaguri,07/09/1956,"Federici sardo, Cile"
-1,Lorenzp,Mezzetta,17/07/1956,Merisi umbro
-2,Fiamma,Magnani,21/11/1956,Borgo Giuseppe
-3,Livio,Gilardoni,03/05/1950,Quarto Lando del friuli
-4,GUIDONE SERAFINS,,07/03/2000,"San Lamberto, Mauritius"
-5,Lamberto,Antonetti,22/03/1950,"Sesto Claudia calabro, Ungheria"
-6,Paride,Scamarcio,23/11/1960,Lussu lido
-7,Aldo,Canetta,10/10/1960,San Jolanda
-8,CIVASCHI ISABELLA,,15/10/1956,"Borgo Armando laziale, Sudan"
-9,Guglielmo,Carpaccio,03/10/1950,Carlo ligure
-10,Veromica,Campano,12/12/1950,Cipolla salentino
-11,PETRUCCI ELVIRS,,24/09/1973,Sesto Arnulfo
-12,Aldo,Colletti,21/11/1950,"Giuliana calabro, Bangladesh"
-13,Sergius,Bartoli,17/09/1950,Quarto Ottavio calabro
-14,giosuè,Bramante,22/10/1956,"Maura lido, Martinica"
-15,MISSONI IMRLDA,,26/10/1960,Montanariello nell'emilia
--999999,Coriolano,Lercari,18/06/1975,San Geronimo
-17,carlo,Strangio,04/11/1945,Montanelli sardo
-18,Gianmarvo,Depero,21/01/1940,Sesto Pietro lido
-19,Imelda,Boezio,13/12/1960,"San Calogero veneto, Hong Kong"
-20,Martino,Ruberto,11/12/1956,Alderano veneto
-21,Tuzlio,Finzi,08/10/1960,Angelica sardo
-22,Elladio,Taccola,06/03/1967,"Dallapé a mare, Mayotte"
-23,Daroa,Traetta,27/07/1956,"Quarto Gionata nell'emilia, Sao Tome and Principe"
-24,Ivo,Turchi,29/07/1960,"Sesto Coluccio umbro, Reunion"
-25,Giorgia,Quasimodo,17/06/1960,San Melissa ligure
-26,romeo,Udinesi,09/11/1956,Arnaldo veneto
-27,Raffaellino,Cheda,16/01/1960,"Liberto terme, Kiribati"
-28,MAGRASSI ANTONELLA,,02/08/1960,Vanvitelli a mare
-29,Antonina,Filippini,23/03/1950,"San Lucrezia, Armenia"
-30,Letizia,Sbarbaro,03/08/2001,Abate salentino
-31,Dina,Catenazzi,10/07/1950,"Prodi umbro, Taiwan"
-32,Marissa,Civaschi,27/03/1950,"Nanni umbro, Estonia"
-33,RUBERTO ALESDIO,,27/09/1950,"Quarto Michelangelo, Isole Solomon"
-34,Tiziama,Innocenti,13/09/1960,"Vigliotti ligure, Vietnam"
-35,Milena,Satriani,17/12/1966,Zamengo a mare
-36,Manuez,Campise,25/11/1944,"Settimo Atenulf, Danimarca"
-37,Niccolò,Turchi,12/04/1956,"San Erika sardo, Uruguay"
-38,Marya,Bernardini,15/05/1950,Quarto Piermaria calabro
-39,Costantinp,Correr,07/02/1956,"Borgo Ivan ligure, Togo"
-40,Mauro,Giannuzzi,19/11/1991,"Quarto Eugenia, Città del Vaticano"
-41,Alessia,Cabibbo,25/05/1937,"Quarto Ermes, Congo"
-42,Gianluca,Bertoli,04/05/1956,"Sesto Ricciotti, American Samoa"
-43,Anyonella,Gagliano,15/07/1950,Quarto Marcella lido
-44,Pierpaolo,Pasolini,12/12/1956,"Morellato a mare, Saint Martin"
-45,Lanfo,Guglielmi,25/08/1960,"Borgo Coluccio, Turkmenistan"
-46,Algio,Carducci,26/12/1960,"Sesto Orazio lido, Andorra"
--999999,CONDOLEO GOACINTO,,01/07/1960,"Borgo Fabio, Maldive"
-48,Geroniqo,Amato,17/03/1956,Settimo Martino ligure
-49,Gianluigi,Torricelli,08/08/1956,"Settimo Mario nell'emilia, Samoa"
-50,Carls,Bellini,20/04/1970,"Quarto Fabrizia, Saint Vincent and the Grenadines"
-51,Simonetta,Toso,16/08/1960,Sesto Silvia
-52,Grazirlla,Bellocchio,27/03/1960,"San Ezio, Estonia"
-53,Guglielmo,Verdone,04/03/1985,"Quarto Raffaella calabro, Belize"
-54,ORENGO GIONATA,,28/07/1960,Giulio sardo
-55,lodovico,Agazzi,15/06/1993,"Fattori veneto, Brasile"
-56,nico,Coardi,11/08/1960,"Pasquale umbro, Nepal"
-57,Laireano,Saracino,02/05/1950,Rosselli nell'emilia
-58,Anyonia,Calvo,24/03/1960,"Borgo Paolo lido, Vietnam"
-59,Luigina,Salvemini,05/08/1950,"San Paoletta ligure, Gibilterra"
-60,Raffaello,Rensi,14/04/1960,San Gabriella
-61,Domenivo,Calbo,28/01/1956,San Griselda
-62,Loremzo,Rastelli,29/09/1960,"Raffaella lido, Liberia"
-63,Liana,Trapanese,01/08/1960,San Francesco sardo
-64,Francesca,Dalla,10/11/1960,Quarto Aurora a mare
-65,Lpretta,Sinisi,06/03/1957,"San Carolina calabro, Jersey"
-66,VIVALDI EDPARDO,,06/11/1956,"Settimo Isa calabro, Malta"
-67,Margherits,Parpinel,20/02/1950,Quarto Guido
-68,Stella,Alfonsi,15/08/1956,"Foa veneto, Botswana"
-69,Ferdinando,Bandello,19/02/1950,Alderano ligure
-70,Enzoo,Jovinelli,27/12/1942,Pier a mare
-71,Msrtino,Bellini,11/05/1960,"San Telemaco, Repubblica del Laos"
-72,Uberto,Siffredi,08/05/1956,"Combi calabro, Islanda"
-73,Angelina,Cabibbo,28/04/1956,Morandini nell'emilia
-74,Tizianp,Galuppi,08/07/1977,"Sesto Calcedonio nell'emilia, Haiti"
-75,Allegra,Cuzzocrea,03/09/1960,Settimo Romeo
-76,Adriano,Missoni,10/11/1956,Tullio salentino
--999999,Filippa,Cagnotto,10/04/1960,"San Piergiorgio sardo, Gabon"
--999999,Fabio,Dallapé,20/08/1956,"Quarto Toni, Svalbard & Jan Mayen Islands"
-79,Camolla,Rosiello,01/10/1960,Giovanna terme
-80,Maria,Ortolani,10/08/1942,Borgo Mariano salentino
-81,RINALDI NINETTA,,14/04/1960,"Quarto Elena, Isole di Turks and Caicos"
-82,Arnulfo,Tosi,31/10/1988,"San Cirillo calabro, Isole Faroe"
-83,Matteo,Baracca,29/04/1950,"Sesto Michele salentino, Saint Lucia"
-84,Mivhele,Benussi,04/12/1956,"Settimo Gianpaolo ligure, Antille Olandesi"
-85,Hugo,Fermi,13/02/1950,"Vitturi veneto, Trinidad e Tobago"
-86,Azphons,Mantegazza,08/06/1961,Quarto Raffaellino
-87,Antonello,Canali,15/04/1956,Nina umbro
-88,Michrla,Polani,09/01/1956,"Borgo Temistocle a mare, Malesia"
-89,LUCCIANO MARYINO,,17/02/1950,Nadi salentino
-90,Tonia,Quasimodo,20/03/1956,Settimo Greco nell'emilia
-91,Amico,Solimena,04/06/1956,Settimo Lamberto terme
-92,GIUNTI ROSAROA,,28/11/1986,"Camillo ligure, Slovenia"
-93,Simonetta,Manolesso,14/02/1960,"Rosaria calabro, Nicaragua"
-94,SIMEONI MSRCELLO,,21/02/1950,"Mascheroni salentino, Korea"
-95,Nedda,Roth,02/09/1972,"Adelasia ligure, Timor-Leste"
-96,Alessanfro,Accardo,04/06/1950,Salvi del friuli
-97,Antonirtta,Mazzocchi,03/07/1950,"Beatrice umbro, Mayotte"
-98,Marta,Barberini,25/03/1950,Settimo Isa calabro
-99,antonella,Antonioni,09/05/1956,Settimo Morena
-100,Stefano,Gozzi,19/07/1960,"Annibale veneto, Porto Rico"
-101,Flsvia,Fanucci,08/05/1960,Ronaldo umbro
-102,Barnara,Sismondi,16/06/1950,"Storladi salentino, Guyana Francese"
-103,Giusrppe,Traversa,28/03/1950,"Settimo Marcella veneto, Cina"
-104,Mariano,Guarana,31/05/1950,Victoria sardo
-105,Umbrrto,Giannone,29/06/1956,"San Roman laziale, Siria"
--999999,Melina,Ramazzotti,14/09/1950,"Cavanna lido, Aruba"
-107,Simome,Guicciardini,28/04/2003,Settimo Saverio
-108,Laurrano,Martinelli,01/05/1976,"Quarto Luciano, Sudan"
--999999,Dpnna,Pontecorvo,21/07/1956,Tencalla lido
-110,Cortado,Renault,07/07/1950,"Borgo Giacobbe salentino, Congo"
-111,Bartolomeo,Petrucci,29/08/1949,Fattori ligure
-112,Gilbertp,Draghi,20/02/1956,San Claudio umbro
--999999,Giuzietta,Fantini,07/04/1960,Borgo Rembrandt
-114,Dario,Gentili,08/05/1950,"Sesto Giampiero, Etiopia"
-115,Lorrdana,Gottardi,23/10/1950,"Sesto Imelda, Montenegro"
-116,Frderica,Fiorucci,04/10/1960,Settimo Sante
-117,Flpra,Ludovisi,09/07/1960,Sesto Franco umbro
-118,bianca,Ruberto,13/02/1950,"Silvio calabro, Brunei Darussalam"
-119,Masdimiliano,Agostinelli,24/06/2001,Sesto Roman terme
-120,Fiorenzo,Mortati,29/11/1956,"Borgo Ruggero, Bouvet Island (Bouvetoya)"
-121,Libertp,Trotta,02/03/1950,Quarto Olga
--999999,Guhlielmo,Campanella,17/06/1964,Salvi sardo
-123,Giuseppins,Fantozzi,06/06/1950,San Vincenza
-124,Camilla,Basadonna,12/10/1960,San Arnaldo sardo
--999999,Corradp,Nolcini,04/04/1960,"Borgo Costanzo terme, Marocco"
-126,Graziella,Farinelli,08/06/1956,Sesto Daniele
-127,ANTONELLO LIBERTO,,30/10/1982,Tamburello laziale
-128,Lpdovico,Nolcini,22/11/1950,"Ivo ligure, Isole Marshall"
-129,Flavoo,Cattaneo,27/06/1956,San Laureano laziale
--999999,Lilla,Berengario,08/06/1956,Vito laziale
-131,Liss,Cafarchia,14/05/1960,"Settimo Leonardo, Tajikistan"
-132,Nocolò,Camanni,24/03/1955,"Faranda calabro, Tajikistan"
-133,Galasso,Raurica,23/10/1950,"San Piermaria, Zambia"
-134,Elmo,Donati,10/07/1956,Tozzo terme
-135,Antonia,Modugno,12/09/1960,"Borgo Domenico salentino, Taiwan"
-136,Grrco,Raurica,28/04/1950,Mennea umbro
-137,Datio,Conte,02/07/1950,Scamarcio salentino
-138,Ludovica,Beccheria,02/09/1956,Galvani a mare
-139,luciano,Finzi,20/10/1999,Settimo Loretta
-140,Lisa,Maderno,10/11/1960,"Dovara calabro, Mali"
-141,Serena,Bajardi,31/01/1950,"Serena ligure, Panama"
-142,MONTALCINI LAURETTA,,18/10/1950,"Quarto Romana, Suriname"
-143,Bruno,Pometta,08/01/1950,Borgo Giacobbe a mare
-144,paoletta,Foa,13/04/1956,Settimo Loretta
-145,Atenulg,Fieramosca,18/04/1950,"Gelsomina salentino, Guatemala"
-146,CATALANO LUVIANO,,09/11/1950,Settimo Fulvio salentino
-147,Giorgio,Campano,10/08/1960,Settimo Fredo umbro
-148,Niccolò,Ruberto,09/12/1950,Settimo Etta veneto
-149,Ludovics,Toscanini,26/10/1956,"Barzini ligure, Islanda"
-150,Marossa,Finetti,15/08/1956,"Fortunata laziale, Tonga"
-151,Ennio,Gremese,11/09/1994,"Sesto Arnulfo, Nicaragua"
-152,Diana,Biagiotti,04/06/1967,Sesto Clelia calabro
-153,Gelsomina,Cicala,08/11/1983,"Borgo Tullio salentino, Bermuda"
-154,Pierina,Sibilia,11/04/1999,"Borgo Jolanda, Macao"
-155,Mautizio,Interminei,18/11/1956,Settimo Giorgia
-156,Biancs,Canil,28/06/1960,"Allegra terme, Micronesia"
-157,mauro,Aporti,05/08/1997,"Settimo Lucia, Città del Vaticano"
-158,isa,Basso,29/06/1960,"Sesto Carlo, Uzbekistan"
-159,Rossrio,Mastandrea,27/11/1950,"Biagiotti umbro, Pitcairn Islands"
-160,Lazzarp,Vergerio,21/10/1950,Pasquale laziale
-161,Licia,Conti,17/06/1956,San Greco lido
-162,Dima,Soderini,14/06/1956,"Borgo Tonia nell'emilia, Nuova Zelanda"
-163,nino,Spanevello,04/03/1956,Vespucci nell'emilia
--999999,Germana,Cutrufo,02/10/1960,San Simone
-165,Liberto,Semitecolo,04/01/1989,"San Tonino, Bhutan"
-166,Ramons,Cociarelli,15/05/1950,"Quarto Zaira a mare, Martinica"
-167,Fabio,Travaglia,25/03/1960,Settimo Antonello
-168,Angelo,Tornatore,02/05/1969,San Donatello
-169,Franco,Carfagna,29/11/1983,"Sesto Matilda, Mauritania"
-170,Filippa,Fiorucci,29/07/1960,Quarto Giancarlo sardo
-171,Giorgio,Roth,30/09/1960,Chechi salentino
--999999,ZACCAGNINI CORIOLANO,,15/10/1956,"Settimo Piergiuseppe, Bhutan"
-173,Anita,Valier,04/10/1960,"Francesco laziale, American Samoa"
-174,Ermenegildo,Querini,18/12/1956,Castiglione umbro
-175,Ruggoero,Valguarnera,12/07/1997,Giorgio del friuli
-176,Dante,Cendron,11/12/2001,"Quarto Federico lido, Wallis and Futuna"
-177,valentina,Cignaroli,04/02/1960,Sesto Fiamma
-178,Luigo,Mercadante,29/09/1956,"Ermanno salentino, Algeria"
-179,MAGNANI CLEZIA,,24/11/1956,Beffa a mare
-180,Ivam,Camicione,01/06/1950,"Quarto Ubaldo, Territorio dell'arcipelago indiano"
--999999,Stefano,Piazzi,13/05/1970,Camiscione umbro
-182,federigo,Orlando,07/05/1960,"Jacopo calabro, Belize"
-183,Raffaele,Gagliardi,29/11/1950,Borgo Benito
--999999,Elladip,Chinnici,12/05/1990,Settimo Severino
-185,Camolla,Soranzo,22/02/1960,"Campano calabro, Sao Tome and Principe"
-186,Bepae,Navone,19/02/1950,Borgo Federico
--999999,Marcella,Zamengo,01/06/1960,Quarto Arsenio
-188,Gionaya,Cuda,21/08/1995,San Silvio umbro
-189,Giosuè,Virgilio,04/05/1997,"Sesto Giampiero nell'emilia, Somalia"
-190,Fiorino,Babato,20/06/1956,"Settimo Berenice, Guyana"
--999999,Napoleone,Muratori,26/12/1950,Morgagni calabro
-192,Domato,Nitto,23/06/1941,Borgo Giorgia
-193,ABBA RENATS,,14/10/1950,San Amadeo lido
-194,Valentina,Gozzi,17/10/1960,"San Livio laziale, Micronesia"
-195,serena,Collodi,10/02/1999,"San Claudio ligure, Saint Vincent and the Grenadines"
-196,Adriana,Tognazzi,27/01/1950,Settimo Nicola calabro
-197,Toni,Legnante,18/09/1950,"Borgo Lisa, Equador"
--999999,gianna,Montanariello,08/10/1960,Mercadante del friuli
-199,Filippa,Regge,10/04/1950,"Schicchi salentino, Portogallo"
-200,Cipriano,Trevisan,03/02/1987,"Quarto Liberto, Lesotho"
-201,Emzo,Bova,18/12/1950,"Ennio del friuli, Guinea"
-202,Sebadtiano,Gramsci,30/01/1950,Lorenzo lido
-203,Nima,Almagià,08/07/1933,"San Nicolò, Canada"
--999999,Bettina,Guglielmi,18/11/1960,Tosi terme
-205,roberta,Gianetti,22/09/1956,"Bassi terme, Guinea Equatoriale"
--999999,irma,Opizzi,10/06/1997,"Antonello nell'emilia, Maldive"
-207,Pazoma,Romagnoli,03/10/1960,"Quarto Pierluigi ligure, Brunei Darussalam"
-208,livia,Duodo,28/03/1950,"Temistocle veneto, Bosnia e Herzegovina"
-209,claudia,Sanguineti,16/01/1956,Romolo umbro
-210,giosuè,Cignaroli,15/09/1950,"Borgo Micheletto, Isole Solomon"
-211,milo,Pacillo,10/10/1955,"Quarto Diana, Colombia"
-212,Voncenzo,Toso,08/03/1955,Vincentio sardo
-213,Mario,Tafuri,15/12/1973,"Quarto Antonina, Bouvet Island (Bouvetoya)"
-214,giovanna,Battisti,18/09/1956,"Giuseppina veneto, Romania"
-215,fiamma,Anastasi,15/11/1994,Alina salentino
-216,Agmolo,Pezzali,24/05/1956,"San Maurilio, Macao"
-217,Laureamo,Milanesi,21/11/1960,Sesto Maurizio
-218,Amleto,Crespi,11/05/1960,"Borgo Paolo calabro, Maldive"
-219,Brunp,Flaiano,28/09/1955,Settimo Ugo
-220,maura,Casellati,02/10/1946,"Quarto Carlo, Pitcairn Islands"
-221,Nefda,Mazzi,30/11/1960,"Santorio del friuli, Olanda"
-222,Pirrangelo,Magrassi,04/11/1956,"Santino laziale, Yemen"
-223,Gastone,Armellini,12/06/1960,Amaldi del friuli
-224,Paride,Niggli,17/05/1960,Giorgia laziale
-225,Agostimo,Fabrizi,15/06/1960,"Borgo Maura, Comoros"
-226,Vittoris,Tartini,15/08/1950,"Borgo Federico, Haiti"
-227,Stefania,Verdone,27/03/1952,San Orazio nell'emilia
-228,Raffaele,Necci,31/12/1956,San Antonino nell'emilia
-229,Maryina,Leopardi,23/10/1950,"Ferraris sardo, Mauritania"
-230,Giusyino,Fornaciari,28/10/1972,Sesto Benedetto
-231,adele,Martinelli,24/01/1956,"Rosaria ligure, Myanmar"
--999999,Milena,Vecoli,16/01/1950,Saverio umbro
-233,giulia,Gaggini,02/12/1956,Cecilia umbro
-234,Enxo,Collina,18/01/1950,"Praga del friuli, Tajikistan"
-235,Mirkp,Boldù,19/09/1956,"Sesto Dino nell'emilia, Isole Vergini Britanniche"
-236,UGHI ERNRSTO,,16/05/1956,"Crespi sardo, Canada"
-237,Tullip,Cherubini,16/08/1950,"Ferrazzi sardo, Sierra Leone"
--999999,Jacopo,Polani,29/12/1960,"San Ottone, Isole Vergini Britanniche"
-239,Matilda,Giacometti,02/01/1960,Sesto Melina
-240,MANNOIA PATRIZIP,,04/11/1960,Mantegazza salentino
-241,Gaspare,Ceschi,06/04/1956,Borgo Gianfrancesco
-242,Enzo,Gottardi,01/05/1934,"Diana nell'emilia, Uzbekistan"
-243,Luciano,Toscani,29/09/1950,"Sesto Leopoldo salentino, Regno Unito"
-244,Luihina,Travaglio,19/08/1956,"Settimo Licia, Polinesia Francese"
-245,Annalida,Salvo,20/04/1977,"Sabbatini sardo, Lesotho"
--999999,Mamuel,Tamburello,02/07/1967,Sesto Romina
-247,Mivheletto,Gotti,28/06/1950,Tutino a mare
-248,Tina,Camilleri,23/04/1956,"Settimo Donatella, Francia"
-249,Giacimto,Riccardi,12/05/1950,"San Gabriele laziale, Northern Mariana Islands"
-250,Arturo,Bonatti,22/01/1973,"Settimo Gioachino, Armenia"
-251,DETTI NAPOZEONE,,19/04/1969,"Gemma laziale, Giamaica"
-252,Arturo,Siffredi,15/12/1956,"Bettina salentino, Venezuela"
-253,Solr,Caetani,17/05/1960,"Trevisani lido, Egitto"
-254,baldassare,Ciani,23/11/1960,"Cassarà laziale, Repubblica del Laos"
-255,Giuseppr,Pennetta,29/09/1950,"Patrizia laziale, Benin"
-256,PELLI GOANPAOLO,,23/08/2001,"Quarto Ferdinando, Congo"
-257,annunziata,Campise,04/01/1956,"Cherubini a mare, Estonia"
-258,CERUTTI ARNALDO,,18/08/1950,"Borgo Alessandra, Iran"
--999999,Tatisna,Traversa,22/10/1956,"Sommaruga a mare, Regno Unito"
-260,Marcp,Longhena,27/07/1960,Ceri calabro
-261,Flavio,Dallara,19/09/1960,Settimo Pietro del friuli
-262,Gionsta,Gelli,17/05/1950,San Michela
-263,Virgilip,Doria,21/08/1956,"Tonino veneto, Grenada"
-264,Caqilla,Borzomì,18/05/1966,Toselli laziale
-265,Loretta,Borzomì,28/02/1960,Sesto Ornella veneto
-266,Cozuccio,Pellico,11/07/1985,"Nonis umbro, Svizzera"
-267,Coluccio,Vattimo,25/01/1973,Virgilio lido
-268,Roberyo,Bottigliero,29/06/1960,"Lisa salentino, Repubblica Dominicana"
-269,Alessio,Tamburi,22/08/1960,"Celentano ligure, Tanzania"
-270,Puccio,Riccati,27/07/1950,Puglisi lido
-271,Cassandra,Renault,25/03/1953,Sesto Dante
-272,Flavoo,Gasperi,19/04/1950,"Quarto Giulio, Paraguay"
--999999,Poero,Zoppetto,17/03/1950,Pergolesi del friuli
-274,Fzora,Torlonia,27/06/1956,"Boitani calabro, Paraguay"
-275,Gabtiella,Respighi,29/10/1956,"Sgalambro laziale, Gibuti"
-276,Greco,Porcellato,11/10/1956,"Alfonsi salentino, Olanda"
-277,Mirlo,Zanzi,22/11/1960,"San Edoardo umbro, Comoros"
-278,Anita,Mondaini,16/08/1960,Borsiere laziale
-279,Alphons,Sandi,18/07/1987,Settimo Adelmo
-280,Carla,Callegari,08/05/1950,Quarto Gianfranco terme
-281,Angeliva,Gagliardi,20/12/1980,Galiazzo salentino
-282,Viridiana,Fanucci,28/09/1973,"San Rosina calabro, Ungheria"
-283,Gabriele,Tognazzi,06/01/1956,"Borgo Loretta ligure, Lesotho"
-284,Nino,Traversa,16/12/1956,"Settimo Annibale, Uzbekistan"
-285,Dina,Soranzo,25/08/1977,Jolanda ligure
-286,Sonia,Druso,02/10/1956,"San Valentina, Isole Faroe"
-287,veronica,Gaiatto,19/03/1950,Riccardi a mare
-288,Salvi,Filzi,08/08/1956,Quarto Greca terme
-289,Goanfrancesco,Germano,18/02/1950,"Settimo Francesca veneto, Zimbabwe"
-290,TOGNAZZI IGNAZIO,,25/02/1956,"Girolamo salentino, Mali"
-291,ivo,Mengolo,15/01/1956,Borgo Alessio del friuli
-292,Riccardo,Cilibrasi,14/11/1950,"Giacomo veneto, Kuwait"
-293,Tatiana,Garibaldi,17/06/1997,Sesto Clelia
-294,Romana,Verdi,24/12/1995,"Zetticci salentino, Moldova"
-295,Fiamma,Cossiga,04/11/1960,Sesto Ottone a mare
-296,Aria,Federici,16/05/1956,Lorenzo salentino
-297,OPIZZI RENZO,,04/06/1950,Orlando terme
-298,Giulia,Gonzaga,17/04/1960,Borgo Osvaldo
-299,Hugo,Berrè,27/04/1950,Donatello calabro
-300,Lauretta,Cappelli,30/04/1950,Avogadro nell'emilia
-301,Marta,Mazzini,08/09/1952,Maurilio a mare
-302,Vinvenzo,Gonzaga,29/11/1950,"San Ciro veneto, Danimarca"
-303,Isabella,Franceschi,04/12/1956,"Fedele salentino, Anguilla"
--999999,Etta,Pellegrini,17/06/1956,Angelo veneto
-305,Tonino,Tanzini,23/09/1960,"Sesto Marcantonio lido, Bolivia"
-306,Sonis,Goldstein,19/05/1956,"Flavio nell'emilia, Antille Olandesi"
-307,Fabis,Surian,05/02/1960,Giacinto veneto
-308,FO MIRCO,,08/06/1960,"San Maria, Angola"
-309,GIAMMUSSO RAFFAELLO,,28/03/1960,Borgo Gian salentino
--999999,Amtonello,Opizzi,22/05/1952,San Lidia lido
-311,Rocco,Tornatore,17/12/1956,"Sesto Pierina, Tunisia"
-312,Romans,Peruzzi,16/03/1950,"Giampiero salentino, Jersey"
-313,Rembramdt,Cignaroli,20/05/1960,"Segni sardo, Bermuda"
-314,alberico,Cusano,20/05/1956,"Borgo Fredo, Mauritania"
-315,Amico,Zaguri,15/02/1947,Quarto Flavio
-316,Remzo,Dallara,08/01/1956,Monaco del friuli
-317,Evangelista,Cilea,19/06/1950,"Niccolò veneto, Burkina Faso"
-318,DALLA ALDERANO,,19/05/1950,"San Romana, Brasile"
-319,Barnara,Balbo,04/02/1956,Borgo Ansaldo
-320,Sylvis,Gradenigo,14/05/1950,"Sesto Ermenegildo, Angola"
-321, GIGLI NONO,,15/10/1970,Barsanti laziale
-322,elisa,Vento,04/09/1950,Borgo Calcedonio
-323,BARCELLA DONATELLA,,02/08/1956,Borgo Ermanno lido
-324,Benito,Valier,10/10/1956,Sesto Baldassare
-325,Filiapo,Sordi,25/12/1981,"Patrizia laziale, Egitto"
-326,Metcedes,Carpaccio,26/08/1986,"Borgo Eliana nell'emilia, Colombia"
-327,Ubaldo,Galeati,21/04/1960,Pasqual ligure
-328,Goanluigi,Ruggieri,31/08/1956,"Settimo Giuseppina, Lussemburgo"
-329,Sonoa,Geraci,24/12/1950,Settimo Luchino calabro
-330,Ruggiero,Valguarnera,30/07/1960,"Borgo Mariana lido, El Salvador"
-331,Lara,Scandone,11/11/1961,Quarto Pierluigi
-332,Angelica,Tanzini,14/12/1945,"Sesto Mariano veneto, Giordania"
-333,Griselda,Ceci,12/12/1960,"Veronica salentino, Vanuatu"
-334,Arqando,Salvo,11/03/1956,Quarto Lodovico
-335,Pierpaolo,Tomei,11/06/1967,"Quarto Fabrizia nell'emilia, Georgia del sud e South Sandwich Islands"
-336,BROSCHI PASWUAL,,29/07/1960,"Quarto Rodolfo terme, Nuova Caledonia"
-337,Afele,Curiel,30/07/1956,Sesto Matilda
-338, PETRUCCI RAFFAELLINO,,25/09/1956,"Quarto Daria, Saint Lucia"
-339,Osvalfo,Fornaciari,11/08/1985,Sesto Ermenegildo
-340,Giscinto,Inzaghi,31/12/1960,"Alderano laziale, Belgio"
-341,Antonello,Tommaseo,17/05/2001,"Rossi sardo, Peru"
-342,Gioavhino,Nonis,28/06/1947,Quarto Luisa
-343,FINETTI SIMONETYA,,29/10/1960,Maria lido
-344,Liliana,Mondaini,02/07/1960,"Borgo Bianca, Isola di Man"
-345,Roberyo,Cardano,05/02/1950,Quarto Serena laziale
-346,Gionsta,Sommaruga,08/01/1960,"Borgo Gemma, Emirati Arabi Uniti"
-347,Bepae,Pometta,13/07/1956,"San Alfredo a mare, Svezia"
-348,Bernardo,Ovadia,04/12/1950,Fallaci sardo
-349,Antomino,Vigliotti,13/06/1950,Settimo Mariano
-350,Giammarco,Branciforte,20/12/1950,Columbo terme
-351,rodolfo,Fracci,20/07/1988,"Annunziata veneto, Isole Faroe"
-352,Foorenzo,Regge,24/01/1950,Polani nell'emilia
-353,Gastone,Carfagna,01/06/1986,"San Donatello ligure, Città del Vaticano"
-354,Gianluigi,Bocca,27/07/1980,"Pertini del friuli, Isole Cook"
-355,Vsleria,Leblanc,15/10/2000,"Quarto Gianna, Guernsey"
-356,Bernardo,Battaglia,26/11/1985,Marta ligure
-357,Sante,Capuana,20/06/1960,"Bodoni nell'emilia, Macao"
-358,NECCI BIANCA,,28/12/1956,Settimo Paola
-359,Csrlo,Mascagni,29/05/1956,Sesto Fedele
-360,Milena,Panicucci,27/09/1956,"Borgo Angelina sardo, Algeria"
-361,Lichino,Tuzzolino,30/10/1956,San Gian terme
-362,Giiliano,Casalodi,11/10/1960,Quarto Fabio
-363,Lauretta,Calgari,17/02/1956,Scaduto lido
-364,Chiars,Zoppetto,18/12/1950,Quarto Gilberto
-365,BERGOGLIO NICOLA,,08/05/1960,"Pietro nell'emilia, Niger"
-366,Benedeyto,Malpighi,05/06/1966,Quarto Ruggiero umbro
--999999,Eroka,Zoppetti,26/06/1960,Settimo Sylvia
-368,Mizena,Almagià,13/07/1956,Ermanno sardo
-369,Gelsomona,Rusticucci,06/07/1948,Sesto Olga nell'emilia
--999999,Amico,Esposito,13/08/1960,"Settimo Romeo laziale, Gabon"
-371,RONCALLI GERONIMO,,30/06/1956,"Canali a mare, Spagna"
-372,Martina,Catalano,02/12/1954,"Armando sardo, India"
-373,Fanio,Ginesio,26/06/1960,Sesto Rita a mare
-374,Mariano,Matteotti,27/03/1943,Emilio terme
-375,Matyeo,Tozzi,29/06/1950,Filogamo salentino
--999999,Tomino,Bellocchio,06/03/1950,Sesto Federica laziale
-377,Temistocle,Caboto,25/12/1969,Sesto Silvio del friuli
-378,Bianca,Leonetti,09/09/1960,"Borgo Anita a mare, Oman"
-379,GIRADELLO BERNARDO,,17/03/1995,Gianna calabro
-380,Alessio,Columbo,05/07/1956,Settimo Amedeo
-381,Nafia,Tanzini,13/04/1950,Pincherle ligure
-382,Silvoa,Sermonti,25/08/1950,"Cirillo nell'emilia, Tuvalu"
-383,MASTANDREA SIMONETTA,,18/02/1998,"Gabriella laziale, Nuova Caledonia"
-384,Giaqpaolo,Prati,31/05/1997,San Girolamo ligure
-385,Girolamo,Sansoni,21/05/1960,Berenice umbro
--999999,Ninetts,Gramsci,31/05/1960,Fulvio lido
-387,Orestr,Opizzi,28/07/1956,Quarto Silvestro
-388,Tima,Trombetta,22/11/1960,"Montalcini sardo, Saint Kitts and Nevis"
-389,Boagio,Giannuzzi,30/06/1956,Orazio terme
-390,eliana,Barillaro,07/01/1950,"Settimo Rocco veneto, Lussemburgo"
-391,Angelina,Magnani,28/08/1950,"Settimo Antonino, Guinea-Bissau"
-392,Licrezia,Conti,02/10/1956,"Settimo Gilberto, Isole Vergini Britanniche"
-393,Fabia,Depero,09/03/1960,Quarto Laureano
-394,Antonino,Campanella,18/05/1960,"San Alberico, Kuwait"
-395,Nicolò,Odescalchi,09/05/1960,Salata nell'emilia
-396,Rossana,Eco,10/02/1956,"Lamberto terme, Nicaragua"
-397,Riccioyti,Cadorna,12/04/1956,Crispi nell'emilia
-398,Achizle,Satta,05/11/1960,San Bruno
-399,Raffsele,Sanudo,16/05/1982,"Aria terme, Groenlandia"
-400,Giulisno,Innocenti,12/09/1959,"Settimo Enrico del friuli, Slovenia"
-401,Rosina,Toselli,25/03/1960,"Franco calabro, Republicca Kirgiza"
-402,Costantinp,Morandini,12/08/1956,"Quarto Maura, Repubblica Centrale Africana"
--999999,greco,Moretti,05/11/1955,Piersanti veneto
-404,Umberto,Anichini,25/01/1960,Edoardo veneto
--999999,TAMBORINI JACOPP,,27/07/1960,Zarlino a mare
-406,Franco,Foscari,27/04/1965,Quarto Eva laziale
-407,Gianni,Valentino,30/11/1960,Zetticci lido
-408,Temistocze,Navone,13/02/1960,"Dolores del friuli, San Marino"
-409,Msrina,Treccani,13/05/2001,Sesto Teresa del friuli
-410,oreste,Redi,31/05/1950,Ramona calabro
-411,SORRENTINO POMPONIO,,02/02/1957,Quarto Alina sardo
--999999,Federicp,Babbo,15/06/1956,"Sesto Ivo lido, Venezuela"
-413,ricciotti,Celentano,12/03/1993,"Borgo Raffaele, Vanuatu"
-414,Tono,Conti,13/05/2000,Borgo Giorgio
-415,valeria,Canil,07/11/1956,Serena nell'emilia
-416,uberto,Belletini,23/02/1950,Ludovisi lido
-417,Aria,Murialdo,29/01/1956,"Borgo Valentina veneto, Venezuela"
-418,Giido,Ossola,19/09/1960,Beatrice ligure
-419,Lotetta,Fagiani,04/05/1957,Borgo Raimondo
-420,Simone,Battisti,24/07/1998,Barcella nell'emilia
-421,Livio,Bonanno,17/06/1950,Gelli laziale
-422,Guido,Trapanese,17/11/1954,"Quarto Ernesto veneto, Lussemburgo"
-423,daria,Tencalla,21/10/1956,"Camilleri laziale, Francia"
-424,Vslerio,Tirabassi,28/11/1960,Settimo Susanna
-425,rolando,Pareto,11/12/1956,"Galiazzo ligure, Germania"
-426, ROSSELLI JACOPO,,06/03/1950,"Ugolino umbro, Isole Marshall"
-427,Stefania,Interminei,20/05/1950,"Settimo Danilo, Guinea-Bissau"
-428,Amalia,Dulbecco,29/09/1960,Quarto Tina calabro
-429,Giuliano,Caboto,05/01/1950,Borgo Luigi
-430,Fedele,Pareto,24/08/1950,Panicucci calabro
-431,Stefani,Gozzano,09/07/1960,"Letizia lido, Guinea Equatoriale"
-432,Giustino,Trincavelli,09/09/1950,Settimo Mariana salentino
-433,Giovanni,Errani,01/08/1956,"Gianfrancesco laziale, Haiti"
-434,Virifiana,Depero,07/05/1956,Carnera lido
-435,Nadis,Salieri,04/12/1950,Sesto Corrado ligure
-436,Giiliano,Gregorio,23/01/1960,Borgo Gino
-437,gabriele,Modigliani,29/07/1956,Quarto Lucia umbro
-438,Laura,Faranda,18/02/1950,Giannotti ligure
-439,Lidia,Dibiasi,23/04/1956,Silvestro del friuli
-440,Rpsina,Chigi,22/05/1960,Totino calabro
-441,Tonino,Romagnoli,04/11/1956,"Borgo Ludovico sardo, Stati Uniti d'America"
-442,Danolo,Brugnaro,15/07/1956,"Settimo Giampiero laziale, Guinea Equatoriale"
-443,Rota,Pausini,22/05/1936,Quarto Carla
-444,Gelsomina,Cignaroli,07/03/1947,San Gianna
-445,Naaoleone,Saffi,22/10/1950,"Baldassare del friuli, Isole Vergini Britanniche"
-446,Vito,Norbiato,14/07/1978,Bersani ligure
-447,Melania,Franscini,09/08/1960,"Scotto laziale, Bulgaria"
-448,Barbara,Bruno,24/01/1983,Piovani ligure
-449,Claudio,Santi,29/12/1960,Maccanelli salentino
-450,Ids,Nolcini,25/02/1950,Riccardo salentino
-451,Martino,Giacometti,08/04/1956,"Sesto Paride umbro, Vanuatu"
-452,Vincrntio,Schiaparelli,21/10/1956,Quarto Achille terme
-453,SEGRÈ VITTOROA,,13/03/1956,Borgo Lauretta
-454,Mirkp,Antelami,04/03/1950,"Berenice terme, Antartide (territori a sud del 60° parallelo)"
-455,Fulvio,Galeati,20/03/1956,"Sesto Giorgia, Saint Lucia"
-456,Btuno,Gentileschi,28/01/1950,"Sesto Arnulfo terme, Montserrat"
-457,Puccoo,Lancisi,06/05/1956,Sesto Rodolfo veneto
-458,Viyo,Leonetti,25/04/1983,Anguillara laziale
-459,Orlando,Metella,11/03/1995,Sesto Maurizio nell'emilia
-460,Rembrandt,Trapani,26/07/1950,"Borgo Coriolano, Kenya"
-461,SALVO PATRIZIA,,18/03/1956,Settimo Enzo nell'emilia
-462,Azeglio,Riccardi,10/03/1960,Quarto Eraldo del friuli
-463,Tona,Duse,22/02/1950,"Sesto Angelo del friuli, Sant'Elena"
-464,Gian,Beffa,19/12/1960,"Filangieri a mare, Togo"
-465,Eugenia,Pratesi,19/05/1960,"Federica calabro, Singapore"
-466,Ivan,Tedesco,30/11/1956,"Settimo Gino, Guyana Francese"
-467,Antonina,Zecchini,12/06/1960,Sesto Coriolano
-468,Renata,Dallapé,22/07/1960,Borgo Pierangelo
-469,Raffaellino,Broschi,24/08/2002,"Ammaniti umbro, Antille Olandesi"
-470,Silvoo,Bonino,01/03/1956,Quarto Lilla
-471,Gipnata,Sollima,10/11/1960,Giancarlo umbro
-472,Nina,Pareto,12/04/1950,Sylvia sardo
-473,Piero,Cilibrasi,12/03/1960,Borghese terme
-474,Cassandra,Renault,16/09/1950,"Quarto Sandro lido, Afghanistan"
-475,Adriano,Vecellio,10/03/1960,"Settimo Giuliano nell'emilia, Guinea Equatoriale"
-476,Msrcello,Brenna,16/02/1956,Quarto Griselda
-477,pina,Ferrari,26/10/1979,"San Daniele ligure, Heard Island and McDonald Islands"
-478,Tetesa,Roccabonella,06/12/1967,"Adelasia calabro, Tajikistan"
-479,Simone,Serraglio,10/05/1956,Iacovelli del friuli
-480,Silvio,Ovadia,24/10/1949,"Ubaldo del friuli, Gabon"
-481,Amadro,Corcos,02/11/1950,Monaco calabro
-482,Amico,Antonioni,06/06/1995,Fedele terme
-483,Flors,Battaglia,18/09/1959,"Sesto Dante veneto, Isola di Pasqua"
-484,Angelica,Innocenti,03/04/1993,"Alessio salentino, Bhutan"
-485,Etta,Abate,29/03/1960,Sesto Zaira
-486,Armulfo,Baglioni,31/08/1960,"Fo sardo, Costa Rica"
-487,Michelangelo,Peruzzi,01/01/1960,Quarto Giorgio
-488,Sergius,Finzi,25/05/1960,Bellò del friuli
-489,TEBALDI CHIARA,,03/04/1956,"Borgo Lidia, Colombia"
-490,Ivo,Stefanelli,28/05/1960,"Settimo Carolina, Eritrea"
-491,Agpstino,Panatta,13/10/1958,Liliana sardo
-492,SAGESE FREDO,,25/02/1952,"San Elena, Svalbard & Jan Mayen Islands"
-493,Fiprino,Pederiva,02/10/1956,Quarto Benito
-494,Fedetigo,Vivaldi,14/01/1960,Quarto Giuliana
-495,Caterina,Fermi,07/09/1960,"Borgo Claudio, Bhutan"
-496,Ivan,Mazzocchi,26/02/1956,"Quarto Anita salentino, Martinica"
-497,Alfrefo,Bellò,15/01/1960,"Sesto Mattia, Polonia"
-498,Sandta,Vidoni,05/06/1960,Quarto Ludovico calabro
-499,Donayo,Ciani,06/01/1997,"Cutrufo sardo, Polonia"
-500,Michela,Simeoni,03/08/1950,"Quarto Massimo, Finlandia"
--999999,Daroa,Cesaroni,19/10/1956,San Matteo sardo
-502,Vincenzo,Fieramosca,11/12/1956,"Rita terme, Belize"
-503,ermenegildo,Ruggieri,30/06/1956,Giacometti veneto
-504,Citillo,Oscuro,07/11/1960,"Quarto Patrizia, Paraguay"
-505,MORROCCO MATTA,,26/04/1991,"Barracco ligure, Isole Cayman"
--999999,Pierpaolo,Esposito,21/02/1976,Settimo Tonia salentino
-507,Ptiscilla,Righi,14/10/1989,Settimo Rolando a mare
-508, PASCARELLA VENANCIO,,09/10/1956,"Fernanda lido, Territorio dell'arcipelago indiano"
-509,Giancarlo,Peranda,06/08/1950,Quarto Giacobbe
-510,Guarino,Tozzo,15/02/1985,"Borgo Rita, Bhutan"
-511,Baldassarr,Serlupi,20/06/1997,"Sesto Alessandro ligure, Georgia"
-512,Gioele,Fischetti,11/07/1960,"Salvatore lido, Islanda"
-513,Tomi,Leblanc,27/07/1956,"Massimiliano ligure, Oman"
-514,Franvesco,Fibonacci,20/11/1960,"Borgo Giacobbe salentino, Bielorussia"
-515,Antonino,Bettoni,21/05/1960,"Turchi veneto, Togo"
-516,Antonello,Leonardi,29/11/1956,"Sesto Giacomo nell'emilia, Guatemala"
-517,PELLI DELFINP,,11/10/1949,"San Marco sardo, Spagna"
-518,Concetta,Boito,01/09/1956,"Quarto Nadia, Cile"
-519,Ramoma,Nibali,21/07/1960,Borgo Sante
-520,Sonia,Angeli,28/05/1950,"Iannotti veneto, Isola di Cocos (Keeling)"
-521,Gianluigi,Ovadia,06/07/1956,"Vincenzo sardo, Ucraina"
-522,Annamaria,Tencalla,04/02/1975,Borgo Nicolò del friuli
-523,Antonona,Caracciolo,15/08/1960,"Giustino terme, Etiopia"
-524,Alahons,Casadei,10/04/1960,"Borgo Ugo terme, Georgia"
-525,Giamni,Correr,23/06/2003,"Borgo Pierangelo, Bangladesh"
-526,Cipriano,Santi,14/07/1950,"Borgo Maria, Vietnam"
-527,LOVATO SABATINO,,30/08/1960,"Borgo Matteo terme, Italia"
-528,Silvestto,Cuomo,22/08/1960,"Mario a mare, Tuvalu"
-529,Fabrixio,Antonucci,14/04/1950,Bandello a mare
-530,Gabroella,Falier,28/09/1941,"San Guglielmo sardo, Azerbaijan"
-531,Victoris,Pugliese,14/09/1960,San Maria del friuli
-532,Ugplino,Corradi,23/04/1950,"San Adelasia umbro, Grenada"
-533,Gioduè,Favata,02/01/1960,"Borgo Loredana, Iraq"
-534,Rsmona,Tosi,28/08/1950,Quarto Raffaella
-535,Leonr,Borromeo,23/03/1956,"San Filippo, Macedonia"
-536,Luihi,Petrucci,03/11/1960,"Bettina lido, Ungheria"
-537,Francesvo,Marconi,15/02/1960,"Bianca veneto, Slovenia"
-538,LETTIERE GIOSUÈ,,28/09/1960,Pasquale nell'emilia
-539,Enzio,Goldoni,02/04/1940,"Orsini terme, Micronesia"
--999999,Ruggero,Pincherle,31/10/1960,Sesto Melina
-541,Ippazio,Benigni,06/05/1956,"Lucia lido, Colombia"
--999999,Puccio,Bellò,14/10/1950,"Hugo ligure, Latvia"
--999999,Lanfo,Doglioni,25/07/1966,Bossi calabro
-544,Bartolomeo,Doria,15/06/1960,Borgo Fabia
-545,Niccolò,Cavanna,29/05/1950,"Settimo Sergius veneto, Wallis and Futuna"
--999999,Costanzo,Rosselli,08/02/1956,Barsanti umbro
-547,GUIDOTTI AQEDEO,,07/07/1972,"Marissa veneto, Irlanda"
--999999,Gisda,Caffarelli,23/06/1937,Gilberto ligure
-549,Greca,Spanevello,16/12/1950,Borgo Paoletta del friuli
-550,Ugo,Cicala,08/11/1950,Ruberto umbro
-551,Ruggero,Ferretti,11/02/1960,"Borgo Clelia, Gibilterra"
-552,Ranieri,Iacovelli,11/11/1960,Avogadro sardo
-553,Napoleome,Farinelli,03/01/1950,Borgo Orlando
-554,Rocco,Tafuri,17/01/1950,"Giannetti del friuli, Burkina Faso"
-555,Adeladia,Trentini,24/03/1960,"San Annetta, Austria"
-556,Gianni,Maggioli,06/08/1960,"Griselda laziale, Vietnam"
-557,MOCENIGO GERONIMO,,04/03/1962,Toscani sardo
-558,Lsura,Solari,01/09/1982,"Quarto Manuel, Trinidad e Tobago"
-559,Gastone,Zito,21/02/1946,"Norbiato umbro, Nigeria"
-560,Cirillo,Chigi,31/10/1956,Cianciolo veneto
-561,Beppe,Manzoni,06/02/1960,Donatello umbro
-562,Giampaolp,Ubaldi,07/02/1950,San Salvi
-563,Zaira,Veltroni,13/09/1944,"Settimo Azeglio del friuli, Tanzania"
-564,Amslia,Morosini,13/05/1939,"Borgo Ubaldo ligure, United States Minor Outlying Islands"
-565,franco,Donati,20/05/1950,Vercelloni terme
-566,Loretta,Bianchi,18/01/1933,Quarto Ruggero
-567,Lolota,Liguori,17/11/1950,Guariento terme
-568,Aldo,Malenchini,04/11/1950,Borgo Piersanti a mare
-569,caterina,Valmarana,16/02/1950,"San Serafina calabro, Reunion"
-570,Aria,Zecchini,09/07/1934,Quarto Etta
-571,Carlo,Tozzi,16/12/1960,"Tozzo del friuli, Benin"
-572,Cevilia,Oliboni,23/09/1946,Smirnoff sardo
-573,Ids,Buscetta,22/03/1956,Sesto Raffaele nell'emilia
-574,Puvcio,Bruscantini,21/02/1960,Lina del friuli
-575,Leome,Ravaglioli,23/05/1939,Ioppi laziale
-576,Marta,Verga,23/01/1950,Galasso calabro
-577,Locia,Giovine,16/08/1950,"Sesto Sylvia, Qatar"
-578,Antonieyta,Vendetti,07/12/1950,Luria umbro
-579,Evangelista,Sansoni,27/12/1960,"Quarto Marco sardo, Papua Nuova Guinea"
-580,CIAMPI ROSINA,,10/05/1956,"Martino a mare, Hong Kong"
-581,Bettins,Persico,05/09/1958,"San Azeglio a mare, Cile"
-582,Caqillo,Pasqua,29/02/1956,"Bembo veneto, Isole Marshall"
-583,Fzora,Maderna,29/05/1976,Settimo Orazio
-584,Vanessa,Giacconi,26/07/1950,"Quarto Gian sardo, Croazia"
-585,massimiliano,Cicala,20/07/1956,"Cantimori calabro, Spagna"
-586,Ivan,Abate,01/08/1960,"Tencalla veneto, Guadalupa"
-587,Evangelosta,Duodo,12/09/2004,"San Galasso, Botswana"
-588,Simone,Garibaldi,10/10/1956,"Gaiatto sardo, Burkina Faso"
-589,Fedetigo,Alboni,18/01/1950,"Giuseppe del friuli, Francia"
-590,Milena,Rossellini,06/07/1960,Agnolo terme
-591,Luciano,Tornatore,18/06/1990,Guglielmo a mare
-592,Patrizia,Manzoni,24/01/1950,Parisi laziale
--999999,Anyonello,Cagnin,06/10/1933,"Nadi umbro, Burundi"
-594,SIFFREDI CARLA,,15/02/1970,"Settimo Loretta, Burundi"
-595,Gioachino,Alighieri,05/08/1960,Settimo Lisa
-596,Lina,Montanari,18/06/1960,"Pasqual terme, Mali"
-597,Piersanti,Camiscione,06/12/1950,"San Girolamo lido, Haiti"
-598,Antomia,Gigli,25/12/1956,"Alberico salentino, Latvia"
-599,Giuliano,Donà,20/01/1956,"Vittorio laziale, Liberia"
--999999,Rpman,Comboni,14/01/1960,"San Gustavo sardo, Singapore"
-601,mirko,Sraffa,13/12/1956,Catalano laziale
-602,Francescp,Zanichelli,22/03/1950,"Donatello ligure, Togo"
-603,Annibsle,Polizzi,26/07/1960,"Nicoletti ligure, Bahrain"
-604,Zaira,Tasca,12/08/1965,Monica veneto
-605,Alberoco,Priuli,08/05/1956,"Ammaniti umbro, Etiopia"
-606,Rodina,Crispi,19/05/1950,"Piersanti umbro, Myanmar"
-607,Rolandp,Burcardo,22/04/1960,Bianca laziale
-608,ALFONSI MARIA,,29/04/1960,"Sesto Stefano, Bahrain"
-609,Orlamdo,Missoni,10/09/1982,"Stefani laziale, Yemen"
-610,Rpman,Nadi,29/01/1950,Borgo Gianluigi
-611,Annetta,Andreozzi,28/03/1960,"Udinesi del friuli, Andorra"
-612,Michelanhelo,Ferragamo,08/05/2002,"Interminelli nell'emilia, Tonga"
-613,Baldassare,Salvemini,17/09/1960,"Angelo a mare, Sao Tome and Principe"
-614,Gaeyano,Fagiani,17/03/1948,Gonzaga ligure
-615,Eugenoa,Petrassi,02/04/1960,"Victoria lido, Malesia"
-616,Guarino,Necci,12/02/1960,Ansaldo ligure
-617,Baldassare,Petrucelli,11/10/1960,"San Mirco veneto, Isole di Turks and Caicos"
-618,Federica,Bruscantini,18/01/1956,Totino ligure
-619,Mariano,Guidone,09/05/1950,"Borgo Viridiana, Liechtenstein"
-620,Telemaco,Filangieri,22/03/1950,Settimo Germana laziale
-621,Elisa,Sabbatini,19/10/1947,"Romina del friuli, Repubblica Centrale Africana"
-622,RIZZO GIANNI,,30/09/1956,"Rosina veneto, Iraq"
-623,Goanfranco,Parini,01/08/1950,"Borgo Benito, San Bartolomeo"
-624,CUNDARI MELANIA,,03/03/1950,"Borgo Melissa, India"
-625,Delfino,Paruta,28/03/1960,Valerio sardo
-626,Ricciotti,Beccheria,28/06/1950,"Panatta laziale, Spagna"
-627,Venancio,Dulbecco,20/08/1956,"Borgo Giustino lido, Danimarca"
-628,Ivo,Pacetti,05/10/1960,"Munari terme, Libyan Arab Jamahiriya"
-629,Fortinata,Vecoli,18/05/1950,"Ronaldo del friuli, Moldova"
-630,Voncentio,Nitto,27/01/1960,"Samele a mare, Montserrat"
-631,Giorgia,Liverotti,19/05/1956,Borgo Agnolo a mare
-632,BIXIO ALEDSANDRA,,09/02/1960,Farina nell'emilia
-633,Antonietts,Ligorio,23/06/1950,"Flaiano a mare, Papua Nuova Guinea"
-634,arturo,Serraglio,02/10/1956,Sesto Susanna
-635,SPALLANZANI ANTONINO,,17/06/1957,Filippo umbro
-636,Rosalia,Dibiasi,28/04/1960,"Pellegrino umbro, Belize"
-637,Mauro,Guinizzelli,08/07/1960,Renzi del friuli
-638,Micheza,Squarcione,06/07/1998,"San Biagio nell'emilia, Guyana"
-639,GREGORI CARMEZO,,15/03/1950,"Roman laziale, Serbia"
--999999,Delfino,Carullo,21/02/1950,"San Ludovica, Moldova"
-641,Lucoa,Adinolfi,10/01/1960,"Villadicani salentino, Polonia"
-642,Simonetta,Semitecolo,29/11/1960,Dandolo calabro
-643,Sergius,Giannetti,22/09/1965,"Sgalambro sardo, Azerbaijan"
-644,Bemito,Zeffirelli,13/07/1956,Cicala salentino
-645,Goanni,Modugno,27/05/1994,Bataglia laziale
-646,Michelangelp,Chigi,12/08/1998,"Settimo Nico, Eritrea"
-647,Lorrnzo,Chechi,31/03/1950,"Sesto Ida, Guernsey"
-648,Liana,Aulenti,04/09/1960,"Vittorio umbro, Montenegro"
-649,Severinp,Gadda,25/09/1956,"San Martino, Lituania"
-650,Geldomina,Chiesa,14/07/1956,Gioffre terme
-651,Grevo,Lattuada,21/04/1956,"Borgo Gianna, Norvegia"
-652,Renata,Falier,20/07/1981,Camuccini a mare
-653,Voto,Spinelli,29/10/1960,"Mazzi ligure, American Samoa"
-654,Melona,Vespucci,28/10/1936,Luigina a mare
-655,Nocoletta,Gotti,25/01/1960,"Taliercio salentino, Niue"
-656,Franvesca,Petrucelli,16/10/1960,Federigo salentino
-657,Simone,Disdero,04/07/1950,Borgo Pierpaolo
-658,Lamberto,Farnese,13/06/1960,Quarto Micheletto
-659,Dins,Virgilio,05/02/1956,Settimo Arnulfo
-660,loredana,Antonacci,24/08/1960,Silvestro terme
-661,Sandrp,Tarchetti,19/04/1956,"Crispi calabro, Bahrain"
-662,Tprquato,Giulietti,29/03/1950,Settimo Calcedonio
-663,Pierluogi,Siffredi,21/09/1961,Detti terme
-664,Gianni,Boito,18/03/1960,San Antonella
-665,Nino,Marzorati,25/06/1995,"Mattia ligure, Korea"
-666,Paolo,Palombi,17/01/1960,"Quarto Ezio nell'emilia, Gabon"
-667,Mivhelotto,Nicoletti,30/04/1950,"Bandello ligure, Uruguay"
-668,Msrco,Cavanna,22/07/1981,Sesto Ida
-669,Rosaria,Pellegrini,30/08/1956,"Porzio salentino, El Salvador"
-670,Pier,Donatoni,21/03/1982,"Settimo Adriana, San Marino"
-671,Sonoa,Pugliese,26/08/1960,"Settimo Gioele, Ungheria"
-672,Ippazio,Fuseli,12/01/1961,Settimo Sergius
-673,Msria,Beccheria,04/05/1956,Guidotti veneto
-674,Vito,Coppola,03/11/1950,"Settimo Camilla veneto, Iran"
-675,Lazzaro,Mercalli,13/07/1956,"Quarto Ermanno, Fiji"
-676,Maura,Caccioppoli,29/03/1960,"Moneta del friuli, Gibuti"
-677,Grecp,Riccardi,08/11/1960,"Borgo Ilaria del friuli, Antartide (territori a sud del 60° parallelo)"
-678,Gasaare,Basadonna,23/10/1943,Sesto Raffaella calabro
-679,Eugenia,Borromeo,25/08/1950,Cabibbo ligure
-680,Rplando,Muti,05/05/1960,Quarto Pietro laziale
-681,Daroa,Cutuli,16/12/1960,"Interminelli a mare, Haiti"
-682,Vitginia,Leopardi,19/10/1956,"Sesto Carlo salentino, Latvia"
-683,Lorenzo,Morandi,20/12/1960,"Borgo Severino, Pitcairn Islands"
-684,Enzio,Ostinelli,19/02/1950,"Matteotti del friuli, Città del Vaticano"
-685,Fredo,Turchi,09/07/1993,"Contrafatto lido, Gabon"
-686,Graziella,Tacchini,16/06/1956,Sesto Gianluigi
-687,Chiara,Bettin,14/12/1956,Morandi del friuli
-688,Ragfaele,Pascarella,25/07/1950,"Tamburello calabro, Wallis and Futuna"
--999999,BERNARDI SALVI,,14/04/1957,"Quarto Sylvia terme, Giamaica"
-690,Ignazio,Vergerio,28/08/1960,Settimo Gian ligure
-691,edoardo,Luna,29/02/1960,Leone ligure
-692,Donato,Borgia,14/06/1950,Borgo Donato a mare
-693,GIANETTI POMPOMIO,,26/10/1960,Quarto Laureano
-694,Guido,Nugnes,21/12/1960,"Borgo Roman, Isole Vergini Britanniche"
-695,Mochelotto,Pavarotti,01/12/1980,"Rosalia salentino, Paraguay"
-696,Simone,Badoglio,16/07/1950,San Loretta ligure
-697,SIMEONI LILLS,,22/02/2003,Boitani terme
-698,flavia,Orlando,23/05/1990,"San Pierangelo, Spagna"
-699,Baldassare,Lerner,24/04/1960,Tomasetti umbro
-700,Mariana,Palladio,08/07/1989,Sesto Martina
-701,Vetonica,Polani,24/10/1960,"Sesto Arsenio, Nauru"
--999999,Camillo,Scarponi,18/03/1960,"Sesto Livio salentino, Zimbabwe"
-703,irma,Turchi,28/04/1960,"San Rosina, Bhutan"
-704,DOSSETTI AMEDEO,,27/09/1947,Adelmo a mare
-705,Nico,Ciani,08/06/1950,"Quarto Loretta salentino, Mozambico"
-706,PAOLUCCI GERONIMO,,19/04/1963,Costanzo nell'emilia
-707,Coriozano,Battisti,12/04/1950,"Donatello lido, Siria"
-708,Tizoano,Goldoni,23/04/1960,"Quarto Giorgio umbro, Guinea"
-709,Cayerina,Bonatti,04/01/1950,"Battisti calabro, Eritrea"
-710,Raffaezla,Caccioppoli,20/09/1956,Fibonacci ligure
-711,Diana,Finzi,30/06/1960,"Garobbio ligure, Antartide (territori a sud del 60° parallelo)"
-712,Elvora,Rossellini,21/05/1950,"Morrocco calabro, Guadalupa"
-713,Alessoa,Tron,01/02/1960,"Giovanna calabro, Micronesia"
-714,Daris,Marangoni,12/07/1965,Settimo Ugo veneto
-715,pina,Parini,10/08/1956,Piero calabro
-716,Ubaldo,Ariosto,13/10/1960,Mastroianni salentino
-717,Bemito,Scalfaro,18/05/1979,"Quarto Ettore veneto, Chad"
-718,Carolina,Matteotti,25/11/1950,Antonino del friuli
-719,Lisa,Bosurgi,01/03/1956,Valerio veneto
-720,Susamna,Nadi,20/01/1960,"Bacosi ligure, Isole Vergini Statunitensi"
-721,Livip,Govoni,25/03/1960,Santorio nell'emilia
-722,Adrianp,Monduzzi,10/04/1956,Eraldo umbro
-723,Gudtavo,Ritacca,08/05/1995,Iacobucci veneto
-724,Teresa,Bonatti,20/03/1989,Donatella terme
-725,Rpberto,Ferragamo,01/09/2003,Agnolo ligure
-726,Mariamo,Pagliaro,05/04/1950,Settimo Silvestro
-727,Rita,Scamarcio,30/05/1950,Mortati terme
-728,Lina,Opizzi,26/07/1950,Borgo Lucia
-729,Pellegtino,Lancisi,13/01/1998,"Settimo Bettina, Svezia"
-730,Giacobbe,Errani,03/11/1960,"Tatiana del friuli, Eritrea"
-731,ANTONETTI MARTINO,,08/10/1933,Borgo Rocco
-732,Romolo,Trevisani,28/02/1950,"Ranieri laziale, Papua Nuova Guinea"
-733,Ippazio,Bondumier,07/01/1956,San Giada umbro
-734,Donatella,Civaschi,18/10/1956,Bruno veneto
-735,Nsnni,Surian,09/09/1960,Sesto Giacinto a mare
-736,Etmenegildo,Collina,07/06/1956,Sesto Nicola
-737,Rosina,Caffarelli,15/09/1960,"Sesto Patrizio, El Salvador"
-738,Giampierp,Ligorio,12/11/1956,"Settimo Saverio, Giappone"
-739,Jscopo,Modugno,02/04/1960,Benussi salentino
-740,AVOGADRO SANTE,,06/12/1960,"Quarto Martino, Hong Kong"
-741,Massimilianp,Marconi,17/03/1960,Calogero veneto
-742,Lepnardo,Schiavo,31/05/1950,"San Tiziana salentino, Brasile"
-743,Crostina,Leonetti,26/10/1950,"Rastelli a mare, Gibilterra"
-744,Alessoa,Meucci,09/04/1960,"Settimo Coriolano, Botswana"
-745,Claudoo,Antonacci,02/08/1963,Gagliardi sardo
-746,Maroa,Veltroni,02/05/1969,Quarto Guarino salentino
-747,Amrdeo,Inzaghi,02/06/1956,Ferdinando a mare
--999999,Melissa,Ceschi,11/09/1950,Borgo Antonina del friuli
-749,Aldp,Giannuzzi,06/03/1950,Borgo Stella umbro
-750,DELEDDA ALRSSANDRA,,24/05/1956,"Borgo Valeria laziale, Brasile"
-751,Catetina,Cavalcanti,12/07/1960,Papetti ligure
-752,Cirillo,Pascarella,16/05/1960,Impastato umbro
-753,Camilla,Papafava,09/05/1960,Borgo Paride
-754,Ernesto,Guarana,08/02/1956,Chindamo salentino
-755,Tetesa,Natta,19/07/1960,Quarto Ruggiero veneto
-756,Nins,Falcone,14/08/1962,"Enrico a mare, Afghanistan"
-757,Rossana,Aloisio,03/05/1950,"Cassarà nell'emilia, Gibuti"
--999999,Lodovivo,Salandra,25/05/1970,"Ludovico del friuli, Equador"
-759,Galasso,Draghi,07/11/1956,"Quarto Baccio nell'emilia, Fiji"
-760,Algio,Finzi,13/03/1960,Gelli veneto
-761,Luiss,Satta,10/03/1956,Graziella lido
-762,Teleqaco,Missoni,25/04/1939,San Massimiliano
-763,Antonella,Franceschi,22/03/1956,Settimo Pina
-764,Pomponio,Palombi,25/11/1956,"Sesto Tonia, Gibuti"
-765,Ignazip,Platini,21/04/1960,Guidotti laziale
-766,Alessandra,Medici,26/10/1950,"Lilla lido, Qatar"
-767,Tonino,Lettiere,17/08/1950,Legnante a mare
-768,Amalia,Liguori,04/07/1950,Ottone a mare
-769,Gioacchino,Montanelli,24/10/1950,"Quarto Rosalia, Panama"
-770,Liliana,Berengario,08/06/1956,"Avogadro calabro, Estonia"
-771,Solvestro,Salvemini,02/06/1956,"Sesto Rita lido, San Marino"
-772,VIVALDI ELVIRA,,12/08/1950,"Sesto Pasqual terme, Montserrat"
-773,Cassandra,Bettoni,13/09/1960,Paolo calabro
-774,Stegani,Carocci,12/11/1987,"Quarto Tatiana, Reunion"
-775,Ludovica,Luxardo,04/08/1960,Altera terme
-776,Dona,Parpinel,10/04/1950,Gentileschi nell'emilia
-777,Susamna,Monaco,08/08/1960,"Montanariello a mare, Nuova Zelanda"
-778,Stefani,Petralli,15/01/1939,Borgo Marcella
-779,Eugenis,Trombetta,14/12/1956,"Tullio del friuli, Mozambico"
-780,Roccp,Giannotti,26/03/1969,Matilda umbro
-781,Corrado,Villarosa,23/04/1950,Settimo Rodolfo calabro
-782,Roqana,Pacomio,29/03/1956,"Antonello del friuli, Senegal"
-783,Alima,Sagnelli,01/01/1950,"San Fabrizia ligure, Olanda"
-784,TOSI GIANFRANCESCO,,21/12/1956,"Borgo Stefano terme, Territorio dell'arcipelago indiano"
--999999,Fabis,Fuseli,10/12/1956,"Sesto Ferdinando, Lesotho"
--999999,VIOLA IOZANDA,,09/01/1972,"San Sole, Islanda"
--999999,Amanda,Paoletti,17/11/1950,Faggiani lido
-788,Marcells,Brunelleschi,11/10/1950,"Piermaria a mare, Argentina"
-789,Martino,Toscanini,20/10/1956,Adriana laziale
-790,Tpnino,Blasi,04/06/1950,"Toni umbro, Liechtenstein"
-791,Tatiana,Ziani,24/02/1950,"San Eva, Brunei Darussalam"
-792,Grevo,Cuomo,07/05/1974,"Calcedonio terme, Costa d'Avorio"
-793,Pellrgrino,Curiel,17/10/1959,"Borgo Marissa, Repubblica del Laos"
-794,Verpnica,Liguori,20/06/1950,Borgo Micheletto del friuli
--999999,Gloria,Vezzali,16/08/1960,Allegra nell'emilia
-796,Tomino,Comolli,05/09/1956,"Settimo Liana nell'emilia, Yemen"
--999999,Simone,Ferragni,07/09/1956,San Toni laziale
-798,Severino,Borsellino,14/09/1985,Sordi calabro
-799,CORRADI LAURA,,25/09/1960,Roberta terme
-800,Agnolo,Metella,19/11/1956,"Settimo Ronaldo salentino, Saint Vincent and the Grenadines"
-801,Serafina,Visintini,20/02/1960,"Settimo Sabatino, Malawi"
--999999,Pier,Montanari,18/02/1956,"Quarto Nicolò, Zimbabwe"
-803,Rosaria,Spanevello,08/03/1950,"Ricolfi ligure, El Salvador"
-804,Feferico,Saraceno,03/01/1956,"Pierluigi veneto, Italia"
-805,Ermenegildp,Lombardi,09/05/1950,"Tarchetti ligure, Bulgaria"
-806,Ciro,Zampa,18/06/1969,Casini sardo
-807,Amanda,Impastato,29/01/1950,Quarto Pomponio salentino
-808,Adrians,Comeriato,07/09/1960,"Sesto Lidia, Ucraina"
-809,Salbi,Dulbecco,15/01/1950,"Sesto Silvio del friuli, Regno Unito"
-810,VERDONE TONINO,,10/12/1972,Quarto Atenulf ligure
-811,CHIARAMONTE BETTINA,,01/08/1977,Polesel veneto
-812,Ruggiero,Carnera,06/07/1960,San Danilo lido
-813,donna,Modigliani,13/10/2001,"Antonello lido, Somalia"
-814,Arturo,Petrucci,03/01/1956,"Borgo Federico umbro, Bahamas"
-815,Adrle,Armani,27/08/1950,Sesto Guido
-816,Lauta,Palmisano,25/10/1960,"Quarto Raffaele, Bhutan"
-817,Emma,Orlando,06/05/1960,Settimo Ninetta
-818,Annumziata,Bosurgi,15/10/1960,"Tanzini veneto, Isole Vergini Statunitensi"
-819,PEPE ANGELICA,,13/01/1960,"Borgo Federico lido, Fiji"
-820,Pierangelo,Cibin,27/08/1960,Borgo Claudia
-821,Msrta,Mezzetta,28/01/1956,"Raffaele a mare, Gambia"
-822,luigina,Favata,02/08/1946,"Sesto Adamo, Martinica"
-823,Biamca,Bertoni,22/08/1950,Elisa lido
-824,Pina,Toscanini,13/10/1956,"Quarto Lolita umbro, Belgio"
--999999,MORANDINI MARTINA,,20/08/1950,Pinamonte del friuli
-826,PIRANDELLO OTTAVIO,,12/11/1950,Beccheria sardo
-827,Rosa,Bertoli,07/06/1960,"Settimo Bruno, Territori Francesi del sud"
-828,Viridiama,Nugnes,08/12/1960,"San Milena sardo, Sud Africa"
-829,Matteo,Lupo,02/10/1940,"Moccia nell'emilia, Sri Lanka"
-830,agnolo,Zanzi,21/07/1960,Benussi salentino
-831,Melania,Ammaniti,30/04/1950,Quarto Ilaria ligure
-832,Federica,Varano,12/04/1956,Borgo Dina del friuli
-833,LONGHENA PAOLS,,13/03/1956,Quarto Alderano laziale
-834,Antonoo,Badoglio,30/11/1950,"Renzo sardo, Libano"
-835,Ezmo,Speri,22/04/1950,Borgo Viridiana veneto
-836,Mirco,Agazzi,15/10/1950,San Luca
-837,Ennip,Comencini,02/01/1950,San Imelda ligure
-838,Antonio,Bertoni,09/06/1960,"Scarlatti laziale, Guinea-Bissau"
-839,Adriana,Paolucci,22/09/1986,"Borgo Sandro, Bermuda"
-840,Dpnatello,Comencini,07/01/1960,Quarto Lina nell'emilia
-841,arturo,Colletti,26/10/1950,Majorana a mare
-842,Roman,Sansoni,23/10/1939,Sesto Cirillo
-843,Gelsomina,Peano,13/08/1956,"Castellitto calabro, Isole Faroe"
-844,Sante,Viola,11/09/1960,Castioni terme
-845,Beatricr,Barozzi,28/04/1950,Quarto Pierpaolo umbro
-846,PIZZAMANO GIOVANNA,,13/11/1943,Augusto sardo
-847,Pietangelo,Sordi,20/05/1956,Piermaria veneto
-848,Massomo,Lanfranchi,16/07/1960,"Gibilisco terme, Suriname"
-849,Allrgra,Sinisi,17/02/1962,"Settimo Michele, Liberia"
-850,Fedele,Bembo,26/03/1956,Settimo Massimo calabro
-851,Adriana,Briccialdi,02/09/1964,"Alberto umbro, Lituania"
-852,Guido,Rinaldi,02/04/1950,"Quarto Milo, Vietnam"
-853,Serafina,Mondadori,02/03/1960,"Rosalia laziale, Repubblica Ceca"
-854,Fernanda,Casale,30/03/1950,"Cagnin ligure, Paraguay"
--999999,luigi,Luria,12/09/1933,"Nina salentino, Argentina"
-856,Ugo,Farina,14/07/1950,Settimo Caterina
-857,Ugolono,Valguarnera,05/10/1950,"Callegari salentino, Palau"
-858,Franco,Crisafulli,23/07/1971,"Quarto Elena lido, Namibia"
-859,Matisa,Pizzetti,11/08/1956,Stella nell'emilia
--999999,Poer,Nadi,11/09/1956,"Romolo umbro, Taiwan"
-861,Telemaco,Pertini,28/01/1966,Pierpaolo del friuli
-862,CAVANNA GIOSUÈ,,03/01/1956,"Settimo Aldo, Kenya"
-863,Nafia,Mazzanti,02/07/1960,Pincherle sardo
-864,Amalia,Ricci,05/01/1960,Quarto Temistocle veneto
-865,Viridiama,Morgagni,02/01/1950,Borgo Ludovica a mare
-866,Emilio,Antonello,27/08/2002,Quarto Greco terme
-867,Ilaria,Marino,10/08/1960,San Gianluigi
--999999,Msria,Tasso,12/08/1950,"Settimo Giacobbe del friuli, Latvia"
-869,TALIERCIO ERMRNEGILDO,,01/01/1960,Borgo Liliana
-870,Gabriele,Gigli,19/06/1967,Sesto Ettore veneto
-871,Vinvenzo,Napolitano,02/03/1960,"Borgo Lorenzo veneto, El Salvador"
-872,Romana,Cavanna,02/09/1956,Settimo Gian
-873,Disna,Maspero,25/06/1956,Gianluigi salentino
-874,Bisgio,Persico,06/11/1950,Quarto Ninetta salentino
-875,Donna,Valmarana,21/11/1956,Settimo Mattia nell'emilia
-876,Morena,Fantozzi,16/08/1950,"Evangelista del friuli, Jersey"
-877,Ansaldo,Querini,11/08/1986,Ottino calabro
-878,Greco,Caboto,13/08/1950,"Geronimo a mare, Mauritania"
-879,Comcetta,Cammarata,11/06/1950,Nina calabro
--999999,Ubazdo,Togliatti,08/02/1960,"Barbarigo salentino, Nuova Caledonia"
-881,Marta,Aporti,28/04/1960,"Settimo Donato lido, Repubblica Centrale Africana"
-882,Paoleyta,Tafuri,04/03/1950,Marangoni ligure
-883,Nanni,Samele,16/07/1933,Borgo Nico
-884,JILANI LODPVICO,,01/10/1950,"Montanariello terme, Azerbaijan"
-885,coriolano,Toldo,05/11/1962,"Settimo Cesare umbro, Heard Island and McDonald Islands"
-886,Laura,Curci,21/02/1950,"Sesto Hugo a mare, Kazakhstan"
-887,Giido,Vento,08/05/1956,San Bianca lido
-888,Gloris,Rosiello,30/01/1960,"Romiti calabro, Sudan"
-889,elena,Marini,28/12/1960,"Laureano veneto, Azerbaijan"
-890,carlo,Gotti,23/05/1950,Barcella umbro
-891,Piero,Gravina,30/11/1950,"Quarto Maurizio, San Marino"
-892,TURATI ETTA,,21/07/1946,"Gozzano ligure, Malta"
-893,GUARIENTO ANGELO,,08/12/1950,Sesto Raimondo
-894,Adriano,Bramante,01/06/1960,"Sesto Priscilla, Groenlandia"
-895,gustavo,Maderno,14/08/1960,"Marcello calabro, Bolivia"
-896,Librrto,Caffarelli,29/10/1950,"Rembrandt veneto, Kiribati"
-897,BAROZZI MARCANTONIO,,13/08/1960,Pacomio umbro
-898,Damiano,Luna,10/01/1956,"Settimo Monica, Macao"
-899,Nicola,Bettoni,14/06/1950,"Stefania sardo, Anguilla"
-900,Ruggeto,Armellini,19/12/1960,"Borgo Piero nell'emilia, Guinea Equatoriale"
-901,Giacomo,Papafava,24/06/1960,Quarto Alberico
-902,Michezotto,Ferrabosco,12/11/1950,"Trillini veneto, Repubblica Dominicana"
-903,Psulina,Nadi,21/05/1978,"Ippazio del friuli, Saint Pierre and Miquelon"
-904,Gianpietro,Argento,10/11/1960,"Nitti umbro, Costa Rica"
-905,Loredsna,Filippelli,15/08/1950,Giovanna del friuli
--999999,Orazio,Telesio,18/05/1960,Giannone a mare
-907,Pietro,Sbarbaro,05/11/1971,"Liberto del friuli, Georgia"
-908,Goffredo,Novaro,31/05/1960,"Ritacca sardo, Guam"
-909,Amedeo,Niggli,31/03/1950,San Augusto lido
-910,Fiorinp,Anastasi,10/09/2001,"Sabatino lido, Bangladesh"
-911,Brnito,Gadda,25/07/1950,"Arturo a mare, Guinea Equatoriale"
--999999,Tona,Pezzali,03/12/1960,"Gino calabro, Austria"
-913,Francesco,Briccialdi,03/07/1950,"Quarto Lolita, Montenegro"
-914,Baccoo,Scarpa,13/04/1950,"Borgo Ennio, Albania"
-915,BORRONI LOTETTA,,26/03/1960,"San Marco lido, Isole Faroe"
-916,Temistoclr,Buscetta,13/09/1950,Sesto Saverio
-917,Goanluca,Guidone,05/10/1951,San Paola
-918,BARBERINI LUCISNO,,20/04/1950,"Daria laziale, Bhutan"
-919,Sylvia,Naccari,03/01/1951,Ricci nell'emilia
-920,Nona,Antonetti,19/06/1950,"San Sandra, Finlandia"
-921,MARANGONI OZGA,,31/07/1960,"San Gioachino, Israele"
-922,Gioffre,Druso,02/01/1956,"Gemito terme, Guatemala"
-923,Vito,Morosini,14/06/1941,Borgo Fernanda lido
-924,Erika,Brunello,16/10/1979,"Lucrezia del friuli, Slovenia"
--999999,Gsstone,Lancisi,08/02/1960,Ugolino veneto
-926,Ernesyo,Zoppetto,23/07/1956,"Borgo Berenice veneto, Cameroon"
-927,Molena,Casale,23/05/1956,"Borgo Sebastiano, Siria"
-928,Pasqual,Alboni,27/03/1950,Quarto Ivan laziale
-929,Galadso,Folliero,15/02/1956,"Tosto laziale, Svalbard & Jan Mayen Islands"
-930,Dpnatella,Scaduto,18/10/1982,"Bembo terme, Mozambico"
-931,Claudis,Sordi,20/12/1989,"Borgo Calogero sardo, Mayotte"
--999999,Niccplò,Guicciardini,03/10/1960,Bellini del friuli
-933,Enxo,Sagese,01/07/1956,Quarto Rolando lido
-934,Silvoa,Cendron,29/06/1943,"Settimo Gelsomina, Bermuda"
--999999,Vincenza,Babati,28/03/1956,Griselda sardo
-936,Raffarle,Finzi,27/10/1956,"Annibale a mare, Porto Rico"
-937,Eva,Cendron,14/11/1956,"Quasimodo umbro, Mongolia"
--999999,Donns,Cundari,05/04/1950,"Settimo Rosalia calabro, Zimbabwe"
-939,Iolanda,Nonis,09/02/1960,"Valerio del friuli, Isola di Man"
-940,Giampoero,Ortolani,17/10/1950,"San Marina, Croazia"
-941,Renzo,Polani,19/03/1960,"Mondadori del friuli, Bahamas"
-942,Lidia,Ravaglioli,18/10/1951,Mercedes calabro
-943,Eleanora,Mazzini,22/03/1996,"Quarto Elvira, Malta"
-944,Brttina,Bernini,27/11/1956,"San Lolita nell'emilia, Montserrat"
-945,Mprena,Lancisi,04/02/1960,"Mennea laziale, Bolivia"
-946,Romolo,Borroni,23/03/1960,"Mazzeo ligure, Trinidad e Tobago"
-947,Maira,Boiardo,09/01/1970,"Sesto Dionigi veneto, Timor-Leste"
-948,SORDI EMIZIO,,28/12/1950,"Sesto Michele, Guernsey"
-949,Filvio,Stucchi,05/02/1956,Sesto Teresa
-950,Paulina,Anastasi,02/07/1956,"Scaduto sardo, Reunion"
-951,Chiara,Garibaldi,26/09/1960,"San Salvatore veneto, Niue"
--999999,Carmelo,Vanvitelli,22/09/1960,Settimo Gianna ligure
-953,Voncenza,Smirnoff,04/09/1950,"Settimo Fulvio, Saint Lucia"
-954,Ricciotti,Maffei,31/01/2000,"Bertoli sardo, Palestina"
-955,CONTRAFATTO GASPARE,,02/01/1956,Quarto Eraldo
-956,Silvio,Franceschi,01/10/1950,San Annetta terme
-957,Aldo,Modugno,02/05/1960,"Sesto Letizia laziale, Islanda"
-958,Alesdio,Boito,10/09/1972,Deledda laziale
-959,Gianpaolo,Zacco,02/07/1960,Sesto Stefani del friuli
-960,Licia,Tomasini,22/01/1950,Casini sardo
-961,Rodolgo,Paruta,30/01/1956,San Giovanna
-962,Alessio,Carducci,25/02/1981,Borgo Lara a mare
-963,Olga,Asmundo,15/02/1949,"Cheda umbro, Giordania"
-964,Giorgia,Bonolis,07/09/1996,Renata veneto
-965,Arturo,Sommaruga,19/10/1960,"Ivan sardo, Botswana"
-966,Riccardo,Cianciolo,12/01/1950,Navarria a mare
-967,Ennio,Modigliani,05/05/1950,"Alberto salentino, Spagna"
-968,Cristona,Ludovisi,16/06/1960,Renata lido
-969,Giampoero,Moresi,30/12/1956,"Boccherini veneto, Burundi"
-970,Filippo,Stefanelli,24/03/1950,"Crisafulli del friuli, Sud Africa"
-971,Oreste,Sibilia,18/11/1956,Sesto Lolita
-972,Galssso,Agostini,28/01/1960,"Bocelli ligure, Maldive"
-973,rosa,Infantino,14/12/1950,San Alberto
-974,Giancarlo,Borzomì,02/02/1956,"Panfilo calabro, Serbia"
-975,Gioacchino,Lollobrigida,29/11/1960,"Vasari a mare, Singapore"
-976,Sophoa,Einaudi,24/06/1956,"Quarto Alberto lido, Martinica"
-977,Delfino,Antonucci,12/06/2005,"San Pompeo lido, Repubblica Dominicana"
-978,anita,Squarcione,06/07/1950,"Guglielmi ligure, Algeria"
-979,Mauta,Roccabonella,27/11/1995,Rosario calabro
-980,Nanmi,Balbo,24/06/1960,"Settimo Amico umbro, Comoros"
-981,Valetio,Nibali,29/11/1960,Settimo Ernesto lido
-982,Cirillo,Mazzeo,29/05/1960,"Gotti nell'emilia, Gabon"
-983,Martino,Montesano,09/03/1960,"Erika veneto, Polinesia Francese"
-984,Eleanora,Gozzano,01/11/1998,Settimo Giuseppe umbro
-985,Ilaroa,Satta,14/10/1950,"Settimo Rosa, Colombia"
-986,BERGOGLIO RAIMONDP,,23/01/1956,"Bragadin sardo, Micronesia"
-987,Loredana,Camilleri,23/05/1950,"Bellocchio veneto, Spagna"
-988,Bettins,Pugliese,07/07/1960,San Antonino terme
-989,Tuzlio,Serlupi,14/03/1956,Binaghi sardo
-990,MORESI LISA,,28/01/2002,"Settimo Chiara, Isola di Man"
-991,Lronardo,Travia,15/04/1939,Loredan lido
-992,Beayrice,Ruggeri,01/07/1960,"Settimo Vittoria, Arabia Saudita"
-993,MALPIGHI GERONIMO,,16/02/1956,Franceschi del friuli
-994,Atenulf,Persico,05/08/1950,"Settimo Gianfranco lido, Kazakhstan"
-995,antonio,Giulietti,16/12/1983,"Quarto Renzo, Ungheria"
-996,pina,Petralli,02/03/1960,Tuzzolino terme
-997,Ezladio,Taliercio,31/10/1950,San Isabella
-998,Savrrio,Sgalambro,18/02/1960,"Borgo Giulio, Honduras"
-999,Valeroa,Mantegna,03/04/1960,Anguissola laziale
-550,Ugo,Cicala,08/11/1950,Ruberto umbro
-291,ivo,Mengolo,15/01/1956,Borgo Alessio del friuli
-270,Puccio,Riccati,27/07/1950,Puglisi lido
-159,Rossrio,Mastandrea,27/11/1950,"Biagiotti umbro, Pitcairn Islands"
-815,Adrle,Armani,27/08/1950,Sesto Guido
-65,Lpretta,Sinisi,06/03/1957,"San Carolina calabro, Jersey"
-718,Carolina,Matteotti,25/11/1950,Antonino del friuli
-195,serena,Collodi,10/02/1999,"San Claudio ligure, Saint Vincent and the Grenadines"
-582,Caqillo,Pasqua,29/02/1956,"Bembo veneto, Isole Marshall"
-978,anita,Squarcione,06/07/1950,"Guglielmi ligure, Algeria"
-840,Dpnatello,Comencini,07/01/1960,Quarto Lina nell'emilia
-750,Alrssandra,Deledda,24/05/1956,"Borgo Valeria laziale, Brasile"
-170,Filippa,Fiorucci,29/07/1960,Quarto Giancarlo sardo
-736,Etmenegildo,Collina,07/06/1956,Sesto Nicola
-847,Pietangelo,Sordi,20/05/1956,Piermaria veneto
-283,Gabriele,Tognazzi,06/01/1956,"Borgo Loretta ligure, Lesotho"
-225,Agostimo,Fabrizi,15/06/1960,"Borgo Maura, Comoros"
-347,Bepae,Pometta,13/07/1956,"San Alfredo a mare, Svezia"
-216,Agmolo,Pezzali,24/05/1956,"San Maurilio, Macao"
-895,gustavo,Maderno,14/08/1960,"Marcello calabro, Bolivia"
-882,TAFURI PAOLEYTA,,04/03/1950,Marangoni ligure
-178,Luigo,Mercadante,29/09/1956,"Ermanno salentino, Algeria"
--999999,Marcella,Zamengo,01/06/1960,Quarto Arsenio
--999999,Lodovivo,Salandra,25/05/1970,"Ludovico del friuli, Equador"
--999999,Filippa,Cagnotto,10/04/1960,"San Piergiorgio sardo, Gabon"
-512,Gioele,Fischetti,11/07/1960,"Salvatore lido, Islanda"
-751,Catetina,Cavalcanti,12/07/1960,Papetti ligure
-328,Goanluigi,Ruggieri,31/08/1956,"Settimo Giuseppina, Lussemburgo"
-343,Simonetya,Finetti,29/10/1960,Maria lido
-516,Antonello,Leonardi,29/11/1956,"Sesto Giacomo nell'emilia, Guatemala"
-556,Gianni,Maggioli,06/08/1960,"Griselda laziale, Vietnam"
-357,Sante,Capuana,20/06/1960,"Bodoni nell'emilia, Macao"
--999999,Anyonello,Cagnin,06/10/1933,"Nadi umbro, Burundi"
-61,Domenivo,Calbo,28/01/1956,San Griselda
-777,Susamna,Monaco,08/08/1960,"Montanariello a mare, Nuova Zelanda"
-339,Osvalfo,Fornaciari,11/08/1985,Sesto Ermenegildo
-484,Angelica,Innocenti,03/04/1993,"Alessio salentino, Bhutan"
-358,Bianca,Necci,28/12/1956,Settimo Paola
-929,Galadso,Folliero,15/02/1956,"Tosto laziale, Svalbard & Jan Mayen Islands"
-629,Fortinata,Vecoli,18/05/1950,"Ronaldo del friuli, Moldova"
-354,Gianluigi,Bocca,27/07/1980,"Pertini del friuli, Isole Cook"
-919,Sylvia,Naccari,03/01/1951,Ricci nell'emilia
-583,Fzora,Maderna,29/05/1976,Settimo Orazio
-65,SINISI LPRETTA,,06/03/1957,"San Carolina calabro, Jersey"
-719,Lisa,Bosurgi,01/03/1956,Valerio veneto
-957,Aldo,Modugno,02/05/1960,"Sesto Letizia laziale, Islanda"
-115,Lorrdana,Gottardi,23/10/1950,"Sesto Imelda, Montenegro"
-875,Donna,Valmarana,21/11/1956,Settimo Mattia nell'emilia
-682,Vitginia,Leopardi,19/10/1956,"Sesto Carlo salentino, Latvia"
-886,Laura,Curci,21/02/1950,"Sesto Hugo a mare, Kazakhstan"
+id      ,nome                  ,cognome       ,data_nascita ,città_residenza
+0       ,Carolina              ,Zaguri        ,07/09/1956   ,"Federici sardo, Cile"
+1       ,Lorenzp               ,Mezzetta      ,17/07/1956   ,Merisi umbro
+2       ,Fiamma                ,Magnani       ,21/11/1956   ,Borgo Giuseppe
+3       ,Livio                 ,Gilardoni     ,03/05/1950   ,Quarto Lando del friuli
+4       ,GUIDONE SERAFINS      ,              ,07/03/2000   ,"San Lamberto, Mauritius"
+5       ,Lamberto              ,Antonetti     ,22/03/1950   ,"Sesto Claudia calabro, Ungheria"
+6       ,Paride                ,Scamarcio     ,23/11/1960   ,Lussu lido
+7       ,Aldo                  ,Canetta       ,10/10/1960   ,San Jolanda
+8       ,CIVASCHI ISABELLA     ,              ,15/10/1956   ,"Borgo Armando laziale, Sudan"
+9       ,Guglielmo             ,Carpaccio     ,03/10/1950   ,Carlo ligure
+10      ,Veromica              ,Campano       ,12/12/1950   ,Cipolla salentino
+11      ,PETRUCCI ELVIRS       ,              ,24/09/1973   ,Sesto Arnulfo
+12      ,Aldo                  ,Colletti      ,21/11/1950   ,"Giuliana calabro, Bangladesh"
+13      ,Sergius               ,Bartoli       ,17/09/1950   ,Quarto Ottavio calabro
+14      ,giosuè                ,Bramante      ,22/10/1956   ,"Maura lido, Martinica"
+15      ,MISSONI IMRLDA        ,              ,26/10/1960   ,Montanariello nell'emilia
+-999999 ,Coriolano             ,Lercari       ,18/06/1975   ,San Geronimo
+17      ,carlo                 ,Strangio      ,04/11/1945   ,Montanelli sardo
+18      ,Gianmarvo             ,Depero        ,21/01/1940   ,Sesto Pietro lido
+19      ,Imelda                ,Boezio        ,13/12/1960   ,"San Calogero veneto, Hong Kong"
+20      ,Martino               ,Ruberto       ,11/12/1956   ,Alderano veneto
+21      ,Tuzlio                ,Finzi         ,08/10/1960   ,Angelica sardo
+22      ,Elladio               ,Taccola       ,06/03/1967   ,"Dallapé a mare, Mayotte"
+23      ,Daroa                 ,Traetta       ,27/07/1956   ,"Quarto Gionata nell'emilia, Sao Tome and Principe"
+24      ,Ivo                   ,Turchi        ,29/07/1960   ,"Sesto Coluccio umbro, Reunion"
+25      ,Giorgia               ,Quasimodo     ,17/06/1960   ,San Melissa ligure
+26      ,romeo                 ,Udinesi       ,09/11/1956   ,Arnaldo veneto
+27      ,Raffaellino           ,Cheda         ,16/01/1960   ,"Liberto terme, Kiribati"
+28      ,MAGRASSI ANTONELLA    ,              ,02/08/1960   ,Vanvitelli a mare
+29      ,Antonina              ,Filippini     ,23/03/1950   ,"San Lucrezia, Armenia"
+30      ,Letizia               ,Sbarbaro      ,03/08/2001   ,Abate salentino
+31      ,Dina                  ,Catenazzi     ,10/07/1950   ,"Prodi umbro, Taiwan"
+32      ,Marissa               ,Civaschi      ,27/03/1950   ,"Nanni umbro, Estonia"
+33      ,RUBERTO ALESDIO       ,              ,27/09/1950   ,"Quarto Michelangelo, Isole Solomon"
+34      ,Tiziama               ,Innocenti     ,13/09/1960   ,"Vigliotti ligure, Vietnam"
+35      ,Milena                ,Satriani      ,17/12/1966   ,Zamengo a mare
+36      ,Manuez                ,Campise       ,25/11/1944   ,"Settimo Atenulf, Danimarca"
+37      ,Niccolò               ,Turchi        ,12/04/1956   ,"San Erika sardo, Uruguay"
+38      ,Marya                 ,Bernardini    ,15/05/1950   ,Quarto Piermaria calabro
+39      ,Costantinp            ,Correr        ,07/02/1956   ,"Borgo Ivan ligure, Togo"
+40      ,Mauro                 ,Giannuzzi     ,19/11/1991   ,"Quarto Eugenia, Città del Vaticano"
+41      ,Alessia               ,Cabibbo       ,25/05/1937   ,"Quarto Ermes, Congo"
+42      ,Gianluca              ,Bertoli       ,04/05/1956   ,"Sesto Ricciotti, American Samoa"
+43      ,Anyonella             ,Gagliano      ,15/07/1950   ,Quarto Marcella lido
+44      ,Pierpaolo             ,Pasolini      ,12/12/1956   ,"Morellato a mare, Saint Martin"
+45      ,Lanfo                 ,Guglielmi     ,25/08/1960   ,"Borgo Coluccio, Turkmenistan"
+46      ,Algio                 ,Carducci      ,26/12/1960   ,"Sesto Orazio lido, Andorra"
+-999999 ,CONDOLEO GOACINTO     ,              ,01/07/1960   ,"Borgo Fabio, Maldive"
+48      ,Geroniqo              ,Amato         ,17/03/1956   ,Settimo Martino ligure
+49      ,Gianluigi             ,Torricelli    ,08/08/1956   ,"Settimo Mario nell'emilia, Samoa"
+50      ,Carls                 ,Bellini       ,20/04/1970   ,"Quarto Fabrizia, Saint Vincent and the Grenadines"
+51      ,Simonetta             ,Toso          ,16/08/1960   ,Sesto Silvia
+52      ,Grazirlla             ,Bellocchio    ,27/03/1960   ,"San Ezio, Estonia"
+53      ,Guglielmo             ,Verdone       ,04/03/1985   ,"Quarto Raffaella calabro, Belize"
+54      ,ORENGO GIONATA        ,              ,28/07/1960   ,Giulio sardo
+55      ,lodovico              ,Agazzi        ,15/06/1993   ,"Fattori veneto, Brasile"
+56      ,nico                  ,Coardi        ,11/08/1960   ,"Pasquale umbro, Nepal"
+57      ,Laireano              ,Saracino      ,02/05/1950   ,Rosselli nell'emilia
+58      ,Anyonia               ,Calvo         ,24/03/1960   ,"Borgo Paolo lido, Vietnam"
+59      ,Luigina               ,Salvemini     ,05/08/1950   ,"San Paoletta ligure, Gibilterra"
+60      ,Raffaello             ,Rensi         ,14/04/1960   ,San Gabriella
+61      ,Domenivo              ,Calbo         ,28/01/1956   ,San Griselda
+62      ,Loremzo               ,Rastelli      ,29/09/1960   ,"Raffaella lido, Liberia"
+63      ,Liana                 ,Trapanese     ,01/08/1960   ,San Francesco sardo
+64      ,Francesca             ,Dalla         ,10/11/1960   ,Quarto Aurora a mare
+65      ,Lpretta               ,Sinisi        ,06/03/1957   ,"San Carolina calabro, Jersey"
+66      ,VIVALDI EDPARDO       ,              ,06/11/1956   ,"Settimo Isa calabro, Malta"
+67      ,Margherits            ,Parpinel      ,20/02/1950   ,Quarto Guido
+68      ,Stella                ,Alfonsi       ,15/08/1956   ,"Foa veneto, Botswana"
+69      ,Ferdinando            ,Bandello      ,19/02/1950   ,Alderano ligure
+70      ,Enzoo                 ,Jovinelli     ,27/12/1942   ,Pier a mare
+71      ,Msrtino               ,Bellini       ,11/05/1960   ,"San Telemaco, Repubblica del Laos"
+72      ,Uberto                ,Siffredi      ,08/05/1956   ,"Combi calabro, Islanda"
+73      ,Angelina              ,Cabibbo       ,28/04/1956   ,Morandini nell'emilia
+74      ,Tizianp               ,Galuppi       ,08/07/1977   ,"Sesto Calcedonio nell'emilia, Haiti"
+75      ,Allegra               ,Cuzzocrea     ,03/09/1960   ,Settimo Romeo
+76      ,Adriano               ,Missoni       ,10/11/1956   ,Tullio salentino
+-999999 ,Filippa               ,Cagnotto      ,10/04/1960   ,"San Piergiorgio sardo, Gabon"
+-999999 ,Fabio                 ,Dallapé       ,20/08/1956   ,"Quarto Toni, Svalbard & Jan Mayen Islands"
+79      ,Camolla               ,Rosiello      ,01/10/1960   ,Giovanna terme
+80      ,Maria                 ,Ortolani      ,10/08/1942   ,Borgo Mariano salentino
+81      ,RINALDI NINETTA       ,              ,14/04/1960   ,"Quarto Elena, Isole di Turks and Caicos"
+82      ,Arnulfo               ,Tosi          ,31/10/1988   ,"San Cirillo calabro, Isole Faroe"
+83      ,Matteo                ,Baracca       ,29/04/1950   ,"Sesto Michele salentino, Saint Lucia"
+84      ,Mivhele               ,Benussi       ,04/12/1956   ,"Settimo Gianpaolo ligure, Antille Olandesi"
+85      ,Hugo                  ,Fermi         ,13/02/1950   ,"Vitturi veneto, Trinidad e Tobago"
+86      ,Azphons               ,Mantegazza    ,08/06/1961   ,Quarto Raffaellino
+87      ,Antonello             ,Canali        ,15/04/1956   ,Nina umbro
+88      ,Michrla               ,Polani        ,09/01/1956   ,"Borgo Temistocle a mare, Malesia"
+89      ,LUCCIANO MARYINO      ,              ,17/02/1950   ,Nadi salentino
+90      ,Tonia                 ,Quasimodo     ,20/03/1956   ,Settimo Greco nell'emilia
+91      ,Amico                 ,Solimena      ,04/06/1956   ,Settimo Lamberto terme
+92      ,GIUNTI ROSAROA        ,              ,28/11/1986   ,"Camillo ligure, Slovenia"
+93      ,Simonetta             ,Manolesso     ,14/02/1960   ,"Rosaria calabro, Nicaragua"
+94      ,SIMEONI MSRCELLO      ,              ,21/02/1950   ,"Mascheroni salentino, Korea"
+95      ,Nedda                 ,Roth          ,02/09/1972   ,"Adelasia ligure, Timor-Leste"
+96      ,Alessanfro            ,Accardo       ,04/06/1950   ,Salvi del friuli
+97      ,Antonirtta            ,Mazzocchi     ,03/07/1950   ,"Beatrice umbro, Mayotte"
+98      ,Marta                 ,Barberini     ,25/03/1950   ,Settimo Isa calabro
+99      ,antonella             ,Antonioni     ,09/05/1956   ,Settimo Morena
+100     ,Stefano               ,Gozzi         ,19/07/1960   ,"Annibale veneto, Porto Rico"
+101     ,Flsvia                ,Fanucci       ,08/05/1960   ,Ronaldo umbro
+102     ,Barnara               ,Sismondi      ,16/06/1950   ,"Storladi salentino, Guyana Francese"
+103     ,Giusrppe              ,Traversa      ,28/03/1950   ,"Settimo Marcella veneto, Cina"
+104     ,Mariano               ,Guarana       ,31/05/1950   ,Victoria sardo
+105     ,Umbrrto               ,Giannone      ,29/06/1956   ,"San Roman laziale, Siria"
+-999999 ,Melina                ,Ramazzotti    ,14/09/1950   ,"Cavanna lido, Aruba"
+107     ,Simome                ,Guicciardini  ,28/04/2003   ,Settimo Saverio
+108     ,Laurrano              ,Martinelli    ,01/05/1976   ,"Quarto Luciano, Sudan"
+-999999 ,Dpnna                 ,Pontecorvo    ,21/07/1956   ,Tencalla lido
+110     ,Cortado               ,Renault       ,07/07/1950   ,"Borgo Giacobbe salentino, Congo"
+111     ,Bartolomeo            ,Petrucci      ,29/08/1949   ,Fattori ligure
+112     ,Gilbertp              ,Draghi        ,20/02/1956   ,San Claudio umbro
+-999999 ,Giuzietta             ,Fantini       ,07/04/1960   ,Borgo Rembrandt
+114     ,Dario                 ,Gentili       ,08/05/1950   ,"Sesto Giampiero, Etiopia"
+115     ,Lorrdana              ,Gottardi      ,23/10/1950   ,"Sesto Imelda, Montenegro"
+116     ,Frderica              ,Fiorucci      ,04/10/1960   ,Settimo Sante
+117     ,Flpra                 ,Ludovisi      ,09/07/1960   ,Sesto Franco umbro
+118     ,bianca                ,Ruberto       ,13/02/1950   ,"Silvio calabro, Brunei Darussalam"
+119     ,Masdimiliano          ,Agostinelli   ,24/06/2001   ,Sesto Roman terme
+120     ,Fiorenzo              ,Mortati       ,29/11/1956   ,"Borgo Ruggero, Bouvet Island (Bouvetoya)"
+121     ,Libertp               ,Trotta        ,02/03/1950   ,Quarto Olga
+-999999 ,Guhlielmo             ,Campanella    ,17/06/1964   ,Salvi sardo
+123     ,Giuseppins            ,Fantozzi      ,06/06/1950   ,San Vincenza
+124     ,Camilla               ,Basadonna     ,12/10/1960   ,San Arnaldo sardo
+-999999 ,Corradp               ,Nolcini       ,04/04/1960   ,"Borgo Costanzo terme, Marocco"
+126     ,Graziella             ,Farinelli     ,08/06/1956   ,Sesto Daniele
+127     ,ANTONELLO LIBERTO     ,              ,30/10/1982   ,Tamburello laziale
+128     ,Lpdovico              ,Nolcini       ,22/11/1950   ,"Ivo ligure, Isole Marshall"
+129     ,Flavoo                ,Cattaneo      ,27/06/1956   ,San Laureano laziale
+-999999 ,Lilla                 ,Berengario    ,08/06/1956   ,Vito laziale
+131     ,Liss                  ,Cafarchia     ,14/05/1960   ,"Settimo Leonardo, Tajikistan"
+132     ,Nocolò                ,Camanni       ,24/03/1955   ,"Faranda calabro, Tajikistan"
+133     ,Galasso               ,Raurica       ,23/10/1950   ,"San Piermaria, Zambia"
+134     ,Elmo                  ,Donati        ,10/07/1956   ,Tozzo terme
+135     ,Antonia               ,Modugno       ,12/09/1960   ,"Borgo Domenico salentino, Taiwan"
+136     ,Grrco                 ,Raurica       ,28/04/1950   ,Mennea umbro
+137     ,Datio                 ,Conte         ,02/07/1950   ,Scamarcio salentino
+138     ,Ludovica              ,Beccheria     ,02/09/1956   ,Galvani a mare
+139     ,luciano               ,Finzi         ,20/10/1999   ,Settimo Loretta
+140     ,Lisa                  ,Maderno       ,10/11/1960   ,"Dovara calabro, Mali"
+141     ,Serena                ,Bajardi       ,31/01/1950   ,"Serena ligure, Panama"
+142     ,MONTALCINI LAURETTA   ,              ,18/10/1950   ,"Quarto Romana, Suriname"
+143     ,Bruno                 ,Pometta       ,08/01/1950   ,Borgo Giacobbe a mare
+144     ,paoletta              ,Foa           ,13/04/1956   ,Settimo Loretta
+145     ,Atenulg               ,Fieramosca    ,18/04/1950   ,"Gelsomina salentino, Guatemala"
+146     ,CATALANO LUVIANO      ,              ,09/11/1950   ,Settimo Fulvio salentino
+147     ,Giorgio               ,Campano       ,10/08/1960   ,Settimo Fredo umbro
+148     ,Niccolò               ,Ruberto       ,09/12/1950   ,Settimo Etta veneto
+149     ,Ludovics              ,Toscanini     ,26/10/1956   ,"Barzini ligure, Islanda"
+150     ,Marossa               ,Finetti       ,15/08/1956   ,"Fortunata laziale, Tonga"
+151     ,Ennio                 ,Gremese       ,11/09/1994   ,"Sesto Arnulfo, Nicaragua"
+152     ,Diana                 ,Biagiotti     ,04/06/1967   ,Sesto Clelia calabro
+153     ,Gelsomina             ,Cicala        ,08/11/1983   ,"Borgo Tullio salentino, Bermuda"
+154     ,Pierina               ,Sibilia       ,11/04/1999   ,"Borgo Jolanda, Macao"
+155     ,Mautizio              ,Interminei    ,18/11/1956   ,Settimo Giorgia
+156     ,Biancs                ,Canil         ,28/06/1960   ,"Allegra terme, Micronesia"
+157     ,mauro                 ,Aporti        ,05/08/1997   ,"Settimo Lucia, Città del Vaticano"
+158     ,isa                   ,Basso         ,29/06/1960   ,"Sesto Carlo, Uzbekistan"
+159     ,Rossrio               ,Mastandrea    ,27/11/1950   ,"Biagiotti umbro, Pitcairn Islands"
+160     ,Lazzarp               ,Vergerio      ,21/10/1950   ,Pasquale laziale
+161     ,Licia                 ,Conti         ,17/06/1956   ,San Greco lido
+162     ,Dima                  ,Soderini      ,14/06/1956   ,"Borgo Tonia nell'emilia, Nuova Zelanda"
+163     ,nino                  ,Spanevello    ,04/03/1956   ,Vespucci nell'emilia
+-999999 ,Germana               ,Cutrufo       ,02/10/1960   ,San Simone
+165     ,Liberto               ,Semitecolo    ,04/01/1989   ,"San Tonino, Bhutan"
+166     ,Ramons                ,Cociarelli    ,15/05/1950   ,"Quarto Zaira a mare, Martinica"
+167     ,Fabio                 ,Travaglia     ,25/03/1960   ,Settimo Antonello
+168     ,Angelo                ,Tornatore     ,02/05/1969   ,San Donatello
+169     ,Franco                ,Carfagna      ,29/11/1983   ,"Sesto Matilda, Mauritania"
+170     ,Filippa               ,Fiorucci      ,29/07/1960   ,Quarto Giancarlo sardo
+171     ,Giorgio               ,Roth          ,30/09/1960   ,Chechi salentino
+-999999 ,ZACCAGNINI CORIOLANO  ,              ,15/10/1956   ,"Settimo Piergiuseppe, Bhutan"
+173     ,Anita                 ,Valier        ,04/10/1960   ,"Francesco laziale, American Samoa"
+174     ,Ermenegildo           ,Querini       ,18/12/1956   ,Castiglione umbro
+175     ,Ruggoero              ,Valguarnera   ,12/07/1997   ,Giorgio del friuli
+176     ,Dante                 ,Cendron       ,11/12/2001   ,"Quarto Federico lido, Wallis and Futuna"
+177     ,valentina             ,Cignaroli     ,04/02/1960   ,Sesto Fiamma
+178     ,Luigo                 ,Mercadante    ,29/09/1956   ,"Ermanno salentino, Algeria"
+179     ,MAGNANI CLEZIA        ,              ,24/11/1956   ,Beffa a mare
+180     ,Ivam                  ,Camicione     ,01/06/1950   ,"Quarto Ubaldo, Territorio dell'arcipelago indiano"
+-999999 ,Stefano               ,Piazzi        ,13/05/1970   ,Camiscione umbro
+182     ,federigo              ,Orlando       ,07/05/1960   ,"Jacopo calabro, Belize"
+183     ,Raffaele              ,Gagliardi     ,29/11/1950   ,Borgo Benito
+-999999 ,Elladip               ,Chinnici      ,12/05/1990   ,Settimo Severino
+185     ,Camolla               ,Soranzo       ,22/02/1960   ,"Campano calabro, Sao Tome and Principe"
+186     ,Bepae                 ,Navone        ,19/02/1950   ,Borgo Federico
+-999999 ,Marcella              ,Zamengo       ,01/06/1960   ,Quarto Arsenio
+188     ,Gionaya               ,Cuda          ,21/08/1995   ,San Silvio umbro
+189     ,Giosuè                ,Virgilio      ,04/05/1997   ,"Sesto Giampiero nell'emilia, Somalia"
+190     ,Fiorino               ,Babato        ,20/06/1956   ,"Settimo Berenice, Guyana"
+-999999 ,Napoleone             ,Muratori      ,26/12/1950   ,Morgagni calabro
+192     ,Domato                ,Nitto         ,23/06/1941   ,Borgo Giorgia
+193     ,ABBA RENATS           ,              ,14/10/1950   ,San Amadeo lido
+194     ,Valentina             ,Gozzi         ,17/10/1960   ,"San Livio laziale, Micronesia"
+195     ,serena                ,Collodi       ,10/02/1999   ,"San Claudio ligure, Saint Vincent and the Grenadines"
+196     ,Adriana               ,Tognazzi      ,27/01/1950   ,Settimo Nicola calabro
+197     ,Toni                  ,Legnante      ,18/09/1950   ,"Borgo Lisa, Equador"
+-999999 ,gianna                ,Montanariello ,08/10/1960   ,Mercadante del friuli
+199     ,Filippa               ,Regge         ,10/04/1950   ,"Schicchi salentino, Portogallo"
+200     ,Cipriano              ,Trevisan      ,03/02/1987   ,"Quarto Liberto, Lesotho"
+201     ,Emzo                  ,Bova          ,18/12/1950   ,"Ennio del friuli, Guinea"
+202     ,Sebadtiano            ,Gramsci       ,30/01/1950   ,Lorenzo lido
+203     ,Nima                  ,Almagià       ,08/07/1933   ,"San Nicolò, Canada"
+-999999 ,Bettina               ,Guglielmi     ,18/11/1960   ,Tosi terme
+205     ,roberta               ,Gianetti      ,22/09/1956   ,"Bassi terme, Guinea Equatoriale"
+-999999 ,irma                  ,Opizzi        ,10/06/1997   ,"Antonello nell'emilia, Maldive"
+207     ,Pazoma                ,Romagnoli     ,03/10/1960   ,"Quarto Pierluigi ligure, Brunei Darussalam"
+208     ,livia                 ,Duodo         ,28/03/1950   ,"Temistocle veneto, Bosnia e Herzegovina"
+209     ,claudia               ,Sanguineti    ,16/01/1956   ,Romolo umbro
+210     ,giosuè                ,Cignaroli     ,15/09/1950   ,"Borgo Micheletto, Isole Solomon"
+211     ,milo                  ,Pacillo       ,10/10/1955   ,"Quarto Diana, Colombia"
+212     ,Voncenzo              ,Toso          ,08/03/1955   ,Vincentio sardo
+213     ,Mario                 ,Tafuri        ,15/12/1973   ,"Quarto Antonina, Bouvet Island (Bouvetoya)"
+214     ,giovanna              ,Battisti      ,18/09/1956   ,"Giuseppina veneto, Romania"
+215     ,fiamma                ,Anastasi      ,15/11/1994   ,Alina salentino
+216     ,Agmolo                ,Pezzali       ,24/05/1956   ,"San Maurilio, Macao"
+217     ,Laureamo              ,Milanesi      ,21/11/1960   ,Sesto Maurizio
+218     ,Amleto                ,Crespi        ,11/05/1960   ,"Borgo Paolo calabro, Maldive"
+219     ,Brunp                 ,Flaiano       ,28/09/1955   ,Settimo Ugo
+220     ,maura                 ,Casellati     ,02/10/1946   ,"Quarto Carlo, Pitcairn Islands"
+221     ,Nefda                 ,Mazzi         ,30/11/1960   ,"Santorio del friuli, Olanda"
+222     ,Pirrangelo            ,Magrassi      ,04/11/1956   ,"Santino laziale, Yemen"
+223     ,Gastone               ,Armellini     ,12/06/1960   ,Amaldi del friuli
+224     ,Paride                ,Niggli        ,17/05/1960   ,Giorgia laziale
+225     ,Agostimo              ,Fabrizi       ,15/06/1960   ,"Borgo Maura, Comoros"
+226     ,Vittoris              ,Tartini       ,15/08/1950   ,"Borgo Federico, Haiti"
+227     ,Stefania              ,Verdone       ,27/03/1952   ,San Orazio nell'emilia
+228     ,Raffaele              ,Necci         ,31/12/1956   ,San Antonino nell'emilia
+229     ,Maryina               ,Leopardi      ,23/10/1950   ,"Ferraris sardo, Mauritania"
+230     ,Giusyino              ,Fornaciari    ,28/10/1972   ,Sesto Benedetto
+231     ,adele                 ,Martinelli    ,24/01/1956   ,"Rosaria ligure, Myanmar"
+-999999 ,Milena                ,Vecoli        ,16/01/1950   ,Saverio umbro
+233     ,giulia                ,Gaggini       ,02/12/1956   ,Cecilia umbro
+234     ,Enxo                  ,Collina       ,18/01/1950   ,"Praga del friuli, Tajikistan"
+235     ,Mirkp                 ,Boldù         ,19/09/1956   ,"Sesto Dino nell'emilia, Isole Vergini Britanniche"
+236     ,UGHI ERNRSTO          ,              ,16/05/1956   ,"Crespi sardo, Canada"
+237     ,Tullip                ,Cherubini     ,16/08/1950   ,"Ferrazzi sardo, Sierra Leone"
+-999999 ,Jacopo                ,Polani        ,29/12/1960   ,"San Ottone, Isole Vergini Britanniche"
+239     ,Matilda               ,Giacometti    ,02/01/1960   ,Sesto Melina
+240     ,MANNOIA PATRIZIP      ,              ,04/11/1960   ,Mantegazza salentino
+241     ,Gaspare               ,Ceschi        ,06/04/1956   ,Borgo Gianfrancesco
+242     ,Enzo                  ,Gottardi      ,01/05/1934   ,"Diana nell'emilia, Uzbekistan"
+243     ,Luciano               ,Toscani       ,29/09/1950   ,"Sesto Leopoldo salentino, Regno Unito"
+244     ,Luihina               ,Travaglio     ,19/08/1956   ,"Settimo Licia, Polinesia Francese"
+245     ,Annalida              ,Salvo         ,20/04/1977   ,"Sabbatini sardo, Lesotho"
+-999999 ,Mamuel                ,Tamburello    ,02/07/1967   ,Sesto Romina
+247     ,Mivheletto            ,Gotti         ,28/06/1950   ,Tutino a mare
+248     ,Tina                  ,Camilleri     ,23/04/1956   ,"Settimo Donatella, Francia"
+249     ,Giacimto              ,Riccardi      ,12/05/1950   ,"San Gabriele laziale, Northern Mariana Islands"
+250     ,Arturo                ,Bonatti       ,22/01/1973   ,"Settimo Gioachino, Armenia"
+251     ,DETTI NAPOZEONE       ,              ,19/04/1969   ,"Gemma laziale, Giamaica"
+252     ,Arturo                ,Siffredi      ,15/12/1956   ,"Bettina salentino, Venezuela"
+253     ,Solr                  ,Caetani       ,17/05/1960   ,"Trevisani lido, Egitto"
+254     ,baldassare            ,Ciani         ,23/11/1960   ,"Cassarà laziale, Repubblica del Laos"
+255     ,Giuseppr              ,Pennetta      ,29/09/1950   ,"Patrizia laziale, Benin"
+256     ,PELLI GOANPAOLO       ,              ,23/08/2001   ,"Quarto Ferdinando, Congo"
+257     ,annunziata            ,Campise       ,04/01/1956   ,"Cherubini a mare, Estonia"
+258     ,CERUTTI ARNALDO       ,              ,18/08/1950   ,"Borgo Alessandra, Iran"
+-999999 ,Tatisna               ,Traversa      ,22/10/1956   ,"Sommaruga a mare, Regno Unito"
+260     ,Marcp                 ,Longhena      ,27/07/1960   ,Ceri calabro
+261     ,Flavio                ,Dallara       ,19/09/1960   ,Settimo Pietro del friuli
+262     ,Gionsta               ,Gelli         ,17/05/1950   ,San Michela
+263     ,Virgilip              ,Doria         ,21/08/1956   ,"Tonino veneto, Grenada"
+264     ,Caqilla               ,Borzomì       ,18/05/1966   ,Toselli laziale
+265     ,Loretta               ,Borzomì       ,28/02/1960   ,Sesto Ornella veneto
+266     ,Cozuccio              ,Pellico       ,11/07/1985   ,"Nonis umbro, Svizzera"
+267     ,Coluccio              ,Vattimo       ,25/01/1973   ,Virgilio lido
+268     ,Roberyo               ,Bottigliero   ,29/06/1960   ,"Lisa salentino, Repubblica Dominicana"
+269     ,Alessio               ,Tamburi       ,22/08/1960   ,"Celentano ligure, Tanzania"
+270     ,Puccio                ,Riccati       ,27/07/1950   ,Puglisi lido
+271     ,Cassandra             ,Renault       ,25/03/1953   ,Sesto Dante
+272     ,Flavoo                ,Gasperi       ,19/04/1950   ,"Quarto Giulio, Paraguay"
+-999999 ,Poero                 ,Zoppetto      ,17/03/1950   ,Pergolesi del friuli
+274     ,Fzora                 ,Torlonia      ,27/06/1956   ,"Boitani calabro, Paraguay"
+275     ,Gabtiella             ,Respighi      ,29/10/1956   ,"Sgalambro laziale, Gibuti"
+276     ,Greco                 ,Porcellato    ,11/10/1956   ,"Alfonsi salentino, Olanda"
+277     ,Mirlo                 ,Zanzi         ,22/11/1960   ,"San Edoardo umbro, Comoros"
+278     ,Anita                 ,Mondaini      ,16/08/1960   ,Borsiere laziale
+279     ,Alphons               ,Sandi         ,18/07/1987   ,Settimo Adelmo
+280     ,Carla                 ,Callegari     ,08/05/1950   ,Quarto Gianfranco terme
+281     ,Angeliva              ,Gagliardi     ,20/12/1980   ,Galiazzo salentino
+282     ,Viridiana             ,Fanucci       ,28/09/1973   ,"San Rosina calabro, Ungheria"
+283     ,Gabriele              ,Tognazzi      ,06/01/1956   ,"Borgo Loretta ligure, Lesotho"
+284     ,Nino                  ,Traversa      ,16/12/1956   ,"Settimo Annibale, Uzbekistan"
+285     ,Dina                  ,Soranzo       ,25/08/1977   ,Jolanda ligure
+286     ,Sonia                 ,Druso         ,02/10/1956   ,"San Valentina, Isole Faroe"
+287     ,veronica              ,Gaiatto       ,19/03/1950   ,Riccardi a mare
+288     ,Salvi                 ,Filzi         ,08/08/1956   ,Quarto Greca terme
+289     ,Goanfrancesco         ,Germano       ,18/02/1950   ,"Settimo Francesca veneto, Zimbabwe"
+290     ,TOGNAZZI IGNAZIO      ,              ,25/02/1956   ,"Girolamo salentino, Mali"
+291     ,ivo                   ,Mengolo       ,15/01/1956   ,Borgo Alessio del friuli
+292     ,Riccardo              ,Cilibrasi     ,14/11/1950   ,"Giacomo veneto, Kuwait"
+293     ,Tatiana               ,Garibaldi     ,17/06/1997   ,Sesto Clelia
+294     ,Romana                ,Verdi         ,24/12/1995   ,"Zetticci salentino, Moldova"
+295     ,Fiamma                ,Cossiga       ,04/11/1960   ,Sesto Ottone a mare
+296     ,Aria                  ,Federici      ,16/05/1956   ,Lorenzo salentino
+297     ,OPIZZI RENZO          ,              ,04/06/1950   ,Orlando terme
+298     ,Giulia                ,Gonzaga       ,17/04/1960   ,Borgo Osvaldo
+299     ,Hugo                  ,Berrè         ,27/04/1950   ,Donatello calabro
+300     ,Lauretta              ,Cappelli      ,30/04/1950   ,Avogadro nell'emilia
+301     ,Marta                 ,Mazzini       ,08/09/1952   ,Maurilio a mare
+302     ,Vinvenzo              ,Gonzaga       ,29/11/1950   ,"San Ciro veneto, Danimarca"
+303     ,Isabella              ,Franceschi    ,04/12/1956   ,"Fedele salentino, Anguilla"
+-999999 ,Etta                  ,Pellegrini    ,17/06/1956   ,Angelo veneto
+305     ,Tonino                ,Tanzini       ,23/09/1960   ,"Sesto Marcantonio lido, Bolivia"
+306     ,Sonis                 ,Goldstein     ,19/05/1956   ,"Flavio nell'emilia, Antille Olandesi"
+307     ,Fabis                 ,Surian        ,05/02/1960   ,Giacinto veneto
+308     ,FO MIRCO              ,              ,08/06/1960   ,"San Maria, Angola"
+309     ,GIAMMUSSO RAFFAELLO   ,              ,28/03/1960   ,Borgo Gian salentino
+-999999 ,Amtonello             ,Opizzi        ,22/05/1952   ,San Lidia lido
+311     ,Rocco                 ,Tornatore     ,17/12/1956   ,"Sesto Pierina, Tunisia"
+312     ,Romans                ,Peruzzi       ,16/03/1950   ,"Giampiero salentino, Jersey"
+313     ,Rembramdt             ,Cignaroli     ,20/05/1960   ,"Segni sardo, Bermuda"
+314     ,alberico              ,Cusano        ,20/05/1956   ,"Borgo Fredo, Mauritania"
+315     ,Amico                 ,Zaguri        ,15/02/1947   ,Quarto Flavio
+316     ,Remzo                 ,Dallara       ,08/01/1956   ,Monaco del friuli
+317     ,Evangelista           ,Cilea         ,19/06/1950   ,"Niccolò veneto, Burkina Faso"
+318     ,DALLA ALDERANO        ,              ,19/05/1950   ,"San Romana, Brasile"
+319     ,Barnara               ,Balbo         ,04/02/1956   ,Borgo Ansaldo
+320     ,Sylvis                ,Gradenigo     ,14/05/1950   ,"Sesto Ermenegildo, Angola"
+321     ,GIGLI NONO            ,              ,15/10/1970   ,Barsanti laziale
+322     ,elisa                 ,Vento         ,04/09/1950   ,Borgo Calcedonio
+323     ,BARCELLA DONATELLA    ,              ,02/08/1956   ,Borgo Ermanno lido
+324     ,Benito                ,Valier        ,10/10/1956   ,Sesto Baldassare
+325     ,Filiapo               ,Sordi         ,25/12/1981   ,"Patrizia laziale, Egitto"
+326     ,Metcedes              ,Carpaccio     ,26/08/1986   ,"Borgo Eliana nell'emilia, Colombia"
+327     ,Ubaldo                ,Galeati       ,21/04/1960   ,Pasqual ligure
+328     ,Goanluigi             ,Ruggieri      ,31/08/1956   ,"Settimo Giuseppina, Lussemburgo"
+329     ,Sonoa                 ,Geraci        ,24/12/1950   ,Settimo Luchino calabro
+330     ,Ruggiero              ,Valguarnera   ,30/07/1960   ,"Borgo Mariana lido, El Salvador"
+331     ,Lara                  ,Scandone      ,11/11/1961   ,Quarto Pierluigi
+332     ,Angelica              ,Tanzini       ,14/12/1945   ,"Sesto Mariano veneto, Giordania"
+333     ,Griselda              ,Ceci          ,12/12/1960   ,"Veronica salentino, Vanuatu"
+334     ,Arqando               ,Salvo         ,11/03/1956   ,Quarto Lodovico
+335     ,Pierpaolo             ,Tomei         ,11/06/1967   ,"Quarto Fabrizia nell'emilia, Georgia del sud e South Sandwich Islands"
+336     ,BROSCHI PASWUAL       ,              ,29/07/1960   ,"Quarto Rodolfo terme, Nuova Caledonia"
+337     ,Afele                 ,Curiel        ,30/07/1956   ,Sesto Matilda
+338     ,PETRUCCI RAFFAELLINO  ,              ,25/09/1956   ,"Quarto Daria, Saint Lucia"
+339     ,Osvalfo               ,Fornaciari    ,11/08/1985   ,Sesto Ermenegildo
+340     ,Giscinto              ,Inzaghi       ,31/12/1960   ,"Alderano laziale, Belgio"
+341     ,Antonello             ,Tommaseo      ,17/05/2001   ,"Rossi sardo, Peru"
+342     ,Gioavhino             ,Nonis         ,28/06/1947   ,Quarto Luisa
+343     ,FINETTI SIMONETYA     ,              ,29/10/1960   ,Maria lido
+344     ,Liliana               ,Mondaini      ,02/07/1960   ,"Borgo Bianca, Isola di Man"
+345     ,Roberyo               ,Cardano       ,05/02/1950   ,Quarto Serena laziale
+346     ,Gionsta               ,Sommaruga     ,08/01/1960   ,"Borgo Gemma, Emirati Arabi Uniti"
+347     ,Bepae                 ,Pometta       ,13/07/1956   ,"San Alfredo a mare, Svezia"
+348     ,Bernardo              ,Ovadia        ,04/12/1950   ,Fallaci sardo
+349     ,Antomino              ,Vigliotti     ,13/06/1950   ,Settimo Mariano
+350     ,Giammarco             ,Branciforte   ,20/12/1950   ,Columbo terme
+351     ,rodolfo               ,Fracci        ,20/07/1988   ,"Annunziata veneto, Isole Faroe"
+352     ,Foorenzo              ,Regge         ,24/01/1950   ,Polani nell'emilia
+353     ,Gastone               ,Carfagna      ,01/06/1986   ,"San Donatello ligure, Città del Vaticano"
+354     ,Gianluigi             ,Bocca         ,27/07/1980   ,"Pertini del friuli, Isole Cook"
+355     ,Vsleria               ,Leblanc       ,15/10/2000   ,"Quarto Gianna, Guernsey"
+356     ,Bernardo              ,Battaglia     ,26/11/1985   ,Marta ligure
+357     ,Sante                 ,Capuana       ,20/06/1960   ,"Bodoni nell'emilia, Macao"
+358     ,NECCI BIANCA          ,              ,28/12/1956   ,Settimo Paola
+359     ,Csrlo                 ,Mascagni      ,29/05/1956   ,Sesto Fedele
+360     ,Milena                ,Panicucci     ,27/09/1956   ,"Borgo Angelina sardo, Algeria"
+361     ,Lichino               ,Tuzzolino     ,30/10/1956   ,San Gian terme
+362     ,Giiliano              ,Casalodi      ,11/10/1960   ,Quarto Fabio
+363     ,Lauretta              ,Calgari       ,17/02/1956   ,Scaduto lido
+364     ,Chiars                ,Zoppetto      ,18/12/1950   ,Quarto Gilberto
+365     ,BERGOGLIO NICOLA      ,              ,08/05/1960   ,"Pietro nell'emilia, Niger"
+366     ,Benedeyto             ,Malpighi      ,05/06/1966   ,Quarto Ruggiero umbro
+-999999 ,Eroka                 ,Zoppetti      ,26/06/1960   ,Settimo Sylvia
+368     ,Mizena                ,Almagià       ,13/07/1956   ,Ermanno sardo
+369     ,Gelsomona             ,Rusticucci    ,06/07/1948   ,Sesto Olga nell'emilia
+-999999 ,Amico                 ,Esposito      ,13/08/1960   ,"Settimo Romeo laziale, Gabon"
+371     ,RONCALLI GERONIMO     ,              ,30/06/1956   ,"Canali a mare, Spagna"
+372     ,Martina               ,Catalano      ,02/12/1954   ,"Armando sardo, India"
+373     ,Fanio                 ,Ginesio       ,26/06/1960   ,Sesto Rita a mare
+374     ,Mariano               ,Matteotti     ,27/03/1943   ,Emilio terme
+375     ,Matyeo                ,Tozzi         ,29/06/1950   ,Filogamo salentino
+-999999 ,Tomino                ,Bellocchio    ,06/03/1950   ,Sesto Federica laziale
+377     ,Temistocle            ,Caboto        ,25/12/1969   ,Sesto Silvio del friuli
+378     ,Bianca                ,Leonetti      ,09/09/1960   ,"Borgo Anita a mare, Oman"
+379     ,GIRADELLO BERNARDO    ,              ,17/03/1995   ,Gianna calabro
+380     ,Alessio               ,Columbo       ,05/07/1956   ,Settimo Amedeo
+381     ,Nafia                 ,Tanzini       ,13/04/1950   ,Pincherle ligure
+382     ,Silvoa                ,Sermonti      ,25/08/1950   ,"Cirillo nell'emilia, Tuvalu"
+383     ,MASTANDREA SIMONETTA  ,              ,18/02/1998   ,"Gabriella laziale, Nuova Caledonia"
+384     ,Giaqpaolo             ,Prati         ,31/05/1997   ,San Girolamo ligure
+385     ,Girolamo              ,Sansoni       ,21/05/1960   ,Berenice umbro
+-999999 ,Ninetts               ,Gramsci       ,31/05/1960   ,Fulvio lido
+387     ,Orestr                ,Opizzi        ,28/07/1956   ,Quarto Silvestro
+388     ,Tima                  ,Trombetta     ,22/11/1960   ,"Montalcini sardo, Saint Kitts and Nevis"
+389     ,Boagio                ,Giannuzzi     ,30/06/1956   ,Orazio terme
+390     ,eliana                ,Barillaro     ,07/01/1950   ,"Settimo Rocco veneto, Lussemburgo"
+391     ,Angelina              ,Magnani       ,28/08/1950   ,"Settimo Antonino, Guinea-Bissau"
+392     ,Licrezia              ,Conti         ,02/10/1956   ,"Settimo Gilberto, Isole Vergini Britanniche"
+393     ,Fabia                 ,Depero        ,09/03/1960   ,Quarto Laureano
+394     ,Antonino              ,Campanella    ,18/05/1960   ,"San Alberico, Kuwait"
+395     ,Nicolò                ,Odescalchi    ,09/05/1960   ,Salata nell'emilia
+396     ,Rossana               ,Eco           ,10/02/1956   ,"Lamberto terme, Nicaragua"
+397     ,Riccioyti             ,Cadorna       ,12/04/1956   ,Crispi nell'emilia
+398     ,Achizle               ,Satta         ,05/11/1960   ,San Bruno
+399     ,Raffsele              ,Sanudo        ,16/05/1982   ,"Aria terme, Groenlandia"
+400     ,Giulisno              ,Innocenti     ,12/09/1959   ,"Settimo Enrico del friuli, Slovenia"
+401     ,Rosina                ,Toselli       ,25/03/1960   ,"Franco calabro, Republicca Kirgiza"
+402     ,Costantinp            ,Morandini     ,12/08/1956   ,"Quarto Maura, Repubblica Centrale Africana"
+-999999 ,greco                 ,Moretti       ,05/11/1955   ,Piersanti veneto
+404     ,Umberto               ,Anichini      ,25/01/1960   ,Edoardo veneto
+-999999 ,TAMBORINI JACOPP      ,              ,27/07/1960   ,Zarlino a mare
+406     ,Franco                ,Foscari       ,27/04/1965   ,Quarto Eva laziale
+407     ,Gianni                ,Valentino     ,30/11/1960   ,Zetticci lido
+408     ,Temistocze            ,Navone        ,13/02/1960   ,"Dolores del friuli, San Marino"
+409     ,Msrina                ,Treccani      ,13/05/2001   ,Sesto Teresa del friuli
+410     ,oreste                ,Redi          ,31/05/1950   ,Ramona calabro
+411     ,SORRENTINO POMPONIO   ,              ,02/02/1957   ,Quarto Alina sardo
+-999999 ,Federicp              ,Babbo         ,15/06/1956   ,"Sesto Ivo lido, Venezuela"
+413     ,ricciotti             ,Celentano     ,12/03/1993   ,"Borgo Raffaele, Vanuatu"
+414     ,Tono                  ,Conti         ,13/05/2000   ,Borgo Giorgio
+415     ,valeria               ,Canil         ,07/11/1956   ,Serena nell'emilia
+416     ,uberto                ,Belletini     ,23/02/1950   ,Ludovisi lido
+417     ,Aria                  ,Murialdo      ,29/01/1956   ,"Borgo Valentina veneto, Venezuela"
+418     ,Giido                 ,Ossola        ,19/09/1960   ,Beatrice ligure
+419     ,Lotetta               ,Fagiani       ,04/05/1957   ,Borgo Raimondo
+420     ,Simone                ,Battisti      ,24/07/1998   ,Barcella nell'emilia
+421     ,Livio                 ,Bonanno       ,17/06/1950   ,Gelli laziale
+422     ,Guido                 ,Trapanese     ,17/11/1954   ,"Quarto Ernesto veneto, Lussemburgo"
+423     ,daria                 ,Tencalla      ,21/10/1956   ,"Camilleri laziale, Francia"
+424     ,Vslerio               ,Tirabassi     ,28/11/1960   ,Settimo Susanna
+425     ,rolando               ,Pareto        ,11/12/1956   ,"Galiazzo ligure, Germania"
+426     ,ROSSELLI JACOPO       ,              ,06/03/1950   ,"Ugolino umbro, Isole Marshall"
+427     ,Stefania              ,Interminei    ,20/05/1950   ,"Settimo Danilo, Guinea-Bissau"
+428     ,Amalia                ,Dulbecco      ,29/09/1960   ,Quarto Tina calabro
+429     ,Giuliano              ,Caboto        ,05/01/1950   ,Borgo Luigi
+430     ,Fedele                ,Pareto        ,24/08/1950   ,Panicucci calabro
+431     ,Stefani               ,Gozzano       ,09/07/1960   ,"Letizia lido, Guinea Equatoriale"
+432     ,Giustino              ,Trincavelli   ,09/09/1950   ,Settimo Mariana salentino
+433     ,Giovanni              ,Errani        ,01/08/1956   ,"Gianfrancesco laziale, Haiti"
+434     ,Virifiana             ,Depero        ,07/05/1956   ,Carnera lido
+435     ,Nadis                 ,Salieri       ,04/12/1950   ,Sesto Corrado ligure
+436     ,Giiliano              ,Gregorio      ,23/01/1960   ,Borgo Gino
+437     ,gabriele              ,Modigliani    ,29/07/1956   ,Quarto Lucia umbro
+438     ,Laura                 ,Faranda       ,18/02/1950   ,Giannotti ligure
+439     ,Lidia                 ,Dibiasi       ,23/04/1956   ,Silvestro del friuli
+440     ,Rpsina                ,Chigi         ,22/05/1960   ,Totino calabro
+441     ,Tonino                ,Romagnoli     ,04/11/1956   ,"Borgo Ludovico sardo, Stati Uniti d'America"
+442     ,Danolo                ,Brugnaro      ,15/07/1956   ,"Settimo Giampiero laziale, Guinea Equatoriale"
+443     ,Rota                  ,Pausini       ,22/05/1936   ,Quarto Carla
+444     ,Gelsomina             ,Cignaroli     ,07/03/1947   ,San Gianna
+445     ,Naaoleone             ,Saffi         ,22/10/1950   ,"Baldassare del friuli, Isole Vergini Britanniche"
+446     ,Vito                  ,Norbiato      ,14/07/1978   ,Bersani ligure
+447     ,Melania               ,Franscini     ,09/08/1960   ,"Scotto laziale, Bulgaria"
+448     ,Barbara               ,Bruno         ,24/01/1983   ,Piovani ligure
+449     ,Claudio               ,Santi         ,29/12/1960   ,Maccanelli salentino
+450     ,Ids                   ,Nolcini       ,25/02/1950   ,Riccardo salentino
+451     ,Martino               ,Giacometti    ,08/04/1956   ,"Sesto Paride umbro, Vanuatu"
+452     ,Vincrntio             ,Schiaparelli  ,21/10/1956   ,Quarto Achille terme
+453     ,SEGRÈ VITTOROA        ,              ,13/03/1956   ,Borgo Lauretta
+454     ,Mirkp                 ,Antelami      ,04/03/1950   ,"Berenice terme, Antartide (territori a sud del 60° parallelo)"
+455     ,Fulvio                ,Galeati       ,20/03/1956   ,"Sesto Giorgia, Saint Lucia"
+456     ,Btuno                 ,Gentileschi   ,28/01/1950   ,"Sesto Arnulfo terme, Montserrat"
+457     ,Puccoo                ,Lancisi       ,06/05/1956   ,Sesto Rodolfo veneto
+458     ,Viyo                  ,Leonetti      ,25/04/1983   ,Anguillara laziale
+459     ,Orlando               ,Metella       ,11/03/1995   ,Sesto Maurizio nell'emilia
+460     ,Rembrandt             ,Trapani       ,26/07/1950   ,"Borgo Coriolano, Kenya"
+461     ,SALVO PATRIZIA        ,              ,18/03/1956   ,Settimo Enzo nell'emilia
+462     ,Azeglio               ,Riccardi      ,10/03/1960   ,Quarto Eraldo del friuli
+463     ,Tona                  ,Duse          ,22/02/1950   ,"Sesto Angelo del friuli, Sant'Elena"
+464     ,Gian                  ,Beffa         ,19/12/1960   ,"Filangieri a mare, Togo"
+465     ,Eugenia               ,Pratesi       ,19/05/1960   ,"Federica calabro, Singapore"
+466     ,Ivan                  ,Tedesco       ,30/11/1956   ,"Settimo Gino, Guyana Francese"
+467     ,Antonina              ,Zecchini      ,12/06/1960   ,Sesto Coriolano
+468     ,Renata                ,Dallapé       ,22/07/1960   ,Borgo Pierangelo
+469     ,Raffaellino           ,Broschi       ,24/08/2002   ,"Ammaniti umbro, Antille Olandesi"
+470     ,Silvoo                ,Bonino        ,01/03/1956   ,Quarto Lilla
+471     ,Gipnata               ,Sollima       ,10/11/1960   ,Giancarlo umbro
+472     ,Nina                  ,Pareto        ,12/04/1950   ,Sylvia sardo
+473     ,Piero                 ,Cilibrasi     ,12/03/1960   ,Borghese terme
+474     ,Cassandra             ,Renault       ,16/09/1950   ,"Quarto Sandro lido, Afghanistan"
+475     ,Adriano               ,Vecellio      ,10/03/1960   ,"Settimo Giuliano nell'emilia, Guinea Equatoriale"
+476     ,Msrcello              ,Brenna        ,16/02/1956   ,Quarto Griselda
+477     ,pina                  ,Ferrari       ,26/10/1979   ,"San Daniele ligure, Heard Island and McDonald Islands"
+478     ,Tetesa                ,Roccabonella  ,06/12/1967   ,"Adelasia calabro, Tajikistan"
+479     ,Simone                ,Serraglio     ,10/05/1956   ,Iacovelli del friuli
+480     ,Silvio                ,Ovadia        ,24/10/1949   ,"Ubaldo del friuli, Gabon"
+481     ,Amadro                ,Corcos        ,02/11/1950   ,Monaco calabro
+482     ,Amico                 ,Antonioni     ,06/06/1995   ,Fedele terme
+483     ,Flors                 ,Battaglia     ,18/09/1959   ,"Sesto Dante veneto, Isola di Pasqua"
+484     ,Angelica              ,Innocenti     ,03/04/1993   ,"Alessio salentino, Bhutan"
+485     ,Etta                  ,Abate         ,29/03/1960   ,Sesto Zaira
+486     ,Armulfo               ,Baglioni      ,31/08/1960   ,"Fo sardo, Costa Rica"
+487     ,Michelangelo          ,Peruzzi       ,01/01/1960   ,Quarto Giorgio
+488     ,Sergius               ,Finzi         ,25/05/1960   ,Bellò del friuli
+489     ,TEBALDI CHIARA        ,              ,03/04/1956   ,"Borgo Lidia, Colombia"
+490     ,Ivo                   ,Stefanelli    ,28/05/1960   ,"Settimo Carolina, Eritrea"
+491     ,Agpstino              ,Panatta       ,13/10/1958   ,Liliana sardo
+492     ,SAGESE FREDO          ,              ,25/02/1952   ,"San Elena, Svalbard & Jan Mayen Islands"
+493     ,Fiprino               ,Pederiva      ,02/10/1956   ,Quarto Benito
+494     ,Fedetigo              ,Vivaldi       ,14/01/1960   ,Quarto Giuliana
+495     ,Caterina              ,Fermi         ,07/09/1960   ,"Borgo Claudio, Bhutan"
+496     ,Ivan                  ,Mazzocchi     ,26/02/1956   ,"Quarto Anita salentino, Martinica"
+497     ,Alfrefo               ,Bellò         ,15/01/1960   ,"Sesto Mattia, Polonia"
+498     ,Sandta                ,Vidoni        ,05/06/1960   ,Quarto Ludovico calabro
+499     ,Donayo                ,Ciani         ,06/01/1997   ,"Cutrufo sardo, Polonia"
+500     ,Michela               ,Simeoni       ,03/08/1950   ,"Quarto Massimo, Finlandia"
+-999999 ,Daroa                 ,Cesaroni      ,19/10/1956   ,San Matteo sardo
+502     ,Vincenzo              ,Fieramosca    ,11/12/1956   ,"Rita terme, Belize"
+503     ,ermenegildo           ,Ruggieri      ,30/06/1956   ,Giacometti veneto
+504     ,Citillo               ,Oscuro        ,07/11/1960   ,"Quarto Patrizia, Paraguay"
+505     ,MORROCCO MATTA        ,              ,26/04/1991   ,"Barracco ligure, Isole Cayman"
+-999999 ,Pierpaolo             ,Esposito      ,21/02/1976   ,Settimo Tonia salentino
+507     ,Ptiscilla             ,Righi         ,14/10/1989   ,Settimo Rolando a mare
+508     ,PASCARELLA VENANCIO   ,              ,09/10/1956   ,"Fernanda lido, Territorio dell'arcipelago indiano"
+509     ,Giancarlo             ,Peranda       ,06/08/1950   ,Quarto Giacobbe
+510     ,Guarino               ,Tozzo         ,15/02/1985   ,"Borgo Rita, Bhutan"
+511     ,Baldassarr            ,Serlupi       ,20/06/1997   ,"Sesto Alessandro ligure, Georgia"
+512     ,Gioele                ,Fischetti     ,11/07/1960   ,"Salvatore lido, Islanda"
+513     ,Tomi                  ,Leblanc       ,27/07/1956   ,"Massimiliano ligure, Oman"
+514     ,Franvesco             ,Fibonacci     ,20/11/1960   ,"Borgo Giacobbe salentino, Bielorussia"
+515     ,Antonino              ,Bettoni       ,21/05/1960   ,"Turchi veneto, Togo"
+516     ,Antonello             ,Leonardi      ,29/11/1956   ,"Sesto Giacomo nell'emilia, Guatemala"
+517     ,PELLI DELFINP         ,              ,11/10/1949   ,"San Marco sardo, Spagna"
+518     ,Concetta              ,Boito         ,01/09/1956   ,"Quarto Nadia, Cile"
+519     ,Ramoma                ,Nibali        ,21/07/1960   ,Borgo Sante
+520     ,Sonia                 ,Angeli        ,28/05/1950   ,"Iannotti veneto, Isola di Cocos (Keeling)"
+521     ,Gianluigi             ,Ovadia        ,06/07/1956   ,"Vincenzo sardo, Ucraina"
+522     ,Annamaria             ,Tencalla      ,04/02/1975   ,Borgo Nicolò del friuli
+523     ,Antonona              ,Caracciolo    ,15/08/1960   ,"Giustino terme, Etiopia"
+524     ,Alahons               ,Casadei       ,10/04/1960   ,"Borgo Ugo terme, Georgia"
+525     ,Giamni                ,Correr        ,23/06/2003   ,"Borgo Pierangelo, Bangladesh"
+526     ,Cipriano              ,Santi         ,14/07/1950   ,"Borgo Maria, Vietnam"
+527     ,LOVATO SABATINO       ,              ,30/08/1960   ,"Borgo Matteo terme, Italia"
+528     ,Silvestto             ,Cuomo         ,22/08/1960   ,"Mario a mare, Tuvalu"
+529     ,Fabrixio              ,Antonucci     ,14/04/1950   ,Bandello a mare
+530     ,Gabroella             ,Falier        ,28/09/1941   ,"San Guglielmo sardo, Azerbaijan"
+531     ,Victoris              ,Pugliese      ,14/09/1960   ,San Maria del friuli
+532     ,Ugplino               ,Corradi       ,23/04/1950   ,"San Adelasia umbro, Grenada"
+533     ,Gioduè                ,Favata        ,02/01/1960   ,"Borgo Loredana, Iraq"
+534     ,Rsmona                ,Tosi          ,28/08/1950   ,Quarto Raffaella
+535     ,Leonr                 ,Borromeo      ,23/03/1956   ,"San Filippo, Macedonia"
+536     ,Luihi                 ,Petrucci      ,03/11/1960   ,"Bettina lido, Ungheria"
+537     ,Francesvo             ,Marconi       ,15/02/1960   ,"Bianca veneto, Slovenia"
+538     ,LETTIERE GIOSUÈ       ,              ,28/09/1960   ,Pasquale nell'emilia
+539     ,Enzio                 ,Goldoni       ,02/04/1940   ,"Orsini terme, Micronesia"
+-999999 ,Ruggero               ,Pincherle     ,31/10/1960   ,Sesto Melina
+541     ,Ippazio               ,Benigni       ,06/05/1956   ,"Lucia lido, Colombia"
+-999999 ,Puccio                ,Bellò         ,14/10/1950   ,"Hugo ligure, Latvia"
+-999999 ,Lanfo                 ,Doglioni      ,25/07/1966   ,Bossi calabro
+544     ,Bartolomeo            ,Doria         ,15/06/1960   ,Borgo Fabia
+545     ,Niccolò               ,Cavanna       ,29/05/1950   ,"Settimo Sergius veneto, Wallis and Futuna"
+-999999 ,Costanzo              ,Rosselli      ,08/02/1956   ,Barsanti umbro
+547     ,GUIDOTTI AQEDEO       ,              ,07/07/1972   ,"Marissa veneto, Irlanda"
+-999999 ,Gisda                 ,Caffarelli    ,23/06/1937   ,Gilberto ligure
+549     ,Greca                 ,Spanevello    ,16/12/1950   ,Borgo Paoletta del friuli
+550     ,Ugo                   ,Cicala        ,08/11/1950   ,Ruberto umbro
+551     ,Ruggero               ,Ferretti      ,11/02/1960   ,"Borgo Clelia, Gibilterra"
+552     ,Ranieri               ,Iacovelli     ,11/11/1960   ,Avogadro sardo
+553     ,Napoleome             ,Farinelli     ,03/01/1950   ,Borgo Orlando
+554     ,Rocco                 ,Tafuri        ,17/01/1950   ,"Giannetti del friuli, Burkina Faso"
+555     ,Adeladia              ,Trentini      ,24/03/1960   ,"San Annetta, Austria"
+556     ,Gianni                ,Maggioli      ,06/08/1960   ,"Griselda laziale, Vietnam"
+557     ,MOCENIGO GERONIMO     ,              ,04/03/1962   ,Toscani sardo
+558     ,Lsura                 ,Solari        ,01/09/1982   ,"Quarto Manuel, Trinidad e Tobago"
+559     ,Gastone               ,Zito          ,21/02/1946   ,"Norbiato umbro, Nigeria"
+560     ,Cirillo               ,Chigi         ,31/10/1956   ,Cianciolo veneto
+561     ,Beppe                 ,Manzoni       ,06/02/1960   ,Donatello umbro
+562     ,Giampaolp             ,Ubaldi        ,07/02/1950   ,San Salvi
+563     ,Zaira                 ,Veltroni      ,13/09/1944   ,"Settimo Azeglio del friuli, Tanzania"
+564     ,Amslia                ,Morosini      ,13/05/1939   ,"Borgo Ubaldo ligure, United States Minor Outlying Islands"
+565     ,franco                ,Donati        ,20/05/1950   ,Vercelloni terme
+566     ,Loretta               ,Bianchi       ,18/01/1933   ,Quarto Ruggero
+567     ,Lolota                ,Liguori       ,17/11/1950   ,Guariento terme
+568     ,Aldo                  ,Malenchini    ,04/11/1950   ,Borgo Piersanti a mare
+569     ,caterina              ,Valmarana     ,16/02/1950   ,"San Serafina calabro, Reunion"
+570     ,Aria                  ,Zecchini      ,09/07/1934   ,Quarto Etta
+571     ,Carlo                 ,Tozzi         ,16/12/1960   ,"Tozzo del friuli, Benin"
+572     ,Cevilia               ,Oliboni       ,23/09/1946   ,Smirnoff sardo
+573     ,Ids                   ,Buscetta      ,22/03/1956   ,Sesto Raffaele nell'emilia
+574     ,Puvcio                ,Bruscantini   ,21/02/1960   ,Lina del friuli
+575     ,Leome                 ,Ravaglioli    ,23/05/1939   ,Ioppi laziale
+576     ,Marta                 ,Verga         ,23/01/1950   ,Galasso calabro
+577     ,Locia                 ,Giovine       ,16/08/1950   ,"Sesto Sylvia, Qatar"
+578     ,Antonieyta            ,Vendetti      ,07/12/1950   ,Luria umbro
+579     ,Evangelista           ,Sansoni       ,27/12/1960   ,"Quarto Marco sardo, Papua Nuova Guinea"
+580     ,CIAMPI ROSINA         ,              ,10/05/1956   ,"Martino a mare, Hong Kong"
+581     ,Bettins               ,Persico       ,05/09/1958   ,"San Azeglio a mare, Cile"
+582     ,Caqillo               ,Pasqua        ,29/02/1956   ,"Bembo veneto, Isole Marshall"
+583     ,Fzora                 ,Maderna       ,29/05/1976   ,Settimo Orazio
+584     ,Vanessa               ,Giacconi      ,26/07/1950   ,"Quarto Gian sardo, Croazia"
+585     ,massimiliano          ,Cicala        ,20/07/1956   ,"Cantimori calabro, Spagna"
+586     ,Ivan                  ,Abate         ,01/08/1960   ,"Tencalla veneto, Guadalupa"
+587     ,Evangelosta           ,Duodo         ,12/09/2004   ,"San Galasso, Botswana"
+588     ,Simone                ,Garibaldi     ,10/10/1956   ,"Gaiatto sardo, Burkina Faso"
+589     ,Fedetigo              ,Alboni        ,18/01/1950   ,"Giuseppe del friuli, Francia"
+590     ,Milena                ,Rossellini    ,06/07/1960   ,Agnolo terme
+591     ,Luciano               ,Tornatore     ,18/06/1990   ,Guglielmo a mare
+592     ,Patrizia              ,Manzoni       ,24/01/1950   ,Parisi laziale
+-999999 ,Anyonello             ,Cagnin        ,06/10/1933   ,"Nadi umbro, Burundi"
+594     ,SIFFREDI CARLA        ,              ,15/02/1970   ,"Settimo Loretta, Burundi"
+595     ,Gioachino             ,Alighieri     ,05/08/1960   ,Settimo Lisa
+596     ,Lina                  ,Montanari     ,18/06/1960   ,"Pasqual terme, Mali"
+597     ,Piersanti             ,Camiscione    ,06/12/1950   ,"San Girolamo lido, Haiti"
+598     ,Antomia               ,Gigli         ,25/12/1956   ,"Alberico salentino, Latvia"
+599     ,Giuliano              ,Donà          ,20/01/1956   ,"Vittorio laziale, Liberia"
+-999999 ,Rpman                 ,Comboni       ,14/01/1960   ,"San Gustavo sardo, Singapore"
+601     ,mirko                 ,Sraffa        ,13/12/1956   ,Catalano laziale
+602     ,Francescp             ,Zanichelli    ,22/03/1950   ,"Donatello ligure, Togo"
+603     ,Annibsle              ,Polizzi       ,26/07/1960   ,"Nicoletti ligure, Bahrain"
+604     ,Zaira                 ,Tasca         ,12/08/1965   ,Monica veneto
+605     ,Alberoco              ,Priuli        ,08/05/1956   ,"Ammaniti umbro, Etiopia"
+606     ,Rodina                ,Crispi        ,19/05/1950   ,"Piersanti umbro, Myanmar"
+607     ,Rolandp               ,Burcardo      ,22/04/1960   ,Bianca laziale
+608     ,ALFONSI MARIA         ,              ,29/04/1960   ,"Sesto Stefano, Bahrain"
+609     ,Orlamdo               ,Missoni       ,10/09/1982   ,"Stefani laziale, Yemen"
+610     ,Rpman                 ,Nadi          ,29/01/1950   ,Borgo Gianluigi
+611     ,Annetta               ,Andreozzi     ,28/03/1960   ,"Udinesi del friuli, Andorra"
+612     ,Michelanhelo          ,Ferragamo     ,08/05/2002   ,"Interminelli nell'emilia, Tonga"
+613     ,Baldassare            ,Salvemini     ,17/09/1960   ,"Angelo a mare, Sao Tome and Principe"
+614     ,Gaeyano               ,Fagiani       ,17/03/1948   ,Gonzaga ligure
+615     ,Eugenoa               ,Petrassi      ,02/04/1960   ,"Victoria lido, Malesia"
+616     ,Guarino               ,Necci         ,12/02/1960   ,Ansaldo ligure
+617     ,Baldassare            ,Petrucelli    ,11/10/1960   ,"San Mirco veneto, Isole di Turks and Caicos"
+618     ,Federica              ,Bruscantini   ,18/01/1956   ,Totino ligure
+619     ,Mariano               ,Guidone       ,09/05/1950   ,"Borgo Viridiana, Liechtenstein"
+620     ,Telemaco              ,Filangieri    ,22/03/1950   ,Settimo Germana laziale
+621     ,Elisa                 ,Sabbatini     ,19/10/1947   ,"Romina del friuli, Repubblica Centrale Africana"
+622     ,RIZZO GIANNI          ,              ,30/09/1956   ,"Rosina veneto, Iraq"
+623     ,Goanfranco            ,Parini        ,01/08/1950   ,"Borgo Benito, San Bartolomeo"
+624     ,CUNDARI MELANIA       ,              ,03/03/1950   ,"Borgo Melissa, India"
+625     ,Delfino               ,Paruta        ,28/03/1960   ,Valerio sardo
+626     ,Ricciotti             ,Beccheria     ,28/06/1950   ,"Panatta laziale, Spagna"
+627     ,Venancio              ,Dulbecco      ,20/08/1956   ,"Borgo Giustino lido, Danimarca"
+628     ,Ivo                   ,Pacetti       ,05/10/1960   ,"Munari terme, Libyan Arab Jamahiriya"
+629     ,Fortinata             ,Vecoli        ,18/05/1950   ,"Ronaldo del friuli, Moldova"
+630     ,Voncentio             ,Nitto         ,27/01/1960   ,"Samele a mare, Montserrat"
+631     ,Giorgia               ,Liverotti     ,19/05/1956   ,Borgo Agnolo a mare
+632     ,BIXIO ALEDSANDRA      ,              ,09/02/1960   ,Farina nell'emilia
+633     ,Antonietts            ,Ligorio       ,23/06/1950   ,"Flaiano a mare, Papua Nuova Guinea"
+634     ,arturo                ,Serraglio     ,02/10/1956   ,Sesto Susanna
+635     ,SPALLANZANI ANTONINO  ,              ,17/06/1957   ,Filippo umbro
+636     ,Rosalia               ,Dibiasi       ,28/04/1960   ,"Pellegrino umbro, Belize"
+637     ,Mauro                 ,Guinizzelli   ,08/07/1960   ,Renzi del friuli
+638     ,Micheza               ,Squarcione    ,06/07/1998   ,"San Biagio nell'emilia, Guyana"
+639     ,GREGORI CARMEZO       ,              ,15/03/1950   ,"Roman laziale, Serbia"
+-999999 ,Delfino               ,Carullo       ,21/02/1950   ,"San Ludovica, Moldova"
+641     ,Lucoa                 ,Adinolfi      ,10/01/1960   ,"Villadicani salentino, Polonia"
+642     ,Simonetta             ,Semitecolo    ,29/11/1960   ,Dandolo calabro
+643     ,Sergius               ,Giannetti     ,22/09/1965   ,"Sgalambro sardo, Azerbaijan"
+644     ,Bemito                ,Zeffirelli    ,13/07/1956   ,Cicala salentino
+645     ,Goanni                ,Modugno       ,27/05/1994   ,Bataglia laziale
+646     ,Michelangelp          ,Chigi         ,12/08/1998   ,"Settimo Nico, Eritrea"
+647     ,Lorrnzo               ,Chechi        ,31/03/1950   ,"Sesto Ida, Guernsey"
+648     ,Liana                 ,Aulenti       ,04/09/1960   ,"Vittorio umbro, Montenegro"
+649     ,Severinp              ,Gadda         ,25/09/1956   ,"San Martino, Lituania"
+650     ,Geldomina             ,Chiesa        ,14/07/1956   ,Gioffre terme
+651     ,Grevo                 ,Lattuada      ,21/04/1956   ,"Borgo Gianna, Norvegia"
+652     ,Renata                ,Falier        ,20/07/1981   ,Camuccini a mare
+653     ,Voto                  ,Spinelli      ,29/10/1960   ,"Mazzi ligure, American Samoa"
+654     ,Melona                ,Vespucci      ,28/10/1936   ,Luigina a mare
+655     ,Nocoletta             ,Gotti         ,25/01/1960   ,"Taliercio salentino, Niue"
+656     ,Franvesca             ,Petrucelli    ,16/10/1960   ,Federigo salentino
+657     ,Simone                ,Disdero       ,04/07/1950   ,Borgo Pierpaolo
+658     ,Lamberto              ,Farnese       ,13/06/1960   ,Quarto Micheletto
+659     ,Dins                  ,Virgilio      ,05/02/1956   ,Settimo Arnulfo
+660     ,loredana              ,Antonacci     ,24/08/1960   ,Silvestro terme
+661     ,Sandrp                ,Tarchetti     ,19/04/1956   ,"Crispi calabro, Bahrain"
+662     ,Tprquato              ,Giulietti     ,29/03/1950   ,Settimo Calcedonio
+663     ,Pierluogi             ,Siffredi      ,21/09/1961   ,Detti terme
+664     ,Gianni                ,Boito         ,18/03/1960   ,San Antonella
+665     ,Nino                  ,Marzorati     ,25/06/1995   ,"Mattia ligure, Korea"
+666     ,Paolo                 ,Palombi       ,17/01/1960   ,"Quarto Ezio nell'emilia, Gabon"
+667     ,Mivhelotto            ,Nicoletti     ,30/04/1950   ,"Bandello ligure, Uruguay"
+668     ,Msrco                 ,Cavanna       ,22/07/1981   ,Sesto Ida
+669     ,Rosaria               ,Pellegrini    ,30/08/1956   ,"Porzio salentino, El Salvador"
+670     ,Pier                  ,Donatoni      ,21/03/1982   ,"Settimo Adriana, San Marino"
+671     ,Sonoa                 ,Pugliese      ,26/08/1960   ,"Settimo Gioele, Ungheria"
+672     ,Ippazio               ,Fuseli        ,12/01/1961   ,Settimo Sergius
+673     ,Msria                 ,Beccheria     ,04/05/1956   ,Guidotti veneto
+674     ,Vito                  ,Coppola       ,03/11/1950   ,"Settimo Camilla veneto, Iran"
+675     ,Lazzaro               ,Mercalli      ,13/07/1956   ,"Quarto Ermanno, Fiji"
+676     ,Maura                 ,Caccioppoli   ,29/03/1960   ,"Moneta del friuli, Gibuti"
+677     ,Grecp                 ,Riccardi      ,08/11/1960   ,"Borgo Ilaria del friuli, Antartide (territori a sud del 60° parallelo)"
+678     ,Gasaare               ,Basadonna     ,23/10/1943   ,Sesto Raffaella calabro
+679     ,Eugenia               ,Borromeo      ,25/08/1950   ,Cabibbo ligure
+680     ,Rplando               ,Muti          ,05/05/1960   ,Quarto Pietro laziale
+681     ,Daroa                 ,Cutuli        ,16/12/1960   ,"Interminelli a mare, Haiti"
+682     ,Vitginia              ,Leopardi      ,19/10/1956   ,"Sesto Carlo salentino, Latvia"
+683     ,Lorenzo               ,Morandi       ,20/12/1960   ,"Borgo Severino, Pitcairn Islands"
+684     ,Enzio                 ,Ostinelli     ,19/02/1950   ,"Matteotti del friuli, Città del Vaticano"
+685     ,Fredo                 ,Turchi        ,09/07/1993   ,"Contrafatto lido, Gabon"
+686     ,Graziella             ,Tacchini      ,16/06/1956   ,Sesto Gianluigi
+687     ,Chiara                ,Bettin        ,14/12/1956   ,Morandi del friuli
+688     ,Ragfaele              ,Pascarella    ,25/07/1950   ,"Tamburello calabro, Wallis and Futuna"
+-999999 ,BERNARDI SALVI        ,              ,14/04/1957   ,"Quarto Sylvia terme, Giamaica"
+690     ,Ignazio               ,Vergerio      ,28/08/1960   ,Settimo Gian ligure
+691     ,edoardo               ,Luna          ,29/02/1960   ,Leone ligure
+692     ,Donato                ,Borgia        ,14/06/1950   ,Borgo Donato a mare
+693     ,GIANETTI POMPOMIO     ,              ,26/10/1960   ,Quarto Laureano
+694     ,Guido                 ,Nugnes        ,21/12/1960   ,"Borgo Roman, Isole Vergini Britanniche"
+695     ,Mochelotto            ,Pavarotti     ,01/12/1980   ,"Rosalia salentino, Paraguay"
+696     ,Simone                ,Badoglio      ,16/07/1950   ,San Loretta ligure
+697     ,SIMEONI LILLS         ,              ,22/02/2003   ,Boitani terme
+698     ,flavia                ,Orlando       ,23/05/1990   ,"San Pierangelo, Spagna"
+699     ,Baldassare            ,Lerner        ,24/04/1960   ,Tomasetti umbro
+700     ,Mariana               ,Palladio      ,08/07/1989   ,Sesto Martina
+701     ,Vetonica              ,Polani        ,24/10/1960   ,"Sesto Arsenio, Nauru"
+-999999 ,Camillo               ,Scarponi      ,18/03/1960   ,"Sesto Livio salentino, Zimbabwe"
+703     ,irma                  ,Turchi        ,28/04/1960   ,"San Rosina, Bhutan"
+704     ,DOSSETTI AMEDEO       ,              ,27/09/1947   ,Adelmo a mare
+705     ,Nico                  ,Ciani         ,08/06/1950   ,"Quarto Loretta salentino, Mozambico"
+706     ,PAOLUCCI GERONIMO     ,              ,19/04/1963   ,Costanzo nell'emilia
+707     ,Coriozano             ,Battisti      ,12/04/1950   ,"Donatello lido, Siria"
+708     ,Tizoano               ,Goldoni       ,23/04/1960   ,"Quarto Giorgio umbro, Guinea"
+709     ,Cayerina              ,Bonatti       ,04/01/1950   ,"Battisti calabro, Eritrea"
+710     ,Raffaezla             ,Caccioppoli   ,20/09/1956   ,Fibonacci ligure
+711     ,Diana                 ,Finzi         ,30/06/1960   ,"Garobbio ligure, Antartide (territori a sud del 60° parallelo)"
+712     ,Elvora                ,Rossellini    ,21/05/1950   ,"Morrocco calabro, Guadalupa"
+713     ,Alessoa               ,Tron          ,01/02/1960   ,"Giovanna calabro, Micronesia"
+714     ,Daris                 ,Marangoni     ,12/07/1965   ,Settimo Ugo veneto
+715     ,pina                  ,Parini        ,10/08/1956   ,Piero calabro
+716     ,Ubaldo                ,Ariosto       ,13/10/1960   ,Mastroianni salentino
+717     ,Bemito                ,Scalfaro      ,18/05/1979   ,"Quarto Ettore veneto, Chad"
+718     ,Carolina              ,Matteotti     ,25/11/1950   ,Antonino del friuli
+719     ,Lisa                  ,Bosurgi       ,01/03/1956   ,Valerio veneto
+720     ,Susamna               ,Nadi          ,20/01/1960   ,"Bacosi ligure, Isole Vergini Statunitensi"
+721     ,Livip                 ,Govoni        ,25/03/1960   ,Santorio nell'emilia
+722     ,Adrianp               ,Monduzzi      ,10/04/1956   ,Eraldo umbro
+723     ,Gudtavo               ,Ritacca       ,08/05/1995   ,Iacobucci veneto
+724     ,Teresa                ,Bonatti       ,20/03/1989   ,Donatella terme
+725     ,Rpberto               ,Ferragamo     ,01/09/2003   ,Agnolo ligure
+726     ,Mariamo               ,Pagliaro      ,05/04/1950   ,Settimo Silvestro
+727     ,Rita                  ,Scamarcio     ,30/05/1950   ,Mortati terme
+728     ,Lina                  ,Opizzi        ,26/07/1950   ,Borgo Lucia
+729     ,Pellegtino            ,Lancisi       ,13/01/1998   ,"Settimo Bettina, Svezia"
+730     ,Giacobbe              ,Errani        ,03/11/1960   ,"Tatiana del friuli, Eritrea"
+731     ,ANTONETTI MARTINO     ,              ,08/10/1933   ,Borgo Rocco
+732     ,Romolo                ,Trevisani     ,28/02/1950   ,"Ranieri laziale, Papua Nuova Guinea"
+733     ,Ippazio               ,Bondumier     ,07/01/1956   ,San Giada umbro
+734     ,Donatella             ,Civaschi      ,18/10/1956   ,Bruno veneto
+735     ,Nsnni                 ,Surian        ,09/09/1960   ,Sesto Giacinto a mare
+736     ,Etmenegildo           ,Collina       ,07/06/1956   ,Sesto Nicola
+737     ,Rosina                ,Caffarelli    ,15/09/1960   ,"Sesto Patrizio, El Salvador"
+738     ,Giampierp             ,Ligorio       ,12/11/1956   ,"Settimo Saverio, Giappone"
+739     ,Jscopo                ,Modugno       ,02/04/1960   ,Benussi salentino
+740     ,AVOGADRO SANTE        ,              ,06/12/1960   ,"Quarto Martino, Hong Kong"
+741     ,Massimilianp          ,Marconi       ,17/03/1960   ,Calogero veneto
+742     ,Lepnardo              ,Schiavo       ,31/05/1950   ,"San Tiziana salentino, Brasile"
+743     ,Crostina              ,Leonetti      ,26/10/1950   ,"Rastelli a mare, Gibilterra"
+744     ,Alessoa               ,Meucci        ,09/04/1960   ,"Settimo Coriolano, Botswana"
+745     ,Claudoo               ,Antonacci     ,02/08/1963   ,Gagliardi sardo
+746     ,Maroa                 ,Veltroni      ,02/05/1969   ,Quarto Guarino salentino
+747     ,Amrdeo                ,Inzaghi       ,02/06/1956   ,Ferdinando a mare
+-999999 ,Melissa               ,Ceschi        ,11/09/1950   ,Borgo Antonina del friuli
+749     ,Aldp                  ,Giannuzzi     ,06/03/1950   ,Borgo Stella umbro
+750     ,DELEDDA ALRSSANDRA    ,              ,24/05/1956   ,"Borgo Valeria laziale, Brasile"
+751     ,Catetina              ,Cavalcanti    ,12/07/1960   ,Papetti ligure
+752     ,Cirillo               ,Pascarella    ,16/05/1960   ,Impastato umbro
+753     ,Camilla               ,Papafava      ,09/05/1960   ,Borgo Paride
+754     ,Ernesto               ,Guarana       ,08/02/1956   ,Chindamo salentino
+755     ,Tetesa                ,Natta         ,19/07/1960   ,Quarto Ruggiero veneto
+756     ,Nins                  ,Falcone       ,14/08/1962   ,"Enrico a mare, Afghanistan"
+757     ,Rossana               ,Aloisio       ,03/05/1950   ,"Cassarà nell'emilia, Gibuti"
+-999999 ,Lodovivo              ,Salandra      ,25/05/1970   ,"Ludovico del friuli, Equador"
+759     ,Galasso               ,Draghi        ,07/11/1956   ,"Quarto Baccio nell'emilia, Fiji"
+760     ,Algio                 ,Finzi         ,13/03/1960   ,Gelli veneto
+761     ,Luiss                 ,Satta         ,10/03/1956   ,Graziella lido
+762     ,Teleqaco              ,Missoni       ,25/04/1939   ,San Massimiliano
+763     ,Antonella             ,Franceschi    ,22/03/1956   ,Settimo Pina
+764     ,Pomponio              ,Palombi       ,25/11/1956   ,"Sesto Tonia, Gibuti"
+765     ,Ignazip               ,Platini       ,21/04/1960   ,Guidotti laziale
+766     ,Alessandra            ,Medici        ,26/10/1950   ,"Lilla lido, Qatar"
+767     ,Tonino                ,Lettiere      ,17/08/1950   ,Legnante a mare
+768     ,Amalia                ,Liguori       ,04/07/1950   ,Ottone a mare
+769     ,Gioacchino            ,Montanelli    ,24/10/1950   ,"Quarto Rosalia, Panama"
+770     ,Liliana               ,Berengario    ,08/06/1956   ,"Avogadro calabro, Estonia"
+771     ,Solvestro             ,Salvemini     ,02/06/1956   ,"Sesto Rita lido, San Marino"
+772     ,VIVALDI ELVIRA        ,              ,12/08/1950   ,"Sesto Pasqual terme, Montserrat"
+773     ,Cassandra             ,Bettoni       ,13/09/1960   ,Paolo calabro
+774     ,Stegani               ,Carocci       ,12/11/1987   ,"Quarto Tatiana, Reunion"
+775     ,Ludovica              ,Luxardo       ,04/08/1960   ,Altera terme
+776     ,Dona                  ,Parpinel      ,10/04/1950   ,Gentileschi nell'emilia
+777     ,Susamna               ,Monaco        ,08/08/1960   ,"Montanariello a mare, Nuova Zelanda"
+778     ,Stefani               ,Petralli      ,15/01/1939   ,Borgo Marcella
+779     ,Eugenis               ,Trombetta     ,14/12/1956   ,"Tullio del friuli, Mozambico"
+780     ,Roccp                 ,Giannotti     ,26/03/1969   ,Matilda umbro
+781     ,Corrado               ,Villarosa     ,23/04/1950   ,Settimo Rodolfo calabro
+782     ,Roqana                ,Pacomio       ,29/03/1956   ,"Antonello del friuli, Senegal"
+783     ,Alima                 ,Sagnelli      ,01/01/1950   ,"San Fabrizia ligure, Olanda"
+784     ,TOSI GIANFRANCESCO    ,              ,21/12/1956   ,"Borgo Stefano terme, Territorio dell'arcipelago indiano"
+-999999 ,Fabis                 ,Fuseli        ,10/12/1956   ,"Sesto Ferdinando, Lesotho"
+-999999 ,VIOLA IOZANDA         ,              ,09/01/1972   ,"San Sole, Islanda"
+-999999 ,Amanda                ,Paoletti      ,17/11/1950   ,Faggiani lido
+788     ,Marcells              ,Brunelleschi  ,11/10/1950   ,"Piermaria a mare, Argentina"
+789     ,Martino               ,Toscanini     ,20/10/1956   ,Adriana laziale
+790     ,Tpnino                ,Blasi         ,04/06/1950   ,"Toni umbro, Liechtenstein"
+791     ,Tatiana               ,Ziani         ,24/02/1950   ,"San Eva, Brunei Darussalam"
+792     ,Grevo                 ,Cuomo         ,07/05/1974   ,"Calcedonio terme, Costa d'Avorio"
+793     ,Pellrgrino            ,Curiel        ,17/10/1959   ,"Borgo Marissa, Repubblica del Laos"
+794     ,Verpnica              ,Liguori       ,20/06/1950   ,Borgo Micheletto del friuli
+-999999 ,Gloria                ,Vezzali       ,16/08/1960   ,Allegra nell'emilia
+796     ,Tomino                ,Comolli       ,05/09/1956   ,"Settimo Liana nell'emilia, Yemen"
+-999999 ,Simone                ,Ferragni      ,07/09/1956   ,San Toni laziale
+798     ,Severino              ,Borsellino    ,14/09/1985   ,Sordi calabro
+799     ,CORRADI LAURA         ,              ,25/09/1960   ,Roberta terme
+800     ,Agnolo                ,Metella       ,19/11/1956   ,"Settimo Ronaldo salentino, Saint Vincent and the Grenadines"
+801     ,Serafina              ,Visintini     ,20/02/1960   ,"Settimo Sabatino, Malawi"
+-999999 ,Pier                  ,Montanari     ,18/02/1956   ,"Quarto Nicolò, Zimbabwe"
+803     ,Rosaria               ,Spanevello    ,08/03/1950   ,"Ricolfi ligure, El Salvador"
+804     ,Feferico              ,Saraceno      ,03/01/1956   ,"Pierluigi veneto, Italia"
+805     ,Ermenegildp           ,Lombardi      ,09/05/1950   ,"Tarchetti ligure, Bulgaria"
+806     ,Ciro                  ,Zampa         ,18/06/1969   ,Casini sardo
+807     ,Amanda                ,Impastato     ,29/01/1950   ,Quarto Pomponio salentino
+808     ,Adrians               ,Comeriato     ,07/09/1960   ,"Sesto Lidia, Ucraina"
+809     ,Salbi                 ,Dulbecco      ,15/01/1950   ,"Sesto Silvio del friuli, Regno Unito"
+810     ,VERDONE TONINO        ,              ,10/12/1972   ,Quarto Atenulf ligure
+811     ,CHIARAMONTE BETTINA   ,              ,01/08/1977   ,Polesel veneto
+812     ,Ruggiero              ,Carnera       ,06/07/1960   ,San Danilo lido
+813     ,donna                 ,Modigliani    ,13/10/2001   ,"Antonello lido, Somalia"
+814     ,Arturo                ,Petrucci      ,03/01/1956   ,"Borgo Federico umbro, Bahamas"
+815     ,Adrle                 ,Armani        ,27/08/1950   ,Sesto Guido
+816     ,Lauta                 ,Palmisano     ,25/10/1960   ,"Quarto Raffaele, Bhutan"
+817     ,Emma                  ,Orlando       ,06/05/1960   ,Settimo Ninetta
+818     ,Annumziata            ,Bosurgi       ,15/10/1960   ,"Tanzini veneto, Isole Vergini Statunitensi"
+819     ,PEPE ANGELICA         ,              ,13/01/1960   ,"Borgo Federico lido, Fiji"
+820     ,Pierangelo            ,Cibin         ,27/08/1960   ,Borgo Claudia
+821     ,Msrta                 ,Mezzetta      ,28/01/1956   ,"Raffaele a mare, Gambia"
+822     ,luigina               ,Favata        ,02/08/1946   ,"Sesto Adamo, Martinica"
+823     ,Biamca                ,Bertoni       ,22/08/1950   ,Elisa lido
+824     ,Pina                  ,Toscanini     ,13/10/1956   ,"Quarto Lolita umbro, Belgio"
+-999999 ,MORANDINI MARTINA     ,              ,20/08/1950   ,Pinamonte del friuli
+826     ,PIRANDELLO OTTAVIO    ,              ,12/11/1950   ,Beccheria sardo
+827     ,Rosa                  ,Bertoli       ,07/06/1960   ,"Settimo Bruno, Territori Francesi del sud"
+828     ,Viridiama             ,Nugnes        ,08/12/1960   ,"San Milena sardo, Sud Africa"
+829     ,Matteo                ,Lupo          ,02/10/1940   ,"Moccia nell'emilia, Sri Lanka"
+830     ,agnolo                ,Zanzi         ,21/07/1960   ,Benussi salentino
+831     ,Melania               ,Ammaniti      ,30/04/1950   ,Quarto Ilaria ligure
+832     ,Federica              ,Varano        ,12/04/1956   ,Borgo Dina del friuli
+833     ,LONGHENA PAOLS        ,              ,13/03/1956   ,Quarto Alderano laziale
+834     ,Antonoo               ,Badoglio      ,30/11/1950   ,"Renzo sardo, Libano"
+835     ,Ezmo                  ,Speri         ,22/04/1950   ,Borgo Viridiana veneto
+836     ,Mirco                 ,Agazzi        ,15/10/1950   ,San Luca
+837     ,Ennip                 ,Comencini     ,02/01/1950   ,San Imelda ligure
+838     ,Antonio               ,Bertoni       ,09/06/1960   ,"Scarlatti laziale, Guinea-Bissau"
+839     ,Adriana               ,Paolucci      ,22/09/1986   ,"Borgo Sandro, Bermuda"
+840     ,Dpnatello             ,Comencini     ,07/01/1960   ,Quarto Lina nell'emilia
+841     ,arturo                ,Colletti      ,26/10/1950   ,Majorana a mare
+842     ,Roman                 ,Sansoni       ,23/10/1939   ,Sesto Cirillo
+843     ,Gelsomina             ,Peano         ,13/08/1956   ,"Castellitto calabro, Isole Faroe"
+844     ,Sante                 ,Viola         ,11/09/1960   ,Castioni terme
+845     ,Beatricr              ,Barozzi       ,28/04/1950   ,Quarto Pierpaolo umbro
+846     ,PIZZAMANO GIOVANNA    ,              ,13/11/1943   ,Augusto sardo
+847     ,Pietangelo            ,Sordi         ,20/05/1956   ,Piermaria veneto
+848     ,Massomo               ,Lanfranchi    ,16/07/1960   ,"Gibilisco terme, Suriname"
+849     ,Allrgra               ,Sinisi        ,17/02/1962   ,"Settimo Michele, Liberia"
+850     ,Fedele                ,Bembo         ,26/03/1956   ,Settimo Massimo calabro
+851     ,Adriana               ,Briccialdi    ,02/09/1964   ,"Alberto umbro, Lituania"
+852     ,Guido                 ,Rinaldi       ,02/04/1950   ,"Quarto Milo, Vietnam"
+853     ,Serafina              ,Mondadori     ,02/03/1960   ,"Rosalia laziale, Repubblica Ceca"
+854     ,Fernanda              ,Casale        ,30/03/1950   ,"Cagnin ligure, Paraguay"
+-999999 ,luigi                 ,Luria         ,12/09/1933   ,"Nina salentino, Argentina"
+856     ,Ugo                   ,Farina        ,14/07/1950   ,Settimo Caterina
+857     ,Ugolono               ,Valguarnera   ,05/10/1950   ,"Callegari salentino, Palau"
+858     ,Franco                ,Crisafulli    ,23/07/1971   ,"Quarto Elena lido, Namibia"
+859     ,Matisa                ,Pizzetti      ,11/08/1956   ,Stella nell'emilia
+-999999 ,Poer                  ,Nadi          ,11/09/1956   ,"Romolo umbro, Taiwan"
+861     ,Telemaco              ,Pertini       ,28/01/1966   ,Pierpaolo del friuli
+862     ,CAVANNA GIOSUÈ        ,              ,03/01/1956   ,"Settimo Aldo, Kenya"
+863     ,Nafia                 ,Mazzanti      ,02/07/1960   ,Pincherle sardo
+864     ,Amalia                ,Ricci         ,05/01/1960   ,Quarto Temistocle veneto
+865     ,Viridiama             ,Morgagni      ,02/01/1950   ,Borgo Ludovica a mare
+866     ,Emilio                ,Antonello     ,27/08/2002   ,Quarto Greco terme
+867     ,Ilaria                ,Marino        ,10/08/1960   ,San Gianluigi
+-999999 ,Msria                 ,Tasso         ,12/08/1950   ,"Settimo Giacobbe del friuli, Latvia"
+869     ,TALIERCIO ERMRNEGILDO ,              ,01/01/1960   ,Borgo Liliana
+870     ,Gabriele              ,Gigli         ,19/06/1967   ,Sesto Ettore veneto
+871     ,Vinvenzo              ,Napolitano    ,02/03/1960   ,"Borgo Lorenzo veneto, El Salvador"
+872     ,Romana                ,Cavanna       ,02/09/1956   ,Settimo Gian
+873     ,Disna                 ,Maspero       ,25/06/1956   ,Gianluigi salentino
+874     ,Bisgio                ,Persico       ,06/11/1950   ,Quarto Ninetta salentino
+875     ,Donna                 ,Valmarana     ,21/11/1956   ,Settimo Mattia nell'emilia
+876     ,Morena                ,Fantozzi      ,16/08/1950   ,"Evangelista del friuli, Jersey"
+877     ,Ansaldo               ,Querini       ,11/08/1986   ,Ottino calabro
+878     ,Greco                 ,Caboto        ,13/08/1950   ,"Geronimo a mare, Mauritania"
+879     ,Comcetta              ,Cammarata     ,11/06/1950   ,Nina calabro
+-999999 ,Ubazdo                ,Togliatti     ,08/02/1960   ,"Barbarigo salentino, Nuova Caledonia"
+881     ,Marta                 ,Aporti        ,28/04/1960   ,"Settimo Donato lido, Repubblica Centrale Africana"
+882     ,Paoleyta              ,Tafuri        ,04/03/1950   ,Marangoni ligure
+883     ,Nanni                 ,Samele        ,16/07/1933   ,Borgo Nico
+884     ,JILANI LODPVICO       ,              ,01/10/1950   ,"Montanariello terme, Azerbaijan"
+885     ,coriolano             ,Toldo         ,05/11/1962   ,"Settimo Cesare umbro, Heard Island and McDonald Islands"
+886     ,Laura                 ,Curci         ,21/02/1950   ,"Sesto Hugo a mare, Kazakhstan"
+887     ,Giido                 ,Vento         ,08/05/1956   ,San Bianca lido
+888     ,Gloris                ,Rosiello      ,30/01/1960   ,"Romiti calabro, Sudan"
+889     ,elena                 ,Marini        ,28/12/1960   ,"Laureano veneto, Azerbaijan"
+890     ,carlo                 ,Gotti         ,23/05/1950   ,Barcella umbro
+891     ,Piero                 ,Gravina       ,30/11/1950   ,"Quarto Maurizio, San Marino"
+892     ,TURATI ETTA           ,              ,21/07/1946   ,"Gozzano ligure, Malta"
+893     ,GUARIENTO ANGELO      ,              ,08/12/1950   ,Sesto Raimondo
+894     ,Adriano               ,Bramante      ,01/06/1960   ,"Sesto Priscilla, Groenlandia"
+895     ,gustavo               ,Maderno       ,14/08/1960   ,"Marcello calabro, Bolivia"
+896     ,Librrto               ,Caffarelli    ,29/10/1950   ,"Rembrandt veneto, Kiribati"
+897     ,BAROZZI MARCANTONIO   ,              ,13/08/1960   ,Pacomio umbro
+898     ,Damiano               ,Luna          ,10/01/1956   ,"Settimo Monica, Macao"
+899     ,Nicola                ,Bettoni       ,14/06/1950   ,"Stefania sardo, Anguilla"
+900     ,Ruggeto               ,Armellini     ,19/12/1960   ,"Borgo Piero nell'emilia, Guinea Equatoriale"
+901     ,Giacomo               ,Papafava      ,24/06/1960   ,Quarto Alberico
+902     ,Michezotto            ,Ferrabosco    ,12/11/1950   ,"Trillini veneto, Repubblica Dominicana"
+903     ,Psulina               ,Nadi          ,21/05/1978   ,"Ippazio del friuli, Saint Pierre and Miquelon"
+904     ,Gianpietro            ,Argento       ,10/11/1960   ,"Nitti umbro, Costa Rica"
+905     ,Loredsna              ,Filippelli    ,15/08/1950   ,Giovanna del friuli
+-999999 ,Orazio                ,Telesio       ,18/05/1960   ,Giannone a mare
+907     ,Pietro                ,Sbarbaro      ,05/11/1971   ,"Liberto del friuli, Georgia"
+908     ,Goffredo              ,Novaro        ,31/05/1960   ,"Ritacca sardo, Guam"
+909     ,Amedeo                ,Niggli        ,31/03/1950   ,San Augusto lido
+910     ,Fiorinp               ,Anastasi      ,10/09/2001   ,"Sabatino lido, Bangladesh"
+911     ,Brnito                ,Gadda         ,25/07/1950   ,"Arturo a mare, Guinea Equatoriale"
+-999999 ,Tona                  ,Pezzali       ,03/12/1960   ,"Gino calabro, Austria"
+913     ,Francesco             ,Briccialdi    ,03/07/1950   ,"Quarto Lolita, Montenegro"
+914     ,Baccoo                ,Scarpa        ,13/04/1950   ,"Borgo Ennio, Albania"
+915     ,BORRONI LOTETTA       ,              ,26/03/1960   ,"San Marco lido, Isole Faroe"
+916     ,Temistoclr            ,Buscetta      ,13/09/1950   ,Sesto Saverio
+917     ,Goanluca              ,Guidone       ,05/10/1951   ,San Paola
+918     ,BARBERINI LUCISNO     ,              ,20/04/1950   ,"Daria laziale, Bhutan"
+919     ,Sylvia                ,Naccari       ,03/01/1951   ,Ricci nell'emilia
+920     ,Nona                  ,Antonetti     ,19/06/1950   ,"San Sandra, Finlandia"
+921     ,MARANGONI OZGA        ,              ,31/07/1960   ,"San Gioachino, Israele"
+922     ,Gioffre               ,Druso         ,02/01/1956   ,"Gemito terme, Guatemala"
+923     ,Vito                  ,Morosini      ,14/06/1941   ,Borgo Fernanda lido
+924     ,Erika                 ,Brunello      ,16/10/1979   ,"Lucrezia del friuli, Slovenia"
+-999999 ,Gsstone               ,Lancisi       ,08/02/1960   ,Ugolino veneto
+926     ,Ernesyo               ,Zoppetto      ,23/07/1956   ,"Borgo Berenice veneto, Cameroon"
+927     ,Molena                ,Casale        ,23/05/1956   ,"Borgo Sebastiano, Siria"
+928     ,Pasqual               ,Alboni        ,27/03/1950   ,Quarto Ivan laziale
+929     ,Galadso               ,Folliero      ,15/02/1956   ,"Tosto laziale, Svalbard & Jan Mayen Islands"
+930     ,Dpnatella             ,Scaduto       ,18/10/1982   ,"Bembo terme, Mozambico"
+931     ,Claudis               ,Sordi         ,20/12/1989   ,"Borgo Calogero sardo, Mayotte"
+-999999 ,Niccplò               ,Guicciardini  ,03/10/1960   ,Bellini del friuli
+933     ,Enxo                  ,Sagese        ,01/07/1956   ,Quarto Rolando lido
+934     ,Silvoa                ,Cendron       ,29/06/1943   ,"Settimo Gelsomina, Bermuda"
+-999999 ,Vincenza              ,Babati        ,28/03/1956   ,Griselda sardo
+936     ,Raffarle              ,Finzi         ,27/10/1956   ,"Annibale a mare, Porto Rico"
+937     ,Eva                   ,Cendron       ,14/11/1956   ,"Quasimodo umbro, Mongolia"
+-999999 ,Donns                 ,Cundari       ,05/04/1950   ,"Settimo Rosalia calabro, Zimbabwe"
+939     ,Iolanda               ,Nonis         ,09/02/1960   ,"Valerio del friuli, Isola di Man"
+940     ,Giampoero             ,Ortolani      ,17/10/1950   ,"San Marina, Croazia"
+941     ,Renzo                 ,Polani        ,19/03/1960   ,"Mondadori del friuli, Bahamas"
+942     ,Lidia                 ,Ravaglioli    ,18/10/1951   ,Mercedes calabro
+943     ,Eleanora              ,Mazzini       ,22/03/1996   ,"Quarto Elvira, Malta"
+944     ,Brttina               ,Bernini       ,27/11/1956   ,"San Lolita nell'emilia, Montserrat"
+945     ,Mprena                ,Lancisi       ,04/02/1960   ,"Mennea laziale, Bolivia"
+946     ,Romolo                ,Borroni       ,23/03/1960   ,"Mazzeo ligure, Trinidad e Tobago"
+947     ,Maira                 ,Boiardo       ,09/01/1970   ,"Sesto Dionigi veneto, Timor-Leste"
+948     ,SORDI EMIZIO          ,              ,28/12/1950   ,"Sesto Michele, Guernsey"
+949     ,Filvio                ,Stucchi       ,05/02/1956   ,Sesto Teresa
+950     ,Paulina               ,Anastasi      ,02/07/1956   ,"Scaduto sardo, Reunion"
+951     ,Chiara                ,Garibaldi     ,26/09/1960   ,"San Salvatore veneto, Niue"
+-999999 ,Carmelo               ,Vanvitelli    ,22/09/1960   ,Settimo Gianna ligure
+953     ,Voncenza              ,Smirnoff      ,04/09/1950   ,"Settimo Fulvio, Saint Lucia"
+954     ,Ricciotti             ,Maffei        ,31/01/2000   ,"Bertoli sardo, Palestina"
+955     ,CONTRAFATTO GASPARE   ,              ,02/01/1956   ,Quarto Eraldo
+956     ,Silvio                ,Franceschi    ,01/10/1950   ,San Annetta terme
+957     ,Aldo                  ,Modugno       ,02/05/1960   ,"Sesto Letizia laziale, Islanda"
+958     ,Alesdio               ,Boito         ,10/09/1972   ,Deledda laziale
+959     ,Gianpaolo             ,Zacco         ,02/07/1960   ,Sesto Stefani del friuli
+960     ,Licia                 ,Tomasini      ,22/01/1950   ,Casini sardo
+961     ,Rodolgo               ,Paruta        ,30/01/1956   ,San Giovanna
+962     ,Alessio               ,Carducci      ,25/02/1981   ,Borgo Lara a mare
+963     ,Olga                  ,Asmundo       ,15/02/1949   ,"Cheda umbro, Giordania"
+964     ,Giorgia               ,Bonolis       ,07/09/1996   ,Renata veneto
+965     ,Arturo                ,Sommaruga     ,19/10/1960   ,"Ivan sardo, Botswana"
+966     ,Riccardo              ,Cianciolo     ,12/01/1950   ,Navarria a mare
+967     ,Ennio                 ,Modigliani    ,05/05/1950   ,"Alberto salentino, Spagna"
+968     ,Cristona              ,Ludovisi      ,16/06/1960   ,Renata lido
+969     ,Giampoero             ,Moresi        ,30/12/1956   ,"Boccherini veneto, Burundi"
+970     ,Filippo               ,Stefanelli    ,24/03/1950   ,"Crisafulli del friuli, Sud Africa"
+971     ,Oreste                ,Sibilia       ,18/11/1956   ,Sesto Lolita
+972     ,Galssso               ,Agostini      ,28/01/1960   ,"Bocelli ligure, Maldive"
+973     ,rosa                  ,Infantino     ,14/12/1950   ,San Alberto
+974     ,Giancarlo             ,Borzomì       ,02/02/1956   ,"Panfilo calabro, Serbia"
+975     ,Gioacchino            ,Lollobrigida  ,29/11/1960   ,"Vasari a mare, Singapore"
+976     ,Sophoa                ,Einaudi       ,24/06/1956   ,"Quarto Alberto lido, Martinica"
+977     ,Delfino               ,Antonucci     ,12/06/2005   ,"San Pompeo lido, Repubblica Dominicana"
+978     ,anita                 ,Squarcione    ,06/07/1950   ,"Guglielmi ligure, Algeria"
+979     ,Mauta                 ,Roccabonella  ,27/11/1995   ,Rosario calabro
+980     ,Nanmi                 ,Balbo         ,24/06/1960   ,"Settimo Amico umbro, Comoros"
+981     ,Valetio               ,Nibali        ,29/11/1960   ,Settimo Ernesto lido
+982     ,Cirillo               ,Mazzeo        ,29/05/1960   ,"Gotti nell'emilia, Gabon"
+983     ,Martino               ,Montesano     ,09/03/1960   ,"Erika veneto, Polinesia Francese"
+984     ,Eleanora              ,Gozzano       ,01/11/1998   ,Settimo Giuseppe umbro
+985     ,Ilaroa                ,Satta         ,14/10/1950   ,"Settimo Rosa, Colombia"
+986     ,BERGOGLIO RAIMONDP    ,              ,23/01/1956   ,"Bragadin sardo, Micronesia"
+987     ,Loredana              ,Camilleri     ,23/05/1950   ,"Bellocchio veneto, Spagna"
+988     ,Bettins               ,Pugliese      ,07/07/1960   ,San Antonino terme
+989     ,Tuzlio                ,Serlupi       ,14/03/1956   ,Binaghi sardo
+990     ,MORESI LISA           ,              ,28/01/2002   ,"Settimo Chiara, Isola di Man"
+991     ,Lronardo              ,Travia        ,15/04/1939   ,Loredan lido
+992     ,Beayrice              ,Ruggeri       ,01/07/1960   ,"Settimo Vittoria, Arabia Saudita"
+993     ,MALPIGHI GERONIMO     ,              ,16/02/1956   ,Franceschi del friuli
+994     ,Atenulf               ,Persico       ,05/08/1950   ,"Settimo Gianfranco lido, Kazakhstan"
+995     ,antonio               ,Giulietti     ,16/12/1983   ,"Quarto Renzo, Ungheria"
+996     ,pina                  ,Petralli      ,02/03/1960   ,Tuzzolino terme
+997     ,Ezladio               ,Taliercio     ,31/10/1950   ,San Isabella
+998     ,Savrrio               ,Sgalambro     ,18/02/1960   ,"Borgo Giulio, Honduras"
+999     ,Valeroa               ,Mantegna      ,03/04/1960   ,Anguissola laziale
+550     ,Ugo                   ,Cicala        ,08/11/1950   ,Ruberto umbro
+291     ,ivo                   ,Mengolo       ,15/01/1956   ,Borgo Alessio del friuli
+270     ,Puccio                ,Riccati       ,27/07/1950   ,Puglisi lido
+159     ,Rossrio               ,Mastandrea    ,27/11/1950   ,"Biagiotti umbro, Pitcairn Islands"
+815     ,Adrle                 ,Armani        ,27/08/1950   ,Sesto Guido
+65      ,Lpretta               ,Sinisi        ,06/03/1957   ,"San Carolina calabro, Jersey"
+718     ,Carolina              ,Matteotti     ,25/11/1950   ,Antonino del friuli
+195     ,serena                ,Collodi       ,10/02/1999   ,"San Claudio ligure, Saint Vincent and the Grenadines"
+582     ,Caqillo               ,Pasqua        ,29/02/1956   ,"Bembo veneto, Isole Marshall"
+978     ,anita                 ,Squarcione    ,06/07/1950   ,"Guglielmi ligure, Algeria"
+840     ,Dpnatello             ,Comencini     ,07/01/1960   ,Quarto Lina nell'emilia
+750     ,Alrssandra            ,Deledda       ,24/05/1956   ,"Borgo Valeria laziale, Brasile"
+170     ,Filippa               ,Fiorucci      ,29/07/1960   ,Quarto Giancarlo sardo
+736     ,Etmenegildo           ,Collina       ,07/06/1956   ,Sesto Nicola
+847     ,Pietangelo            ,Sordi         ,20/05/1956   ,Piermaria veneto
+283     ,Gabriele              ,Tognazzi      ,06/01/1956   ,"Borgo Loretta ligure, Lesotho"
+225     ,Agostimo              ,Fabrizi       ,15/06/1960   ,"Borgo Maura, Comoros"
+347     ,Bepae                 ,Pometta       ,13/07/1956   ,"San Alfredo a mare, Svezia"
+216     ,Agmolo                ,Pezzali       ,24/05/1956   ,"San Maurilio, Macao"
+895     ,gustavo               ,Maderno       ,14/08/1960   ,"Marcello calabro, Bolivia"
+882     ,TAFURI PAOLEYTA       ,              ,04/03/1950   ,Marangoni ligure
+178     ,Luigo                 ,Mercadante    ,29/09/1956   ,"Ermanno salentino, Algeria"
+-999999 ,Marcella              ,Zamengo       ,01/06/1960   ,Quarto Arsenio
+-999999 ,Lodovivo              ,Salandra      ,25/05/1970   ,"Ludovico del friuli, Equador"
+-999999 ,Filippa               ,Cagnotto      ,10/04/1960   ,"San Piergiorgio sardo, Gabon"
+512     ,Gioele                ,Fischetti     ,11/07/1960   ,"Salvatore lido, Islanda"
+751     ,Catetina              ,Cavalcanti    ,12/07/1960   ,Papetti ligure
+328     ,Goanluigi             ,Ruggieri      ,31/08/1956   ,"Settimo Giuseppina, Lussemburgo"
+343     ,Simonetya             ,Finetti       ,29/10/1960   ,Maria lido
+516     ,Antonello             ,Leonardi      ,29/11/1956   ,"Sesto Giacomo nell'emilia, Guatemala"
+556     ,Gianni                ,Maggioli      ,06/08/1960   ,"Griselda laziale, Vietnam"
+357     ,Sante                 ,Capuana       ,20/06/1960   ,"Bodoni nell'emilia, Macao"
+-999999 ,Anyonello             ,Cagnin        ,06/10/1933   ,"Nadi umbro, Burundi"
+61      ,Domenivo              ,Calbo         ,28/01/1956   ,San Griselda
+777     ,Susamna               ,Monaco        ,08/08/1960   ,"Montanariello a mare, Nuova Zelanda"
+339     ,Osvalfo               ,Fornaciari    ,11/08/1985   ,Sesto Ermenegildo
+484     ,Angelica              ,Innocenti     ,03/04/1993   ,"Alessio salentino, Bhutan"
+358     ,Bianca                ,Necci         ,28/12/1956   ,Settimo Paola
+929     ,Galadso               ,Folliero      ,15/02/1956   ,"Tosto laziale, Svalbard & Jan Mayen Islands"
+629     ,Fortinata             ,Vecoli        ,18/05/1950   ,"Ronaldo del friuli, Moldova"
+354     ,Gianluigi             ,Bocca         ,27/07/1980   ,"Pertini del friuli, Isole Cook"
+919     ,Sylvia                ,Naccari       ,03/01/1951   ,Ricci nell'emilia
+583     ,Fzora                 ,Maderna       ,29/05/1976   ,Settimo Orazio
+65      ,SINISI LPRETTA        ,              ,06/03/1957   ,"San Carolina calabro, Jersey"
+719     ,Lisa                  ,Bosurgi       ,01/03/1956   ,Valerio veneto
+957     ,Aldo                  ,Modugno       ,02/05/1960   ,"Sesto Letizia laziale, Islanda"
+115     ,Lorrdana              ,Gottardi      ,23/10/1950   ,"Sesto Imelda, Montenegro"
+875     ,Donna                 ,Valmarana     ,21/11/1956   ,Settimo Mattia nell'emilia
+682     ,Vitginia              ,Leopardi      ,19/10/1956   ,"Sesto Carlo salentino, Latvia"
+886     ,Laura                 ,Curci         ,21/02/1950   ,"Sesto Hugo a mare, Kazakhstan"

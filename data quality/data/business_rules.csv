@@ -1,1001 +1,1001 @@
-id,age,marital_status,city,postal_code
-0,25,single,San Adriano ligure,87210
-1,21,married,Galasso ligure,57064
-2,11,married,Pierangelo salentino,88271
-3,-6,divorced,Ammaniti laziale,84363
-4,22,divorced,Petruzzi del friuli,14289
-5,25,widowed,Settimo Victoria laziale,20719
-6,88,divorced,San Diana calabro,82089
-7,21,divorced,Sandra ligure,31356
-8,11,married,Sesto Romeo,15852
-9,7,divorced,Settimo Etta calabro,98079
-10,11,married,Gemma calabro,46742
-11,-6,single,Cerquiglini salentino,93729
-12,97,widowed,Giorgia salentino,30464
-13,60,single,Borgo Sandro,32768
-14,-11,married,Borgo Lolita,35006
-15,91,widowed,Lilla a mare,96812
-16,68,married,Giosuè lido,42315
-17,62,divorced,Borgo Simone veneto,74211
-18,61,widowed,Settimo Raffaello ligure,28095
-19,8,single,Tomaselli ligure,10045
-20,85,widowed,Borgo Agostino salentino,54982
-21,11,single,Murri salentino,43224
-22,24,divorced,Settimo Osvaldo,96434
-23,98,married,Serraglio terme,20947
-24,91,divorced,Tafuri calabro,86601
-25,30,married,Rocco veneto,24772
-26,95,married,Sesto Durante sardo,25423
-27,42,married,Pareto calabro,75969
-28,98,divorced,Quarto Arturo,12321
-29,17,married,Scandone sardo,27287
-30,97,divorced,Borgo Erika calabro,48924
-31,94,divorced,Guicciardini lido,85563
-32,14,widowed,Torquato laziale,23898
-33,53,divorced,Galeati lido,99322
-34,1,widowed,Sesto Franco,49278
-35,25,widowed,Borgo Giovanni ligure,62320
-36,34,married,Conte calabro,25829
-37,23,single,Borgo Costanzo veneto,78110
-38,35,widowed,Sesto Biagio,81529
-39,62,married,Carmelo calabro,74032
-40,30,single,Emo del friuli,90497
-41,82,married,Settimo Giancarlo umbro,14623
-42,11,married,Ponti ligure,98875
-43,87,married,Lauretta salentino,19148
-44,11,married,Vendetti sardo,80461
-45,83,divorced,Ottino umbro,23536
-46,82,widowed,Gelsomina a mare,83525
-47,15,widowed,San Margherita,30005
-48,78,single,Paltrinieri ligure,42664
-49,-7,married,Settimo Roberta laziale,90340
-50,35,divorced,Tina nell'emilia,87756
-51,25,divorced,Settimo Carolina nell'emilia,91677
-52,44,married,San Luisa,68778
-53,82,married,Antonino veneto,94026
-54,2,divorced,Tasca lido,96230
-55,47,married,Borgo Benito,80357
-56,75,divorced,San Piergiuseppe,82982
-57,3,divorced,San Rossana a mare,96607
-58,91,widowed,San Temistocle,43415
-59,7,married,Monaco salentino,60207
-60,11,married,Giampiero laziale,18838
-61,61,widowed,Borgo Fiorino,71473
-62,63,widowed,Borromeo ligure,79127
-63,62,widowed,Matteotti del friuli,48075
-64,74,divorced,Quarto Pompeo sardo,41796
-65,24,divorced,Ferraris salentino,84988
-66,26,single,Quarto Filippo veneto,52056
-67,31,married,Borgo Rolando,84329
-68,38,widowed,Borgo Pierpaolo,61862
-69,42,married,Biagio laziale,23280
-70,23,widowed,Antonio del friuli,66920
-71,20,divorced,Piccio sardo,94930
-72,13,divorced,Settimo Giosuè del friuli,91952
-73,28,widowed,San Romina terme,13641
-74,23,divorced,Zaira nell'emilia,65214
-75,35,divorced,San Coluccio salentino,92332
-76,-8,widowed,Quarto Augusto lido,86264
-77,23,married,Mirko lido,86441
-78,63,single,Sesto Federica,19694
-79,18,single,Quarto Pellegrino,45436
-80,83,divorced,Faggiani lido,24613
-81,19,widowed,Adelasia salentino,83330
-82,41,single,Quarto Laureano laziale,80599
-83,11,married,Borgo Damiano,23929
-84,5,married,Einaudi umbro,76349
-85,70,divorced,San Letizia a mare,34075
-86,56,divorced,Quarto Ernesto salentino,85403
-87,30,widowed,Settimo Alberico lido,62732
-88,16,divorced,Priuli veneto,35971
-89,51,single,Tolentino veneto,78184
-90,44,married,Ermanno lido,48236
-91,8,single,Romiti ligure,37802
-92,-1,divorced,Toni veneto,56772
-93,74,married,Sesto Giulietta,55634
-94,11,married,Borgo Ranieri,44318
-95,76,divorced,Nicolò nell'emilia,44514
-96,15,divorced,Quarto Marissa,55007
-97,88,single,Giovine a mare,71004
-98,11,married,Beffa del friuli,20459
-99,77,married,Sesto Donna,84518
-100,32,divorced,Michelotto nell'emilia,56650
-101,32,married,Quarto Alessandra sardo,36760
-102,48,divorced,Volterra a mare,80432
-103,98,single,Settimo Ilaria,14773
-104,77,divorced,Loredana lido,38642
-105,63,widowed,Alonzi salentino,27014
-106,66,single,Quarto Caterina sardo,24737
-107,95,single,Mercati laziale,11396
-108,87,divorced,Sesto Galasso del friuli,41389
-109,23,divorced,Settimo Amadeo,55685
-110,6,married,Verdone sardo,79104
-111,11,married,Melina ligure,34209
-112,94,single,San Atenulf sardo,80498
-113,65,single,Settimo Raffaele del friuli,16427
-114,74,married,Vittoria terme,55516
-115,45,single,Borgo Baldassare,50025
-116,67,widowed,Comencini ligure,21588
-117,70,married,Giannini sardo,70138
-118,23,single,Petrucelli nell'emilia,31492
-119,30,divorced,Olga a mare,75747
-120,14,divorced,Settimo Ernesto,14758
-121,93,married,Sandra umbro,16713
-122,51,single,Sesto Rosa umbro,73840
-123,87,married,Paulina nell'emilia,17765
-124,56,divorced,Settimo Camilla nell'emilia,55200
-125,8,widowed,Enzio del friuli,85350
-126,42,married,Sanudo calabro,25195
-127,10,married,Lilla ligure,38166
-128,72,widowed,Monica del friuli,18674
-129,90,widowed,Orlando terme,27604
-130,10,married,Esposito calabro,35207
-131,48,single,Settimo Anita umbro,23437
-132,10,married,Quarto Silvio calabro,89393
-133,18,single,Fallaci del friuli,51185
-134,11,widowed,Sesto Santino nell'emilia,93151
-135,71,divorced,Borgo Donato,72953
-136,84,single,Bossi terme,56779
-137,-11,divorced,Settimo Lorenzo,87210
-138,65,divorced,Sesto Ugo ligure,49369
-139,-2,divorced,Naccari umbro,57298
-140,49,widowed,Abatantuono salentino,64912
-141,39,widowed,Ida nell'emilia,35881
-142,68,married,Sesto Sole sardo,57294
-143,7,married,Basso lido,67020
-144,27,divorced,Gonzaga salentino,33825
-145,58,divorced,Sesto Martino a mare,31768
-146,92,single,Adinolfi sardo,38747
-147,37,single,Settimo Carlo,61048
-148,87,single,Borgo Eliana calabro,44406
-149,27,widowed,Quarto Giacinto del friuli,72826
-150,98,married,Satriani laziale,87780
-151,15,single,Franscini del friuli,18687
-152,38,single,Rocca sardo,85043
-153,3,married,San Annunziata sardo,49384
-154,10,married,San Paoletta,96760
-155,14,single,Maggioli lido,54466
-156,69,widowed,Toso ligure,78964
-157,2,married,Agnolo salentino,16931
-158,48,widowed,Borgo Giulio,24842
-159,36,single,San Laureano,87002
-160,-18,married,Borgo Maurilio,69405
-161,59,single,Michelotto laziale,75011
-162,18,married,San Osvaldo,27150
-163,-1,widowed,Settimo Annamaria,35569
-164,26,divorced,Michele umbro,76723
-165,88,widowed,Burcardo nell'emilia,31933
-166,81,divorced,Amedeo laziale,69097
-167,77,single,Quarto Uberto,11097
-168,4,single,San Chiara ligure,68983
-169,97,divorced,Tonisto lido,10229
-170,38,single,Borgo Venancio terme,78965
-171,99,divorced,Segrè veneto,65183
-172,57,widowed,Fabia sardo,57099
-173,36,divorced,Settimo Armando veneto,27291
-174,92,divorced,Adinolfi calabro,26596
-175,35,single,Sesto Gaetano,58639
-176,67,single,Settimo Rembrandt,14124
-177,67,widowed,Quarto Ansaldo,86182
-178,96,single,Quarto Tiziano,32853
-179,11,married,Quarto Luigina,72112
-180,76,single,Quarto Santino,63269
-181,56,widowed,Quarto Agostino laziale,71687
-182,10,married,Quarto Pasquale,19001
-183,76,married,Quarto Rosaria,98209
-184,16,divorced,Ponti sardo,80506
-185,19,divorced,Borgo Dina salentino,63935
-186,50,single,Pellegrino nell'emilia,43820
-187,41,widowed,Osvaldo nell'emilia,53133
-188,77,single,Pizziol lido,24447
-189,72,widowed,Pirelli sardo,90565
-190,83,widowed,Pezzali a mare,62425
-191,86,married,Trapani salentino,20377
-192,8,married,Modigliani del friuli,41495
-193,95,divorced,Borgo Ranieri,45655
-194,72,widowed,Settimo Michela,50729
-195,13,divorced,Settimo Liberto veneto,40608
-196,16,married,Settimo Beppe nell'emilia,58205
-197,19,widowed,Nadi calabro,15970
-198,88,widowed,Luria nell'emilia,68737
-199,56,single,Quarto Livio salentino,42781
-200,7,single,Amico laziale,50592
-201,28,married,Settimo Augusto,87366
-202,-1,widowed,Cuda ligure,67364
-203,96,single,Bruscantini sardo,31145
-204,56,widowed,Mariana umbro,40034
-205,98,single,Donatella laziale,26513
-206,13,single,San Fernanda terme,42873
-207,82,married,Volta salentino,77180
-208,65,single,Adamo umbro,17204
-209,24,married,Sesto Mirko,67849
-210,0,single,Quarto Berenice,86711
-211,4,married,Borgo Isabella,93680
-212,61,married,Morena del friuli,62067
-213,84,single,San Sylvia a mare,78345
-214,1,divorced,Quarto Paulina del friuli,21772
-215,92,married,Sesto Roman,72818
-216,10,married,San Flavio,79727
-217,65,single,Antonina ligure,81954
-218,47,single,Sesto Dina,15117
-219,63,divorced,Sesto Livia,58809
-220,72,widowed,Traetta laziale,55284
-221,9,married,Settimo Ippazio sardo,21901
-222,45,single,Rusticucci terme,80419
-223,34,married,San Giada,44539
-224,51,married,Surian del friuli,12045
-225,10,married,Bettina lido,47537
-226,35,divorced,Borgo Gionata,93412
-227,74,widowed,Temistocle del friuli,79483
-228,77,divorced,Quarto Coriolano calabro,41144
-229,3,married,Malipiero calabro,32113
-230,37,divorced,Mantegazza del friuli,32113
-231,16,single,Borgo Nino calabro,19462
-232,37,divorced,Altera terme,73493
-233,21,married,Maderno sardo,66033
-234,14,single,Lucarelli veneto,88342
-235,10,married,Sesto Piermaria,36807
-236,34,divorced,Sesto Benedetto lido,63600
-237,42,married,Opizzi sardo,77924
-238,93,single,Antonucci sardo,54560
-239,30,single,San Fiorenzo,55057
-240,3,married,Lilla lido,11316
-241,37,single,Dionigi umbro,41961
-242,3,widowed,Strangio laziale,32904
-243,-2,widowed,Ruggiero nell'emilia,73056
-244,34,divorced,Settimo Tonia nell'emilia,65172
-245,85,married,Parini terme,11945
-246,60,divorced,San Rossana ligure,94456
-247,44,married,Santorio terme,72681
-248,36,divorced,Settimo Matteo,32294
-249,62,single,Giancarlo calabro,43032
-250,1,widowed,Eva terme,93848
-251,33,single,San Letizia,91414
-252,65,single,Borgo Ezio,78332
-253,76,single,Quarto Piermaria terme,88405
-254,11,married,Borgo Jacopo,74722
-255,86,single,Moneta a mare,81411
-256,30,widowed,Borgo Venancio sardo,33487
-257,31,single,Settimo Marcella ligure,80476
-258,59,married,San Melania salentino,72130
-259,18,widowed,Gaito laziale,89649
-260,83,divorced,Settimo Isabella lido,86416
-261,28,single,Sesto Eleanora sardo,88641
-262,55,divorced,Settimo Giovanna,10068
-263,61,single,Raimondi salentino,23988
-264,54,divorced,Settimo Enzo salentino,88636
-265,47,divorced,Sesto Teresa,70822
-266,23,widowed,Dario terme,45873
-267,26,widowed,Priscilla salentino,35472
-268,11,married,Gasperi a mare,63015
-269,88,single,Bernardo veneto,33746
-270,65,widowed,Busoni nell'emilia,68825
-271,25,married,Danilo del friuli,94299
-272,93,married,Sesto Paride nell'emilia,54416
-273,91,divorced,Borgo Antonia,92647
-274,78,married,Quarto Loredana del friuli,99390
-275,84,widowed,Viola a mare,63552
-276,11,married,Raffaellino umbro,95654
-277,9,married,Michelangelo sardo,95667
-278,41,widowed,Foletti salentino,96899
-279,45,single,Settimo Cecilia calabro,81017
-280,15,single,Riccati calabro,81736
-281,5,divorced,Borgo Antonietta,11431
-282,54,single,Mercadante del friuli,76867
-283,58,single,San Bernardo,41620
-284,3,married,Borgo Camilla terme,35315
-285,50,single,Borgo Manuel,73031
-286,10,widowed,Evangelista ligure,43338
-287,66,married,Borgo Rosina,65878
-288,71,single,Matteo salentino,21137
-289,88,single,Giancarlo a mare,57846
-290,17,widowed,Damiano laziale,72144
-291,86,single,Borgo Renata,63332
-292,54,married,Sesto Bianca laziale,76135
-293,63,widowed,Caracciolo sardo,78690
-294,66,married,Irma del friuli,89043
-295,59,divorced,Rodolfo sardo,13300
-296,96,married,Settimo Gioele nell'emilia,77734
-297,11,married,Settimo Alfredo,73741
-298,40,married,San Priscilla lido,66799
-299,3,married,Donato terme,73882
-300,84,widowed,San Silvia,91625
-301,79,widowed,Settimo Fabio,88246
-302,90,single,Iannucci terme,90330
-303,34,divorced,Adelmo sardo,93474
-304,53,married,Piccinni sardo,75809
-305,69,divorced,Bazzi laziale,22986
-306,49,single,San Liana,36977
-307,70,widowed,Quarto Fabrizio sardo,88578
-308,88,widowed,Pasqual sardo,96577
-309,94,divorced,Sesto Fabia umbro,87192
-310,11,widowed,Lazzaro terme,42447
-311,34,married,Guglielmi umbro,56766
-312,68,single,Galvani del friuli,99227
-313,66,single,Laura calabro,66111
-314,42,divorced,Giosuè terme,12621
-315,19,divorced,Leonetti del friuli,66546
-316,52,married,Settimo Fabia,36779
-317,85,single,Settimo Annunziata salentino,83147
-318,4,divorced,Cantimori salentino,86756
-319,23,single,Rosina terme,29703
-320,49,widowed,Berengario terme,49763
-321,58,widowed,Rosaria lido,59599
-322,11,married,Borgo Alderano ligure,93893
-323,84,married,Liberto a mare,40264
-324,6,married,Borgo Bruno calabro,66527
-325,53,widowed,Matilda calabro,44857
-326,67,widowed,Quarto Arnaldo,63834
-327,22,single,Carducci lido,41303
-328,11,widowed,Borgo Michelotto veneto,88981
-329,76,widowed,Borgo Ilaria lido,25160
-330,62,single,San Morena,95492
-331,12,married,Mastandrea laziale,18121
-332,87,divorced,Etta lido,21543
-333,74,single,Settimo Alessia salentino,83036
-334,66,married,Guarato salentino,79951
-335,45,married,Bonanno terme,53338
-336,77,married,Palmisano veneto,48709
-337,71,divorced,Ronaldo veneto,15482
-338,5,single,Pizzamano laziale,83024
-339,85,married,Borgo Lodovico,42492
-340,11,married,Settimo Martino,78582
-341,9,married,San Pasquale,97085
-342,25,widowed,San Giacinto salentino,69615
-343,56,widowed,Sesto Toni a mare,53681
-344,64,married,Quarto Nicoletta,28622
-345,74,single,Piersanti nell'emilia,38015
-346,85,divorced,Bernardo salentino,49992
-347,88,married,Borgo Rosina del friuli,49438
-348,10,married,Endrizzi calabro,39490
-349,45,widowed,Vigliotti ligure,91912
-350,66,widowed,Fernanda sardo,19395
-351,59,married,Borgo Lucio umbro,24067
-352,66,divorced,Sesto Gioele,28412
-353,57,single,Udinesi ligure,81426
-354,97,single,Settimo Vincentio lido,51077
-355,57,divorced,Borgo Gianpietro lido,81097
-356,85,divorced,Elvira calabro,48292
-357,86,married,Orsini del friuli,88886
-358,95,single,Leone del friuli,74863
-359,8,married,Manacorda umbro,54033
-360,25,divorced,Borgo Orlando terme,72298
-361,97,divorced,Quarto Barbara veneto,31209
-362,10,married,Sante sardo,81389
-363,26,single,San Silvio umbro,71450
-364,62,divorced,Ginesio umbro,97950
-365,87,married,Settimo Giulio,24368
-366,41,divorced,Maurilio sardo,42851
-367,62,single,Pennetta calabro,90556
-368,10,married,Settimo Sante,79797
-369,86,divorced,Ciampi nell'emilia,98248
-370,67,divorced,Ubaldo laziale,30159
-371,6,married,Sesto Atenulf umbro,18822
-372,62,widowed,Piazzi nell'emilia,35721
-373,34,divorced,Borgo Rossana laziale,58770
-374,59,divorced,Borgo Michele terme,21063
-375,12,divorced,San Beatrice a mare,56059
-376,80,widowed,Borgo Licia del friuli,24811
-377,85,married,Sesto Laureano salentino,71945
-378,97,widowed,Settimo Margherita umbro,84283
-379,44,single,Sesto Vincenzo,92917
-380,9,single,Cicala terme,65264
-381,98,single,Borgo Lilla sardo,46054
-382,23,widowed,Giorgia umbro,51520
-383,91,married,Borgo Raffaele,42095
-384,97,divorced,Borgo Gabriella,96334
-385,29,widowed,San Milo lido,27484
-386,59,married,Luciani laziale,29708
-387,89,married,Botticelli salentino,97408
-388,53,single,Gioele nell'emilia,14801
-389,96,single,San Silvia,32844
-390,69,single,Quarto Concetta del friuli,26555
-391,73,single,Elena laziale,99506
-392,49,divorced,Fredo laziale,60391
-393,14,married,Settimo Evangelista,41576
-394,51,widowed,Settimo Pierluigi ligure,56754
-395,-6,divorced,Gabba lido,96875
-396,59,divorced,Sesto Beatrice,77068
-397,33,divorced,Sesto Mauro,30649
-398,88,divorced,Graziano salentino,58177
-399,29,single,Adelmo umbro,87526
-400,13,widowed,San Bianca lido,68329
-401,2,widowed,Sesto Laura laziale,92363
-402,81,divorced,Zanichelli laziale,76132
-403,88,divorced,Flora terme,17451
-404,24,single,Quarto Livio,69309
-405,67,married,Borgo Tonino,28784
-406,3,married,Telesio nell'emilia,99485
-407,4,divorced,San Donatella,55642
-408,96,married,Quarto Carolina sardo,41741
-409,75,single,Manolesso umbro,72931
-410,49,married,Borgo Bartolomeo,13005
-411,98,single,San Carmelo,60912
-412,57,widowed,Calarco a mare,85852
-413,6,single,Borgo Benedetto,21714
-414,5,widowed,Sesto Rocco nell'emilia,34640
-415,25,single,Quarto Alderano a mare,46425
-416,85,widowed,Pacelli veneto,78545
-417,31,widowed,Borgo Giuseppina,59617
-418,36,divorced,Quarto Aria del friuli,89158
-419,63,widowed,Pugliese umbro,94009
-420,20,widowed,Fagiani sardo,87761
-421,24,divorced,Settimo Micheletto a mare,10495
-422,5,single,Letizia calabro,67243
-423,76,single,Atenulf del friuli,43182
-424,91,widowed,Bruscantini calabro,38943
-425,71,widowed,Paruta calabro,14520
-426,74,widowed,Luciano veneto,26643
-427,62,married,Ronaldo lido,43540
-428,63,widowed,Borgo Azeglio lido,82585
-429,-10,widowed,Marrone terme,23664
-430,14,single,San Emma,32720
-431,3,divorced,Luigina umbro,78597
-432,3,married,Barracco nell'emilia,21612
-433,25,married,San Giuseppe calabro,77144
-434,21,widowed,San Mariana ligure,24990
-435,88,widowed,Quarto Manuel terme,73427
-436,15,single,San Marcantonio,88640
-437,49,widowed,Quarto Mauro,84942
-438,-11,married,Quarto Angelica,10572
-439,54,divorced,Settimo Mario ligure,89841
-440,30,divorced,Alphons del friuli,87278
-441,17,divorced,Ivo terme,39279
-442,25,single,Borgo Augusto,91725
-443,33,widowed,Sesto Isabella salentino,16880
-444,36,divorced,Borgo Piermaria,68421
-445,25,widowed,San Antonio terme,42321
-446,32,widowed,Quarto Gian nell'emilia,99403
-447,47,married,Pizzetti sardo,23716
-448,-7,single,Farina ligure,19960
-449,76,widowed,San Renata,61781
-450,-15,widowed,Settimo Elmo calabro,46499
-451,37,single,Borgo Paolo,13550
-452,10,married,Ugolino umbro,10969
-453,94,widowed,Sesto Carmelo,35352
-454,76,widowed,Sesto Ettore,44436
-455,33,widowed,Settimo Cecilia,28758
-456,54,married,San Concetta a mare,65501
-457,56,married,Quarto Uberto lido,28467
-458,84,divorced,Fausto a mare,40900
-459,27,single,Borgo Cristina,37124
-460,92,divorced,Nugnes nell'emilia,15131
-461,4,married,Benvenuto terme,35624
-462,90,widowed,Settimo Guido,15658
-463,97,widowed,Quarto Vittorio nell'emilia,64402
-464,55,married,Pietro ligure,97971
-465,29,single,Borgo Pierangelo del friuli,62825
-466,55,divorced,Claudia nell'emilia,61214
-467,39,single,Sesto Renzo,20136
-468,52,married,Quarto Sebastiano lido,21383
-469,96,single,Sesto Franco,81777
-470,21,married,San Vincenza del friuli,75920
-471,16,married,Lucciano sardo,28525
-472,52,widowed,Martino lido,35296
-473,91,widowed,Quarto Sonia salentino,72804
-474,16,divorced,Sesto Ruggero umbro,59622
-475,44,married,Settimo Griselda del friuli,62416
-476,90,divorced,Settimo Angelica laziale,62463
-477,32,married,Settimo Marina salentino,39311
-478,84,married,Raffaellino terme,96265
-479,18,single,Angeli sardo,79537
-480,80,married,Bosurgi salentino,60163
-481,-3,single,San Clelia calabro,46695
-482,67,single,Settimo Maurizio,57316
-483,96,single,Sesto Ornella,94773
-484,54,widowed,Bonatti ligure,87239
-485,46,single,San Danilo,91706
-486,10,married,Borsiere ligure,65962
-487,79,widowed,San Gioele,12919
-488,36,widowed,Settimo Gianna terme,38961
-489,54,divorced,San Ermenegildo del friuli,72439
-490,67,widowed,Micheletto sardo,70893
-491,31,single,Vittoria a mare,71319
-492,16,married,Borgo Mattia,80168
-493,80,widowed,Virgilio laziale,93777
-494,96,widowed,Iannuzzi nell'emilia,44412
-495,1,widowed,Borgo Nedda terme,55637
-496,82,widowed,Fischetti terme,87494
-497,72,widowed,Sesto Luigina veneto,19220
-498,40,divorced,Luca umbro,76048
-499,11,married,Borgo Tiziano calabro,10538
-500,39,widowed,San Pomponio laziale,75300
-501,53,married,Bonatti nell'emilia,24927
-502,70,married,Benito lido,83024
-503,26,single,Settimo Silvestro,84610
-504,85,married,Abatantuono calabro,74061
-505,91,single,San Lidia,15790
-506,14,divorced,Nicolini veneto,79030
-507,3,divorced,Goffredo del friuli,13332
-508,39,single,Sesto Ivan veneto,36437
-509,69,married,Trincavelli terme,26460
-510,34,single,Sagnelli veneto,64089
-511,88,single,Settimo Ruggero,28896
-512,64,single,Borgo Arnulfo,56017
-513,4,married,Liliana salentino,98815
-514,18,divorced,San Romolo,77315
-515,10,married,Lara laziale,41327
-516,73,single,Quarto Ornella laziale,88760
-517,87,married,Quarto Arnulfo,10601
-518,7,married,Borgo Camilla lido,84132
-519,62,divorced,Quarto Marisa a mare,11238
-520,57,married,Ajello laziale,71540
-521,93,widowed,Sesto Annunziata,40027
-522,98,widowed,Tamburi a mare,66846
-523,99,single,Novaro nell'emilia,22629
-524,27,single,Borgo Alderano,83156
-525,22,divorced,San Fredo salentino,80243
-526,55,divorced,Sesto Roberta veneto,39229
-527,28,single,Nico a mare,64297
-528,14,single,Borgo Guarino,52486
-529,61,divorced,Fogazzaro salentino,49264
-530,54,divorced,Borgo Tullio,55926
-531,55,single,Liana del friuli,31623
-532,8,divorced,Amalia laziale,84480
-533,15,single,Vergerio veneto,93935
-534,91,single,Luria calabro,24417
-535,39,divorced,Coriolano calabro,93541
-536,74,divorced,San Alessandra lido,50372
-537,11,single,Zaira salentino,97448
-538,84,married,Quarto Lando,93422
-539,19,married,San Ernesto,71367
-540,1,divorced,Sauro a mare,33269
-541,24,married,Gori lido,86920
-542,20,married,Dulbecco laziale,57176
-543,56,widowed,Sesto Graziano,23443
-544,-10,single,San Piergiuseppe nell'emilia,59901
-545,79,single,Iannucci veneto,69173
-546,45,divorced,Settimo Silvestro,62167
-547,13,married,Settimo Maurilio ligure,63475
-548,-16,divorced,San Marisa laziale,88904
-549,35,single,Quarto Ernesto del friuli,32012
-550,10,married,Borgo Greco umbro,93371
-551,63,single,San Loredana,43754
-552,20,widowed,Quarto Maria laziale,68368
-553,100,widowed,Pomponio salentino,55641
-554,53,divorced,Borgo Greco veneto,40396
-555,-10,married,Scarpa nell'emilia,53128
-556,85,single,Settimo Luca,82593
-557,-13,divorced,Quarto Coriolano,93900
-558,91,widowed,Prodi lido,20056
-559,92,widowed,Federica terme,65725
-560,82,widowed,Quarto Pasqual veneto,10720
-561,83,divorced,Melania ligure,28759
-562,47,divorced,Sesto Danilo veneto,23531
-563,13,divorced,Quarto Domenico salentino,82451
-564,1,widowed,Giacomo calabro,59176
-565,34,divorced,Quarto Gustavo,91110
-566,71,single,Zarlino del friuli,27860
-567,64,divorced,Micheletto a mare,60851
-568,44,divorced,Borgo Paulina,11061
-569,46,single,Settimo Viridiana,76746
-570,61,married,Gabriella ligure,14591
-571,56,widowed,Pace nell'emilia,78283
-572,65,widowed,Settimo Stefania,16088
-573,58,widowed,Borgo Mauro umbro,81191
-574,87,widowed,San Lina,31772
-575,5,married,Piazzi veneto,83742
-576,41,divorced,San Loredana,39725
-577,79,married,San Guido,69011
-578,60,single,Giusti calabro,96038
-579,11,married,Settimo Elmo,97204
-580,41,widowed,Olga salentino,56993
-581,92,divorced,Borgo Virginia,50022
-582,64,single,Lopresti umbro,23497
-583,11,married,Gianna ligure,28040
-584,83,single,Quarto Piersanti,49681
-585,35,divorced,Milena sardo,79394
-586,28,married,Giacinto nell'emilia,20245
-587,91,widowed,Sesto Barbara calabro,47082
-588,11,married,Quarto Alfio lido,24926
-589,2,single,Annetta veneto,86291
-590,-6,married,Borgo Ornella ligure,61476
-591,5,single,Teresa salentino,93320
-592,68,single,Borgo Gustavo,25586
-593,85,married,Giovine calabro,48352
-594,-15,widowed,Sesto Greco,11234
-595,34,married,Filzi terme,79606
-596,10,married,Sesto Fulvio,82781
-597,16,divorced,Ugo lido,97614
-598,79,single,Sesto Ubaldo del friuli,52731
-599,76,single,Antonio lido,68267
-600,92,single,Rocco calabro,72444
-601,6,divorced,Borgo Nicolò del friuli,59326
-602,29,divorced,Panzera sardo,18721
-603,58,widowed,San Ferdinando,31831
-604,50,divorced,San Mauro umbro,51352
-605,-8,widowed,Ettore nell'emilia,38131
-606,23,married,Quarto Valerio a mare,77999
-607,62,single,Ettore laziale,63676
-608,2,divorced,Goldstein terme,10749
-609,82,widowed,Quarto Giulia,18502
-610,92,divorced,Uberto salentino,86171
-611,41,divorced,San Tina laziale,59926
-612,12,married,Sesto Ottavio terme,97881
-613,42,single,Adriano del friuli,44181
-614,86,widowed,Sesto Amanda,21435
-615,75,widowed,Armellini ligure,72435
-616,51,single,Borgo Milo,39352
-617,74,widowed,Quarto Maurizio salentino,79155
-618,35,married,Borgo Greca,83194
-619,68,divorced,Settimo Bartolomeo,93726
-620,96,married,Sesto Sylvia nell'emilia,71160
-621,36,married,Settimo Alderano salentino,28713
-622,66,divorced,Ruggiero sardo,28879
-623,61,divorced,Maderna laziale,67444
-624,79,married,Napoleone laziale,10914
-625,55,widowed,Casale a mare,88267
-626,44,divorced,Sesto Tiziano,92959
-627,25,single,Durante a mare,35163
-628,26,married,Federigo ligure,96073
-629,86,widowed,Flora del friuli,91087
-630,35,single,Pizzo calabro,61356
-631,84,divorced,San Rossana,85608
-632,82,single,Barcaccia ligure,34295
-633,52,single,Settimo Gaspare,90149
-634,16,widowed,Piersanti nell'emilia,91087
-635,30,married,Zanazzo laziale,39894
-636,58,widowed,Pier lido,85045
-637,67,married,Bixio ligure,16482
-638,19,divorced,Quarto Elladio del friuli,81576
-639,78,widowed,San Pompeo lido,58189
-640,18,widowed,Borgo Ivan,81345
-641,86,married,Peruzzi veneto,97715
-642,28,widowed,Iannuzzi veneto,11378
-643,68,single,Settimo Daria,97075
-644,22,single,Quarto Giulietta salentino,96510
-645,70,widowed,Costantino lido,97650
-646,64,married,Marcacci calabro,19424
-647,9,widowed,Sesto Roman del friuli,58078
-648,11,married,Settimo Paride ligure,64414
-649,10,widowed,Settimo Giovanna,89961
-650,84,single,Ettore nell'emilia,67612
-651,98,married,Gianni lido,41409
-652,53,divorced,Livio umbro,49431
-653,-19,married,Sesto Mario veneto,14290
-654,60,widowed,Gianpaolo ligure,64678
-655,36,married,Quarto Gaspare terme,54879
-656,98,widowed,Dossetti laziale,65288
-657,46,widowed,Borgo Adamo salentino,52674
-658,6,single,Sesto Alphons laziale,12814
-659,50,married,Ninetta sardo,67688
-660,79,married,Giacinto veneto,46587
-661,93,divorced,Borgo Arnaldo,53259
-662,98,married,Sesto Imelda,17654
-663,91,married,Settimo Ottavio terme,22312
-664,13,divorced,Bignami laziale,71428
-665,29,single,San Enzo,14798
-666,46,single,Broschi salentino,84644
-667,15,divorced,Maria terme,39195
-668,44,divorced,Tamburello calabro,31012
-669,77,single,San Amedeo,42657
-670,22,widowed,San Rodolfo,88485
-671,15,married,Rembrandt nell'emilia,15467
-672,71,widowed,Quarto Ninetta del friuli,69136
-673,16,married,Borgo Mercedes salentino,29661
-674,14,single,Pacetti terme,26941
-675,77,widowed,Victoria ligure,56067
-676,5,divorced,Irma salentino,74844
-677,88,single,Orlando del friuli,29077
-678,43,divorced,Federico nell'emilia,56446
-679,29,widowed,Girolamo terme,80895
-680,35,married,Caterina terme,82021
-681,64,married,Gozzano nell'emilia,62989
-682,-1,married,Tatiana lido,25116
-683,13,single,San Maria,93106
-684,19,divorced,Vergerio del friuli,51747
-685,100,widowed,Cainero terme,70561
-686,34,single,Sesto Elmo nell'emilia,77139
-687,32,divorced,Domenico umbro,43175
-688,7,married,Sesto Sandra umbro,13381
-689,11,married,Borgo Monica,83878
-690,10,widowed,Morellato calabro,71140
-691,87,widowed,Alina umbro,46689
-692,4,divorced,Pina umbro,86537
-693,29,divorced,San Rosa,40073
-694,84,widowed,Borgo Gelsomina laziale,20865
-695,22,widowed,San Bianca nell'emilia,73727
-696,-1,married,Volterra umbro,15351
-697,11,divorced,Settimo Cecilia,17512
-698,36,single,Avogadro laziale,75355
-699,60,single,Sesto Rosa laziale,24386
-700,85,divorced,San Fulvio,41198
-701,53,married,Monaco terme,70102
-702,77,divorced,Quarto Ermanno ligure,46581
-703,42,single,Zaccagnini nell'emilia,90389
-704,73,widowed,Brugnaro terme,37727
-705,97,widowed,Chiara umbro,26407
-706,93,widowed,Borgo Nedda,86359
-707,54,married,Travia lido,25760
-708,-13,married,Borgo Fiamma terme,62279
-709,10,divorced,Settimo Marta lido,72015
-710,-19,single,Villarosa lido,72714
-711,-14,married,Malenchini salentino,13926
-712,99,widowed,Pavanello veneto,38169
-713,26,single,Borgo Carlo laziale,14795
-714,6,widowed,Sesto Fiorenzo umbro,84243
-715,58,married,Amico sardo,49262
-716,14,single,Quarto Lidia,72429
-717,7,married,Pastine sardo,91089
-718,10,divorced,Gentileschi salentino,69888
-719,20,widowed,Ennio terme,17933
-720,29,widowed,Valentina laziale,10512
-721,37,married,Boccherini lido,68328
-722,32,single,Sesto Elvira umbro,50852
-723,29,widowed,Bianca a mare,29905
-724,4,single,Sesto Cassandra terme,69930
-725,62,widowed,Settimo Beppe,20130
-726,30,widowed,Tatiana del friuli,80788
-727,98,single,San Maria calabro,14638
-728,85,divorced,San Ida veneto,97211
-729,24,single,Luigi salentino,30832
-730,64,married,Ida a mare,49136
-731,33,widowed,Lara veneto,50210
-732,35,single,Sesto Liana laziale,93972
-733,10,married,Amleto del friuli,38816
-734,94,married,Vergassola lido,55734
-735,75,single,Settimo Nico,37124
-736,55,divorced,Sesto Gianfranco,81985
-737,31,divorced,Settimo Coluccio,85993
-738,71,divorced,Settimo Patrizio terme,13320
-739,80,married,Ronaldo salentino,48014
-740,10,widowed,San Elmo veneto,14804
-741,74,widowed,Sesto Renata,63851
-742,5,married,San Romana ligure,91493
-743,1,widowed,Borgo Laureano,38710
-744,90,divorced,Greco a mare,62398
-745,73,divorced,Borgo Manuel,81908
-746,77,widowed,Sesto Lisa,83646
-747,7,single,Sesto Pompeo terme,63171
-748,22,single,Sandro terme,74974
-749,92,divorced,Pierpaolo salentino,31591
-750,47,divorced,Lucio lido,65623
-751,24,widowed,San Ugolino laziale,75011
-752,46,divorced,Vanessa nell'emilia,80317
-753,37,married,San Lorenzo a mare,91897
-754,51,widowed,Goldoni veneto,77318
-755,51,married,Sesto Dante nell'emilia,96223
-756,36,single,Simeoni salentino,73177
-757,38,divorced,Zamorani umbro,76421
-758,-7,single,Maria lido,86347
-759,75,widowed,Venancio sardo,21466
-760,62,married,Pasquale calabro,96463
-761,11,married,Quarto Dino ligure,52192
-762,92,single,Navone ligure,48497
-763,80,divorced,Fiamma lido,58832
-764,86,married,Piersanti del friuli,78484
-765,67,single,Borgo Giuliano,30329
-766,10,married,Canil a mare,84905
-767,25,widowed,Sesto Eva,81806
-768,97,single,Sebastiano del friuli,78652
-769,-18,widowed,Ilaria salentino,22280
-770,2,single,Manolesso del friuli,54582
-771,31,single,Sesto Adele sardo,25652
-772,92,divorced,Settimo Greca veneto,35596
-773,81,widowed,Sesto Eugenia calabro,48459
-774,72,single,Settimo Giorgia,50150
-775,92,divorced,Piersanti nell'emilia,95495
-776,42,single,Donatella sardo,61088
-777,5,married,Nadia veneto,29505
-778,90,single,Borgo Gianluigi terme,82775
-779,100,single,Sesto Durante a mare,56882
-780,27,single,Calvo terme,36054
-781,23,single,Capecchi sardo,70461
-782,50,divorced,Settimo Maura terme,46363
-783,91,divorced,Settimo Gioacchino,10135
-784,83,divorced,Sesto Massimo,98992
-785,78,widowed,San Nedda lido,65671
-786,12,married,Tommaseo veneto,98938
-787,74,widowed,Camanni terme,74185
-788,97,married,Sesto Fiorino,78870
-789,48,single,Capone sardo,91957
-790,80,divorced,Borgo Antonello,21809
-791,62,married,Gianfranco a mare,80782
-792,26,divorced,Sesto Martino,40683
-793,38,widowed,Gaito terme,14820
-794,10,married,Sesto Donatello nell'emilia,45253
-795,53,widowed,Vittoria terme,59272
-796,73,single,Matteo laziale,92929
-797,63,widowed,Quarto Giorgia,21711
-798,93,married,Sesto Virginia,85358
-799,29,divorced,Piergiorgio nell'emilia,62971
-800,42,divorced,San Maurilio,36721
-801,54,divorced,Trussardi sardo,51736
-802,-1,divorced,Borgo Rembrandt,38400
-803,96,single,Ugolino salentino,93860
-804,45,single,Marenzio terme,43950
-805,9,widowed,Sesto Gianpietro sardo,54170
-806,77,divorced,Cirillo del friuli,17751
-807,83,widowed,Quarto Elvira,20066
-808,60,divorced,Griselda sardo,30366
-809,92,married,Stefano del friuli,78523
-810,15,single,Berengario ligure,63111
-811,85,widowed,Borgo Maria,44329
-812,38,single,Quarto Federica,61557
-813,47,widowed,Sesto Cassandra,14518
-814,3,single,Guglielmi nell'emilia,27723
-815,10,married,Settimo Ruggero,66873
-816,-7,widowed,Settimo Elena salentino,87091
-817,33,married,Vezzali terme,61120
-818,4,divorced,Cilibrasi lido,58032
-819,38,married,Biagio veneto,61642
-820,-20,divorced,Quarto Ermes,82823
-821,60,widowed,Quarto Angelica del friuli,24788
-822,24,divorced,San Maura terme,62725
-823,11,married,Quarto Mariano a mare,32656
-824,63,married,Quarto Aurora del friuli,61249
-825,11,married,Matteo nell'emilia,85327
-826,84,divorced,Borgo Gilberto,85612
-827,44,divorced,Borgo Fiamma calabro,68680
-828,33,married,Settimo Salvatore calabro,23191
-829,57,single,Orlando a mare,81599
-830,31,widowed,San Gianna del friuli,39229
-831,96,widowed,Borgo Amleto del friuli,83177
-832,36,widowed,Quarto Lazzaro ligure,53959
-833,4,married,Settimo Tullio,80286
-834,99,married,Lucchesi ligure,66780
-835,50,married,Sesto Pina,89147
-836,15,single,Borgo Cecilia nell'emilia,41694
-837,46,divorced,Dibiasi umbro,62959
-838,10,widowed,Zaira del friuli,60831
-839,49,divorced,Alessandro lido,68050
-840,10,married,Settimo Lolita lido,48848
-841,10,married,San Martino,53654
-842,64,divorced,San Calogero,36571
-843,43,divorced,Martina veneto,28876
-844,99,single,San Fabio nell'emilia,90051
-845,81,widowed,San Ivan laziale,42822
-846,56,married,Federigo del friuli,60737
-847,20,widowed,Livio ligure,86182
-848,64,divorced,Settimo Tonino lido,65530
-849,30,divorced,Fortunata nell'emilia,91669
-850,2,widowed,San Loredana a mare,14405
-851,-11,divorced,Benvenuto umbro,22543
-852,52,widowed,Settimo Greca umbro,96321
-853,81,divorced,Tresoldi terme,70219
-854,53,widowed,Ferrazzi salentino,29206
-855,24,divorced,Borgo Gelsomina,92826
-856,31,divorced,Sesto Adamo del friuli,32796
-857,55,widowed,Borgo Girolamo umbro,93991
-858,17,divorced,Settimo Ippazio veneto,92573
-859,84,single,Borgo Loredana sardo,33750
-860,9,divorced,Treccani veneto,12759
-861,16,single,Morandini veneto,54957
-862,9,single,Adriano a mare,12178
-863,10,married,Procacci salentino,23845
-864,43,married,Borgo Fausto,46607
-865,77,single,Quarto Annamaria,19829
-866,42,divorced,Settimo Saverio a mare,58468
-867,57,divorced,Sesto Ilaria,11408
-868,98,divorced,Bonino umbro,88885
-869,64,widowed,Eleanora veneto,96833
-870,46,married,Borgo Federico,51298
-871,17,divorced,Paulina del friuli,66914
-872,49,divorced,Gullotta del friuli,22664
-873,23,divorced,Vergassola ligure,65527
-874,9,married,San Silvio,55711
-875,63,married,San Ronaldo,10758
-876,1,widowed,Borgo Uberto,33215
-877,25,widowed,Borgo Ninetta,67541
-878,9,divorced,Borgo Ugolino,96269
-879,19,divorced,Quarto Biagio,53241
-880,18,divorced,Ermenegildo laziale,57732
-881,30,married,Chechi umbro,38695
-882,11,married,Galuppi calabro,35070
-883,1,married,Quarto Lucio calabro,75886
-884,48,married,San Vanessa nell'emilia,12402
-885,90,divorced,Rosaria lido,33560
-886,23,married,Sesto Giovanni,93010
-887,29,married,Necci lido,94255
-888,39,single,Oreste sardo,52421
-889,91,married,Imelda laziale,66928
-890,37,divorced,Ludovica umbro,75980
-891,75,widowed,Borgo Marta,64905
-892,17,married,Quarto Maurilio lido,31787
-893,68,married,Travia calabro,44355
-894,45,widowed,Bartolomeo ligure,96051
-895,58,married,Borgo Leonardo del friuli,36204
-896,30,widowed,Boezio umbro,35740
-897,44,divorced,Settimo Lina,42814
-898,84,married,San Virginia,25968
-899,7,married,Settimo Arnaldo salentino,78402
-900,90,married,Sesto Adelmo,40066
-901,22,married,Bondumier umbro,81665
-902,44,married,Borgo Giorgia calabro,98552
-903,65,widowed,San Ronaldo,55153
-904,39,single,Tiziana a mare,49029
-905,83,divorced,Quarto Ettore,85872
-906,42,divorced,Borgo Hugo calabro,29865
-907,22,widowed,Rocco veneto,60301
-908,18,divorced,Settimo Flora terme,90282
-909,69,single,Settimo Angelica terme,80220
-910,28,married,Laureano lido,94354
-911,8,married,Micca ligure,77902
-912,-5,single,Turchi terme,48690
-913,27,widowed,Sesto Roberta nell'emilia,95206
-914,86,single,Quarto Cipriano,11927
-915,49,divorced,Settimo Chiara,85934
-916,84,widowed,Schiavone calabro,72971
-917,30,divorced,San Pierangelo laziale,25267
-918,83,married,San Lucrezia,51794
-919,28,married,San Beatrice,30143
-920,37,divorced,Guariento del friuli,44513
-921,26,single,Rosiello veneto,97442
-922,8,widowed,Migliaccio veneto,91217
-923,89,divorced,Torricelli veneto,25686
-924,78,single,Schiaparelli veneto,92737
-925,61,single,Aldo lido,17824
-926,83,widowed,Settimo Bettina,75171
-927,32,divorced,Borgo Simone salentino,72869
-928,18,divorced,Paltrinieri ligure,87672
-929,88,widowed,Borgo Nanni lido,83675
-930,72,single,Quarto Graziella,45143
-931,13,divorced,Aulenti veneto,63085
-932,71,single,Sesto Carolina,63727
-933,76,single,Quarto Milena,45722
-934,87,widowed,Borgo Alfredo calabro,39521
-935,32,widowed,Sesto Rosa del friuli,72782
-936,98,divorced,Campanella laziale,96646
-937,99,widowed,Settimo Oreste umbro,41097
-938,42,single,Agnolo del friuli,31324
-939,94,married,Quarto Alberico nell'emilia,57110
-940,67,single,Piero sardo,36194
-941,55,married,Foconi a mare,14494
-942,56,married,Sesto Fiorenzo nell'emilia,40008
-943,55,married,Settimo Francesca a mare,53369
-944,64,widowed,Quarto Antonella,53373
-945,42,widowed,Borgo Alfredo,56399
-946,11,divorced,Saracino terme,51102
-947,10,married,Borromini calabro,15414
-948,20,divorced,Sesto Elena,25118
-949,16,divorced,Quarto Romeo sardo,90872
-950,12,widowed,Settimo Silvestro,75822
-951,11,married,Sesto Rosa veneto,95299
-952,79,widowed,Adriano veneto,71669
-953,23,married,San Pina del friuli,72787
-954,62,married,Giannotti ligure,43129
-955,54,divorced,Greca terme,20431
-956,40,widowed,Sesto Donna,57934
-957,8,divorced,Borgo Adele,37648
-958,70,divorced,Melissa umbro,48926
-959,10,divorced,Bettin nell'emilia,64121
-960,91,divorced,Sesto Lucrezia,96854
-961,10,married,Quarto Paride,75430
-962,88,divorced,Adriana terme,87760
-963,12,divorced,Pompeo a mare,30257
-964,52,divorced,Ugolino a mare,51894
-965,26,single,San Rosario calabro,79560
-966,37,divorced,Francesco terme,56962
-967,12,single,Borgo Beppe sardo,46193
-968,98,married,Susanna laziale,21094
-969,87,single,Borgo Azeglio,63248
-970,23,single,Ludovico sardo,29070
-971,-5,divorced,San Aria,31745
-972,13,married,Geraci terme,52092
-973,58,widowed,Varano sardo,92551
-974,-17,married,Augusto salentino,81583
-975,47,divorced,Borgo Bianca,11772
-976,46,single,Graziano veneto,86566
-977,-11,divorced,Borgo Lauretta umbro,55097
-978,67,divorced,Quarto Baldassare,74917
-979,32,divorced,Goldoni ligure,91040
-980,42,divorced,Cassandra sardo,87221
-981,31,widowed,San Fortunata del friuli,61506
-982,41,married,Soderini umbro,19781
-983,-5,married,Sesto Nadia,86931
-984,49,divorced,Luigina lido,79463
-985,19,widowed,Monica veneto,81430
-986,23,widowed,Babbo del friuli,97715
-987,95,widowed,Quarto Alfio,17975
-988,-16,widowed,Satriani del friuli,25781
-989,35,married,Quarto Vincenzo,88063
-990,35,single,Borgo Hugo,40187
-991,63,divorced,Cuomo veneto,12514
-992,30,widowed,Annalisa a mare,84234
-993,82,single,Sesto Armando calabro,71489
-994,12,single,Ferrazzi del friuli,89889
-995,46,single,Melina salentino,24889
-996,11,divorced,Quarto Azeglio umbro,99540
-997,87,widowed,Duse umbro,38623
-998,-7,married,Borgo Maura a mare,66651
-999,11,divorced,Sesto Zaira laziale,41569
+id  ,age ,marital_status ,city                         ,postal_code
+  0 ,25  ,single         ,San Adriano ligure           ,      87210
+  1 ,21  ,married        ,Galasso ligure               ,      57064
+  2 ,11  ,married        ,Pierangelo salentino         ,      88271
+  3 ,-6  ,divorced       ,Ammaniti laziale             ,      84363
+  4 ,22  ,divorced       ,Petruzzi del friuli          ,      14289
+  5 ,25  ,widowed        ,Settimo Victoria laziale     ,      20719
+  6 ,88  ,divorced       ,San Diana calabro            ,      82089
+  7 ,21  ,divorced       ,Sandra ligure                ,      31356
+  8 ,11  ,married        ,Sesto Romeo                  ,      15852
+  9 ,7   ,divorced       ,Settimo Etta calabro         ,      98079
+ 10 ,11  ,married        ,Gemma calabro                ,      46742
+ 11 ,-6  ,single         ,Cerquiglini salentino        ,      93729
+ 12 ,97  ,widowed        ,Giorgia salentino            ,      30464
+ 13 ,60  ,single         ,Borgo Sandro                 ,      32768
+ 14 ,-11 ,married        ,Borgo Lolita                 ,      35006
+ 15 ,91  ,widowed        ,Lilla a mare                 ,      96812
+ 16 ,68  ,married        ,Giosuè lido                  ,      42315
+ 17 ,62  ,divorced       ,Borgo Simone veneto          ,      74211
+ 18 ,61  ,widowed        ,Settimo Raffaello ligure     ,      28095
+ 19 ,8   ,single         ,Tomaselli ligure             ,      10045
+ 20 ,85  ,widowed        ,Borgo Agostino salentino     ,      54982
+ 21 ,11  ,single         ,Murri salentino              ,      43224
+ 22 ,24  ,divorced       ,Settimo Osvaldo              ,      96434
+ 23 ,98  ,married        ,Serraglio terme              ,      20947
+ 24 ,91  ,divorced       ,Tafuri calabro               ,      86601
+ 25 ,30  ,married        ,Rocco veneto                 ,      24772
+ 26 ,95  ,married        ,Sesto Durante sardo          ,      25423
+ 27 ,42  ,married        ,Pareto calabro               ,      75969
+ 28 ,98  ,divorced       ,Quarto Arturo                ,      12321
+ 29 ,17  ,married        ,Scandone sardo               ,      27287
+ 30 ,97  ,divorced       ,Borgo Erika calabro          ,      48924
+ 31 ,94  ,divorced       ,Guicciardini lido            ,      85563
+ 32 ,14  ,widowed        ,Torquato laziale             ,      23898
+ 33 ,53  ,divorced       ,Galeati lido                 ,      99322
+ 34 ,1   ,widowed        ,Sesto Franco                 ,      49278
+ 35 ,25  ,widowed        ,Borgo Giovanni ligure        ,      62320
+ 36 ,34  ,married        ,Conte calabro                ,      25829
+ 37 ,23  ,single         ,Borgo Costanzo veneto        ,      78110
+ 38 ,35  ,widowed        ,Sesto Biagio                 ,      81529
+ 39 ,62  ,married        ,Carmelo calabro              ,      74032
+ 40 ,30  ,single         ,Emo del friuli               ,      90497
+ 41 ,82  ,married        ,Settimo Giancarlo umbro      ,      14623
+ 42 ,11  ,married        ,Ponti ligure                 ,      98875
+ 43 ,87  ,married        ,Lauretta salentino           ,      19148
+ 44 ,11  ,married        ,Vendetti sardo               ,      80461
+ 45 ,83  ,divorced       ,Ottino umbro                 ,      23536
+ 46 ,82  ,widowed        ,Gelsomina a mare             ,      83525
+ 47 ,15  ,widowed        ,San Margherita               ,      30005
+ 48 ,78  ,single         ,Paltrinieri ligure           ,      42664
+ 49 ,-7  ,married        ,Settimo Roberta laziale      ,      90340
+ 50 ,35  ,divorced       ,Tina nell'emilia             ,      87756
+ 51 ,25  ,divorced       ,Settimo Carolina nell'emilia ,      91677
+ 52 ,44  ,married        ,San Luisa                    ,      68778
+ 53 ,82  ,married        ,Antonino veneto              ,      94026
+ 54 ,2   ,divorced       ,Tasca lido                   ,      96230
+ 55 ,47  ,married        ,Borgo Benito                 ,      80357
+ 56 ,75  ,divorced       ,San Piergiuseppe             ,      82982
+ 57 ,3   ,divorced       ,San Rossana a mare           ,      96607
+ 58 ,91  ,widowed        ,San Temistocle               ,      43415
+ 59 ,7   ,married        ,Monaco salentino             ,      60207
+ 60 ,11  ,married        ,Giampiero laziale            ,      18838
+ 61 ,61  ,widowed        ,Borgo Fiorino                ,      71473
+ 62 ,63  ,widowed        ,Borromeo ligure              ,      79127
+ 63 ,62  ,widowed        ,Matteotti del friuli         ,      48075
+ 64 ,74  ,divorced       ,Quarto Pompeo sardo          ,      41796
+ 65 ,24  ,divorced       ,Ferraris salentino           ,      84988
+ 66 ,26  ,single         ,Quarto Filippo veneto        ,      52056
+ 67 ,31  ,married        ,Borgo Rolando                ,      84329
+ 68 ,38  ,widowed        ,Borgo Pierpaolo              ,      61862
+ 69 ,42  ,married        ,Biagio laziale               ,      23280
+ 70 ,23  ,widowed        ,Antonio del friuli           ,      66920
+ 71 ,20  ,divorced       ,Piccio sardo                 ,      94930
+ 72 ,13  ,divorced       ,Settimo Giosuè del friuli    ,      91952
+ 73 ,28  ,widowed        ,San Romina terme             ,      13641
+ 74 ,23  ,divorced       ,Zaira nell'emilia            ,      65214
+ 75 ,35  ,divorced       ,San Coluccio salentino       ,      92332
+ 76 ,-8  ,widowed        ,Quarto Augusto lido          ,      86264
+ 77 ,23  ,married        ,Mirko lido                   ,      86441
+ 78 ,63  ,single         ,Sesto Federica               ,      19694
+ 79 ,18  ,single         ,Quarto Pellegrino            ,      45436
+ 80 ,83  ,divorced       ,Faggiani lido                ,      24613
+ 81 ,19  ,widowed        ,Adelasia salentino           ,      83330
+ 82 ,41  ,single         ,Quarto Laureano laziale      ,      80599
+ 83 ,11  ,married        ,Borgo Damiano                ,      23929
+ 84 ,5   ,married        ,Einaudi umbro                ,      76349
+ 85 ,70  ,divorced       ,San Letizia a mare           ,      34075
+ 86 ,56  ,divorced       ,Quarto Ernesto salentino     ,      85403
+ 87 ,30  ,widowed        ,Settimo Alberico lido        ,      62732
+ 88 ,16  ,divorced       ,Priuli veneto                ,      35971
+ 89 ,51  ,single         ,Tolentino veneto             ,      78184
+ 90 ,44  ,married        ,Ermanno lido                 ,      48236
+ 91 ,8   ,single         ,Romiti ligure                ,      37802
+ 92 ,-1  ,divorced       ,Toni veneto                  ,      56772
+ 93 ,74  ,married        ,Sesto Giulietta              ,      55634
+ 94 ,11  ,married        ,Borgo Ranieri                ,      44318
+ 95 ,76  ,divorced       ,Nicolò nell'emilia           ,      44514
+ 96 ,15  ,divorced       ,Quarto Marissa               ,      55007
+ 97 ,88  ,single         ,Giovine a mare               ,      71004
+ 98 ,11  ,married        ,Beffa del friuli             ,      20459
+ 99 ,77  ,married        ,Sesto Donna                  ,      84518
+100 ,32  ,divorced       ,Michelotto nell'emilia       ,      56650
+101 ,32  ,married        ,Quarto Alessandra sardo      ,      36760
+102 ,48  ,divorced       ,Volterra a mare              ,      80432
+103 ,98  ,single         ,Settimo Ilaria               ,      14773
+104 ,77  ,divorced       ,Loredana lido                ,      38642
+105 ,63  ,widowed        ,Alonzi salentino             ,      27014
+106 ,66  ,single         ,Quarto Caterina sardo        ,      24737
+107 ,95  ,single         ,Mercati laziale              ,      11396
+108 ,87  ,divorced       ,Sesto Galasso del friuli     ,      41389
+109 ,23  ,divorced       ,Settimo Amadeo               ,      55685
+110 ,6   ,married        ,Verdone sardo                ,      79104
+111 ,11  ,married        ,Melina ligure                ,      34209
+112 ,94  ,single         ,San Atenulf sardo            ,      80498
+113 ,65  ,single         ,Settimo Raffaele del friuli  ,      16427
+114 ,74  ,married        ,Vittoria terme               ,      55516
+115 ,45  ,single         ,Borgo Baldassare             ,      50025
+116 ,67  ,widowed        ,Comencini ligure             ,      21588
+117 ,70  ,married        ,Giannini sardo               ,      70138
+118 ,23  ,single         ,Petrucelli nell'emilia       ,      31492
+119 ,30  ,divorced       ,Olga a mare                  ,      75747
+120 ,14  ,divorced       ,Settimo Ernesto              ,      14758
+121 ,93  ,married        ,Sandra umbro                 ,      16713
+122 ,51  ,single         ,Sesto Rosa umbro             ,      73840
+123 ,87  ,married        ,Paulina nell'emilia          ,      17765
+124 ,56  ,divorced       ,Settimo Camilla nell'emilia  ,      55200
+125 ,8   ,widowed        ,Enzio del friuli             ,      85350
+126 ,42  ,married        ,Sanudo calabro               ,      25195
+127 ,10  ,married        ,Lilla ligure                 ,      38166
+128 ,72  ,widowed        ,Monica del friuli            ,      18674
+129 ,90  ,widowed        ,Orlando terme                ,      27604
+130 ,10  ,married        ,Esposito calabro             ,      35207
+131 ,48  ,single         ,Settimo Anita umbro          ,      23437
+132 ,10  ,married        ,Quarto Silvio calabro        ,      89393
+133 ,18  ,single         ,Fallaci del friuli           ,      51185
+134 ,11  ,widowed        ,Sesto Santino nell'emilia    ,      93151
+135 ,71  ,divorced       ,Borgo Donato                 ,      72953
+136 ,84  ,single         ,Bossi terme                  ,      56779
+137 ,-11 ,divorced       ,Settimo Lorenzo              ,      87210
+138 ,65  ,divorced       ,Sesto Ugo ligure             ,      49369
+139 ,-2  ,divorced       ,Naccari umbro                ,      57298
+140 ,49  ,widowed        ,Abatantuono salentino        ,      64912
+141 ,39  ,widowed        ,Ida nell'emilia              ,      35881
+142 ,68  ,married        ,Sesto Sole sardo             ,      57294
+143 ,7   ,married        ,Basso lido                   ,      67020
+144 ,27  ,divorced       ,Gonzaga salentino            ,      33825
+145 ,58  ,divorced       ,Sesto Martino a mare         ,      31768
+146 ,92  ,single         ,Adinolfi sardo               ,      38747
+147 ,37  ,single         ,Settimo Carlo                ,      61048
+148 ,87  ,single         ,Borgo Eliana calabro         ,      44406
+149 ,27  ,widowed        ,Quarto Giacinto del friuli   ,      72826
+150 ,98  ,married        ,Satriani laziale             ,      87780
+151 ,15  ,single         ,Franscini del friuli         ,      18687
+152 ,38  ,single         ,Rocca sardo                  ,      85043
+153 ,3   ,married        ,San Annunziata sardo         ,      49384
+154 ,10  ,married        ,San Paoletta                 ,      96760
+155 ,14  ,single         ,Maggioli lido                ,      54466
+156 ,69  ,widowed        ,Toso ligure                  ,      78964
+157 ,2   ,married        ,Agnolo salentino             ,      16931
+158 ,48  ,widowed        ,Borgo Giulio                 ,      24842
+159 ,36  ,single         ,San Laureano                 ,      87002
+160 ,-18 ,married        ,Borgo Maurilio               ,      69405
+161 ,59  ,single         ,Michelotto laziale           ,      75011
+162 ,18  ,married        ,San Osvaldo                  ,      27150
+163 ,-1  ,widowed        ,Settimo Annamaria            ,      35569
+164 ,26  ,divorced       ,Michele umbro                ,      76723
+165 ,88  ,widowed        ,Burcardo nell'emilia         ,      31933
+166 ,81  ,divorced       ,Amedeo laziale               ,      69097
+167 ,77  ,single         ,Quarto Uberto                ,      11097
+168 ,4   ,single         ,San Chiara ligure            ,      68983
+169 ,97  ,divorced       ,Tonisto lido                 ,      10229
+170 ,38  ,single         ,Borgo Venancio terme         ,      78965
+171 ,99  ,divorced       ,Segrè veneto                 ,      65183
+172 ,57  ,widowed        ,Fabia sardo                  ,      57099
+173 ,36  ,divorced       ,Settimo Armando veneto       ,      27291
+174 ,92  ,divorced       ,Adinolfi calabro             ,      26596
+175 ,35  ,single         ,Sesto Gaetano                ,      58639
+176 ,67  ,single         ,Settimo Rembrandt            ,      14124
+177 ,67  ,widowed        ,Quarto Ansaldo               ,      86182
+178 ,96  ,single         ,Quarto Tiziano               ,      32853
+179 ,11  ,married        ,Quarto Luigina               ,      72112
+180 ,76  ,single         ,Quarto Santino               ,      63269
+181 ,56  ,widowed        ,Quarto Agostino laziale      ,      71687
+182 ,10  ,married        ,Quarto Pasquale              ,      19001
+183 ,76  ,married        ,Quarto Rosaria               ,      98209
+184 ,16  ,divorced       ,Ponti sardo                  ,      80506
+185 ,19  ,divorced       ,Borgo Dina salentino         ,      63935
+186 ,50  ,single         ,Pellegrino nell'emilia       ,      43820
+187 ,41  ,widowed        ,Osvaldo nell'emilia          ,      53133
+188 ,77  ,single         ,Pizziol lido                 ,      24447
+189 ,72  ,widowed        ,Pirelli sardo                ,      90565
+190 ,83  ,widowed        ,Pezzali a mare               ,      62425
+191 ,86  ,married        ,Trapani salentino            ,      20377
+192 ,8   ,married        ,Modigliani del friuli        ,      41495
+193 ,95  ,divorced       ,Borgo Ranieri                ,      45655
+194 ,72  ,widowed        ,Settimo Michela              ,      50729
+195 ,13  ,divorced       ,Settimo Liberto veneto       ,      40608
+196 ,16  ,married        ,Settimo Beppe nell'emilia    ,      58205
+197 ,19  ,widowed        ,Nadi calabro                 ,      15970
+198 ,88  ,widowed        ,Luria nell'emilia            ,      68737
+199 ,56  ,single         ,Quarto Livio salentino       ,      42781
+200 ,7   ,single         ,Amico laziale                ,      50592
+201 ,28  ,married        ,Settimo Augusto              ,      87366
+202 ,-1  ,widowed        ,Cuda ligure                  ,      67364
+203 ,96  ,single         ,Bruscantini sardo            ,      31145
+204 ,56  ,widowed        ,Mariana umbro                ,      40034
+205 ,98  ,single         ,Donatella laziale            ,      26513
+206 ,13  ,single         ,San Fernanda terme           ,      42873
+207 ,82  ,married        ,Volta salentino              ,      77180
+208 ,65  ,single         ,Adamo umbro                  ,      17204
+209 ,24  ,married        ,Sesto Mirko                  ,      67849
+210 ,0   ,single         ,Quarto Berenice              ,      86711
+211 ,4   ,married        ,Borgo Isabella               ,      93680
+212 ,61  ,married        ,Morena del friuli            ,      62067
+213 ,84  ,single         ,San Sylvia a mare            ,      78345
+214 ,1   ,divorced       ,Quarto Paulina del friuli    ,      21772
+215 ,92  ,married        ,Sesto Roman                  ,      72818
+216 ,10  ,married        ,San Flavio                   ,      79727
+217 ,65  ,single         ,Antonina ligure              ,      81954
+218 ,47  ,single         ,Sesto Dina                   ,      15117
+219 ,63  ,divorced       ,Sesto Livia                  ,      58809
+220 ,72  ,widowed        ,Traetta laziale              ,      55284
+221 ,9   ,married        ,Settimo Ippazio sardo        ,      21901
+222 ,45  ,single         ,Rusticucci terme             ,      80419
+223 ,34  ,married        ,San Giada                    ,      44539
+224 ,51  ,married        ,Surian del friuli            ,      12045
+225 ,10  ,married        ,Bettina lido                 ,      47537
+226 ,35  ,divorced       ,Borgo Gionata                ,      93412
+227 ,74  ,widowed        ,Temistocle del friuli        ,      79483
+228 ,77  ,divorced       ,Quarto Coriolano calabro     ,      41144
+229 ,3   ,married        ,Malipiero calabro            ,      32113
+230 ,37  ,divorced       ,Mantegazza del friuli        ,      32113
+231 ,16  ,single         ,Borgo Nino calabro           ,      19462
+232 ,37  ,divorced       ,Altera terme                 ,      73493
+233 ,21  ,married        ,Maderno sardo                ,      66033
+234 ,14  ,single         ,Lucarelli veneto             ,      88342
+235 ,10  ,married        ,Sesto Piermaria              ,      36807
+236 ,34  ,divorced       ,Sesto Benedetto lido         ,      63600
+237 ,42  ,married        ,Opizzi sardo                 ,      77924
+238 ,93  ,single         ,Antonucci sardo              ,      54560
+239 ,30  ,single         ,San Fiorenzo                 ,      55057
+240 ,3   ,married        ,Lilla lido                   ,      11316
+241 ,37  ,single         ,Dionigi umbro                ,      41961
+242 ,3   ,widowed        ,Strangio laziale             ,      32904
+243 ,-2  ,widowed        ,Ruggiero nell'emilia         ,      73056
+244 ,34  ,divorced       ,Settimo Tonia nell'emilia    ,      65172
+245 ,85  ,married        ,Parini terme                 ,      11945
+246 ,60  ,divorced       ,San Rossana ligure           ,      94456
+247 ,44  ,married        ,Santorio terme               ,      72681
+248 ,36  ,divorced       ,Settimo Matteo               ,      32294
+249 ,62  ,single         ,Giancarlo calabro            ,      43032
+250 ,1   ,widowed        ,Eva terme                    ,      93848
+251 ,33  ,single         ,San Letizia                  ,      91414
+252 ,65  ,single         ,Borgo Ezio                   ,      78332
+253 ,76  ,single         ,Quarto Piermaria terme       ,      88405
+254 ,11  ,married        ,Borgo Jacopo                 ,      74722
+255 ,86  ,single         ,Moneta a mare                ,      81411
+256 ,30  ,widowed        ,Borgo Venancio sardo         ,      33487
+257 ,31  ,single         ,Settimo Marcella ligure      ,      80476
+258 ,59  ,married        ,San Melania salentino        ,      72130
+259 ,18  ,widowed        ,Gaito laziale                ,      89649
+260 ,83  ,divorced       ,Settimo Isabella lido        ,      86416
+261 ,28  ,single         ,Sesto Eleanora sardo         ,      88641
+262 ,55  ,divorced       ,Settimo Giovanna             ,      10068
+263 ,61  ,single         ,Raimondi salentino           ,      23988
+264 ,54  ,divorced       ,Settimo Enzo salentino       ,      88636
+265 ,47  ,divorced       ,Sesto Teresa                 ,      70822
+266 ,23  ,widowed        ,Dario terme                  ,      45873
+267 ,26  ,widowed        ,Priscilla salentino          ,      35472
+268 ,11  ,married        ,Gasperi a mare               ,      63015
+269 ,88  ,single         ,Bernardo veneto              ,      33746
+270 ,65  ,widowed        ,Busoni nell'emilia           ,      68825
+271 ,25  ,married        ,Danilo del friuli            ,      94299
+272 ,93  ,married        ,Sesto Paride nell'emilia     ,      54416
+273 ,91  ,divorced       ,Borgo Antonia                ,      92647
+274 ,78  ,married        ,Quarto Loredana del friuli   ,      99390
+275 ,84  ,widowed        ,Viola a mare                 ,      63552
+276 ,11  ,married        ,Raffaellino umbro            ,      95654
+277 ,9   ,married        ,Michelangelo sardo           ,      95667
+278 ,41  ,widowed        ,Foletti salentino            ,      96899
+279 ,45  ,single         ,Settimo Cecilia calabro      ,      81017
+280 ,15  ,single         ,Riccati calabro              ,      81736
+281 ,5   ,divorced       ,Borgo Antonietta             ,      11431
+282 ,54  ,single         ,Mercadante del friuli        ,      76867
+283 ,58  ,single         ,San Bernardo                 ,      41620
+284 ,3   ,married        ,Borgo Camilla terme          ,      35315
+285 ,50  ,single         ,Borgo Manuel                 ,      73031
+286 ,10  ,widowed        ,Evangelista ligure           ,      43338
+287 ,66  ,married        ,Borgo Rosina                 ,      65878
+288 ,71  ,single         ,Matteo salentino             ,      21137
+289 ,88  ,single         ,Giancarlo a mare             ,      57846
+290 ,17  ,widowed        ,Damiano laziale              ,      72144
+291 ,86  ,single         ,Borgo Renata                 ,      63332
+292 ,54  ,married        ,Sesto Bianca laziale         ,      76135
+293 ,63  ,widowed        ,Caracciolo sardo             ,      78690
+294 ,66  ,married        ,Irma del friuli              ,      89043
+295 ,59  ,divorced       ,Rodolfo sardo                ,      13300
+296 ,96  ,married        ,Settimo Gioele nell'emilia   ,      77734
+297 ,11  ,married        ,Settimo Alfredo              ,      73741
+298 ,40  ,married        ,San Priscilla lido           ,      66799
+299 ,3   ,married        ,Donato terme                 ,      73882
+300 ,84  ,widowed        ,San Silvia                   ,      91625
+301 ,79  ,widowed        ,Settimo Fabio                ,      88246
+302 ,90  ,single         ,Iannucci terme               ,      90330
+303 ,34  ,divorced       ,Adelmo sardo                 ,      93474
+304 ,53  ,married        ,Piccinni sardo               ,      75809
+305 ,69  ,divorced       ,Bazzi laziale                ,      22986
+306 ,49  ,single         ,San Liana                    ,      36977
+307 ,70  ,widowed        ,Quarto Fabrizio sardo        ,      88578
+308 ,88  ,widowed        ,Pasqual sardo                ,      96577
+309 ,94  ,divorced       ,Sesto Fabia umbro            ,      87192
+310 ,11  ,widowed        ,Lazzaro terme                ,      42447
+311 ,34  ,married        ,Guglielmi umbro              ,      56766
+312 ,68  ,single         ,Galvani del friuli           ,      99227
+313 ,66  ,single         ,Laura calabro                ,      66111
+314 ,42  ,divorced       ,Giosuè terme                 ,      12621
+315 ,19  ,divorced       ,Leonetti del friuli          ,      66546
+316 ,52  ,married        ,Settimo Fabia                ,      36779
+317 ,85  ,single         ,Settimo Annunziata salentino ,      83147
+318 ,4   ,divorced       ,Cantimori salentino          ,      86756
+319 ,23  ,single         ,Rosina terme                 ,      29703
+320 ,49  ,widowed        ,Berengario terme             ,      49763
+321 ,58  ,widowed        ,Rosaria lido                 ,      59599
+322 ,11  ,married        ,Borgo Alderano ligure        ,      93893
+323 ,84  ,married        ,Liberto a mare               ,      40264
+324 ,6   ,married        ,Borgo Bruno calabro          ,      66527
+325 ,53  ,widowed        ,Matilda calabro              ,      44857
+326 ,67  ,widowed        ,Quarto Arnaldo               ,      63834
+327 ,22  ,single         ,Carducci lido                ,      41303
+328 ,11  ,widowed        ,Borgo Michelotto veneto      ,      88981
+329 ,76  ,widowed        ,Borgo Ilaria lido            ,      25160
+330 ,62  ,single         ,San Morena                   ,      95492
+331 ,12  ,married        ,Mastandrea laziale           ,      18121
+332 ,87  ,divorced       ,Etta lido                    ,      21543
+333 ,74  ,single         ,Settimo Alessia salentino    ,      83036
+334 ,66  ,married        ,Guarato salentino            ,      79951
+335 ,45  ,married        ,Bonanno terme                ,      53338
+336 ,77  ,married        ,Palmisano veneto             ,      48709
+337 ,71  ,divorced       ,Ronaldo veneto               ,      15482
+338 ,5   ,single         ,Pizzamano laziale            ,      83024
+339 ,85  ,married        ,Borgo Lodovico               ,      42492
+340 ,11  ,married        ,Settimo Martino              ,      78582
+341 ,9   ,married        ,San Pasquale                 ,      97085
+342 ,25  ,widowed        ,San Giacinto salentino       ,      69615
+343 ,56  ,widowed        ,Sesto Toni a mare            ,      53681
+344 ,64  ,married        ,Quarto Nicoletta             ,      28622
+345 ,74  ,single         ,Piersanti nell'emilia        ,      38015
+346 ,85  ,divorced       ,Bernardo salentino           ,      49992
+347 ,88  ,married        ,Borgo Rosina del friuli      ,      49438
+348 ,10  ,married        ,Endrizzi calabro             ,      39490
+349 ,45  ,widowed        ,Vigliotti ligure             ,      91912
+350 ,66  ,widowed        ,Fernanda sardo               ,      19395
+351 ,59  ,married        ,Borgo Lucio umbro            ,      24067
+352 ,66  ,divorced       ,Sesto Gioele                 ,      28412
+353 ,57  ,single         ,Udinesi ligure               ,      81426
+354 ,97  ,single         ,Settimo Vincentio lido       ,      51077
+355 ,57  ,divorced       ,Borgo Gianpietro lido        ,      81097
+356 ,85  ,divorced       ,Elvira calabro               ,      48292
+357 ,86  ,married        ,Orsini del friuli            ,      88886
+358 ,95  ,single         ,Leone del friuli             ,      74863
+359 ,8   ,married        ,Manacorda umbro              ,      54033
+360 ,25  ,divorced       ,Borgo Orlando terme          ,      72298
+361 ,97  ,divorced       ,Quarto Barbara veneto        ,      31209
+362 ,10  ,married        ,Sante sardo                  ,      81389
+363 ,26  ,single         ,San Silvio umbro             ,      71450
+364 ,62  ,divorced       ,Ginesio umbro                ,      97950
+365 ,87  ,married        ,Settimo Giulio               ,      24368
+366 ,41  ,divorced       ,Maurilio sardo               ,      42851
+367 ,62  ,single         ,Pennetta calabro             ,      90556
+368 ,10  ,married        ,Settimo Sante                ,      79797
+369 ,86  ,divorced       ,Ciampi nell'emilia           ,      98248
+370 ,67  ,divorced       ,Ubaldo laziale               ,      30159
+371 ,6   ,married        ,Sesto Atenulf umbro          ,      18822
+372 ,62  ,widowed        ,Piazzi nell'emilia           ,      35721
+373 ,34  ,divorced       ,Borgo Rossana laziale        ,      58770
+374 ,59  ,divorced       ,Borgo Michele terme          ,      21063
+375 ,12  ,divorced       ,San Beatrice a mare          ,      56059
+376 ,80  ,widowed        ,Borgo Licia del friuli       ,      24811
+377 ,85  ,married        ,Sesto Laureano salentino     ,      71945
+378 ,97  ,widowed        ,Settimo Margherita umbro     ,      84283
+379 ,44  ,single         ,Sesto Vincenzo               ,      92917
+380 ,9   ,single         ,Cicala terme                 ,      65264
+381 ,98  ,single         ,Borgo Lilla sardo            ,      46054
+382 ,23  ,widowed        ,Giorgia umbro                ,      51520
+383 ,91  ,married        ,Borgo Raffaele               ,      42095
+384 ,97  ,divorced       ,Borgo Gabriella              ,      96334
+385 ,29  ,widowed        ,San Milo lido                ,      27484
+386 ,59  ,married        ,Luciani laziale              ,      29708
+387 ,89  ,married        ,Botticelli salentino         ,      97408
+388 ,53  ,single         ,Gioele nell'emilia           ,      14801
+389 ,96  ,single         ,San Silvia                   ,      32844
+390 ,69  ,single         ,Quarto Concetta del friuli   ,      26555
+391 ,73  ,single         ,Elena laziale                ,      99506
+392 ,49  ,divorced       ,Fredo laziale                ,      60391
+393 ,14  ,married        ,Settimo Evangelista          ,      41576
+394 ,51  ,widowed        ,Settimo Pierluigi ligure     ,      56754
+395 ,-6  ,divorced       ,Gabba lido                   ,      96875
+396 ,59  ,divorced       ,Sesto Beatrice               ,      77068
+397 ,33  ,divorced       ,Sesto Mauro                  ,      30649
+398 ,88  ,divorced       ,Graziano salentino           ,      58177
+399 ,29  ,single         ,Adelmo umbro                 ,      87526
+400 ,13  ,widowed        ,San Bianca lido              ,      68329
+401 ,2   ,widowed        ,Sesto Laura laziale          ,      92363
+402 ,81  ,divorced       ,Zanichelli laziale           ,      76132
+403 ,88  ,divorced       ,Flora terme                  ,      17451
+404 ,24  ,single         ,Quarto Livio                 ,      69309
+405 ,67  ,married        ,Borgo Tonino                 ,      28784
+406 ,3   ,married        ,Telesio nell'emilia          ,      99485
+407 ,4   ,divorced       ,San Donatella                ,      55642
+408 ,96  ,married        ,Quarto Carolina sardo        ,      41741
+409 ,75  ,single         ,Manolesso umbro              ,      72931
+410 ,49  ,married        ,Borgo Bartolomeo             ,      13005
+411 ,98  ,single         ,San Carmelo                  ,      60912
+412 ,57  ,widowed        ,Calarco a mare               ,      85852
+413 ,6   ,single         ,Borgo Benedetto              ,      21714
+414 ,5   ,widowed        ,Sesto Rocco nell'emilia      ,      34640
+415 ,25  ,single         ,Quarto Alderano a mare       ,      46425
+416 ,85  ,widowed        ,Pacelli veneto               ,      78545
+417 ,31  ,widowed        ,Borgo Giuseppina             ,      59617
+418 ,36  ,divorced       ,Quarto Aria del friuli       ,      89158
+419 ,63  ,widowed        ,Pugliese umbro               ,      94009
+420 ,20  ,widowed        ,Fagiani sardo                ,      87761
+421 ,24  ,divorced       ,Settimo Micheletto a mare    ,      10495
+422 ,5   ,single         ,Letizia calabro              ,      67243
+423 ,76  ,single         ,Atenulf del friuli           ,      43182
+424 ,91  ,widowed        ,Bruscantini calabro          ,      38943
+425 ,71  ,widowed        ,Paruta calabro               ,      14520
+426 ,74  ,widowed        ,Luciano veneto               ,      26643
+427 ,62  ,married        ,Ronaldo lido                 ,      43540
+428 ,63  ,widowed        ,Borgo Azeglio lido           ,      82585
+429 ,-10 ,widowed        ,Marrone terme                ,      23664
+430 ,14  ,single         ,San Emma                     ,      32720
+431 ,3   ,divorced       ,Luigina umbro                ,      78597
+432 ,3   ,married        ,Barracco nell'emilia         ,      21612
+433 ,25  ,married        ,San Giuseppe calabro         ,      77144
+434 ,21  ,widowed        ,San Mariana ligure           ,      24990
+435 ,88  ,widowed        ,Quarto Manuel terme          ,      73427
+436 ,15  ,single         ,San Marcantonio              ,      88640
+437 ,49  ,widowed        ,Quarto Mauro                 ,      84942
+438 ,-11 ,married        ,Quarto Angelica              ,      10572
+439 ,54  ,divorced       ,Settimo Mario ligure         ,      89841
+440 ,30  ,divorced       ,Alphons del friuli           ,      87278
+441 ,17  ,divorced       ,Ivo terme                    ,      39279
+442 ,25  ,single         ,Borgo Augusto                ,      91725
+443 ,33  ,widowed        ,Sesto Isabella salentino     ,      16880
+444 ,36  ,divorced       ,Borgo Piermaria              ,      68421
+445 ,25  ,widowed        ,San Antonio terme            ,      42321
+446 ,32  ,widowed        ,Quarto Gian nell'emilia      ,      99403
+447 ,47  ,married        ,Pizzetti sardo               ,      23716
+448 ,-7  ,single         ,Farina ligure                ,      19960
+449 ,76  ,widowed        ,San Renata                   ,      61781
+450 ,-15 ,widowed        ,Settimo Elmo calabro         ,      46499
+451 ,37  ,single         ,Borgo Paolo                  ,      13550
+452 ,10  ,married        ,Ugolino umbro                ,      10969
+453 ,94  ,widowed        ,Sesto Carmelo                ,      35352
+454 ,76  ,widowed        ,Sesto Ettore                 ,      44436
+455 ,33  ,widowed        ,Settimo Cecilia              ,      28758
+456 ,54  ,married        ,San Concetta a mare          ,      65501
+457 ,56  ,married        ,Quarto Uberto lido           ,      28467
+458 ,84  ,divorced       ,Fausto a mare                ,      40900
+459 ,27  ,single         ,Borgo Cristina               ,      37124
+460 ,92  ,divorced       ,Nugnes nell'emilia           ,      15131
+461 ,4   ,married        ,Benvenuto terme              ,      35624
+462 ,90  ,widowed        ,Settimo Guido                ,      15658
+463 ,97  ,widowed        ,Quarto Vittorio nell'emilia  ,      64402
+464 ,55  ,married        ,Pietro ligure                ,      97971
+465 ,29  ,single         ,Borgo Pierangelo del friuli  ,      62825
+466 ,55  ,divorced       ,Claudia nell'emilia          ,      61214
+467 ,39  ,single         ,Sesto Renzo                  ,      20136
+468 ,52  ,married        ,Quarto Sebastiano lido       ,      21383
+469 ,96  ,single         ,Sesto Franco                 ,      81777
+470 ,21  ,married        ,San Vincenza del friuli      ,      75920
+471 ,16  ,married        ,Lucciano sardo               ,      28525
+472 ,52  ,widowed        ,Martino lido                 ,      35296
+473 ,91  ,widowed        ,Quarto Sonia salentino       ,      72804
+474 ,16  ,divorced       ,Sesto Ruggero umbro          ,      59622
+475 ,44  ,married        ,Settimo Griselda del friuli  ,      62416
+476 ,90  ,divorced       ,Settimo Angelica laziale     ,      62463
+477 ,32  ,married        ,Settimo Marina salentino     ,      39311
+478 ,84  ,married        ,Raffaellino terme            ,      96265
+479 ,18  ,single         ,Angeli sardo                 ,      79537
+480 ,80  ,married        ,Bosurgi salentino            ,      60163
+481 ,-3  ,single         ,San Clelia calabro           ,      46695
+482 ,67  ,single         ,Settimo Maurizio             ,      57316
+483 ,96  ,single         ,Sesto Ornella                ,      94773
+484 ,54  ,widowed        ,Bonatti ligure               ,      87239
+485 ,46  ,single         ,San Danilo                   ,      91706
+486 ,10  ,married        ,Borsiere ligure              ,      65962
+487 ,79  ,widowed        ,San Gioele                   ,      12919
+488 ,36  ,widowed        ,Settimo Gianna terme         ,      38961
+489 ,54  ,divorced       ,San Ermenegildo del friuli   ,      72439
+490 ,67  ,widowed        ,Micheletto sardo             ,      70893
+491 ,31  ,single         ,Vittoria a mare              ,      71319
+492 ,16  ,married        ,Borgo Mattia                 ,      80168
+493 ,80  ,widowed        ,Virgilio laziale             ,      93777
+494 ,96  ,widowed        ,Iannuzzi nell'emilia         ,      44412
+495 ,1   ,widowed        ,Borgo Nedda terme            ,      55637
+496 ,82  ,widowed        ,Fischetti terme              ,      87494
+497 ,72  ,widowed        ,Sesto Luigina veneto         ,      19220
+498 ,40  ,divorced       ,Luca umbro                   ,      76048
+499 ,11  ,married        ,Borgo Tiziano calabro        ,      10538
+500 ,39  ,widowed        ,San Pomponio laziale         ,      75300
+501 ,53  ,married        ,Bonatti nell'emilia          ,      24927
+502 ,70  ,married        ,Benito lido                  ,      83024
+503 ,26  ,single         ,Settimo Silvestro            ,      84610
+504 ,85  ,married        ,Abatantuono calabro          ,      74061
+505 ,91  ,single         ,San Lidia                    ,      15790
+506 ,14  ,divorced       ,Nicolini veneto              ,      79030
+507 ,3   ,divorced       ,Goffredo del friuli          ,      13332
+508 ,39  ,single         ,Sesto Ivan veneto            ,      36437
+509 ,69  ,married        ,Trincavelli terme            ,      26460
+510 ,34  ,single         ,Sagnelli veneto              ,      64089
+511 ,88  ,single         ,Settimo Ruggero              ,      28896
+512 ,64  ,single         ,Borgo Arnulfo                ,      56017
+513 ,4   ,married        ,Liliana salentino            ,      98815
+514 ,18  ,divorced       ,San Romolo                   ,      77315
+515 ,10  ,married        ,Lara laziale                 ,      41327
+516 ,73  ,single         ,Quarto Ornella laziale       ,      88760
+517 ,87  ,married        ,Quarto Arnulfo               ,      10601
+518 ,7   ,married        ,Borgo Camilla lido           ,      84132
+519 ,62  ,divorced       ,Quarto Marisa a mare         ,      11238
+520 ,57  ,married        ,Ajello laziale               ,      71540
+521 ,93  ,widowed        ,Sesto Annunziata             ,      40027
+522 ,98  ,widowed        ,Tamburi a mare               ,      66846
+523 ,99  ,single         ,Novaro nell'emilia           ,      22629
+524 ,27  ,single         ,Borgo Alderano               ,      83156
+525 ,22  ,divorced       ,San Fredo salentino          ,      80243
+526 ,55  ,divorced       ,Sesto Roberta veneto         ,      39229
+527 ,28  ,single         ,Nico a mare                  ,      64297
+528 ,14  ,single         ,Borgo Guarino                ,      52486
+529 ,61  ,divorced       ,Fogazzaro salentino          ,      49264
+530 ,54  ,divorced       ,Borgo Tullio                 ,      55926
+531 ,55  ,single         ,Liana del friuli             ,      31623
+532 ,8   ,divorced       ,Amalia laziale               ,      84480
+533 ,15  ,single         ,Vergerio veneto              ,      93935
+534 ,91  ,single         ,Luria calabro                ,      24417
+535 ,39  ,divorced       ,Coriolano calabro            ,      93541
+536 ,74  ,divorced       ,San Alessandra lido          ,      50372
+537 ,11  ,single         ,Zaira salentino              ,      97448
+538 ,84  ,married        ,Quarto Lando                 ,      93422
+539 ,19  ,married        ,San Ernesto                  ,      71367
+540 ,1   ,divorced       ,Sauro a mare                 ,      33269
+541 ,24  ,married        ,Gori lido                    ,      86920
+542 ,20  ,married        ,Dulbecco laziale             ,      57176
+543 ,56  ,widowed        ,Sesto Graziano               ,      23443
+544 ,-10 ,single         ,San Piergiuseppe nell'emilia ,      59901
+545 ,79  ,single         ,Iannucci veneto              ,      69173
+546 ,45  ,divorced       ,Settimo Silvestro            ,      62167
+547 ,13  ,married        ,Settimo Maurilio ligure      ,      63475
+548 ,-16 ,divorced       ,San Marisa laziale           ,      88904
+549 ,35  ,single         ,Quarto Ernesto del friuli    ,      32012
+550 ,10  ,married        ,Borgo Greco umbro            ,      93371
+551 ,63  ,single         ,San Loredana                 ,      43754
+552 ,20  ,widowed        ,Quarto Maria laziale         ,      68368
+553 ,100 ,widowed        ,Pomponio salentino           ,      55641
+554 ,53  ,divorced       ,Borgo Greco veneto           ,      40396
+555 ,-10 ,married        ,Scarpa nell'emilia           ,      53128
+556 ,85  ,single         ,Settimo Luca                 ,      82593
+557 ,-13 ,divorced       ,Quarto Coriolano             ,      93900
+558 ,91  ,widowed        ,Prodi lido                   ,      20056
+559 ,92  ,widowed        ,Federica terme               ,      65725
+560 ,82  ,widowed        ,Quarto Pasqual veneto        ,      10720
+561 ,83  ,divorced       ,Melania ligure               ,      28759
+562 ,47  ,divorced       ,Sesto Danilo veneto          ,      23531
+563 ,13  ,divorced       ,Quarto Domenico salentino    ,      82451
+564 ,1   ,widowed        ,Giacomo calabro              ,      59176
+565 ,34  ,divorced       ,Quarto Gustavo               ,      91110
+566 ,71  ,single         ,Zarlino del friuli           ,      27860
+567 ,64  ,divorced       ,Micheletto a mare            ,      60851
+568 ,44  ,divorced       ,Borgo Paulina                ,      11061
+569 ,46  ,single         ,Settimo Viridiana            ,      76746
+570 ,61  ,married        ,Gabriella ligure             ,      14591
+571 ,56  ,widowed        ,Pace nell'emilia             ,      78283
+572 ,65  ,widowed        ,Settimo Stefania             ,      16088
+573 ,58  ,widowed        ,Borgo Mauro umbro            ,      81191
+574 ,87  ,widowed        ,San Lina                     ,      31772
+575 ,5   ,married        ,Piazzi veneto                ,      83742
+576 ,41  ,divorced       ,San Loredana                 ,      39725
+577 ,79  ,married        ,San Guido                    ,      69011
+578 ,60  ,single         ,Giusti calabro               ,      96038
+579 ,11  ,married        ,Settimo Elmo                 ,      97204
+580 ,41  ,widowed        ,Olga salentino               ,      56993
+581 ,92  ,divorced       ,Borgo Virginia               ,      50022
+582 ,64  ,single         ,Lopresti umbro               ,      23497
+583 ,11  ,married        ,Gianna ligure                ,      28040
+584 ,83  ,single         ,Quarto Piersanti             ,      49681
+585 ,35  ,divorced       ,Milena sardo                 ,      79394
+586 ,28  ,married        ,Giacinto nell'emilia         ,      20245
+587 ,91  ,widowed        ,Sesto Barbara calabro        ,      47082
+588 ,11  ,married        ,Quarto Alfio lido            ,      24926
+589 ,2   ,single         ,Annetta veneto               ,      86291
+590 ,-6  ,married        ,Borgo Ornella ligure         ,      61476
+591 ,5   ,single         ,Teresa salentino             ,      93320
+592 ,68  ,single         ,Borgo Gustavo                ,      25586
+593 ,85  ,married        ,Giovine calabro              ,      48352
+594 ,-15 ,widowed        ,Sesto Greco                  ,      11234
+595 ,34  ,married        ,Filzi terme                  ,      79606
+596 ,10  ,married        ,Sesto Fulvio                 ,      82781
+597 ,16  ,divorced       ,Ugo lido                     ,      97614
+598 ,79  ,single         ,Sesto Ubaldo del friuli      ,      52731
+599 ,76  ,single         ,Antonio lido                 ,      68267
+600 ,92  ,single         ,Rocco calabro                ,      72444
+601 ,6   ,divorced       ,Borgo Nicolò del friuli      ,      59326
+602 ,29  ,divorced       ,Panzera sardo                ,      18721
+603 ,58  ,widowed        ,San Ferdinando               ,      31831
+604 ,50  ,divorced       ,San Mauro umbro              ,      51352
+605 ,-8  ,widowed        ,Ettore nell'emilia           ,      38131
+606 ,23  ,married        ,Quarto Valerio a mare        ,      77999
+607 ,62  ,single         ,Ettore laziale               ,      63676
+608 ,2   ,divorced       ,Goldstein terme              ,      10749
+609 ,82  ,widowed        ,Quarto Giulia                ,      18502
+610 ,92  ,divorced       ,Uberto salentino             ,      86171
+611 ,41  ,divorced       ,San Tina laziale             ,      59926
+612 ,12  ,married        ,Sesto Ottavio terme          ,      97881
+613 ,42  ,single         ,Adriano del friuli           ,      44181
+614 ,86  ,widowed        ,Sesto Amanda                 ,      21435
+615 ,75  ,widowed        ,Armellini ligure             ,      72435
+616 ,51  ,single         ,Borgo Milo                   ,      39352
+617 ,74  ,widowed        ,Quarto Maurizio salentino    ,      79155
+618 ,35  ,married        ,Borgo Greca                  ,      83194
+619 ,68  ,divorced       ,Settimo Bartolomeo           ,      93726
+620 ,96  ,married        ,Sesto Sylvia nell'emilia     ,      71160
+621 ,36  ,married        ,Settimo Alderano salentino   ,      28713
+622 ,66  ,divorced       ,Ruggiero sardo               ,      28879
+623 ,61  ,divorced       ,Maderna laziale              ,      67444
+624 ,79  ,married        ,Napoleone laziale            ,      10914
+625 ,55  ,widowed        ,Casale a mare                ,      88267
+626 ,44  ,divorced       ,Sesto Tiziano                ,      92959
+627 ,25  ,single         ,Durante a mare               ,      35163
+628 ,26  ,married        ,Federigo ligure              ,      96073
+629 ,86  ,widowed        ,Flora del friuli             ,      91087
+630 ,35  ,single         ,Pizzo calabro                ,      61356
+631 ,84  ,divorced       ,San Rossana                  ,      85608
+632 ,82  ,single         ,Barcaccia ligure             ,      34295
+633 ,52  ,single         ,Settimo Gaspare              ,      90149
+634 ,16  ,widowed        ,Piersanti nell'emilia        ,      91087
+635 ,30  ,married        ,Zanazzo laziale              ,      39894
+636 ,58  ,widowed        ,Pier lido                    ,      85045
+637 ,67  ,married        ,Bixio ligure                 ,      16482
+638 ,19  ,divorced       ,Quarto Elladio del friuli    ,      81576
+639 ,78  ,widowed        ,San Pompeo lido              ,      58189
+640 ,18  ,widowed        ,Borgo Ivan                   ,      81345
+641 ,86  ,married        ,Peruzzi veneto               ,      97715
+642 ,28  ,widowed        ,Iannuzzi veneto              ,      11378
+643 ,68  ,single         ,Settimo Daria                ,      97075
+644 ,22  ,single         ,Quarto Giulietta salentino   ,      96510
+645 ,70  ,widowed        ,Costantino lido              ,      97650
+646 ,64  ,married        ,Marcacci calabro             ,      19424
+647 ,9   ,widowed        ,Sesto Roman del friuli       ,      58078
+648 ,11  ,married        ,Settimo Paride ligure        ,      64414
+649 ,10  ,widowed        ,Settimo Giovanna             ,      89961
+650 ,84  ,single         ,Ettore nell'emilia           ,      67612
+651 ,98  ,married        ,Gianni lido                  ,      41409
+652 ,53  ,divorced       ,Livio umbro                  ,      49431
+653 ,-19 ,married        ,Sesto Mario veneto           ,      14290
+654 ,60  ,widowed        ,Gianpaolo ligure             ,      64678
+655 ,36  ,married        ,Quarto Gaspare terme         ,      54879
+656 ,98  ,widowed        ,Dossetti laziale             ,      65288
+657 ,46  ,widowed        ,Borgo Adamo salentino        ,      52674
+658 ,6   ,single         ,Sesto Alphons laziale        ,      12814
+659 ,50  ,married        ,Ninetta sardo                ,      67688
+660 ,79  ,married        ,Giacinto veneto              ,      46587
+661 ,93  ,divorced       ,Borgo Arnaldo                ,      53259
+662 ,98  ,married        ,Sesto Imelda                 ,      17654
+663 ,91  ,married        ,Settimo Ottavio terme        ,      22312
+664 ,13  ,divorced       ,Bignami laziale              ,      71428
+665 ,29  ,single         ,San Enzo                     ,      14798
+666 ,46  ,single         ,Broschi salentino            ,      84644
+667 ,15  ,divorced       ,Maria terme                  ,      39195
+668 ,44  ,divorced       ,Tamburello calabro           ,      31012
+669 ,77  ,single         ,San Amedeo                   ,      42657
+670 ,22  ,widowed        ,San Rodolfo                  ,      88485
+671 ,15  ,married        ,Rembrandt nell'emilia        ,      15467
+672 ,71  ,widowed        ,Quarto Ninetta del friuli    ,      69136
+673 ,16  ,married        ,Borgo Mercedes salentino     ,      29661
+674 ,14  ,single         ,Pacetti terme                ,      26941
+675 ,77  ,widowed        ,Victoria ligure              ,      56067
+676 ,5   ,divorced       ,Irma salentino               ,      74844
+677 ,88  ,single         ,Orlando del friuli           ,      29077
+678 ,43  ,divorced       ,Federico nell'emilia         ,      56446
+679 ,29  ,widowed        ,Girolamo terme               ,      80895
+680 ,35  ,married        ,Caterina terme               ,      82021
+681 ,64  ,married        ,Gozzano nell'emilia          ,      62989
+682 ,-1  ,married        ,Tatiana lido                 ,      25116
+683 ,13  ,single         ,San Maria                    ,      93106
+684 ,19  ,divorced       ,Vergerio del friuli          ,      51747
+685 ,100 ,widowed        ,Cainero terme                ,      70561
+686 ,34  ,single         ,Sesto Elmo nell'emilia       ,      77139
+687 ,32  ,divorced       ,Domenico umbro               ,      43175
+688 ,7   ,married        ,Sesto Sandra umbro           ,      13381
+689 ,11  ,married        ,Borgo Monica                 ,      83878
+690 ,10  ,widowed        ,Morellato calabro            ,      71140
+691 ,87  ,widowed        ,Alina umbro                  ,      46689
+692 ,4   ,divorced       ,Pina umbro                   ,      86537
+693 ,29  ,divorced       ,San Rosa                     ,      40073
+694 ,84  ,widowed        ,Borgo Gelsomina laziale      ,      20865
+695 ,22  ,widowed        ,San Bianca nell'emilia       ,      73727
+696 ,-1  ,married        ,Volterra umbro               ,      15351
+697 ,11  ,divorced       ,Settimo Cecilia              ,      17512
+698 ,36  ,single         ,Avogadro laziale             ,      75355
+699 ,60  ,single         ,Sesto Rosa laziale           ,      24386
+700 ,85  ,divorced       ,San Fulvio                   ,      41198
+701 ,53  ,married        ,Monaco terme                 ,      70102
+702 ,77  ,divorced       ,Quarto Ermanno ligure        ,      46581
+703 ,42  ,single         ,Zaccagnini nell'emilia       ,      90389
+704 ,73  ,widowed        ,Brugnaro terme               ,      37727
+705 ,97  ,widowed        ,Chiara umbro                 ,      26407
+706 ,93  ,widowed        ,Borgo Nedda                  ,      86359
+707 ,54  ,married        ,Travia lido                  ,      25760
+708 ,-13 ,married        ,Borgo Fiamma terme           ,      62279
+709 ,10  ,divorced       ,Settimo Marta lido           ,      72015
+710 ,-19 ,single         ,Villarosa lido               ,      72714
+711 ,-14 ,married        ,Malenchini salentino         ,      13926
+712 ,99  ,widowed        ,Pavanello veneto             ,      38169
+713 ,26  ,single         ,Borgo Carlo laziale          ,      14795
+714 ,6   ,widowed        ,Sesto Fiorenzo umbro         ,      84243
+715 ,58  ,married        ,Amico sardo                  ,      49262
+716 ,14  ,single         ,Quarto Lidia                 ,      72429
+717 ,7   ,married        ,Pastine sardo                ,      91089
+718 ,10  ,divorced       ,Gentileschi salentino        ,      69888
+719 ,20  ,widowed        ,Ennio terme                  ,      17933
+720 ,29  ,widowed        ,Valentina laziale            ,      10512
+721 ,37  ,married        ,Boccherini lido              ,      68328
+722 ,32  ,single         ,Sesto Elvira umbro           ,      50852
+723 ,29  ,widowed        ,Bianca a mare                ,      29905
+724 ,4   ,single         ,Sesto Cassandra terme        ,      69930
+725 ,62  ,widowed        ,Settimo Beppe                ,      20130
+726 ,30  ,widowed        ,Tatiana del friuli           ,      80788
+727 ,98  ,single         ,San Maria calabro            ,      14638
+728 ,85  ,divorced       ,San Ida veneto               ,      97211
+729 ,24  ,single         ,Luigi salentino              ,      30832
+730 ,64  ,married        ,Ida a mare                   ,      49136
+731 ,33  ,widowed        ,Lara veneto                  ,      50210
+732 ,35  ,single         ,Sesto Liana laziale          ,      93972
+733 ,10  ,married        ,Amleto del friuli            ,      38816
+734 ,94  ,married        ,Vergassola lido              ,      55734
+735 ,75  ,single         ,Settimo Nico                 ,      37124
+736 ,55  ,divorced       ,Sesto Gianfranco             ,      81985
+737 ,31  ,divorced       ,Settimo Coluccio             ,      85993
+738 ,71  ,divorced       ,Settimo Patrizio terme       ,      13320
+739 ,80  ,married        ,Ronaldo salentino            ,      48014
+740 ,10  ,widowed        ,San Elmo veneto              ,      14804
+741 ,74  ,widowed        ,Sesto Renata                 ,      63851
+742 ,5   ,married        ,San Romana ligure            ,      91493
+743 ,1   ,widowed        ,Borgo Laureano               ,      38710
+744 ,90  ,divorced       ,Greco a mare                 ,      62398
+745 ,73  ,divorced       ,Borgo Manuel                 ,      81908
+746 ,77  ,widowed        ,Sesto Lisa                   ,      83646
+747 ,7   ,single         ,Sesto Pompeo terme           ,      63171
+748 ,22  ,single         ,Sandro terme                 ,      74974
+749 ,92  ,divorced       ,Pierpaolo salentino          ,      31591
+750 ,47  ,divorced       ,Lucio lido                   ,      65623
+751 ,24  ,widowed        ,San Ugolino laziale          ,      75011
+752 ,46  ,divorced       ,Vanessa nell'emilia          ,      80317
+753 ,37  ,married        ,San Lorenzo a mare           ,      91897
+754 ,51  ,widowed        ,Goldoni veneto               ,      77318
+755 ,51  ,married        ,Sesto Dante nell'emilia      ,      96223
+756 ,36  ,single         ,Simeoni salentino            ,      73177
+757 ,38  ,divorced       ,Zamorani umbro               ,      76421
+758 ,-7  ,single         ,Maria lido                   ,      86347
+759 ,75  ,widowed        ,Venancio sardo               ,      21466
+760 ,62  ,married        ,Pasquale calabro             ,      96463
+761 ,11  ,married        ,Quarto Dino ligure           ,      52192
+762 ,92  ,single         ,Navone ligure                ,      48497
+763 ,80  ,divorced       ,Fiamma lido                  ,      58832
+764 ,86  ,married        ,Piersanti del friuli         ,      78484
+765 ,67  ,single         ,Borgo Giuliano               ,      30329
+766 ,10  ,married        ,Canil a mare                 ,      84905
+767 ,25  ,widowed        ,Sesto Eva                    ,      81806
+768 ,97  ,single         ,Sebastiano del friuli        ,      78652
+769 ,-18 ,widowed        ,Ilaria salentino             ,      22280
+770 ,2   ,single         ,Manolesso del friuli         ,      54582
+771 ,31  ,single         ,Sesto Adele sardo            ,      25652
+772 ,92  ,divorced       ,Settimo Greca veneto         ,      35596
+773 ,81  ,widowed        ,Sesto Eugenia calabro        ,      48459
+774 ,72  ,single         ,Settimo Giorgia              ,      50150
+775 ,92  ,divorced       ,Piersanti nell'emilia        ,      95495
+776 ,42  ,single         ,Donatella sardo              ,      61088
+777 ,5   ,married        ,Nadia veneto                 ,      29505
+778 ,90  ,single         ,Borgo Gianluigi terme        ,      82775
+779 ,100 ,single         ,Sesto Durante a mare         ,      56882
+780 ,27  ,single         ,Calvo terme                  ,      36054
+781 ,23  ,single         ,Capecchi sardo               ,      70461
+782 ,50  ,divorced       ,Settimo Maura terme          ,      46363
+783 ,91  ,divorced       ,Settimo Gioacchino           ,      10135
+784 ,83  ,divorced       ,Sesto Massimo                ,      98992
+785 ,78  ,widowed        ,San Nedda lido               ,      65671
+786 ,12  ,married        ,Tommaseo veneto              ,      98938
+787 ,74  ,widowed        ,Camanni terme                ,      74185
+788 ,97  ,married        ,Sesto Fiorino                ,      78870
+789 ,48  ,single         ,Capone sardo                 ,      91957
+790 ,80  ,divorced       ,Borgo Antonello              ,      21809
+791 ,62  ,married        ,Gianfranco a mare            ,      80782
+792 ,26  ,divorced       ,Sesto Martino                ,      40683
+793 ,38  ,widowed        ,Gaito terme                  ,      14820
+794 ,10  ,married        ,Sesto Donatello nell'emilia  ,      45253
+795 ,53  ,widowed        ,Vittoria terme               ,      59272
+796 ,73  ,single         ,Matteo laziale               ,      92929
+797 ,63  ,widowed        ,Quarto Giorgia               ,      21711
+798 ,93  ,married        ,Sesto Virginia               ,      85358
+799 ,29  ,divorced       ,Piergiorgio nell'emilia      ,      62971
+800 ,42  ,divorced       ,San Maurilio                 ,      36721
+801 ,54  ,divorced       ,Trussardi sardo              ,      51736
+802 ,-1  ,divorced       ,Borgo Rembrandt              ,      38400
+803 ,96  ,single         ,Ugolino salentino            ,      93860
+804 ,45  ,single         ,Marenzio terme               ,      43950
+805 ,9   ,widowed        ,Sesto Gianpietro sardo       ,      54170
+806 ,77  ,divorced       ,Cirillo del friuli           ,      17751
+807 ,83  ,widowed        ,Quarto Elvira                ,      20066
+808 ,60  ,divorced       ,Griselda sardo               ,      30366
+809 ,92  ,married        ,Stefano del friuli           ,      78523
+810 ,15  ,single         ,Berengario ligure            ,      63111
+811 ,85  ,widowed        ,Borgo Maria                  ,      44329
+812 ,38  ,single         ,Quarto Federica              ,      61557
+813 ,47  ,widowed        ,Sesto Cassandra              ,      14518
+814 ,3   ,single         ,Guglielmi nell'emilia        ,      27723
+815 ,10  ,married        ,Settimo Ruggero              ,      66873
+816 ,-7  ,widowed        ,Settimo Elena salentino      ,      87091
+817 ,33  ,married        ,Vezzali terme                ,      61120
+818 ,4   ,divorced       ,Cilibrasi lido               ,      58032
+819 ,38  ,married        ,Biagio veneto                ,      61642
+820 ,-20 ,divorced       ,Quarto Ermes                 ,      82823
+821 ,60  ,widowed        ,Quarto Angelica del friuli   ,      24788
+822 ,24  ,divorced       ,San Maura terme              ,      62725
+823 ,11  ,married        ,Quarto Mariano a mare        ,      32656
+824 ,63  ,married        ,Quarto Aurora del friuli     ,      61249
+825 ,11  ,married        ,Matteo nell'emilia           ,      85327
+826 ,84  ,divorced       ,Borgo Gilberto               ,      85612
+827 ,44  ,divorced       ,Borgo Fiamma calabro         ,      68680
+828 ,33  ,married        ,Settimo Salvatore calabro    ,      23191
+829 ,57  ,single         ,Orlando a mare               ,      81599
+830 ,31  ,widowed        ,San Gianna del friuli        ,      39229
+831 ,96  ,widowed        ,Borgo Amleto del friuli      ,      83177
+832 ,36  ,widowed        ,Quarto Lazzaro ligure        ,      53959
+833 ,4   ,married        ,Settimo Tullio               ,      80286
+834 ,99  ,married        ,Lucchesi ligure              ,      66780
+835 ,50  ,married        ,Sesto Pina                   ,      89147
+836 ,15  ,single         ,Borgo Cecilia nell'emilia    ,      41694
+837 ,46  ,divorced       ,Dibiasi umbro                ,      62959
+838 ,10  ,widowed        ,Zaira del friuli             ,      60831
+839 ,49  ,divorced       ,Alessandro lido              ,      68050
+840 ,10  ,married        ,Settimo Lolita lido          ,      48848
+841 ,10  ,married        ,San Martino                  ,      53654
+842 ,64  ,divorced       ,San Calogero                 ,      36571
+843 ,43  ,divorced       ,Martina veneto               ,      28876
+844 ,99  ,single         ,San Fabio nell'emilia        ,      90051
+845 ,81  ,widowed        ,San Ivan laziale             ,      42822
+846 ,56  ,married        ,Federigo del friuli          ,      60737
+847 ,20  ,widowed        ,Livio ligure                 ,      86182
+848 ,64  ,divorced       ,Settimo Tonino lido          ,      65530
+849 ,30  ,divorced       ,Fortunata nell'emilia        ,      91669
+850 ,2   ,widowed        ,San Loredana a mare          ,      14405
+851 ,-11 ,divorced       ,Benvenuto umbro              ,      22543
+852 ,52  ,widowed        ,Settimo Greca umbro          ,      96321
+853 ,81  ,divorced       ,Tresoldi terme               ,      70219
+854 ,53  ,widowed        ,Ferrazzi salentino           ,      29206
+855 ,24  ,divorced       ,Borgo Gelsomina              ,      92826
+856 ,31  ,divorced       ,Sesto Adamo del friuli       ,      32796
+857 ,55  ,widowed        ,Borgo Girolamo umbro         ,      93991
+858 ,17  ,divorced       ,Settimo Ippazio veneto       ,      92573
+859 ,84  ,single         ,Borgo Loredana sardo         ,      33750
+860 ,9   ,divorced       ,Treccani veneto              ,      12759
+861 ,16  ,single         ,Morandini veneto             ,      54957
+862 ,9   ,single         ,Adriano a mare               ,      12178
+863 ,10  ,married        ,Procacci salentino           ,      23845
+864 ,43  ,married        ,Borgo Fausto                 ,      46607
+865 ,77  ,single         ,Quarto Annamaria             ,      19829
+866 ,42  ,divorced       ,Settimo Saverio a mare       ,      58468
+867 ,57  ,divorced       ,Sesto Ilaria                 ,      11408
+868 ,98  ,divorced       ,Bonino umbro                 ,      88885
+869 ,64  ,widowed        ,Eleanora veneto              ,      96833
+870 ,46  ,married        ,Borgo Federico               ,      51298
+871 ,17  ,divorced       ,Paulina del friuli           ,      66914
+872 ,49  ,divorced       ,Gullotta del friuli          ,      22664
+873 ,23  ,divorced       ,Vergassola ligure            ,      65527
+874 ,9   ,married        ,San Silvio                   ,      55711
+875 ,63  ,married        ,San Ronaldo                  ,      10758
+876 ,1   ,widowed        ,Borgo Uberto                 ,      33215
+877 ,25  ,widowed        ,Borgo Ninetta                ,      67541
+878 ,9   ,divorced       ,Borgo Ugolino                ,      96269
+879 ,19  ,divorced       ,Quarto Biagio                ,      53241
+880 ,18  ,divorced       ,Ermenegildo laziale          ,      57732
+881 ,30  ,married        ,Chechi umbro                 ,      38695
+882 ,11  ,married        ,Galuppi calabro              ,      35070
+883 ,1   ,married        ,Quarto Lucio calabro         ,      75886
+884 ,48  ,married        ,San Vanessa nell'emilia      ,      12402
+885 ,90  ,divorced       ,Rosaria lido                 ,      33560
+886 ,23  ,married        ,Sesto Giovanni               ,      93010
+887 ,29  ,married        ,Necci lido                   ,      94255
+888 ,39  ,single         ,Oreste sardo                 ,      52421
+889 ,91  ,married        ,Imelda laziale               ,      66928
+890 ,37  ,divorced       ,Ludovica umbro               ,      75980
+891 ,75  ,widowed        ,Borgo Marta                  ,      64905
+892 ,17  ,married        ,Quarto Maurilio lido         ,      31787
+893 ,68  ,married        ,Travia calabro               ,      44355
+894 ,45  ,widowed        ,Bartolomeo ligure            ,      96051
+895 ,58  ,married        ,Borgo Leonardo del friuli    ,      36204
+896 ,30  ,widowed        ,Boezio umbro                 ,      35740
+897 ,44  ,divorced       ,Settimo Lina                 ,      42814
+898 ,84  ,married        ,San Virginia                 ,      25968
+899 ,7   ,married        ,Settimo Arnaldo salentino    ,      78402
+900 ,90  ,married        ,Sesto Adelmo                 ,      40066
+901 ,22  ,married        ,Bondumier umbro              ,      81665
+902 ,44  ,married        ,Borgo Giorgia calabro        ,      98552
+903 ,65  ,widowed        ,San Ronaldo                  ,      55153
+904 ,39  ,single         ,Tiziana a mare               ,      49029
+905 ,83  ,divorced       ,Quarto Ettore                ,      85872
+906 ,42  ,divorced       ,Borgo Hugo calabro           ,      29865
+907 ,22  ,widowed        ,Rocco veneto                 ,      60301
+908 ,18  ,divorced       ,Settimo Flora terme          ,      90282
+909 ,69  ,single         ,Settimo Angelica terme       ,      80220
+910 ,28  ,married        ,Laureano lido                ,      94354
+911 ,8   ,married        ,Micca ligure                 ,      77902
+912 ,-5  ,single         ,Turchi terme                 ,      48690
+913 ,27  ,widowed        ,Sesto Roberta nell'emilia    ,      95206
+914 ,86  ,single         ,Quarto Cipriano              ,      11927
+915 ,49  ,divorced       ,Settimo Chiara               ,      85934
+916 ,84  ,widowed        ,Schiavone calabro            ,      72971
+917 ,30  ,divorced       ,San Pierangelo laziale       ,      25267
+918 ,83  ,married        ,San Lucrezia                 ,      51794
+919 ,28  ,married        ,San Beatrice                 ,      30143
+920 ,37  ,divorced       ,Guariento del friuli         ,      44513
+921 ,26  ,single         ,Rosiello veneto              ,      97442
+922 ,8   ,widowed        ,Migliaccio veneto            ,      91217
+923 ,89  ,divorced       ,Torricelli veneto            ,      25686
+924 ,78  ,single         ,Schiaparelli veneto          ,      92737
+925 ,61  ,single         ,Aldo lido                    ,      17824
+926 ,83  ,widowed        ,Settimo Bettina              ,      75171
+927 ,32  ,divorced       ,Borgo Simone salentino       ,      72869
+928 ,18  ,divorced       ,Paltrinieri ligure           ,      87672
+929 ,88  ,widowed        ,Borgo Nanni lido             ,      83675
+930 ,72  ,single         ,Quarto Graziella             ,      45143
+931 ,13  ,divorced       ,Aulenti veneto               ,      63085
+932 ,71  ,single         ,Sesto Carolina               ,      63727
+933 ,76  ,single         ,Quarto Milena                ,      45722
+934 ,87  ,widowed        ,Borgo Alfredo calabro        ,      39521
+935 ,32  ,widowed        ,Sesto Rosa del friuli        ,      72782
+936 ,98  ,divorced       ,Campanella laziale           ,      96646
+937 ,99  ,widowed        ,Settimo Oreste umbro         ,      41097
+938 ,42  ,single         ,Agnolo del friuli            ,      31324
+939 ,94  ,married        ,Quarto Alberico nell'emilia  ,      57110
+940 ,67  ,single         ,Piero sardo                  ,      36194
+941 ,55  ,married        ,Foconi a mare                ,      14494
+942 ,56  ,married        ,Sesto Fiorenzo nell'emilia   ,      40008
+943 ,55  ,married        ,Settimo Francesca a mare     ,      53369
+944 ,64  ,widowed        ,Quarto Antonella             ,      53373
+945 ,42  ,widowed        ,Borgo Alfredo                ,      56399
+946 ,11  ,divorced       ,Saracino terme               ,      51102
+947 ,10  ,married        ,Borromini calabro            ,      15414
+948 ,20  ,divorced       ,Sesto Elena                  ,      25118
+949 ,16  ,divorced       ,Quarto Romeo sardo           ,      90872
+950 ,12  ,widowed        ,Settimo Silvestro            ,      75822
+951 ,11  ,married        ,Sesto Rosa veneto            ,      95299
+952 ,79  ,widowed        ,Adriano veneto               ,      71669
+953 ,23  ,married        ,San Pina del friuli          ,      72787
+954 ,62  ,married        ,Giannotti ligure             ,      43129
+955 ,54  ,divorced       ,Greca terme                  ,      20431
+956 ,40  ,widowed        ,Sesto Donna                  ,      57934
+957 ,8   ,divorced       ,Borgo Adele                  ,      37648
+958 ,70  ,divorced       ,Melissa umbro                ,      48926
+959 ,10  ,divorced       ,Bettin nell'emilia           ,      64121
+960 ,91  ,divorced       ,Sesto Lucrezia               ,      96854
+961 ,10  ,married        ,Quarto Paride                ,      75430
+962 ,88  ,divorced       ,Adriana terme                ,      87760
+963 ,12  ,divorced       ,Pompeo a mare                ,      30257
+964 ,52  ,divorced       ,Ugolino a mare               ,      51894
+965 ,26  ,single         ,San Rosario calabro          ,      79560
+966 ,37  ,divorced       ,Francesco terme              ,      56962
+967 ,12  ,single         ,Borgo Beppe sardo            ,      46193
+968 ,98  ,married        ,Susanna laziale              ,      21094
+969 ,87  ,single         ,Borgo Azeglio                ,      63248
+970 ,23  ,single         ,Ludovico sardo               ,      29070
+971 ,-5  ,divorced       ,San Aria                     ,      31745
+972 ,13  ,married        ,Geraci terme                 ,      52092
+973 ,58  ,widowed        ,Varano sardo                 ,      92551
+974 ,-17 ,married        ,Augusto salentino            ,      81583
+975 ,47  ,divorced       ,Borgo Bianca                 ,      11772
+976 ,46  ,single         ,Graziano veneto              ,      86566
+977 ,-11 ,divorced       ,Borgo Lauretta umbro         ,      55097
+978 ,67  ,divorced       ,Quarto Baldassare            ,      74917
+979 ,32  ,divorced       ,Goldoni ligure               ,      91040
+980 ,42  ,divorced       ,Cassandra sardo              ,      87221
+981 ,31  ,widowed        ,San Fortunata del friuli     ,      61506
+982 ,41  ,married        ,Soderini umbro               ,      19781
+983 ,-5  ,married        ,Sesto Nadia                  ,      86931
+984 ,49  ,divorced       ,Luigina lido                 ,      79463
+985 ,19  ,widowed        ,Monica veneto                ,      81430
+986 ,23  ,widowed        ,Babbo del friuli             ,      97715
+987 ,95  ,widowed        ,Quarto Alfio                 ,      17975
+988 ,-16 ,widowed        ,Satriani del friuli          ,      25781
+989 ,35  ,married        ,Quarto Vincenzo              ,      88063
+990 ,35  ,single         ,Borgo Hugo                   ,      40187
+991 ,63  ,divorced       ,Cuomo veneto                 ,      12514
+992 ,30  ,widowed        ,Annalisa a mare              ,      84234
+993 ,82  ,single         ,Sesto Armando calabro        ,      71489
+994 ,12  ,single         ,Ferrazzi del friuli          ,      89889
+995 ,46  ,single         ,Melina salentino             ,      24889
+996 ,11  ,divorced       ,Quarto Azeglio umbro         ,      99540
+997 ,87  ,widowed        ,Duse umbro                   ,      38623
+998 ,-7  ,married        ,Borgo Maura a mare           ,      66651
+999 ,11  ,divorced       ,Sesto Zaira laziale          ,      41569
